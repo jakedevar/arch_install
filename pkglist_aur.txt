@@ -1,0 +1,11 @@
+google-chrome
+gtk-theme-arc-gruvbox-git
+ncurses5-compat-libs
+nvm
+playwright
+postman-bin
+rpcs3-bin
+spotify
+visual-studio-code-bin
+yay-git
+zoom
