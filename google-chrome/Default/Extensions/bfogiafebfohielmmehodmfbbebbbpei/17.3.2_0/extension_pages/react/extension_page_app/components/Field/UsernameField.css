@@ -1,0 +1,48 @@
+.high-contrast-mode .username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown {
+  border: 1px solid GrayText;
+  color: GrayText;
+}
+
+.dark-mode .username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown {
+  background-color: #191919;
+  border: 1px solid #565656;
+}
+.dark-mode .username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown .suggested-username {
+  color: #fff;
+}
+.dark-mode .username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown .suggested-username:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.username-field .suggested-usernames-dropdown-container {
+  position: relative;
+  z-index: 1;
+}
+.username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown {
+  width: 100%;
+  position: absolute;
+  padding: 12px 8px;
+  min-height: 60px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.3);
+  -moz-transform: translateY(4px);
+   -ms-transform: translateY(4px);
+       transform: translateY(4px);
+}
+.username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown .suggested-username {
+  height: 36px;
+  padding: 8px 16px;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 160% */
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  color: #000;
+}
+.username-field .suggested-usernames-dropdown-container .suggested-usernames-dropdown .suggested-username:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}

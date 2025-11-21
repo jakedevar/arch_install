@@ -1,0 +1,25 @@
+/*!
+ * Key is the base selector
+ * Value is a list of selectors to be wrapped like ":not(<selector>)"
+ */
+
+/**!
+ * Map Schema:
+ * key = site hostname
+ * value = Function | Object
+ *
+ * Value Schema:
+ * Function = Passed type [null, 'record', 'card', 'address'] and payload
+ * Object = Three possible members ['record', 'card', 'address']
+ *
+ *    Member Schema:
+ *    key = field type
+ *    value = Function | Object
+ *
+ *    Value Schema:
+ *    Function = Passed all elements of group, full payload, field to fill, and data to fill
+ *    Object = Three possible Hooks ['before', 'fill', 'after']
+ *
+ *        Hook Schema:
+ *        Function to be invoked at specific field fill step
+ */

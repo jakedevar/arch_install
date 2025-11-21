@@ -1,0 +1,76 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.overlayalert {
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: center;
+       justify-content: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 8px;
+  color: #ffc700;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+       transform: translate(-50%, -50%);
+  position: absolute;
+  z-index: 2147483647;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  padding: 16px;
+  width: 200px;
+  min-width: 100px;
+  max-width: 200px;
+  height: 104px;
+  max-height: 104px;
+}
+.overlayalert.fade {
+  opacity: 0;
+  -moz-transition: opacity 1s;
+  transition: opacity 1s;
+}
+.overlayalert .text {
+  text-align: center;
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  color: white;
+  white-space: pre-wrap;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.overlayalert .icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 12px;
+}
+.overlayalert .icon path {
+  fill: #ffc700;
+}
+
+.high-contrast-mode.overlayalert:not(.default) {
+  background-color: black;
+  border: 1px solid black;
+}
+.high-contrast-mode.overlayalert:not(.default) .icon path {
+  fill: CanvasText;
+}
+
+.overlay-shadow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.25);
+  inset: 0;
+}

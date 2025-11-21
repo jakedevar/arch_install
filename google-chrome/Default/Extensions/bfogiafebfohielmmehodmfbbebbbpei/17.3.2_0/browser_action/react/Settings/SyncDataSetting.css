@@ -1,0 +1,60 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#sync-data-setting .title {
+  padding: 8px;
+  gap: 8px;
+}
+#sync-data-setting .title .keeper-iconbutton-rotate {
+  width: 24px;
+  height: 24px;
+}
+#sync-data-setting .title .keeper-iconbutton-rotate path,
+#sync-data-setting .title .keeper-iconbutton-rotate rect {
+  fill: #000;
+}
+.dark-mode #sync-data-setting .title .keeper-iconbutton-rotate path,
+.dark-mode #sync-data-setting .title .keeper-iconbutton-rotate rect {
+  fill: #fff;
+}
+.high-contrast-mode #sync-data-setting .title .keeper-iconbutton-rotate path,
+.high-contrast-mode #sync-data-setting .title .keeper-iconbutton-rotate rect {
+  fill: CanvasText;
+}
+#sync-data-setting .description {
+  padding: 12px 8px;
+}
+#sync-data-setting .sync-btn.disabled {
+  cursor: not-allowed;
+}
+#sync-data-setting .sync-btn .keeper-iconbutton-rotate path,
+#sync-data-setting .sync-btn .keeper-iconbutton-rotate rect,
+#sync-data-setting .sync-btn .keeper-iconbutton-refresh path,
+#sync-data-setting .sync-btn .keeper-iconbutton-refresh rect {
+  fill: #000;
+}
+.dark-mode #sync-data-setting .sync-btn .keeper-iconbutton-rotate path,
+.dark-mode #sync-data-setting .sync-btn .keeper-iconbutton-rotate rect,
+.dark-mode #sync-data-setting .sync-btn .keeper-iconbutton-refresh path,
+.dark-mode #sync-data-setting .sync-btn .keeper-iconbutton-refresh rect {
+  fill: #fff;
+}
+.high-contrast-mode #sync-data-setting .sync-btn .keeper-iconbutton-rotate path,
+.high-contrast-mode #sync-data-setting .sync-btn .keeper-iconbutton-rotate rect,
+.high-contrast-mode #sync-data-setting .sync-btn .keeper-iconbutton-refresh path,
+.high-contrast-mode #sync-data-setting .sync-btn .keeper-iconbutton-refresh rect {
+  fill: ButtonText;
+}
+#sync-data-setting .sync-btn .keeper-iconbutton-rotate.spin,
+#sync-data-setting .sync-btn .keeper-iconbutton-refresh.spin {
+  -moz-animation: spin 1s linear 1;
+       animation: spin 1s linear 1;
+}

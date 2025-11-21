@@ -1,0 +1,137 @@
+.keeper-outfit {
+  font-family: Outfit, sans-serif;
+  font-style: normal;
+}
+.keeper-outfit.keeper-display-large {
+  font-size: 56px;
+  line-height: 86px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-display-medium {
+  font-size: 48px;
+  font-family: Outfit-SemiBold, sans-serif;
+  line-height: 72px;
+}
+.keeper-outfit.keeper-display-small {
+  font-size: 36px;
+  font-family: Outfit-SemiBold, sans-serif;
+  line-height: 56px;
+}
+.keeper-outfit.keeper-headline-large {
+  font-size: 32px;
+  font-family: Outfit-SemiBold, sans-serif;
+  line-height: 48px;
+}
+.keeper-outfit.keeper-headline-medium {
+  font-size: 28px;
+  line-height: 44px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-headline-small {
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-title-large-600 {
+  font-size: 20px;
+  line-height: 32px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-title-large-400 {
+  font-family: Outfit, sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+}
+.keeper-outfit.keeper-title-medium-600 {
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-title-medium-400 {
+  font-size: 16px;
+  font-family: Outfit, sans-serif;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-title-small-600 {
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-title-small-400 {
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-title-smaller-400 {
+  font-size: 14px;
+  font-family: Outfit, sans-serif;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-body-large {
+  font-size: 16px;
+  line-height: 32px;
+  font-family: Outfit, sans-serif;
+}
+.keeper-outfit.keeper-body-medium {
+  font-family: Outfit, sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-body-small {
+  font-family: Outfit, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+.keeper-outfit.keeper-label-large-600 {
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-label-large-400 {
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-label-400 {
+  font-size: 14px;
+  font-family: Outfit, sans-serif;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-label-600 {
+  font-size: 14px;
+  font-family: Outfit-SemiBold, sans-serif;
+  line-height: 24px;
+}
+.keeper-outfit.keeper-label-400-alt {
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  line-height: 20px;
+}
+.keeper-outfit.keeper-label-medium-600 {
+  font-size: 14px;
+  font-family: Outfit-SemiBold, sans-serif;
+  line-height: 20px;
+}
+.keeper-outfit.keeper-label-medium-400 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Outfit, sans-serif;
+}
+.keeper-outfit.keeper-label-small-600 {
+  font-size: 11px;
+  line-height: 16px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+.keeper-outfit.keeper-label-small-400 {
+  font-size: 11px;
+  font-family: Outfit, sans-serif;
+  line-height: 16px;
+}
+.keeper-outfit.keeper-label-header {
+  font-size: 18px;
+  font-family: Outfit-SemiBold, sans-serif;
+  line-height: 24px;
+}
+.high-contrast-mode .keeper-outfit.keeper-link {
+  color: LinkText;
+}

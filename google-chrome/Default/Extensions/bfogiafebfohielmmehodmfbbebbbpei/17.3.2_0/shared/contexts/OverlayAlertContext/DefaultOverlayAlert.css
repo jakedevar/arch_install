@@ -1,0 +1,33 @@
+.overlayalert.default {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  padding: 16px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: center;
+       justify-content: center;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-transform: initial;
+   -ms-transform: initial;
+       transform: initial;
+  max-height: initial;
+  max-width: initial;
+}
+.overlayalert.default.dark-mode {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.overlayalert.default:has(.reauthentication-alert.iframe-alert-offset) {
+  -moz-box-align: start;
+       align-items: flex-start;
+  padding-top: 50px;
+}

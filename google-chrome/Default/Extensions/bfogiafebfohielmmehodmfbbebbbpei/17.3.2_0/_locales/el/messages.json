@@ -1,0 +1,3929 @@
+{
+   "508_record_menu": {
+      "message": "Μενού επιλογών αρχείου"
+   },
+   "About": {
+      "message": "Σχετικά Με"
+   },
+   "Accept": {
+      "message": "Αποδοχή"
+   },
+   "Account": {
+      "message": "Λογαρ/μος"
+   },
+   "Action_delete": {
+      "message": "Διαγραφή"
+   },
+   "Action_edit": {
+      "message": "Επεξεργασία"
+   },
+   "Add_Account": {
+      "message": "Προσθήκη λογαριασμού"
+   },
+   "Add_to_Existing": {
+      "message": "Προσθήκη στο ήδη υπάρχον"
+   },
+   "Addresses": {
+      "message": "Διευθύνσεις"
+   },
+   "AllRecords": {
+      "message": "Όλα τα αρχεία"
+   },
+   "Appearance": {
+      "message": "Εμφάνιση"
+   },
+   "AutoFill": {
+      "message": "Αυτόματη συμπλήρωση"
+   },
+   "Back": {
+      "message": "Πίσω"
+   },
+   "Cancel": {
+      "message": "Άκυρο"
+   },
+   "ChatAuthenticationRequired": {
+      "message": "Απαιτείται έλεγχος ταυτότητας"
+   },
+   "ChatEnterCode": {
+      "message": "Πληκτρολογήστε τον κωδικό"
+   },
+   "ChatSaveCodeForever": {
+      "message": "Να μην ερωτηθώ ξανά σε αυτήν τη συσκευή"
+   },
+   "Close": {
+      "message": "Κλείσιμο"
+   },
+   "Continue": {
+      "message": "Συνέχεια"
+   },
+   "Copy": {
+      "message": "Αντιγραφή"
+   },
+   "CreateNew": {
+      "message": "Δημιουργία νέου"
+   },
+   "Data_Vault": {
+      "message": "Θόλος"
+   },
+   "Delete": {
+      "message": "Διαγραφή"
+   },
+   "Disable": {
+      "message": "Απενεργοποίηση"
+   },
+   "Dont_show_again": {
+      "message": "Να μην εμφανιστεί ξανά."
+   },
+   "Edit": {
+      "message": "Επεξεργασία"
+   },
+   "Edit_Record": {
+      "message": "Επεξεργασία Εγγραφής"
+   },
+   "Email": {
+      "message": "Ηλεκτρονικό μήνυμα"
+   },
+   "Email_Address": {
+      "message": "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+   },
+   "Email_not_valid": {
+      "message": "Η διεύθυνση e-mail δεν φαίνεται να είναι έγκυρη."
+   },
+   "Enable": {
+      "message": "Ενεργοποίηση"
+   },
+   "Enter_master_password": {
+      "message": "Εισαγωγή κύριου κωδικού πρόσβασης"
+   },
+   "Error": {
+      "message": "Σφάλμα"
+   },
+   "Exit": {
+      "message": "Έξοδος"
+   },
+   "Fill": {
+      "message": "Εισ/γη"
+   },
+   "Fill_Password": {
+      "message": "Συμπληρώστε τον κωδικό πρόσβασης"
+   },
+   "Fill_and_Save_Caps": {
+      "message": "Συμπλήρωση και Αποθήκευση"
+   },
+   "Fill_and_save": {
+      "message": "Συμπλήρωση και αποθήκευση"
+   },
+   "FolderName": {
+      "message": "Όνομα Φακέλου"
+   },
+   "Generate_passphrase": {
+      "message": "Δημιουργία φράσης πρόσβασης"
+   },
+   "Generate_password": {
+      "message": "Δημιουργήστε κωδικό πρόσβασης"
+   },
+   "Help": {
+      "message": "Βοήθεια"
+   },
+   "Hide": {
+      "message": "Απόκρυψη"
+   },
+   "History": {
+      "message": "ιστορικό"
+   },
+   "InvalidEmailOrPassword": {
+      "message": "Μη έγκυρο e-mail ή συνδυασμός κωδικού πρόσβασης, παρακαλώ εισάγετε ξανά."
+   },
+   "KeeperAskLoginIntervalQuestion": {
+      "message": "Αυτόματη αποσύνδεση από το Keeper σε:"
+   },
+   "KeeperProfile_new": {
+      "message": "Δημιουργία Λογαριασμού"
+   },
+   "Launch": {
+      "message": "Εκκίνηση"
+   },
+   "Login": {
+      "message": "Συνδεθείτε"
+   },
+   "Login_Link": {
+      "message": "Σύνδεση URL"
+   },
+   "Logout": {
+      "message": "Αποσ/δεση"
+   },
+   "LogoutOfKeeper": {
+      "message": "Αποσύνδεση από το Keeper"
+   },
+   "LogoutTimer": {
+      "message": "Ώρα αποσύνδεσης"
+   },
+   "Menu_options": {
+      "message": "Επιλογές"
+   },
+   "Minutes": {
+      "message": "Λεπτά"
+   },
+   "Network_error": {
+      "message": "Σύνδεση μη εφικτή. Ελέγξτε την σύνδεσή σας στο δίκτυο."
+   },
+   "New_Record": {
+      "message": "Νέα Εγγραφή"
+   },
+   "Next": {
+      "message": "Επόμενo"
+   },
+   "No": {
+      "message": "Όχι"
+   },
+   "Number": {
+      "message": "Αριθμός"
+   },
+   "OK": {
+      "message": "ΟΚ"
+   },
+   "Okay": {
+      "message": "Εντάξει"
+   },
+   "Options": {
+      "message": "Επιλογές"
+   },
+   "PasswordGenerator": {
+      "message": "Γεννήτρια κωδικού πρόσβασης"
+   },
+   "Passwords": {
+      "message": "Κωδικοί πρόσβασης"
+   },
+   "Please_fill_out_restore_fields_code": {
+      "message": "Παρακαλώ εισάγετε τον κωδικό επαλήθευσης που λάβατε στην ηλ. ταχυδρομείο σας."
+   },
+   "QuickStartGuide": {
+      "message": "Οδηγός Γρήγορης Εκκίνησης"
+   },
+   "Remove": {
+      "message": "Κατάργηση"
+   },
+   "Require_every_12_hours": {
+      "message": "Απαιτείται 2FA κάθε 12 ώρες"
+   },
+   "Require_every_24_hours": {
+      "message": "Απαιτείται 2FA κάθε 24 ώρες"
+   },
+   "Require_every_30_days": {
+      "message": "Απαιτείται 2FA κάθε 30 ημέρες"
+   },
+   "Require_every_login": {
+      "message": "Απαιτείται 2FA σε κάθε σύνδεση"
+   },
+   "SSO_connection_failure": {
+      "message": "Δεν είναι δυνατή η σύνδεση στον πάροχο SSO. Δοκιμάστε ξανά αργότερα."
+   },
+   "Save": {
+      "message": "Αποθήκευση"
+   },
+   "Save_code__forever": {
+      "message": "Να μην ερωτηθώ ξανά σε αυτήν τη συσκευή"
+   },
+   "Save_passphrase": {
+      "message": "Αποθήκευση φράσης πρόσβασης"
+   },
+   "Save_password": {
+      "message": "Αποθήκευση Κωδικού"
+   },
+   "Search": {
+      "message": "βρει"
+   },
+   "SearchKeeper": {
+      "message": "Αναζήτηση Keeper"
+   },
+   "SendEmail": {
+      "message": "Αποστολή email"
+   },
+   "Separator": {
+      "message": "Διαχωριστής"
+   },
+   "Settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "Share": {
+      "message": "Κοινή χρήση"
+   },
+   "Show": {
+      "message": "Εμφάνιση"
+   },
+   "Success": {
+      "message": "Επιτυχές/ης"
+   },
+   "Theme": {
+      "message": "Θέμα"
+   },
+   "ThemeColorAluminum": {
+      "message": "Αλουμίνιο"
+   },
+   "ThemeColorBlueGreen": {
+      "message": "Μπλε Overpass"
+   },
+   "ThemeColorBurgundy": {
+      "message": "Μπορντό"
+   },
+   "ThemeColorClassic": {
+      "message": "Κλασικό"
+   },
+   "ThemeColorDeepOcean": {
+      "message": "Βαθύ μπλε"
+   },
+   "ThemeColorFlame": {
+      "message": "Φλόγα"
+   },
+   "ThemeColorGlam": {
+      "message": "Glam"
+   },
+   "ThemeColorGreen": {
+      "message": "Πράσινο"
+   },
+   "ThemeColorPhoenix": {
+      "message": "Φοίνικας"
+   },
+   "ThemeColorRedBlue": {
+      "message": "Κόκκινο και Μπλε"
+   },
+   "Themes": {
+      "message": "Θέματα"
+   },
+   "Title_required": {
+      "message": "Ο τίτλος είναι υποχρεωτικός."
+   },
+   "Uppercase": {
+      "message": "Κεφαλαία"
+   },
+   "Username": {
+      "message": "Όνομα Χρήστη"
+   },
+   "VaultLoginTerms": {
+      "message": "Χρησιμοποιώντας το Keeper, συμφωνείτε με τους \u003Ca class=\"highlight\" href=\"https://keepersecurity.com/el_GR/termsofuse.html\" target=\"_blank\" rel=\"noopener noreferrer\">Όρους Χρήσης\u003C/a>."
+   },
+   "Version": {
+      "message": "Έκδοση"
+   },
+   "View": {
+      "message": "Προβολή"
+   },
+   "Yes": {
+      "message": "Ναι"
+   },
+   "access_denied": {
+      "message": "Δεν έχετε το απαιτούμενο προνόμιο να εκτελέσετε αυτή τη λειτουργία."
+   },
+   "access_denied_v3": {
+      "message": "Δεν επιτρέπεται η πρόσβαση"
+   },
+   "account_deletion_confirmation": {
+      "message": "Διαγραφή λογαριασμού"
+   },
+   "account_locked": {
+      "message": "Αυτός ο λογαριασμός έχει κλειδωθεί. Επικοινωνήστε με τον Διαχειριστή Keeper για βοήθεια."
+   },
+   "account_transfer_popup_message": {
+      "message": "Για τη θυρίδα Keeper σας έχει ενεργοποιηθεί η πολιτική «Μεταφορά λογαριασμού», η οποία επιτρέπει σε έναν καθορισμένο ρόλο διαχειριστή Keeper να μεταφέρει τις εγγραφές της θυρίδας σε μεταγενέστερη ημερομηνία, σύμφωνα με τις λειτουργικές διαδικασίες και τις πολιτικές του οργανισμού σας. Αναγνωρίστε αυτήν την πολιτική κάνοντας κλικ στην επιλογή «Αποδοχή»."
+   },
+   "action_collapse": {
+      "message": "Σύμπτυξη"
+   },
+   "action_expand": {
+      "message": "Ανάπτυξη"
+   },
+   "action_select": {
+      "message": "Διαλέξετε"
+   },
+   "add_address": {
+      "message": "Προσθήκη διεύθυνσης"
+   },
+   "add_login": {
+      "message": "Προσθήκη σύνδεσης"
+   },
+   "add_passkey": {
+      "message": "Προσθήκη κλειδιού πρόσβασης"
+   },
+   "add_passkey_to_login": {
+      "message": "Προσθήκη κλειδιού πρόσβασης στη Σύνδεση"
+   },
+   "add_payment_card": {
+      "message": "Προσθήκη κάρτας πληρωμής"
+   },
+   "add_to_favs": {
+      "message": "Προσθήκη στα Αγαπημένα"
+   },
+   "add_website_address": {
+      "message": "Προσθήκη διεύθυνσης ιστοτόπου"
+   },
+   "address_field": {
+      "message": "Address Field"
+   },
+   "address_saved": {
+      "message": "Η Διεύθυνση Αποθηκεύτηκε!"
+   },
+   "address_updated": {
+      "message": "Η διεύθυνση ενημερώθηκε!"
+   },
+   "adjusted": {
+      "message": "adjusted"
+   },
+   "admin_qsg_297": {
+      "message": "Two-Factor Authentication"
+   },
+   "admin_reauthenticate": {
+      "message": "Ο διαχειριστής σας ζητά εκ νέου επαλήθευση της ταυτότητάς σας για να προχωρήσετε."
+   },
+   "advanced_settings": {
+      "message": "Ρυθμίσεις για προχωρημένους"
+   },
+   "all_categories": {
+      "message": "Όλες οι κατηγορίες"
+   },
+   "all_storage_cleared": {
+      "message": "Έγινε εκκαθάριση όλου του χώρου αποθήκευσης"
+   },
+   "always_show": {
+      "message": "Να εμφανίζεται πάντα"
+   },
+   "animation": {
+      "message": "Κινούμενα σχέδια"
+   },
+   "approve_this_device_by_method_below": {
+      "message": "Εγκρίνετε αυτήν τη συσκευή επιλέγοντας παρακάτω μια μέθοδο:"
+   },
+   "approved": {
+      "message": "Εγκρίθηκε"
+   },
+   "are_you_sure": {
+      "message": "Είστε σίγουρος (η);"
+   },
+   "are_you_sure_title": {
+      "message": "Είστε βέβαιοι;"
+   },
+   "artwork_appname": {
+      "message": "Εφαρμογή διαχείρισης κωδικού πρόσβασης Keeper® & ψηφιακό θησαυροφυλάκιο"
+   },
+   "artwork_appname_safari": {
+      "message": "Διαχείρισης κωδικού πρόσβασης Keeper®"
+   },
+   "auto_logout_extension_help": {
+      "message": "Η ρύθμιση του χρονοδιακόπτη αυτόματης αποσύνδεσης διαχειρίζεται από την επέκταση του προγράμματος περιήγησης του Keeper σας."
+   },
+   "auto_submit": {
+      "message": "Αυτόματη υποβολή"
+   },
+   "auto_submit_desc": {
+      "message": "Μετά την αυτόματη συμπλήρωση των στοιχείων σύνδεσής σας, το Keeper θα υποβάλει τη φόρμα ιστότοπου και θα συνδεθεί αυτόματα στον ιστότοπο."
+   },
+   "auto_submit_desc3": {
+      "message": "Ελέγξτε εάν οι φόρμες υποβάλλονται αυτόματα μετά την εισαγωγή του ονόματος χρήστη και του κωδικού πρόσβασης."
+   },
+   "auto_submit_desc_2": {
+      "message": "Αφού συμπληρώσετε αυτόματα το όνομα χρήστη και τον κωδικό πρόσβασής σας, το Keeper θα υποβάλει αυτόματα τη φόρμα και θα συνδεθεί στον ιστότοπο."
+   },
+   "autofill2_": {
+      "message": "Αυτόματη συμπλήρωση κατά τη φόρτωση της σελίδας"
+   },
+   "autofill_cleared": {
+      "message": "Οι διορθώσεις πεδίων αυτόματης συμπλήρωσης διαγράφηκαν!"
+   },
+   "autofill_desc_2": {
+      "message": "Για εγγραφές με ενεργοποιημένη την αυτόματη συμπλήρωση κατά τη φόρτωση σελίδας, να γίνεται ερώτηση  πριν από την αυτόματη συμπλήρωση κατά τη φόρτωση σελίδας."
+   },
+   "autofill_fill_http": {
+      "message": "Ο τομέας της τοποθεσίας web XXX χρησιμοποιεί μια μη ασφαλή σύνδεση http. Κάντε κλικ στο OK για να συμπληρώσετε τα διαπιστευτήρια ή κάντε κλικ στο Ακύρωση για ματαίωση."
+   },
+   "autofill_fills_wrong_field": {
+      "message": "Η αυτόματη συμπλήρωση συμπληρώνει λάθος πεδίο"
+   },
+   "autofill_issue_notes_label": {
+      "message": "Προσθέστε περισσότερες λεπτομέρειες για να μας βοηθήσετε να κατανοήσουμε το ζήτημα."
+   },
+   "autofill_issue_notes_label_optional": {
+      "message": "Προσθέστε περισσότερες λεπτομέρειες για να μας βοηθήσετε να κατανοήσουμε το ζήτημα. (προαιρετικό)"
+   },
+   "autofill_issue_notes_placeholder": {
+      "message": "Παράδειγμα: Έγινε παράλειψη του κωδικού πρόσβασης"
+   },
+   "autofill_issue_reported": {
+      "message": "Αναφέρθηκε πρόβλημα με την αυτόματη συμπλήρωση"
+   },
+   "autofill_issues_message": {
+      "message": "Autofill issues can be fixed by right clicking into the field to fix the issue"
+   },
+   "autofill_only_fills_part_of_the_field": {
+      "message": "Η αυτόματη συμπλήρωση συμπληρώνει μόνο ένα μέρος του πεδίου"
+   },
+   "autofill_prompt_desc": {
+      "message": "Λάβετε ένα μήνυμα αυτόματης συμπλήρωσης όταν επισκέπτεστε έναν ιστότοπο στον οποίο έχετε τουλάχιστον μία εγγραφή."
+   },
+   "autofill_restored": {
+      "message": "Οι ρυθμίσεις αυτόματης συμπλήρωσης αποκαταστάθηκαν!"
+   },
+   "autofill_suggest": {
+      "message": "Προτάσεις αυτόματης συμπλήρωσης"
+   },
+   "autofill_suggestions": {
+      "message": "Προτάσεις αυτόματης συμπλήρωσης"
+   },
+   "autofill_suggestions_desc": {
+      "message": "Προτείνει email αποθηκευμένα στο Keeper και ισχυρό κωδικό πρόσβασης κατά τη δημιουργία ή την καταχώρηση νέας σύνδεσης."
+   },
+   "autofill_title_2": {
+      "message": "Ερώτηση αυτόματης συμπλήρωσης"
+   },
+   "autosubmit2": {
+      "message": "Αυτόματη υποβολή μετά την αυτόματη συμπλήρωση"
+   },
+   "back_to_login": {
+      "message": "Επιστροφή στην οθόνη σύνδεσης"
+   },
+   "bad_client_time": {
+      "message": "Παρακαλώ ελέγξτε τις ρυθμίσεις ημερομηνίας και ώρας στη συσκευή σας."
+   },
+   "be_header_store_text": {
+      "message": "Δημιουργήστε ισχυρούς κωδικούς πρόσβασης, συμπληρώστε αυτόματα και προστατέψτε τις εμπιστευτικές σας πληροφορίες"
+   },
+   "be_header_store_text_safari": {
+      "message": "Δημιουργήστε ισχυρούς κωδικούς πρόσβασης, προστατέψτε τις εμπιστευτικές σας πληροφορίες."
+   },
+   "be_install_title": {
+      "message": "Προσθέστε το Keeper στο πρόγραμμα περιήγησής σας"
+   },
+   "be_security_keys_not_supported_desc": {
+      "message": "Τα κλειδιά ασφαλείας δεν υποστηρίζονται με το SSO Connect On-Prem. Συνδεθείτε μέσω της θυρίδας web."
+   },
+   "be_updated_error": {
+      "message": "Ενημερωμένο. Επανεκκινήστε το πρόγραμμα περιήγησής σας."
+   },
+   "billing_address": {
+      "message": "Διεύθυνση χρέωσης"
+   },
+   "biometric_login": {
+      "message": "Βιομετρική σύνδεση"
+   },
+   "biometric_login_disabled": {
+      "message": "Η βιομετρική σύνδεση είναι απενεργοποιημένη"
+   },
+   "biometric_login_enabled": {
+      "message": "Η βιομετρική σύνδεση είναι ενεργοποιημένη"
+   },
+   "bottom_left": {
+      "message": "Κάτω Αριστερά"
+   },
+   "bottom_right": {
+      "message": "Κάτω Δεξιά"
+   },
+   "buy_city": {
+      "message": "Πόλη"
+   },
+   "buy_country_title": {
+      "message": "Χώρα"
+   },
+   "buy_security_code_placeholder": {
+      "message": "CVC"
+   },
+   "buy_state": {
+      "message": "Χώρα"
+   },
+   "call_sent": {
+      "message": "Σας καλούμε τώρα, περιμένετε"
+   },
+   "card_number": {
+      "message": "Αριθμός κάρτας"
+   },
+   "cardname_ending_in_cardnumber": {
+      "message": "XXX που τελειώνει σε YYY"
+   },
+   "cardnumber_required": {
+      "message": "Απαιτείται αριθμός κάρτας."
+   },
+   "ccc_AD": {
+      "message": "Ανδόρα"
+   },
+   "ccc_AE": {
+      "message": "Ενωμένα Αραβικά Εμιράτα"
+   },
+   "ccc_AF": {
+      "message": "Αφγανιστάν"
+   },
+   "ccc_AG": {
+      "message": "Αντίγκουα και Μπαρμπούντα"
+   },
+   "ccc_AI": {
+      "message": "Ανγκουίλα"
+   },
+   "ccc_AL": {
+      "message": "Αλβανία"
+   },
+   "ccc_AM": {
+      "message": "Αρμενία"
+   },
+   "ccc_AN": {
+      "message": "Ολλανδικές Αντίλες"
+   },
+   "ccc_AO": {
+      "message": "Ανγκόλα"
+   },
+   "ccc_AR": {
+      "message": "Αργεντινή"
+   },
+   "ccc_AS": {
+      "message": "Αμερικανική Σαμόα"
+   },
+   "ccc_AT": {
+      "message": "Αυστρία"
+   },
+   "ccc_AU": {
+      "message": "Αυστραλία"
+   },
+   "ccc_AW": {
+      "message": "Αρούμπα"
+   },
+   "ccc_AZ": {
+      "message": "Αζερμπαϊτζάν"
+   },
+   "ccc_BA": {
+      "message": "Βοσνία-Ερζεγοβίνη"
+   },
+   "ccc_BB": {
+      "message": "Μπαρμπάντος"
+   },
+   "ccc_BD": {
+      "message": "Μπανγκλαντές"
+   },
+   "ccc_BE": {
+      "message": "Βέλγιο"
+   },
+   "ccc_BF": {
+      "message": "Μπουρκίνα Φάσο"
+   },
+   "ccc_BG": {
+      "message": "Βουλγαρία"
+   },
+   "ccc_BH": {
+      "message": "Μπαχρέιν"
+   },
+   "ccc_BI": {
+      "message": "Μπουρούντι"
+   },
+   "ccc_BJ": {
+      "message": "Μπενίν"
+   },
+   "ccc_BM": {
+      "message": "Βερμούδες"
+   },
+   "ccc_BN": {
+      "message": "Σουλτανάτο του Μπρουνέι"
+   },
+   "ccc_BO": {
+      "message": "Βολιβία"
+   },
+   "ccc_BR": {
+      "message": "Βραζιλία"
+   },
+   "ccc_BS": {
+      "message": "Μπαχάμες"
+   },
+   "ccc_BT": {
+      "message": "Μπουτάν"
+   },
+   "ccc_BW": {
+      "message": "Μποτσουάνα"
+   },
+   "ccc_BY": {
+      "message": "Λευκορωσία"
+   },
+   "ccc_BZ": {
+      "message": "Μπελιζέ"
+   },
+   "ccc_CA": {
+      "message": "Καναδάς"
+   },
+   "ccc_CC": {
+      "message": "Νήσοι Κόκος (Αυστραλία)"
+   },
+   "ccc_CD": {
+      "message": "Λαϊκή Δημοκρατία του Κονγκό"
+   },
+   "ccc_CF": {
+      "message": "Κεντροαφρικανική Δημοκρατία"
+   },
+   "ccc_CG": {
+      "message": "Δημοκρατία του Κονγκό"
+   },
+   "ccc_CH": {
+      "message": "Ελβετία"
+   },
+   "ccc_CI": {
+      "message": "Ακτή Ελεφαντοστού"
+   },
+   "ccc_CK": {
+      "message": "Νήσοι Κουκ (Νέα Ζηλανδία)"
+   },
+   "ccc_CL": {
+      "message": "Χιλή"
+   },
+   "ccc_CM": {
+      "message": "Καμερούν"
+   },
+   "ccc_CN": {
+      "message": "Κίνα"
+   },
+   "ccc_CO": {
+      "message": "Κολομβία"
+   },
+   "ccc_CR": {
+      "message": "Κόστα Ρίκα"
+   },
+   "ccc_CS": {
+      "message": "Δημοκρατία της Σερβίας"
+   },
+   "ccc_CU": {
+      "message": "Κούβα"
+   },
+   "ccc_CV": {
+      "message": "Πράσινο Ακρωτήριο"
+   },
+   "ccc_CY": {
+      "message": "Κύπρος"
+   },
+   "ccc_CZ": {
+      "message": "Τσεχία"
+   },
+   "ccc_DE": {
+      "message": "Γερμανία"
+   },
+   "ccc_DJ": {
+      "message": "Τζιμπουτί"
+   },
+   "ccc_DK": {
+      "message": "Δανία"
+   },
+   "ccc_DM": {
+      "message": "Ντομίνικα"
+   },
+   "ccc_DO": {
+      "message": "Δομινικανή Δημοκρατία"
+   },
+   "ccc_DZ": {
+      "message": "Αλγερία"
+   },
+   "ccc_EC": {
+      "message": "Εκουαδόρ"
+   },
+   "ccc_EE": {
+      "message": "Εσθονία"
+   },
+   "ccc_EG": {
+      "message": "Αίγυπτος"
+   },
+   "ccc_ER": {
+      "message": "Ερυθραία"
+   },
+   "ccc_ES": {
+      "message": "Ισπανία"
+   },
+   "ccc_ET": {
+      "message": "Αιθιοπία"
+   },
+   "ccc_FI": {
+      "message": "Φινλανδία"
+   },
+   "ccc_FJ": {
+      "message": "Φίτζι"
+   },
+   "ccc_FK": {
+      "message": "Νήσοι Φώκλαντ"
+   },
+   "ccc_FM": {
+      "message": "Ηνωμένες Πολιτείες της Μικρονησίας"
+   },
+   "ccc_FO": {
+      "message": "Νήσοι Φερόε"
+   },
+   "ccc_FR": {
+      "message": "Γαλλία"
+   },
+   "ccc_GA": {
+      "message": "Γκαμπόν"
+   },
+   "ccc_GB": {
+      "message": "Ηνωμένο Βασίλειο (Μεγάλη Βρετανία)"
+   },
+   "ccc_GD": {
+      "message": "Γρενάδα"
+   },
+   "ccc_GE": {
+      "message": "Γεωργία"
+   },
+   "ccc_GF": {
+      "message": "Γουιάνα"
+   },
+   "ccc_GH": {
+      "message": "Γκάνα"
+   },
+   "ccc_GI": {
+      "message": "Γιβραλτάρ"
+   },
+   "ccc_GL": {
+      "message": "Γροιλανδία"
+   },
+   "ccc_GM": {
+      "message": "Γκάμπια"
+   },
+   "ccc_GN": {
+      "message": "Γουινέα"
+   },
+   "ccc_GP": {
+      "message": "Γουαδελούπη"
+   },
+   "ccc_GQ": {
+      "message": "Ισημερινή Γουινέα"
+   },
+   "ccc_GR": {
+      "message": "Ελλάδα"
+   },
+   "ccc_GS": {
+      "message": "Νότια Γεωργία (Νήσοι Φώκλαντ)"
+   },
+   "ccc_GT": {
+      "message": "Γουατεμάλα"
+   },
+   "ccc_GU": {
+      "message": "Γκουάμ"
+   },
+   "ccc_GW": {
+      "message": "Γουινέα-Μπισάου"
+   },
+   "ccc_GY": {
+      "message": "Γουιάνα"
+   },
+   "ccc_HK": {
+      "message": "Χονγκ Κονγκ"
+   },
+   "ccc_HN": {
+      "message": "Ονδούρα"
+   },
+   "ccc_HR": {
+      "message": "Κροατία"
+   },
+   "ccc_HT": {
+      "message": "Αϊτή"
+   },
+   "ccc_HU": {
+      "message": "Ουγγαρία"
+   },
+   "ccc_ID": {
+      "message": "Ινδονησία"
+   },
+   "ccc_IE": {
+      "message": "Ιρλανδία"
+   },
+   "ccc_IL": {
+      "message": "Ισραήλ"
+   },
+   "ccc_IN": {
+      "message": "Ινδία"
+   },
+   "ccc_IQ": {
+      "message": "Ιράκ"
+   },
+   "ccc_IR": {
+      "message": "Ιράν"
+   },
+   "ccc_IS": {
+      "message": "Ισλανδία"
+   },
+   "ccc_IT": {
+      "message": "Ιταλία"
+   },
+   "ccc_JM": {
+      "message": "Τζαμάικα"
+   },
+   "ccc_JO": {
+      "message": "Ιορδανία"
+   },
+   "ccc_JP": {
+      "message": "Ιαπωνία"
+   },
+   "ccc_KE": {
+      "message": "Κένυα"
+   },
+   "ccc_KG": {
+      "message": "Κιργιστάν"
+   },
+   "ccc_KH": {
+      "message": "Καμπότζη"
+   },
+   "ccc_KI": {
+      "message": "Κιριμπάτι"
+   },
+   "ccc_KM": {
+      "message": "Κομόρες"
+   },
+   "ccc_KN": {
+      "message": "Άγιος Χριστόφορος και Νέβις"
+   },
+   "ccc_KR": {
+      "message": "Δημοκρατία της Κορέας"
+   },
+   "ccc_KW": {
+      "message": "Κουβέιτ"
+   },
+   "ccc_KY": {
+      "message": "Νήσοι Κάιμαν"
+   },
+   "ccc_KZ": {
+      "message": "Καζακστάν"
+   },
+   "ccc_LA": {
+      "message": "Λάος"
+   },
+   "ccc_LB": {
+      "message": "Λίβανος"
+   },
+   "ccc_LC": {
+      "message": "Αγία Λουκία"
+   },
+   "ccc_LI": {
+      "message": "Λιχτενστάιν"
+   },
+   "ccc_LK": {
+      "message": "Σρι Λάνκα"
+   },
+   "ccc_LR": {
+      "message": "Λιβερία"
+   },
+   "ccc_LS": {
+      "message": "Λεσόθο"
+   },
+   "ccc_LT": {
+      "message": "Λιθουανία"
+   },
+   "ccc_LU": {
+      "message": "Λουξεμβούργο"
+   },
+   "ccc_LV": {
+      "message": "Λετονία"
+   },
+   "ccc_MA": {
+      "message": "Μαρόκο"
+   },
+   "ccc_MC": {
+      "message": "Μονακό (Γαλλία)"
+   },
+   "ccc_MD": {
+      "message": "Μολδαβία"
+   },
+   "ccc_MG": {
+      "message": "Μαδαγασκάρη"
+   },
+   "ccc_MH": {
+      "message": "Δημοκρατία των Νήσων Μάρσαλ"
+   },
+   "ccc_MK": {
+      "message": "Π.Γ.Δ.Μ."
+   },
+   "ccc_ML": {
+      "message": "Μάλι"
+   },
+   "ccc_MM": {
+      "message": "Μιανμάρ"
+   },
+   "ccc_MN": {
+      "message": "Μογγολία"
+   },
+   "ccc_MO": {
+      "message": "Μακάο"
+   },
+   "ccc_MP": {
+      "message": "Κοινοπολιτεία των Νήσων Βόρειες Μαριάνες"
+   },
+   "ccc_MQ": {
+      "message": "Μαρτινίκα"
+   },
+   "ccc_MR": {
+      "message": "Μαυριτανία"
+   },
+   "ccc_MS": {
+      "message": "Μονσεράτ"
+   },
+   "ccc_MT": {
+      "message": "Μάλτα"
+   },
+   "ccc_MU": {
+      "message": "Μαυρίκιος"
+   },
+   "ccc_MV": {
+      "message": "Μαλδίβες"
+   },
+   "ccc_MW": {
+      "message": "Μαλάουι"
+   },
+   "ccc_MX": {
+      "message": "Μεξικό"
+   },
+   "ccc_MY": {
+      "message": "Μαλαισία"
+   },
+   "ccc_MZ": {
+      "message": "Μοζαμβίκη"
+   },
+   "ccc_NA": {
+      "message": "Ναμίμπια"
+   },
+   "ccc_NC": {
+      "message": "Νέα Καληδονία"
+   },
+   "ccc_NE": {
+      "message": "Νίγηρας"
+   },
+   "ccc_NF": {
+      "message": "Νήσος Νόρφολκ (Αυστραλία)"
+   },
+   "ccc_NG": {
+      "message": "Νιγηρία"
+   },
+   "ccc_NI": {
+      "message": "Νικαράγουα"
+   },
+   "ccc_NL": {
+      "message": "Ολλανδία"
+   },
+   "ccc_NO": {
+      "message": "Νορβηγία"
+   },
+   "ccc_NP": {
+      "message": "Νεπάλ"
+   },
+   "ccc_NR": {
+      "message": "Ναουρού"
+   },
+   "ccc_NU": {
+      "message": "Νιούε (Νέα Ζηλανδία)"
+   },
+   "ccc_NZ": {
+      "message": "Νέα Ζηλανδία"
+   },
+   "ccc_OM": {
+      "message": "Ομάν"
+   },
+   "ccc_PA": {
+      "message": "Παναμάς"
+   },
+   "ccc_PE": {
+      "message": "Περού"
+   },
+   "ccc_PF": {
+      "message": "Γαλλική Πολυνησία"
+   },
+   "ccc_PG": {
+      "message": "Παπουασία-Νέα Γουινέα"
+   },
+   "ccc_PH": {
+      "message": "Φιλιππίνες"
+   },
+   "ccc_PK": {
+      "message": "Πακιστάν"
+   },
+   "ccc_PL": {
+      "message": "Πολωνία"
+   },
+   "ccc_PM": {
+      "message": "Σεν Πιερ και Μικελόν"
+   },
+   "ccc_PN": {
+      "message": "Νήσοι Πίτκαιρν"
+   },
+   "ccc_PR": {
+      "message": "Πουέρτο Ρίκο"
+   },
+   "ccc_PT": {
+      "message": "Πορτογαλία"
+   },
+   "ccc_PW": {
+      "message": "Παλάου"
+   },
+   "ccc_PY": {
+      "message": "Παραγουάη"
+   },
+   "ccc_QA": {
+      "message": "Κατάρ"
+   },
+   "ccc_RE": {
+      "message": "Ρεϋνιόν"
+   },
+   "ccc_RO": {
+      "message": "Ρουμανία"
+   },
+   "ccc_RU": {
+      "message": "Ρωσία"
+   },
+   "ccc_RW": {
+      "message": "Ρουάντα"
+   },
+   "ccc_SA": {
+      "message": "Σαουδική Αραβία"
+   },
+   "ccc_SB": {
+      "message": "Νήσοι Σολομώντος"
+   },
+   "ccc_SC": {
+      "message": "Σεϋχέλλες"
+   },
+   "ccc_SD": {
+      "message": "Σουδάν"
+   },
+   "ccc_SE": {
+      "message": "Σουηδία"
+   },
+   "ccc_SG": {
+      "message": "Σιγκαπούρη"
+   },
+   "ccc_SH": {
+      "message": "Αγία Ελένη"
+   },
+   "ccc_SI": {
+      "message": "Σλοβενία"
+   },
+   "ccc_SK": {
+      "message": "Σλοβακική Δημοκρατία (Σλοβακία)"
+   },
+   "ccc_SL": {
+      "message": "Σιέρα Λεόνε"
+   },
+   "ccc_SM": {
+      "message": "Σαν Μαρίνο"
+   },
+   "ccc_SN": {
+      "message": "Σενεγάλη"
+   },
+   "ccc_SO": {
+      "message": "Σομαλία"
+   },
+   "ccc_SR": {
+      "message": "Σουρινάμ"
+   },
+   "ccc_ST": {
+      "message": "Σάο Τομέ και Πρίνσιπε"
+   },
+   "ccc_SV": {
+      "message": "Ελ Σαλβαδόρ"
+   },
+   "ccc_SY": {
+      "message": "Αραβική Δημοκρατία της Συρίας (Συρία)"
+   },
+   "ccc_SZ": {
+      "message": "Σουαζιλάνδη"
+   },
+   "ccc_TC": {
+      "message": "Νήσοι Τερκ και Κάικος"
+   },
+   "ccc_TD": {
+      "message": "Τσαντ"
+   },
+   "ccc_TG": {
+      "message": "Τόγκο"
+   },
+   "ccc_TH": {
+      "message": "Ταϊλάνδη"
+   },
+   "ccc_TJ": {
+      "message": "Τατζικιστάν"
+   },
+   "ccc_TK": {
+      "message": "Τοκελάου (Δυτική Σαμόα)"
+   },
+   "ccc_TL": {
+      "message": "Τιμόρ (Ινδονησία)"
+   },
+   "ccc_TM": {
+      "message": "Τουρκμενιστάν"
+   },
+   "ccc_TN": {
+      "message": "Τυνησία"
+   },
+   "ccc_TO": {
+      "message": "Τόνγκα"
+   },
+   "ccc_TR": {
+      "message": "Τουρκία"
+   },
+   "ccc_TT": {
+      "message": "Τρινιδάδ και Τομπάγκο"
+   },
+   "ccc_TV": {
+      "message": "Τουβαλού"
+   },
+   "ccc_TW": {
+      "message": "Ταϊβάν"
+   },
+   "ccc_TZ": {
+      "message": "Τανζανία"
+   },
+   "ccc_UA": {
+      "message": "Ουκρανία"
+   },
+   "ccc_UG": {
+      "message": "Ουγκάντα"
+   },
+   "ccc_UM": {
+      "message": "Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών"
+   },
+   "ccc_US": {
+      "message": "Ηνωμένες Πολιτείες"
+   },
+   "ccc_UY": {
+      "message": "Ουρουγουάη"
+   },
+   "ccc_UZ": {
+      "message": "Ουζμπεκιστάν"
+   },
+   "ccc_VA": {
+      "message": "Πόλη του Βατικανό"
+   },
+   "ccc_VC": {
+      "message": "Άγιος Βικέντιος και Γρεναδίνες"
+   },
+   "ccc_VE": {
+      "message": "Βενεζουέλα"
+   },
+   "ccc_VG": {
+      "message": "Βρετανικές Παρθένοι Νήσοι"
+   },
+   "ccc_VI": {
+      "message": "Αμερικανικές Παρθένοι Νήσοι"
+   },
+   "ccc_VN": {
+      "message": "Βιετνάμ"
+   },
+   "ccc_VU": {
+      "message": "Βανουάτου"
+   },
+   "ccc_WF": {
+      "message": "Ουάλις και Φουτούνα"
+   },
+   "ccc_WS": {
+      "message": "Αμερικανική Σαμόα"
+   },
+   "ccc_YE": {
+      "message": "Υεμένη"
+   },
+   "ccc_YT": {
+      "message": "Μαγιότ (Γαλλία)"
+   },
+   "ccc_ZA": {
+      "message": "Νότια Αφρική"
+   },
+   "ccc_ZM": {
+      "message": "Ζάμπια"
+   },
+   "ccc_ZW": {
+      "message": "Ζιμπάμπουε"
+   },
+   "change_password": {
+      "message": "Αλλαγή κωδικού πρόσβασης"
+   },
+   "change_password_complete": {
+      "message": "Ο κωδικός πρόσβασης έχει αλλάξει στη θυρίδα σας. Υποβάλετε την αλλαγή στον ιστότοπο."
+   },
+   "change_pw_prompt": {
+      "message": "Προτροπή αλλαγής κωδικού πρόσβασης"
+   },
+   "change_pw_prompt_desc": {
+      "message": "Λάβετε ένα μήνυμα προτροπής που προσφέρει βοήθεια με την αλλαγή του κωδικού πρόσβασής σας."
+   },
+   "change_your_password": {
+      "message": "Θέλετε να αλλάξετε και να αποθηκεύσετε τον κωδικό πρόσβασης σας;"
+   },
+   "change_your_password2": {
+      "message": "Θέλετε να σας βοηθήσει το Keeper να αλλάξετε τον κωδικό πρόσβασής σας;"
+   },
+   "character_count": {
+      "message": "XXX χαρακτήρες"
+   },
+   "character_length": {
+      "message": "Μήκος χαρακτήρων: XXX"
+   },
+   "check_spam_folder_reminder": {
+      "message": "Ελέγξτε τον φάκελο ανεπιθύμητων μηνυμάτων για ένα email από το keepersecurity.com. Μπορείτε να προσθέσετε το keepersecurity.com στην ασφαλή λίστα σας."
+   },
+   "city": {
+      "message": "City"
+   },
+   "clear_all_storage": {
+      "message": "Εκκαθάριση όλου του αποθηκευτικού χώρου"
+   },
+   "clear_field_fixes_for_this_site": {
+      "message": "Clear Field Fixes For This Site"
+   },
+   "clear_generatory_history": {
+      "message": "Εκκαθάριση ιστορικού δημιουργίας κωδικών πρόσβασης"
+   },
+   "clear_hist": {
+      "message": "Διαγραφή ιστορικού"
+   },
+   "clear_hist_warning": {
+      "message": "Πρόκειται να διαγράψετε μόνιμα το ιστορικό γεννήτριας κωδικών πρόσβασης."
+   },
+   "clear_idb_storage": {
+      "message": "Εκκαθάριση χώρου αποθήκευσης IndexedDB"
+   },
+   "clear_local_storage": {
+      "message": "Εκκαθάριση τοπικού αποθηκευτικού χώρου"
+   },
+   "clear_search": {
+      "message": "Εκκαθάριση αναζήτησης"
+   },
+   "click_to_fill": {
+      "message": "Κάντε κλικ για συμπλήρωση"
+   },
+   "clipboard_expiration": {
+      "message": "Λήξη προχείρου"
+   },
+   "clipboard_expiration_description": {
+      "message": "Αυτόματη εκκαθάριση του πρόχειρου σας λίγο μετά την αντιγραφή οποιωνδήποτε τιμών από την επέκταση του προγράμματος περιήγησης."
+   },
+   "code_invalid": {
+      "message": "Μη έγκυρος κωδικός"
+   },
+   "commerce_popup_final_notice": {
+      "message": "ΤΕΛΙΚΗ ΕΙΔΟΠΟΙΗΣΗ"
+   },
+   "commerce_popup_final_notice_message": {
+      "message": "Ο δοκιμαστικός σας λογαριασμός στο Keeper λήγει σε 24 ώρες. Η πρόσβαση στις premium λειτουργίες θα απενεργοποιηθεί. Αναβαθμίστε τώρα για να διατηρήσετε την πλήρη σας πρόσβαση."
+   },
+   "confirm_new_password": {
+      "message": "Confirm New Password"
+   },
+   "confirm_password": {
+      "message": "Confirm Password"
+   },
+   "confirm_password_view": {
+      "message": "Κάντε κλικ στο εικονίδιο της κλειδαριάς στο πεδίο επιβεβαίωσης κωδικού πρόσβασης για να συμπληρώσετε τον νέο κωδικό πρόσβασης και κάντε κλικ στο κουμπί Επόμενο."
+   },
+   "confirm_screenshot": {
+      "message": "Επιβεβαίωση στιγμιότυπου οθόνης"
+   },
+   "connection_port": {
+      "message": "Θύρα σύνδεσης"
+   },
+   "console_loading": {
+      "message": "Loading..."
+   },
+   "consumer_auto_backup_option3": {
+      "message": "Κάθε 30 ημέρες"
+   },
+   "contact_address": {
+      "message": "Διεύθυνση"
+   },
+   "contact_firstname": {
+      "message": "Όνομα"
+   },
+   "contact_lastname": {
+      "message": "Επώνυμο"
+   },
+   "contact_phonenumber": {
+      "message": "Αριθμός τηλεφώνου"
+   },
+   "copy_passphrase": {
+      "message": "Αντιγραφή φράσης πρόσβασης"
+   },
+   "copy_password": {
+      "message": "Αντιγραφή κωδικού πρόσβασης"
+   },
+   "copy_pin_code": {
+      "message": "Αντιγραφή κωδικού PIN"
+   },
+   "copy_two_factor_code": {
+      "message": "Αντιγραφή Κωδικού Δύο Παραγόντων"
+   },
+   "couldnt_complete_snapshot": {
+      "message": "Δεν μπορέσαμε να ολοκληρώσουμε το στιγμιότυπο."
+   },
+   "country": {
+      "message": "Country"
+   },
+   "create_a_record": {
+      "message": "Δημιουργήστε μια εγγραφή"
+   },
+   "create_account": {
+      "message": "Δημ/ργία λογαρ/μού"
+   },
+   "create_login_with_passkey": {
+      "message": "Δημιουργία Σύνδεσης με κλειδί πρόσβασης"
+   },
+   "create_new": {
+      "message": "Δημιουργία νέου"
+   },
+   "create_passkey": {
+      "message": "Δημιουργία κλειδιού πρόσβασης"
+   },
+   "create_record": {
+      "message": "Δημιουργία εγγραφής"
+   },
+   "created_date_xxx": {
+      "message": "Δημιουργήθηκε στις XXX"
+   },
+   "creating_preview": {
+      "message": "Δημιουργία προεπισκόπησης"
+   },
+   "current_password": {
+      "message": "Τρέχων κωδικός πρόσβασης"
+   },
+   "cvv": {
+      "message": "CVV"
+   },
+   "date_modified": {
+      "message": "Ημερομηνία τροποποίησης"
+   },
+   "day_ago": {
+      "message": "1 ημέρα πριν"
+   },
+   "days_ago": {
+      "message": "Πριν από XXX ημέρες"
+   },
+   "default": {
+      "message": "Προεπιλογή"
+   },
+   "delete_passkey": {
+      "message": "Διαγραφή κλειδιού πρόσβασης"
+   },
+   "delete_this_passkey_question": {
+      "message": "Διαγραφή αυτού του κλειδιού πρόσβασης;"
+   },
+   "desktop_installer_language": {
+      "message": "Το Keeper μπορεί να χρησιμοποιηθεί σε τοπικά προγράμματα διαχείρισης κωδικών πρόσβασης σε προεγκατεστημένες εφαρμογές υπολογιστών και κινητών. Οι premium λειτουργίες, Αποθήκευση σε cloud, Δημιουργία αντιγράφων ασφαλείας, Κοινή χρήση, Εφαρμογή web, Επεκτάσεις προγράμματος περιήγησης και Συγχρονισμός, παρέχονται δωρεάν για 30 ημέρες και, στη συνέχεια, μπορείτε να τις απολαμβάνετε με μια ετήσια συνδρομή. Για τις λειτουργίες του cloud απαιτείται σύνδεση στο Διαδίκτυο."
+   },
+   "device_approval": {
+      "message": "Έγκριση συσκευής"
+   },
+   "did_this_fix_issue": {
+      "message": "Did this fix your issue?"
+   },
+   "disable_snapshot_tool": {
+      "message": "Απενεργοποίηση εργαλείου στιγμιότυπων"
+   },
+   "disabled_prompt": {
+      "message": "Προτροπή απενεργοποίησης KeeperFill"
+   },
+   "disabled_prompt_desc": {
+      "message": "Λάβετε ένα μήνυμα προτροπής όταν το Keeper σταματά την επεξεργασία πεδίων σε μια ιστοσελίδα λόγω πιθανών προβλημάτων απόδοσης."
+   },
+   "dismiss": {
+      "message": "Απόρριψη"
+   },
+   "display_locks": {
+      "message": "Προβολή κλειδαριών"
+   },
+   "dna_options_title": {
+      "message": "Keeper DNA"
+   },
+   "dna_waiting_watch": {
+      "message": "Αναμονή για επαλήθευση Watch"
+   },
+   "domain_matching": {
+      "message": "Αντιστοίχιση τομέα"
+   },
+   "domain_specific_password_title": {
+      "message": "Ο διαχειριστής του Keeper απαιτεί ο κωδικός πρόσβασης να ακολουθεί αυτούς τους κανόνες:"
+   },
+   "dont_show": {
+      "message": "Να μην εμφανιστεί ξανά"
+   },
+   "duo_instructions": {
+      "message": "Θα σας αποστείλουμε ένα προωθητικό μήνυμα, ένα μήνυμα κειμένου ή θα σας τηλεφωνήσουμε με τον κωδικό πρόσβασης στο XXX."
+   },
+   "duo_push": {
+      "message": "Προωθητικό μήνυμα Duo (Duo Push)"
+   },
+   "duo_push_description": {
+      "message": "Θα σας στείλουμε μια ειδοποίηση push, ένα κείμενο ή μια κλήση με κωδικό πρόσβασης στη συσκευή σας."
+   },
+   "duo_push_was_denied": {
+      "message": "Το Duo Push απορρίφθηκε."
+   },
+   "duo_sent": {
+      "message": "Η ειδοποίηση push duo έχει ήδη σταλεί, περιμένετε."
+   },
+   "duo_text_desc": {
+      "message": "Στείλτε ένα μήνυμα κειμένου με τον κωδικό πρόσβασης"
+   },
+   "duo_text_message": {
+      "message": "Μήνυμα κειμένου"
+   },
+   "duo_voice_call": {
+      "message": "Φωνητική κλήση"
+   },
+   "duo_voice_desc": {
+      "message": "Λάβετε τον κωδικό πρόσβασης μέσω φωνητικής κλήσης"
+   },
+   "edit_address": {
+      "message": "Επεξεργασία διεύθυνσης"
+   },
+   "edit_card": {
+      "message": "Επεξεργασία κάρτας"
+   },
+   "edit_field_label": {
+      "message": "Επεξεργασία ετικέτας πεδίου"
+   },
+   "effortless_login": {
+      "message": "Εύκολη σύνδεση"
+   },
+   "email_or_username": {
+      "message": "E-mail ή όνομα χρήστη"
+   },
+   "email_verification_message": {
+      "message": "Ένα email εστάλη στο XXX με οδηγίες. Εάν παρέχεται κωδικός επαλήθευσης, μπορείτε να τον εισαγάγετε παρακάτω."
+   },
+   "enable_keeperfill": {
+      "message": "Ενεργοποίηση του KeeperFill"
+   },
+   "enable_snapshot_tool": {
+      "message": "Εμφάνιση εργαλείου στιγμιότυπων"
+   },
+   "enable_verify_fill_mode": {
+      "message": "Ενεργοποίηση λειτουργίας επαλήθευσης συμπλήρωσης"
+   },
+   "encryption_error": {
+      "message": "Παρουσιάστηκε πρόβλημα κατά την αποκρυπτογράφηση του θησαυροφυλακίου σας. Παρακαλώ επικοινωνήστε με το τμήμα υποστήριξης πελατών της Keeper για περαιτέρω βοήθεια."
+   },
+   "enter_a_password": {
+      "message": "Εισήγαγε τον κωδικό πρόσβασης"
+   },
+   "enter_a_username": {
+      "message": "Εισήγαγε το όνομα χρήστη"
+   },
+   "enter_city": {
+      "message": "Πληκτρολογήστε το όνομα της πόλης"
+   },
+   "enter_country": {
+      "message": "Πληκτρολογήστε το όνομα της χώρας"
+   },
+   "enter_cvv_number": {
+      "message": "Εισάγετε το CVV"
+   },
+   "enter_email": {
+      "message": "Εισαγωγή διευθ. ηλεκτρ. ταχυδρ."
+   },
+   "enter_exp_date": {
+      "message": "Εισάγετε την ημερομηνία λήξης"
+   },
+   "enter_first_name": {
+      "message": "Εισάγετε το όνομά σας"
+   },
+   "enter_last_name": {
+      "message": "Εισάγετε το επώνυμό σας"
+   },
+   "enter_name_on_card": {
+      "message": "Εισάγετε το όνομα της κάρτας"
+   },
+   "enter_rsa_passcode": {
+      "message": "Εισάγετε τον κωδικό πρόσβασης RSA"
+   },
+   "enter_street_address": {
+      "message": "Πληκτρολογήστε μια διεύθυνση"
+   },
+   "enter_valid_phone": {
+      "message": "Εισάγετε έγκυρο τηλ. αριθμό."
+   },
+   "enter_verification_code": {
+      "message": "Εισάγετε τον κωδικό επιβεβαίωσης"
+   },
+   "enter_verification_code2": {
+      "message": "Εισαγωγή κωδικού δύο παραγόντων"
+   },
+   "enterprise_sso_connect_button": {
+      "message": "Σύνδεση"
+   },
+   "enterprise_sso_login": {
+      "message": "Σύνδεση SSO επιχείρησης"
+   },
+   "enterprise_sso_login_domain_desc": {
+      "message": "Χρήστης SSO με domain επιχείρησης"
+   },
+   "enterprise_sso_login_domain_title": {
+      "message": "Domain επιχείρησης"
+   },
+   "enterprise_sso_login_mp_desc": {
+      "message": "Χρήστης SSO με κύριο κωδικό πρόσβασης"
+   },
+   "enterprise_sso_login_mp_title": {
+      "message": "Κύριος κωδικός πρόσβασης"
+   },
+   "every_24_hours": {
+      "message": "Κάθε 24 ώρες"
+   },
+   "every_30_days": {
+      "message": "Κάθε 30 ημέρες"
+   },
+   "every_login": {
+      "message": "Σε κάθε σύνδεση"
+   },
+   "every_login_lowercase": {
+      "message": "Κάθε σύνδεση"
+   },
+   "every_twelve_hours": {
+      "message": "Κάθε 12 ώρες"
+   },
+   "existing_passkey_detected": {
+      "message": "Εντοπίστηκε υπάρχον κλειδί πρόσβασης"
+   },
+   "exp": {
+      "message": "Λήξη"
+   },
+   "expiration": {
+      "message": "Λήξη"
+   },
+   "expired_master_password_description": {
+      "message": "Ο κύριος κωδικός πρόσβασής σας έχει λήξει. Πρέπει να τον αλλάξετε για να μπορέσετε να συνδεθείτε."
+   },
+   "expired_please_purchase": {
+      "message": "Η συνδρομή σας έχει λήξει. Παρακαλούμε να αγοράσετε μια συνδρομή τώρα."
+   },
+   "ext_2FACopied": {
+      "message": "Το κωδικός 2FA αντιγράφηκε!"
+   },
+   "ext_AccessibilityDesc": {
+      "message": "Εστιάστε στα εικονίδια πεδίων φόρμας Keeper όταν δημιουργείτε καρτέλες με στοιχεία ελέγχου πληκτρολογίου."
+   },
+   "ext_AddCountry": {
+      "message": "Προσθήκη χώρας"
+   },
+   "ext_AddFolder": {
+      "message": "Add Folder"
+   },
+   "ext_AddressLineOnePlaceholder": {
+      "message": "1234 S. Holland Dr."
+   },
+   "ext_AddressLineTwoPlaceholder": {
+      "message": "Apt. #2"
+   },
+   "ext_AddressSaved": {
+      "message": "Η διεύθυνση αποθηκεύτηκε!"
+   },
+   "ext_AddressTitlePlaceholder": {
+      "message": "π.χ. Η διεύθυνση εργασίας μου"
+   },
+   "ext_AllowQRCodeDesc": {
+      "message": "Επιτρέψτε σε άλλους να συμμετάσχουν σε αυτό το δίκτυο σαρώνοντας τον κωδικό QR."
+   },
+   "ext_AltMPError": {
+      "message": "This login page is for Enterprise SSO customers who use an alternate Master Password. Please start over and login from the Keeper Browser Extension screen by typing your email and clicking \"Next\"."
+   },
+   "ext_AutofillEnable": {
+      "message": "Ενεργοποίηση αυτόματης συμπλήρωσης"
+   },
+   "ext_AutofillPrefs": {
+      "message": "Προτιμήσεις αυτόματης συμπλήρωσης"
+   },
+   "ext_AutofillPrefsDesc": {
+      "message": "Ποια εγγραφή θέλετε να συμπληρώσει αυτόματα το Keeper σε αυτόν τον ιστότοπο;"
+   },
+   "ext_AutofillTitle": {
+      "message": "Αυτόματη συμπλήρωση σε αυτόν τον ιστότοπο"
+   },
+   "ext_BrowserPrompts": {
+      "message": "Προτροπές προγράμματος περιήγησης"
+   },
+   "ext_BrowserPromptsDesc": {
+      "message": "Επιλέξτε ποια προτροπή θέλετε να εμφανίζεται στο πρόγραμμα περιήγησής σας."
+   },
+   "ext_CCNCopied": {
+      "message": "Ο αριθμός κάρτας αντιγράφηκε!"
+   },
+   "ext_CVVCopied": {
+      "message": "Το CVV αντιγράφηκε!"
+   },
+   "ext_Capitals": {
+      "message": "Κεφαλαία"
+   },
+   "ext_CardCVVExample": {
+      "message": "123"
+   },
+   "ext_CardExpDateExample": {
+      "message": "12/22"
+   },
+   "ext_CardNumber": {
+      "message": "Αριθμός κάρτας"
+   },
+   "ext_CardSaved": {
+      "message": "Η κάρτα αποθηκεύτηκε!"
+   },
+   "ext_CardTitlePlaceholder": {
+      "message": "π.χ. Η Mastercard μου"
+   },
+   "ext_CharacterCount": {
+      "message": "XXX χαρακτήρες"
+   },
+   "ext_ChooseARecordType": {
+      "message": "Επιλέξτε τύπο εγγραφής:"
+   },
+   "ext_ChooseRecordToChangePW": {
+      "message": "Τον κωδικό πρόσβασης ποιας εγγραφής θέλετε να αλλάξει το Keeper;"
+   },
+   "ext_CityPlaceholder": {
+      "message": "Charlottesville"
+   },
+   "ext_Copy2FACode": {
+      "message": "Αντιγραφή κωδικού 2FA"
+   },
+   "ext_CopyCCN": {
+      "message": "Αντιγραφή αριθμού κάρτας"
+   },
+   "ext_CopyCVV": {
+      "message": "Αντιγραφή CVV"
+   },
+   "ext_CopyLoginID": {
+      "message": "Αντιγραφή Αναγνωριστικού σύνδεσης"
+   },
+   "ext_CopyPIN": {
+      "message": "Αντιγραφή κωδικού PIN"
+   },
+   "ext_CopyPassphrase": {
+      "message": "Αντιγραφή φράσης πρόσβασης"
+   },
+   "ext_CopyPassword": {
+      "message": "Αντιγραφή κωδικού πρόσβασης"
+   },
+   "ext_CopyUsername": {
+      "message": "Αντιγραφή ονόματος χρήστη"
+   },
+   "ext_DarkMode": {
+      "message": "Σκουρόχρωμη λειτουργία"
+   },
+   "ext_Date": {
+      "message": "ώρα"
+   },
+   "ext_Encryption": {
+      "message": "Κρυπτογράφηση"
+   },
+   "ext_ExpiredMasterPasswordDesc": {
+      "message": "Πρέπει να αλλάξετε τον κύριο κωδικό πρόσβασης για να μπορέσετε να συνδεθείτε ξανά."
+   },
+   "ext_ExpiredMasterPasswordTitle": {
+      "message": "Ο κύριος κωδικός πρόσβασής σας έχει λήξει."
+   },
+   "ext_ExpiresMMYY": {
+      "message": "Λήξη (μμ/εε)"
+   },
+   "ext_FirstNamePlaceholder": {
+      "message": "John"
+   },
+   "ext_FontSize": {
+      "message": "Μέγεθος γραμματοσειράς"
+   },
+   "ext_FontSizeDescription": {
+      "message": "Σύρετε τον παρακάτω δρομέα για να αλλάξετε το μέγεθος της γραμματοσειράς του κειμένου στην επέκταση."
+   },
+   "ext_FormFieldIcons": {
+      "message": "Εικονίδια πεδίων φόρμας"
+   },
+   "ext_FormFieldIconsDesc": {
+      "message": "Τα εικονίδια Keeper εμφανίζονται μέσα σε πεδία φόρμας με δυνατότητα συμπλήρωσης και μπορείτε να κάνετε κλικ σε αυτά για να εμφανιστούν προτάσεις και πρόσθετες επιλογές."
+   },
+   "ext_FullNamePlaceholder": {
+      "message": "John Appleton"
+   },
+   "ext_Hidden": {
+      "message": "Κρυφό"
+   },
+   "ext_HideQRCode": {
+      "message": "Απόκρυψη κωδικού QR"
+   },
+   "ext_KeeperAskLoginIntervalQuestion": {
+      "message": "Αυτόματη αποσύνδεση του Keeper μετά από:"
+   },
+   "ext_LastNamePlaceholder": {
+      "message": "Appleton"
+   },
+   "ext_LightMode": {
+      "message": "Ανοιχτόχρωμη λειτουργία"
+   },
+   "ext_LoginIDCopied": {
+      "message": "Το Αναγνωριστικό σύνδεσης αντιγράφηκε!"
+   },
+   "ext_Logout": {
+      "message": "Αποσύνδεση"
+   },
+   "ext_LogoutOfUsername": {
+      "message": "Αποσύνδεση XXX"
+   },
+   "ext_LogoutTimer": {
+      "message": "Χρονόμετρο αποσύνδεσης λόγω αδράνειας"
+   },
+   "ext_Lowercase": {
+      "message": "Πεζά"
+   },
+   "ext_MatchingCount": {
+      "message": "XXX αντιστοιχίσεις"
+   },
+   "ext_MatchingRecordCount": {
+      "message": "XXX αρχείο αντιστοίχισης"
+   },
+   "ext_MatchingRecords": {
+      "message": "Αντιστοίχιση εγγραφών"
+   },
+   "ext_MatchingRecordsCount": {
+      "message": "Αντιστοιχήθηκαν XXX εγγραφές"
+   },
+   "ext_MatchingSites": {
+      "message": "Τοποθεσίες που ταιριάζουν"
+   },
+   "ext_Matching_records_amount_plural": {
+      "message": "Αντιστοιχία συνδέσεων XXX"
+   },
+   "ext_Matching_records_amount_singular": {
+      "message": "Αντιστοιχία σύνδεσης XXX"
+   },
+   "ext_MyGoogleLogin": {
+      "message": "Η σύνδεσή μου στο Google"
+   },
+   "ext_MyVault": {
+      "message": "Η θυρίδα μου"
+   },
+   "ext_Name": {
+      "message": "Όνομα"
+   },
+   "ext_NetworkName": {
+      "message": "Όνομα δικτύου"
+   },
+   "ext_NetworkVisibility": {
+      "message": "Ορατότητα δικτύου"
+   },
+   "ext_NoMatchingAddresses": {
+      "message": "Δεν υπάρχουν διευθύνσεις στη θυρίδα σας. Θέλετε να δημιουργήσετε μία;"
+   },
+   "ext_NoMatchingPaymentCards": {
+      "message": "Δεν υπάρχουν κάρτες πληρωμής στη θυρίδα σας. Θέλετε να δημιουργήσετε μία;"
+   },
+   "ext_NoMatchingRecords": {
+      "message": "Δεν υπάρχουν εγγραφές στη θυρίδα σας που να ταιριάζουν με αυτόν τον ιστότοπο. Θέλετε να δημιουργήσετε μία;"
+   },
+   "ext_NoRecordsMessage": {
+      "message": "Δεν έχετε εγγραφές για εφεδρική αντιγραφή."
+   },
+   "ext_NoResultsFound": {
+      "message": "Δεν βρέθηκαν αποτελέσματα"
+   },
+   "ext_NotesCopied": {
+      "message": "Οι σημειώσεις αντιγράφηκαν!"
+   },
+   "ext_Number": {
+      "message": "Αριθμός"
+   },
+   "ext_Numbers": {
+      "message": "Αριθμοί"
+   },
+   "ext_OfflineUnavailable": {
+      "message": "Η εκτός σύνδεσης Θυρίδα δεν είναι διαθέσιμη σε αυτήν τη συσκευή έως ότου συνδεθείτε τουλάχιστον μία φορά ενώ είστε συνδεδεμένοι στο διαδίκτυο. Λάβετε υπόψη ότι η εκτός σύνδεσης Θυρίδα είναι διαθέσιμη μόνο σε πελάτες Keeper Business και Enterprise με έγκριση του Διαχειριστή Keeper."
+   },
+   "ext_OneResult": {
+      "message": "1 αποτέλεσμα για \"XXX\""
+   },
+   "ext_OpenInVault": {
+      "message": "Άνοιγμα τη Θυρίδα"
+   },
+   "ext_PINCopied": {
+      "message": "Ο κωδικός PIN αντιγράφηκε!"
+   },
+   "ext_PaymentCard": {
+      "message": "Κάρτα πληρωμής"
+   },
+   "ext_PhoneNumberPlaceholder": {
+      "message": "(+1) 419-843-2744"
+   },
+   "ext_PopupFinalNotice": {
+      "message": "ΤΕΛΙΚΗ ΕΙΔΟΠΟΙΗΣΗ"
+   },
+   "ext_PopupFinalNoticeMessage": {
+      "message": "Ο δοκιμαστικός σας λογαριασμός στο Keeper λήγει σε 24 ώρες. Η πρόσβαση στις premium λειτουργίες θα απενεργοποιηθεί. Αναβαθμίστε τώρα για να διατηρήσετε την πλήρη σας πρόσβαση."
+   },
+   "ext_PromptAppearanceDesc": {
+      "message": "Ρυθμίστε το πως θέλετε να εμφανίζονται στην οθόνη σας οι άμεσες λειτουργίες."
+   },
+   "ext_RecordSaved": {
+      "message": "Η εγγραφή έχει αποθηκευτεί"
+   },
+   "ext_RemoveAccountDescription": {
+      "message": "Ο χρήστης XXX θα καταργηθεί από τον κατάλογο λίστα σύνδεσης."
+   },
+   "ext_RemoveAccountTitle": {
+      "message": "Κατάργηση λογαριασμού από κατάλογο"
+   },
+   "ext_ResendCode": {
+      "message": "Επανάληψη αποστολής κωδικού πρόσβασης"
+   },
+   "ext_ResetPassword": {
+      "message": "Ο κύριος κωδικός πρόσβασής σας έχει λήξει."
+   },
+   "ext_ResultsCount": {
+      "message": "XXX αποτελέσματα"
+   },
+   "ext_ResultsCountFor": {
+      "message": "XXX αποτελέσματα για \"YYY\""
+   },
+   "ext_ResultsCountNone": {
+      "message": "Κανένα αποτέλεσμα για \"YYY\""
+   },
+   "ext_ResultsFound": {
+      "message": "Βρέθηκαν XXX αποτελέσματα"
+   },
+   "ext_Revert": {
+      "message": "Όχι, αναίρεση"
+   },
+   "ext_SSOMessage": {
+      "message": "Ο Επιχειρησιακός Τομέας παρέχεται από τον Διαχειριστή Keeper."
+   },
+   "ext_SaveToVault": {
+      "message": "Αποθήκευση στη Θυρίδα"
+   },
+   "ext_SearchFavorites": {
+      "message": "Αναζήτηση στα Αγαπημένα"
+   },
+   "ext_SearchVault": {
+      "message": "Αναζήτηση στη Θυρίδα"
+   },
+   "ext_ShowQRCodeScan": {
+      "message": "Επιτρέψτε σε άλλους να συμμετάσχουν σε αυτό το δίκτυο σαρώνοντας έναν \u003Ckeepertag>κωδικό QR\u003C/keepertag>."
+   },
+   "ext_SortBy": {
+      "message": "Ταξινόμηση ανά"
+   },
+   "ext_StatePlaceholder": {
+      "message": "California"
+   },
+   "ext_Symbols": {
+      "message": "Σύμβολα"
+   },
+   "ext_TermsPrivacy": {
+      "message": "Αποδέχομαι τους \u003Ckeepertag>Όρους Χρήσης\u003C/keepertag> και την \u003Ckeepertag>Πολιτική Απορρήτου\u003C/keepertag> του Keeper"
+   },
+   "ext_TimerSaved": {
+      "message": "Το χρονόμετρο αποθηκεύτηκε!"
+   },
+   "ext_TitleRequired": {
+      "message": "Τίτλος (υποχρεωτικό)"
+   },
+   "ext_TwoFactorCopied": {
+      "message": "Ο κωδικός δύο παραγόντων αντιγράφηκε!"
+   },
+   "ext_Type": {
+      "message": "Τύπος"
+   },
+   "ext_UnableToLoginTitle": {
+      "message": "Δεν είναι δυνατή η σύνδεση στο Keeper"
+   },
+   "ext_UnsavedPrompt": {
+      "message": "Υπάρχουν μη αποθηκευμένες αλλαγές, είστε βέβαιοι ότι επιθυμείτε ακύρωση;"
+   },
+   "ext_UpdateRecord": {
+      "message": "Θέλετε να ενημερώσετε αυτήν την εγγραφή;"
+   },
+   "ext_Uppercase": {
+      "message": "Κεφαλαία"
+   },
+   "ext_Use": {
+      "message": "Χρησιμοποιήστε"
+   },
+   "ext_UseAsDefaultSettings": {
+      "message": "Χρήση ως προεπιλεγμένες ρυθμίσεις"
+   },
+   "ext_UsePassphrase": {
+      "message": "Χρήση φράσης πρόσβασης"
+   },
+   "ext_UsePassword": {
+      "message": "Χρήση κωδικού πρόσβασης"
+   },
+   "ext_UsernameCopied": {
+      "message": "Το όνομα χρήστη αντιγράφηκε!"
+   },
+   "ext_Verify": {
+      "message": "Επαλήθευση"
+   },
+   "ext_Visible": {
+      "message": "Ορατό"
+   },
+   "ext_ZipCodePlaceholder": {
+      "message": "12345"
+   },
+   "ext_accessibility": {
+      "message": "Προσβασιμότητα"
+   },
+   "ext_account_number": {
+      "message": "Αριθμός Λογαριασμού"
+   },
+   "ext_account_type": {
+      "message": "Τύπος λογαριασμού"
+   },
+   "ext_action_requires_authentication": {
+      "message": "Η ενέργεια απαιτεί έλεγχο ταυτότητας"
+   },
+   "ext_add_new_record": {
+      "message": "Προσθήκη νέας εγγραφής"
+   },
+   "ext_add_record_text": {
+      "message": "Προσθέστε έναν τίτλο εγγραφής."
+   },
+   "ext_add_to_keeper": {
+      "message": "Προσθήκη στο Keeper"
+   },
+   "ext_autofill_desc": {
+      "message": "Εάν δεν υπάρχουν αντίστοιχες εγγραφές για τον ιστότοπο, να προτείνονται τα αποθηκευμένα στοιχεία εισόδου μου και ισχυροί κωδικοί πρόσβασης κατά την πληκτρολόγηση σε ένα πεδίο."
+   },
+   "ext_autofill_desc_2": {
+      "message": "Εάν δεν υπάρχουν αντίστοιχες εγγραφές για τον ιστότοπο, προτείνονται τα αποθηκευμένα ονόματα χρήστη και οι ισχυροί κωδικοί πρόσβασης που δημιουργούνται κατά την πληκτρολόγηση στα πεδία."
+   },
+   "ext_biometric_login_canceled": {
+      "message": "Η λειτουργία είτε ακυρώθηκε είτε έληξε. Δοκιμάστε ξανά."
+   },
+   "ext_biometric_login_desc": {
+      "message": "Ενεργοποιήστε τη βιομετρική σύνδεση με ένα κλειδί πρόσβασης για ταχύτερη, ασφαλή πρόσβαση. Το κρυπτογραφημένο κλειδί πρόσβασης είναι αποθηκευμένο με ασφάλεια στον θύλακα της συσκευής, αντικαθιστώντας έτσι την ανάγκη για κωδικούς πρόσβασης και MFA. Το Keeper δεν έχει ποτέ πρόσβαση στα βιομετρικά δεδομένα σας."
+   },
+   "ext_biometric_login_feature_desc": {
+      "message": "Ρυθμίστε τη βιομετρική σύνδεση με έναν κωδικό πρόσβασης για γρήγορη, ασφαλή πρόσβαση—δεν απαιτείται κωδικός πρόσβασης. Κάντε ενημέρωση ανά πάσα στιγμή στις ρυθμίσεις."
+   },
+   "ext_biometric_login_restricted_desc": {
+      "message": "Η βιομετρική σύνδεση με κλειδί πρόσβασης έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_biometric_login_restricted_header": {
+      "message": "Η βιομετρική σύνδεση είναι περιορισμένη"
+   },
+   "ext_confirm_screenshot_desc": {
+      "message": "Ελέγξτε τη λήψη σας. Επαναλάβετε εάν χρειάζεται ή συνεχίστε να ελέγχετε τις εντοπισμένες πληροφορίες και να προσθέτετε σημειώσεις."
+   },
+   "ext_create_address_restricted_message_2": {
+      "message": "Η δημιουργία διευθύνσεων έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_create_card_restricted_message_2": {
+      "message": "Η δημιουργία καρτών πληρωμής έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_create_passkey_desc": {
+      "message": "Δημιουργήστε ένα κλειδί πρόσβασης για να ενεργοποιήσετε τη χρήση βιομετρικών σαρωτών για τη σύνδεση, εάν η συσκευή σας υποστηρίζει αυτό."
+   },
+   "ext_create_record_in_shared_folders_only_message": {
+      "message": "Οι εγγραφές μπορούν να δημιουργηθούν μόνο μέσα σε κοινόχρηστους φακέλους. Αυτός ο περιορισμός έχει οριστεί από τον διαχειριστή σας."
+   },
+   "ext_create_record_in_shared_folders_only_message_2": {
+      "message": "Ο διαχειριστής σας έθεσε έναν περιορισμό όπου οι εγγραφές μπορούν να δημιουργούνται μόνο μέσα σε κοινόχρηστους φακέλους."
+   },
+   "ext_create_record_restricted_header": {
+      "message": "Η δημιουργία εγγραφών έχει περιοριστεί"
+   },
+   "ext_create_record_restricted_header_2": {
+      "message": "Η δημιουργία έχει περιοριστεί"
+   },
+   "ext_create_record_restricted_message": {
+      "message": "Η δημιουργία εγγραφών έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_create_record_restricted_message_2": {
+      "message": "Η δημιουργία αρχείων σύνδεσης έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_date_of_birth": {
+      "message": "Ημερομηνία γέννησης"
+   },
+   "ext_days_maximum": {
+      "message": "Έως XXX ημέρες"
+   },
+   "ext_default": {
+      "message": "Προεπιλογή"
+   },
+   "ext_default_card": {
+      "message": "Προεπιλεγμένη κάρτα"
+   },
+   "ext_delete_passkey_desc": {
+      "message": "Η διαγραφή αυτού του κλειδιού πρόσβασης θα το αφαιρέσει από τον λογαριασμό σας. Αυτό μπορεί να επηρεάσει τη δυνατότητά σας να συνδέεστε σε συσκευές όπου απαιτείται αυτό το κλειδί πρόσβασης. Εάν συνεχίσετε, βεβαιωθείτε ότι έχετε πρόσβαση στον κύριο κωδικό πρόσβασης ή το SSO για να αποφύγετε τον αποκλεισμό."
+   },
+   "ext_dna_code_prompt": {
+      "message": "Εισαγάγετε τον κωδικό από το smart watch σας."
+   },
+   "ext_driver_license": {
+      "message": "Αριθμός άδειας οδήγησης"
+   },
+   "ext_email_prompt": {
+      "message": "Δημιουργήστε μια σύνδεση χρησιμοποιώντας ένα email παρακάτω"
+   },
+   "ext_enter_secret_key": {
+      "message": "Εισαγωγή μυστικού κλειδιού"
+   },
+   "ext_enter_text_code": {
+      "message": "Εισαγάγετε τον κωδικό που στάλθηκε μέσω μηνύματος κειμένου."
+   },
+   "ext_enter_totp": {
+      "message": "Εισαγάγετε τον κωδικό από την εφαρμογή Authenticator/TOTP."
+   },
+   "ext_existing_passkey_detected_desc": {
+      "message": "Φαίνεται ότι έχετε ήδη ένα κλειδί πρόσβασης για αυτόν τον λογαριασμό στη συσκευή σας."
+   },
+   "ext_history": {
+      "message": "Ιστορικό"
+   },
+   "ext_hostname": {
+      "message": "Όνομα κεντρικού υπολογιστή ή διεύθυνση IP"
+   },
+   "ext_hours_maximum": {
+      "message": "Έως XXX ώρες"
+   },
+   "ext_http_fill_warning_desc": {
+      "message": "Προειδοποίηση κατά τη χρήση του KeeperFill σε ιστότοπους χωρίς κρυπτογραφημένη σύνδεση HTTPS."
+   },
+   "ext_iframe_err": {
+      "message": "Για να συνδεθείτε, κάντε κλικ στο εικονίδιο κλειδώματος του Keeper στη γραμμή εργαλείων του προγράμματος περιήγησής σας"
+   },
+   "ext_incorrect_totp_code": {
+      "message": "Ο κωδικός σας δεν ήταν έγκυρος ή έχει λήξει.\\nΚάντε κλικ στην επιλογή Νέα αποστολή κωδικού για να λάβετε έναν νέο."
+   },
+   "ext_install_instruction_click": {
+      "message": "Κάντε κλικ στο XXX και στο YYY δίπλα στο Keeper."
+   },
+   "ext_install_instruction_header": {
+      "message": "Προσθέστε το Keeper στη γραμμή εργαλείων σας για εύκολη πρόσβαση"
+   },
+   "ext_install_instructions_pin": {
+      "message": "Καρφιτσώστε το Keeper στη γραμμή εργαλείων σας για εύκολη πρόσβαση"
+   },
+   "ext_install_instructions_select": {
+      "message": "Επιλέξτε το πρόγραμμα περιήγησής σας για οδηγίες"
+   },
+   "ext_launch_site": {
+      "message": "Εκκίνηση Ιστοσελίδας"
+   },
+   "ext_log_in_to_keeper": {
+      "message": "Σύνδεση στο Keeper"
+   },
+   "ext_minutes_maximum": {
+      "message": "Έως XXX λεπτά"
+   },
+   "ext_mob_banner_day_left_in_trial": {
+      "message": "Απομένει 1 ημέρα για τη δοκιμαστική έκδοση"
+   },
+   "ext_mob_banner_days_left_in_trial": {
+      "message": "XXX Μέρες μέχρι τη λήξη της έκδοσης"
+   },
+   "ext_mob_turn_on_now": {
+      "message": "Άμεση ενεργοποίηση"
+   },
+   "ext_mp_reentry_modal_message": {
+      "message": "Ο διαχειριστής σας απαιτεί εκ νέου έλεγχο ταυτότητας."
+   },
+   "ext_mp_reentry_overlay_alert_message": {
+      "message": "Ο διαχειριστής σας απαιτεί εκ νέου έλεγχο ταυτότητας. Ανοίξτε το Keeper στη γραμμή εργαλείων του προγράμματος περιήγησης για να συνεχίσετε."
+   },
+   "ext_new_login_creation_screen_description": {
+      "message": "Για βελτιωμένη ασφάλεια, η δημιουργία εγγραφής από ιστότοπο θα ανοίξει τώρα σε ξεχωριστή καρτέλα."
+   },
+   "ext_new_login_creation_screen_header": {
+      "message": "Οθόνη δημιουργίας νέας σύνδεσης"
+   },
+   "ext_no_matching_addresses_create_restricted": {
+      "message": "Δεν υπάρχουν διευθύνσεις στη θυρίδα σας. Η δημιουργία διευθύνσεων έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_no_matching_cards_create_restricted": {
+      "message": "Δεν υπάρχουν κάρτες πληρωμής στη θυρίδα σας. Η δημιουργία καρτών πληρωμής έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_no_matching_records_create_restricted": {
+      "message": "Δεν υπάρχουν αντίστοιχες εγγραφές. Η δημιουργία εγγραφών έχει περιοριστεί από τον διαχειριστή σας."
+   },
+   "ext_open_admin_console": {
+      "message": "Άνοιγμα Κονσόλας διαχειριστή"
+   },
+   "ext_open_vault": {
+      "message": "Άνοιγμα στη Θυρίδα web"
+   },
+   "ext_overwrite_field_content": {
+      "message": "Αντικατάσταση περιεχομένου πεδίου"
+   },
+   "ext_overwrite_field_content_desc": {
+      "message": "Ενεργοποιήστε το για να επιτρέψετε στο Keeper να αντικαταστήσει το υπάρχον περιεχόμενο πεδίου με τα προσαρμοσμένα πεδία αυτής της εγγραφής."
+   },
+   "ext_passport_number": {
+      "message": "Αριθμός διαβατηρίου"
+   },
+   "ext_password_prompt": {
+      "message": "Επιτρέψτε  στο Keeper να δημιουργήσει έναν ισχυρό κωδικό πρόσβασης."
+   },
+   "ext_password_rules_unmet_warning": {
+      "message": "Ο διαχειριστής σας απαιτεί ο κωδικός πρόσβασής σας να ακολουθεί αυτούς τους κανόνες:"
+   },
+   "ext_pin_code": {
+      "message": "Κωδικός PIN"
+   },
+   "ext_prevent_lockout_desc": {
+      "message": "Βεβαιωθείτε ότι μπορείτε να συνδεθείτε μέσω του κύριου κωδικού πρόσβασης ή SSO πριν απενεργοποιήσετε τη βιομετρική σύνδεση για να αποφύγετε τον αποκλεισμό του λογαριασμού σας."
+   },
+   "ext_private_key": {
+      "message": "Ιδιωτικό κλειδί"
+   },
+   "ext_prompt_to_login_subtext": {
+      "message": "Πού βρίσκεται ακριβώς;"
+   },
+   "ext_public_key": {
+      "message": "Δημόσιο κλειδί"
+   },
+   "ext_push_notif": {
+      "message": "Ειδοποίηση push στάλθηκε στην εγκεκριμένη συσκευή."
+   },
+   "ext_quick_sync_your_data": {
+      "message": "Γρήγορος συγχρονισμός των δεδομένων σας"
+   },
+   "ext_report_autofill_prompt_desc": {
+      "message": "Κάντε λήψη γρήγορου στιγμιότυπου οθόνης—το Keeper χρησιμοποιεί τα δεδομένα για να εντοπίσει το πρόβλημα. Χρειάζεται μόνο λίγα δευτερόλεπτα!"
+   },
+   "ext_routing_number": {
+      "message": "Αριθμός δρομολόγησης"
+   },
+   "ext_save_to_keeper": {
+      "message": "Αποθήκευση κωδικού πρόσβασης στο Keeper;"
+   },
+   "ext_scan_2fa_code": {
+      "message": "Σάρωση κωδικού 2FA"
+   },
+   "ext_scan_failed": {
+      "message": "Η σάρωση απέτυχε"
+   },
+   "ext_scan_failed_warning": {
+      "message": "Ο κωδικός TOTP δεν εντοπίστηκε. Εισαγάγετε το μυστικό κλειδί σας με μη αυτόματο τρόπο."
+   },
+   "ext_security_code": {
+      "message": "Κωδικός ασφαλείας"
+   },
+   "ext_security_title": {
+      "message": "Ασφάλεια"
+   },
+   "ext_select_a_location": {
+      "message": "Επιλέξτε τοποθεσία"
+   },
+   "ext_session_persistence_setting_desc": {
+      "message": "Μείνετε συνδεδεμένοι στο Keeper όταν κλείνετε το πρόγραμμα περιήγησης ή επανεκκινείτε τον υπολογιστή σας."
+   },
+   "ext_session_persistence_setting_prompt": {
+      "message": "Σας συνιστούμε να ενεργοποιήσετε την Αυτόματη αποσύνδεση σε περίπτωση που απομακρυνθείτε από τη συσκευή σας ενώ είστε συνδεδεμένοι στο Keeper."
+   },
+   "ext_session_persistence_setting_title": {
+      "message": "Μείνετε συνδεδεμένοι"
+   },
+   "ext_sharing_restricted_file_with_attachment_message": {
+      "message": "Ο διαχειριστής σάς έχει περιορίσει από την κοινή χρήση εγγραφών που περιέχουν συνημμένα αρχεία."
+   },
+   "ext_sharing_restricted_header": {
+      "message": "Η κοινή χρήση έχει περιοριστεί"
+   },
+   "ext_sharing_restricted_indirect_sharing_message": {
+      "message": "Ο διαχειριστής σάς έχει περιορίσει από την προσθήκη εγγραφών σε κοινόχρηστους φακέλους."
+   },
+   "ext_sharing_restricted_message": {
+      "message": "Ο διαχειριστής σάς έχει περιορίσει από την κοινή χρήση εγγραφών."
+   },
+   "ext_sharing_through_shared_folders_only_message": {
+      "message": "Σύμφωνα με τον διαχειριστή, σάς επιτρέπετε η κοινή χρήση εγγραφών μόνο για προσθήκη σε κοινόχρηστους φακέλους."
+   },
+   "ext_single_suggested": {
+      "message": "1 προτεινόμενη εγγραφή"
+   },
+   "ext_social_security_number": {
+      "message": "Αριθμός κοινωνικής ασφάλισης"
+   },
+   "ext_software_license_number": {
+      "message": "Κλειδί άδειας χρήσης λογισμικού"
+   },
+   "ext_sso_pw": {
+      "message": "Σύνδεση με κύριο κωδικό πρόσβασης SSO"
+   },
+   "ext_stay_logged": {
+      "message": "Παραμένετε συνδεδεμένοι μεταξύ των περιόδων σύνδεσης"
+   },
+   "ext_stay_logged_desc": {
+      "message": "Να μην απαιτούνται στοιχεία σύνδεσης κατά το κλείσιμο και νέο άνοιγμα της εφαρμογής ή την επανεκκίνηση της συσκευής, εκτός εάν η αποσύνδεση έχει πραγματοποιηθεί μη αυτόματα ή αυτόματα με αποσύνδεση λόγω αδράνειας."
+   },
+   "ext_stay_logged_desc_2": {
+      "message": "Δεν απαιτείται σύνδεση κατά το κλείσιμο και το εκ νέου άνοιγμα του Keeper ή την επανεκκίνηση της συσκευής σας, εκτός εάν αποσυνδεθείτε χειροκίνητα ή αυτόματα με το Inactivity Logout."
+   },
+   "ext_subsequent_fill": {
+      "message": "Αυτόματη συμπλήρωση στις επόμενες σελίδες"
+   },
+   "ext_subsequent_fill_desc": {
+      "message": "Απενεργοποιήστε το για να αποτρέψετε την αυτόματη συμπλήρωση του Keeper σε πολλές σελίδες κατά τη διάρκεια ροών σύνδεσης πολλαπλών βημάτων."
+   },
+   "ext_sync_complete": {
+      "message": "Ολοκλήρωση συγχρονισμού"
+   },
+   "ext_sync_setting_desc": {
+      "message": "Χρησιμοποιήστε τις παρακάτω επιλογές για να επιβεβαιώσετε με μη αυτόματο τρόπο ότι η θυρίδα σας είναι ενημερωμένη."
+   },
+   "ext_totp_delete_warning_2": {
+      "message": "Μπορείτε να ανακτήσετε τους διαγραμμένους κωδικούς δύο παραγόντων επαναφέροντας προηγούμενες εκδόσεις αυτής της εγγραφής στη θυρίδα σας."
+   },
+   "ext_totp_delete_warning_3": {
+      "message": "Απενεργοποιήστε το MFA σε αυτήν την υπηρεσία ή τον ιστότοπο πριν το διαγράψετε από αυτήν την εγγραφή. Αυτό θα αποτρέψει την απώλεια πρόσβασης σε αυτήν την υπηρεσία."
+   },
+   "ext_totp_restricted_message": {
+      "message": "Ο διαχειριστής σας έχει περιορίσει τη δυνατότητα προσθήκης κωδικών δύο παραγόντων σε εγγραφές."
+   },
+   "ext_two_factor_channel_rsa": {
+      "message": "Εισαγάγετε τον κωδικό πρόσβασης RSA."
+   },
+   "ext_two_factor_field_tooltip_message": {
+      "message": "Χρησιμοποιήστε το Keeper για αποθήκευση και αυτόματη συμπλήρωση κωδικών δύο παραγόντων σε οποιαδήποτε συσκευή."
+   },
+   "ext_two_factor_generic_code_prompt": {
+      "message": "Εισαγάγετε τον κωδικό από τη μέθοδο δύο παραγόντων."
+   },
+   "ext_type_or_generate": {
+      "message": "Πληκτρολογήστε ή Δημιουργήστε"
+   },
+   "ext_website": {
+      "message": "Ιστοσελίδα"
+   },
+   "ext_zip_code": {
+      "message": "Ταχυδρομικός κώδικας"
+   },
+   "extension_DetailView_itemCopied": {
+      "message": "προσθήκη στο πρόχειρό σας"
+   },
+   "extension_phonetype_home": {
+      "message": "Οικία"
+   },
+   "extension_phonetype_mobile": {
+      "message": "Κινητό"
+   },
+   "extension_phonetype_work": {
+      "message": "Εργασία"
+   },
+   "extension_prompt_to_disable": {
+      "message": "Η επέκταση του προγράμματος περιήγησης ενδέχεται να μειώσει την απόδοση αυτού του ιστότοπου. Κάντε κλικ στο εικονίδιο Keeper στη γραμμή εργαλείων για να ενεργοποιήσετε ξανά το Keeper σε αυτόν τον ιστότοπο."
+   },
+   "extension_prompt_to_disable_header": {
+      "message": "Το Keeper έχει απενεργοποιηθεί σε αυτόν τον ιστότοπο."
+   },
+   "extension_prompt_to_fill": {
+      "message": "Θέλετε το Keeper να συμπληρώσει αυτόματα τα στοιχεία σύνδεσής σας;"
+   },
+   "extension_prompt_to_login": {
+      "message": "Για σύνδεση, κάντε κλικ στο εικονίδιο Keeper στη γραμμή εργαλείων του προγράμματος περιήγησης."
+   },
+   "fade_in": {
+      "message": "Εξαφάνιση"
+   },
+   "fastfill_RecordSaved": {
+      "message": "Η εγγραφή έχει αποθηκευτεί!"
+   },
+   "fastfill_less": {
+      "message": "Λιγότερα"
+   },
+   "fastfill_more": {
+      "message": "Περισσότερα"
+   },
+   "featureRestricted": {
+      "message": "Μη επιτρεπόμενη λειτουργία"
+   },
+   "feature_restricted_by_admin": {
+      "message": "Η λειτουργία έχει περιοριστεί από τον διαχειριστή του Keeper"
+   },
+   "ff_private_window_error": {
+      "message": "Χρησιμοποιήστε τη Θυρίδα web για να συνδεθείτε στο Keeper όταν χρησιμοποιείτε τη λειτουργία Firefox Private Window. Το Keeper θα συμπληρώνει αυτόματα τους ιστότοπους, αλλά η γραμμή εργαλείων δεν θα είναι διαθέσιμη."
+   },
+   "field_icon": {
+      "message": "Εικονίδιο πεδίων εισαγωγής"
+   },
+   "field_icons": {
+      "message": "Εικονίδια πεδίων"
+   },
+   "field_icons_desc": {
+      "message": "Επιλέξτε πότε και εάν τα εικονίδια Keeper θα εμφανίζονται στα πεδία."
+   },
+   "field_text": {
+      "message": "Κείμενο"
+   },
+   "files_learnmorepage_description": {
+      "message": "Το Keeper® είναι μια ασφαλής και εύκολη στη χρήση εφαρμογή διαχείρισης του κωδικού πρόσβασης και ψηφιακό θησαυροφυλάκιο."
+   },
+   "files_sorry_later": {
+      "message": "Αργότερα"
+   },
+   "files_upload_create_new_dontask": {
+      "message": "Να μην ερωτηθώ ξανά"
+   },
+   "fill_address": {
+      "message": "Συμπλήρωση διεύθυνσης"
+   },
+   "fill_and_save_password": {
+      "message": "Συμπλήρωση και αποθήκευση κωδικού πρόσβασης"
+   },
+   "fill_card": {
+      "message": "Συμπλήρωση κάρτας"
+   },
+   "fill_card_number": {
+      "message": "Συμπλήρωση αριθμού κάρτας"
+   },
+   "fill_city": {
+      "message": "Συμπλήρωση πόλης"
+   },
+   "fill_cvv": {
+      "message": "Συμπλήρωση CVV"
+   },
+   "fill_email_address": {
+      "message": "Συμπλήρωση διεύθυνσης email"
+   },
+   "fill_emailusername": {
+      "message": "Συμπλήρωση email/ονόματος χρήστη"
+   },
+   "fill_expiration_date": {
+      "message": "Συμπλήρωση ημερομηνίας λήξης"
+   },
+   "fill_first_name": {
+      "message": "Συμπλήρωση ονόματος"
+   },
+   "fill_icon_is_missing": {
+      "message": "Το εικονίδιο συμπλήρωσης λείπει"
+   },
+   "fill_last_name": {
+      "message": "Συμπλήρωση επωνύμου"
+   },
+   "fill_name_on_card": {
+      "message": "Συμπλήρωση ονόματος σε κάρτα"
+   },
+   "fill_phone_number": {
+      "message": "Συμπλήρωση αριθμού τηλεφώνου"
+   },
+   "fill_prompt": {
+      "message": "Προτροπή συμπλήρωσης"
+   },
+   "fill_record": {
+      "message": "Συμπλήρωση εγγραφής"
+   },
+   "fill_state": {
+      "message": "Συμπλήρωση πολιτείας"
+   },
+   "fill_street_address_line_one": {
+      "message": "Συμπλήρωση διεύθυνσης Γραμμή 1"
+   },
+   "fill_street_address_line_two": {
+      "message": "Συμπλήρωση διεύθυνσης Γραμμή 2"
+   },
+   "fill_tool": {
+      "message": "Εργαλείο KeeperFill"
+   },
+   "fill_tool_desc": {
+      "message": "Εμφανίζει τα εικονίδια Keeper σε πεδία φόρμας, ώστε να μπορείτε να κάνετε κλικ σε αυτά για να συμπληρώσετε αυτόματα τα διαπιστευτήρια σύνδεσής σας σε ιστότοπους και φόρμες."
+   },
+   "fill_zip_postal_code": {
+      "message": "Συμπλήρωση ταχ. θυρίδας"
+   },
+   "filled": {
+      "message": "Έχει συμπληρωθεί"
+   },
+   "filter": {
+      "message": "Φίλτρο"
+   },
+   "fix_autofill_fields": {
+      "message": "Fix Autofill Fields"
+   },
+   "fix_webpage": {
+      "message": "Διόρθωση ιστοσελίδας"
+   },
+   "footer_new_security": {
+      "message": "Ασφάλεια"
+   },
+   "forgot_master_password": {
+      "message": "Ξεχάσατε το συνθηματικό"
+   },
+   "free_trial_expired_please_purchase": {
+      "message": "Η δωρεάν δοκιμαστική περίοδος έχει λήξει. Παρακαλούμε να αγοράσετε μια συνδρομή."
+   },
+   "full_name": {
+      "message": "Πλήρες όνομα"
+   },
+   "full_sync": {
+      "message": "Πλήρης συγχρονισμός"
+   },
+   "full_sync_desc": {
+      "message": "Ο συγχρονισμός όλων των δεδομένων μπορεί να διαρκέσει λίγα λεπτά."
+   },
+   "generator_history": {
+      "message": "Ιστορικό γεννήτριας"
+   },
+   "generic_restriction": {
+      "message": "Η εκτέλεση αυτής της ενέργειας δεν επιτρέπεται από τον διαχειριστή σας στο Keeper."
+   },
+   "get_help": {
+      "message": "Λήψη βοήθειας"
+   },
+   "got_it": {
+      "message": "Κατάλαβα"
+   },
+   "greater_than_zero": {
+      "message": "Η τιμή πρέπει να είναι μεγαλύτερη από το 0."
+   },
+   "groups_invalid_code2": {
+      "message": "Ο κωδικός που εισάγατε δεν είναι έγκυρος"
+   },
+   "groups_invalid_validation_code": {
+      "message": "Ο κωδικός επαλήθευσης που καταχωρίσατε είναι εσφαλμένος."
+   },
+   "header_admin": {
+      "message": "Κονσόλα Διαχειριστή"
+   },
+   "hidden_field": {
+      "message": "Κρυμμένο πεδίο"
+   },
+   "hide_contents": {
+      "message": "Απόκρυψη Περιεχομένων"
+   },
+   "hide_password": {
+      "message": "Απόκρυψη κωδικού πρόσβασης"
+   },
+   "hover_locks": {
+      "message": "Κατάδειξη κλειδαριών"
+   },
+   "http_basic_auth_description": {
+      "message": "Αυτός ο ιστότοπος (XXX) ζητά να συνδεθεί με Βασικό έλεγχο ταυτότητας HTTP. Εάν εμπιστεύεστε αυτόν τον ιστότοπο και θέλετε να συνδεθείτε με την αντίστοιχη εγγραφή Keeper (YYY) από τη θυρίδα σας, κάντε κλικ στο OK ή κάντε κλικ στο Ακύρωση για ματαίωση."
+   },
+   "http_basic_auth_title": {
+      "message": "Αίτημα για αυτόματη συμπλήρωση με Βασικό έλεγχο ταυτότητας HTTP"
+   },
+   "http_fill_warning_prompt_desc": {
+      "message": "Λάβετε ένα μήνυμα προτροπής που σας ειδοποιεί για κινδύνους ασφαλείας όταν επιχειρείτε αυτόματη συμπλήρωση σε ιστότοπους που δεν διαθέτουν κρυπτογραφημένη σύνδεση HTTPS."
+   },
+   "http_fill_warning_promt": {
+      "message": "Προτροπή προειδοποίησης συμπλήρωσης HTTP"
+   },
+   "idb_storage_cleared": {
+      "message": "Έγινε εκκαθάριση του χώρου αποθήκευσης IndexedDB"
+   },
+   "idb_storage_visible": {
+      "message": "Ο χώρος αποθήκευσης IDB είναι ορατός"
+   },
+   "in120seconds": {
+      "message": "120 δευτερόλεπτα"
+   },
+   "in30seconds": {
+      "message": "30 δευτερόλεπτα"
+   },
+   "in45seconds": {
+      "message": "45 δευτερόλεπτα"
+   },
+   "in60seconds": {
+      "message": "60 δευτερόλεπτα"
+   },
+   "in90seconds": {
+      "message": "90 δευτερόλεπτα"
+   },
+   "inactivity_logout_timer_desc": {
+      "message": "Ορίστε το χρονικό διάστημα που μπορείτε να είστε ανενεργοί προτού αποσυνδεθείτε αυτόματα."
+   },
+   "individual_fill_cross_domain": {
+      "message": "Το Keeper εντόπισε ότι ο ιστότοπος XXX έχει ενσωματωμένη φόρμα σύνδεσης και χρησιμοποιεί τον τομέα YYY. Εάν εμπιστεύεστε αυτόν τον ιστότοπο, κάντε κλικ στο OK για να συμπληρώσετε."
+   },
+   "input_fields_desc": {
+      "message": "Τα εικονίδια εμφανίζονται μέσα σε πεδία εισαγωγής με δυνατότητα συμπλήρωσης και μπορείτε να κάνετε κλικ σε αυτά για να εμφανιστούν οι προτάσεις Keeper και άλλες επιλογές."
+   },
+   "insert_security_key": {
+      "message": "Εισαγωγή του κλειδιού ασφαλείας σας"
+   },
+   "introducing_clipboard_expiration": {
+      "message": "Παρουσίαση της Λήξης προχείρου"
+   },
+   "introducing_clipboard_expiration_desc": {
+      "message": "Ορίστε πόσο χρόνο θα παραμείνουν τα αντιγραμμένα διαπιστευτήρια στο πρόχειρό σας. Αποκτήστε πρόσβαση σε αυτό μέσω των ρυθμίσεών σας."
+   },
+   "introducing_passkeys": {
+      "message": "Παρουσίαση των κωδικών πρόσβασης Keeper"
+   },
+   "introducing_passkeys_content": {
+      "message": "Χρησιμοποιήστε την επέκταση του προγράμματος περιήγησης Keeper για να δημιουργήσετε κωδικούς πρόσβασης και να συνδεθείτε σε υποστηριζόμενους ιστότοπους. Διαχειριστείτε και μοιραστείτε με ασφάλεια τους κωδικούς πρόσβασης χρησιμοποιώντας τη θυρίδα Keeper σε όλες τις συσκευές σας."
+   },
+   "invalid_email_or_password": {
+      "message": "Μη έγκυρο e-mail ή κωδικού πρόσβασης"
+   },
+   "invalid_two_factor_data": {
+      "message": "Μη έγκυρα δεδομένα δύο παραγόντων"
+   },
+   "json_code_snippet": {
+      "message": "Απόσπασμα κώδικα JSON"
+   },
+   "keeper_login": {
+      "message": "Συνδεθείτε στο Keeper για να συμπληρώσετε τα διαπιστευτήρια."
+   },
+   "keeper_passkey_created": {
+      "message": "Δημιουργήθηκε κλειδί πρόσβασης Keeper"
+   },
+   "keeper_push": {
+      "message": "Keeper Push"
+   },
+   "keeper_push_description": {
+      "message": "Η ειδοποίηση Keeper Push είναι μια απλή μέθοδος ασφάλειας λογαριασμού με one-touch αντί για κωδικούς. Όταν συνδέεστε στο Keeper σε μια νέα συσκευή, θα λάβετε ένα one-touch ερώτημα στην άλλη συσκευή σας."
+   },
+   "keeper_push_description_short": {
+      "message": "Το Keeper Push είναι μια εύκολη, ασφαλής ειδοποίηση ελέγχου ταυτότητας που αποστέλλεται σε μία από τις εγκεκριμένες συσκευές σας."
+   },
+   "keeper_push_not_approved": {
+      "message": "Η ειδοποίηση push δεν έχει εγκριθεί."
+   },
+   "keeper_push_sent": {
+      "message": "Στάλθηκε ειδοποίηση Keeper Push"
+   },
+   "keeper_push_sent_to_device": {
+      "message": "Η ειδοποίηση Keeper Push στάλθηκε σε εγκεκριμένη συσκευή"
+   },
+   "keeper_sso_not_permitted": {
+      "message": "Ο λογαριασμός σας δεν επιτρέπεται να συνδεθεί στο Keeper χρησιμοποιώντας SSO. Βεβαιωθείτε ότι αυτός ο λογαριασμός έχει εκχωρηθεί σε έναν κόμβο εντός της Κονσόλας διαχείρισης Keeper που παρέχεται μέσω του Single Sign-On."
+   },
+   "keeperfill_insecure_field": {
+      "message": "Το Keeper δεν είναι σε θέση να συμπληρώσει κωδικό πρόσβασης στο πεδίο εισαγωγής. Κάντε κλικ στο εικονίδιο κλειδώματος της φόρμας και δοκιμάστε ξανά."
+   },
+   "kfg_enter_password": {
+      "message": "Εισάγετε κωδικό πρόσβασης"
+   },
+   "kfg_expire": {
+      "message": "Ημερομηνία λήξης"
+   },
+   "kfg_password_rule_prompt": {
+      "message": "Ο διαχειριστής του Keeper σας απαιτεί ο κύρος κωδικός πρόσβασης να πληροί αυτούς τους κανόνες:"
+   },
+   "kg_fair": {
+      "message": "Μέτριος"
+   },
+   "kg_medium": {
+      "message": "Μεσαίος"
+   },
+   "kg_off": {
+      "message": "Απενεργοποιημένο"
+   },
+   "kg_on": {
+      "message": "Ενεργοποιημένο"
+   },
+   "kg_strong": {
+      "message": "Ισχυρός"
+   },
+   "kg_two_factor_authentication": {
+      "message": "Έλεγχος ταυτότητας δύο παραγόντων"
+   },
+   "kg_weak": {
+      "message": "Ασθενής"
+   },
+   "landscape_mode": {
+      "message": "Οριζόντιος προσανατολισμός σελίδας"
+   },
+   "last_synced_phrase": {
+      "message": "Τελευταίος συγχρονισμός XXX"
+   },
+   "last_used_date": {
+      "message": "Τελευταία χρήση: XXX"
+   },
+   "launch_and_autofill": {
+      "message": "Έναρξη και αυτόματη συμπλήρωση"
+   },
+   "launch_vault": {
+      "message": "Εκκίνηση θυρίδας"
+   },
+   "learnmo": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "local_storage_cleared": {
+      "message": "Έγινε εκκαθάριση τοπικού χώρου αποθήκευσης"
+   },
+   "local_storage_visible": {
+      "message": "Ο τοπικός αποθηκευτικός χώρος είναι ορατός"
+   },
+   "location": {
+      "message": "Τοποθεσία"
+   },
+   "lockout_minute": {
+      "message": "Λόγω επαναλαμβανόμενων προσπαθειών, το αίτημά σας περιορίστηκε. Δοκιμάστε ξανά σε 1 λεπτό."
+   },
+   "log_in": {
+      "message": "Σύνδεση"
+   },
+   "log_in_successful": {
+      "message": "Επιτυχής σύνδεση"
+   },
+   "log_in_with_passkey": {
+      "message": "Σύνδεση με κλειδί πρόσβασης"
+   },
+   "login_button_disabled": {
+      "message": "Το κουμπί Σύνδεση είναι απενεργοποιημένο"
+   },
+   "login_different_account": {
+      "message": "Σύνδεση με διαφορετικό λογαριασμό"
+   },
+   "login_field": {
+      "message": "Login Field"
+   },
+   "login_id": {
+      "message": "Αναγνωριστικό σύνδεσης"
+   },
+   "login_reminder": {
+      "message": "Υπενθύμιση σύνδεσης"
+   },
+   "login_updated": {
+      "message": "Η σύνδεση ενημερώθηκε!"
+   },
+   "logout_of_username": {
+      "message": "Αποσύνδεση XXX"
+   },
+   "logout_timer_value_invalid": {
+      "message": "Μη έγκυρη τιμή για τη ρύθμιση του χρονοδιακόπτη αποσύνδεσης"
+   },
+   "manage_passkeys": {
+      "message": "Διαχείριση κλειδιών πρόσβασης"
+   },
+   "master_password": {
+      "message": "Αλλαγή κωδικού"
+   },
+   "match_on_subdomain": {
+      "message": "Αντιστοίχιση σε υποτομέα"
+   },
+   "match_on_subdomain_desc": {
+      "message": "Προβολή εγγραφών για αυτόματη συμπλήρωση βάσει αυστηρής αντιστοίχισης υποτομέων."
+   },
+   "match_on_subdomain_desc2": {
+      "message": "Ελέγξτε εάν οι εγγραφές προτείνονται βάσει αυστηρής αντιστοίχισης υποτομέων."
+   },
+   "match_only_subdomains": {
+      "message": "Αντιστοίχιση μόνο με υποτομείς"
+   },
+   "match_system": {
+      "message": "Αντιστοίχιση συστήματος"
+   },
+   "max_characters_xxx": {
+      "message": "Μέγιστος αριθμός χαρακτήρων XXX"
+   },
+   "maybe_later": {
+      "message": "Ίσως αργότερα"
+   },
+   "mob_banner_days_left_desc": {
+      "message": "Ενεργοποιήστε τώρα το Keeper Unlimited για πλήρη προστασία."
+   },
+   "multi_line_text": {
+      "message": "Κείμενο πολλαπλών γραμμών"
+   },
+   "multiple_folders": {
+      "message": "Πολλαπλοί φάκελοι"
+   },
+   "multiple_folders_prompt_desc": {
+      "message": "Αυτή η εγγραφή βρίσκεται σε πολλούς φακέλους και δεν μπορεί να γίνει επεξεργασία εδώ. Μεταβείτε στη θυρίδα web ή στην εφαρμογή υπολογιστή για να κάνετε αλλαγές."
+   },
+   "multiple_folders_prompt_title": {
+      "message": "Εγγραφή σε πολλαπλούς φακέλους"
+   },
+   "name_on_card": {
+      "message": "Όνομα κάρτας"
+   },
+   "need_help_question": {
+      "message": "Χρειάζεστε βοήθεια;"
+   },
+   "need_vault_settings_update": {
+      "message": "Συνδεθείτε στο Web Vault για να ενημερώσετε τις ρυθμίσεις του λογαριασμού σας."
+   },
+   "network_encryption_none": {
+      "message": "Χωρίς κρυπτογράφηση"
+   },
+   "network_encryption_wep": {
+      "message": "WEP"
+   },
+   "network_encryption_wpa": {
+      "message": "WPA"
+   },
+   "network_hidden": {
+      "message": "Κρυφό"
+   },
+   "network_visible": {
+      "message": "Ορατό"
+   },
+   "never_show": {
+      "message": "Να μην εμφανίζεται ποτέ"
+   },
+   "new_password": {
+      "message": "Νέος κωδικός πρόσβασης"
+   },
+   "new_password_alert": {
+      "message": "Συμπληρώστε τα πεδία του νέου κωδικού πρόσβασης προτού συνεχίσετε."
+   },
+   "new_password_view": {
+      "message": "Τώρα, κάντε κλικ στο εικονίδιο κλειδώματος σε κάθε πεδίο φόρμας που σας ζητάει τον νέο κωδικό πρόσβασής σας. Στη συνέχεια, κάντε κλικ στο κουμπί «Επόμενο»."
+   },
+   "new_password_view2": {
+      "message": "Τώρα επιλέξτε το εικονίδιο Keeper στο πεδίο φόρμας νέου κωδικού πρόσβασης για να συμπληρώσετε τον νέο κωδικό πρόσβασής σας."
+   },
+   "newfreetrial_popup_buy": {
+      "message": "Upgrade Now"
+   },
+   "next_button_disabled": {
+      "message": "Το κουμπί Επόμενο είναι απενεργοποιημένο"
+   },
+   "next_step_colon_preview": {
+      "message": "Επόμενο βήμα: Προεπισκόπηση"
+   },
+   "no_animation": {
+      "message": "Δεν υπάρχει απεικόνιση άμεσων λειτουργιών"
+   },
+   "no_edit_permissions2": {
+      "message": "Δεν έχετε επεξεργαστεί καμία άδεια για το συγκεκριμένο αρχείο."
+   },
+   "no_email_entered": {
+      "message": "Το κουμπί Επόμενο είναι απενεργοποιημένο επειδή δεν έχει εισαχθεί έγκυρο email"
+   },
+   "no_hist": {
+      "message": "Δεν υπάρχει ιστορικό κωδικών πρόσβασης"
+   },
+   "no_records": {
+      "message": "Δεν υπάρχουν εγγραφές στη Θυρίδα"
+   },
+   "no_records_match_domain": {
+      "message": "Δεν υπάρχουν αρχεία στη θυρίδα με διεύθυνση ιστότοπου αντίστοιχη αυτής της τοποθεσίας. Ελέγξτε τη θυρίδα σας ή δημιουργήστε νέο αρχείο."
+   },
+   "no_suggest_recs": {
+      "message": "Δεν υπάρχουν προτεινόμενες εγγραφές"
+   },
+   "no_thanks": {
+      "message": "Όχι ευχαριστώ"
+   },
+   "non_login_field_does_not_autofill": {
+      "message": "Πεδία που δεν σχετίζονται με τη σύνδεση (π.χ. πληρωμή ή χρέωση) δεν συμπληρώνονται αυτόματα"
+   },
+   "not_approved_by_account_owner": {
+      "message": "Αυτή η συσκευή δεν έχει εγκριθεί από τον κάτοχο του λογαριασμού. Επικοινωνήστε με τον κάτοχο του λογαριασμού ή την Υποστήριξη Keeper."
+   },
+   "not_yet_used": {
+      "message": "Δεν χρησιμοποιείται ακόμη"
+   },
+   "note": {
+      "message": "Σημείωση"
+   },
+   "notes_header": {
+      "message": "Σημειώσεις"
+   },
+   "notifications_enabled_reminder": {
+      "message": "Βεβαιωθείτε ότι έχετε ενεργοποιήσει τις ειδοποιήσεις στη συσκευή σας για να λαμβάνετε ειδοποιήσεις Keeper Push ή ανοίξτε την εφαρμογή στην εγκεκριμένη συσκευή σας."
+   },
+   "ob2020_getstarted_1": {
+      "message": "Το Keeper είναι ο πιο ασφαλής τρόπος αποθήκευσης και προστασίας των κωδικών πρόσβασης και των προσωπικών σας πληροφοριών από τους εγκληματίες του κυβερνοχώρου."
+   },
+   "ob2020_getstarted_2": {
+      "message": "Το Keeper προστατεύει και συμπληρώνει αυτόματα τους κωδικούς πρόσβασής σας σε όλες τις κινητές συσκευές και τους επιτραπέζιους υπολογιστές σας."
+   },
+   "ob2020_getstarted_3": {
+      "message": "Το Keeper χρησιμοποιεί κρυπτογράφηση από άκρο σε άκρο με μια ιδιόκτητη Αρχιτεκτονική ασφάλειας μηδενικής γνώσης, ώστε να έχετε τον απόλυτο έλεγχο της πρόσβασης στις πληροφορίες σας."
+   },
+   "ob2020_welcome": {
+      "message": "Καλωσορίσατε στη Θυρίδα Keeper!"
+   },
+   "old_password_view": {
+      "message": "Κάντε κλικ στο εικονίδιο κλειδώματος στο πεδίο φόρμας για τον «παλαιό» ή τον «τρέχοντα» κωδικό πρόσβασης, εάν υπάρχει. Στη συνέχεια, κάντε κλικ στο κουμπί «Επόμενο» για να συνεχίσετε."
+   },
+   "old_password_view2": {
+      "message": "Επιλέξτε το εικονίδιο Keeper στο πεδίο φόρμας τρέχοντος ή παλιού κωδικού πρόσβασης για να συμπληρώσετε τον τρέχοντα κωδικό πρόσβασής σας."
+   },
+   "once_snapshot_shared_message": {
+      "message": "Μετά την κοινή χρήση, θα ελέγξουμε το στιγμιότυπό σας και θα σας ειδοποιήσουμε όταν γίνουν ενημερώσεις."
+   },
+   "one_time_passcode": {
+      "message": "Κωδικός πρόσβασης μίας χρήσης"
+   },
+   "open_extension": {
+      "message": "Άνοιγμα επέκτασης"
+   },
+   "open_my_vault": {
+      "message": "Άνοιγμα της Θυρίδας web μου"
+   },
+   "open_safari_settings": {
+      "message": "Έξοδος και άνοιγμα των Ρυθμίσεων Safari…"
+   },
+   "other_accounts": {
+      "message": "Άλλοι λογαριασμοί"
+   },
+   "other_login_methods": {
+      "message": "Άλλες μέθοδοι σύνδεσης"
+   },
+   "other_please_describe": {
+      "message": "Άλλο (Παρακαλούμε περιγράψτε)"
+   },
+   "page_info": {
+      "message": "Πληροφορίες σελίδας"
+   },
+   "pass_gen_history": {
+      "message": "Ιστορικό δημιουργίας κωδικών πρόσβασης"
+   },
+   "passkey": {
+      "message": "Κλειδί πρόσβασης"
+   },
+   "passkey_already_registered": {
+      "message": "Το κλειδί πρόσβασης είναι ήδη καταχωρημένο"
+   },
+   "passkey_already_registered_desc": {
+      "message": "Ένα κλειδί πρόσβασης για αυτόν τον λογαριασμό είναι ήδη καταχωρημένο στο Keeper."
+   },
+   "passkey_count_plural": {
+      "message": "Κλειδιά πρόσβασης XXX"
+   },
+   "passkey_count_single": {
+      "message": "1 κλειδί πρόσβασης"
+   },
+   "passphrase_cannot_meet_criteria": {
+      "message": "Η φράση πρόσβασης δεν μπορεί να πληροί τα κριτήρια που ορίζονται από τους καθορισμένους τομείς στην εγγραφή."
+   },
+   "passphrase_copied": {
+      "message": "Η φράση πρόσβασης αντιγράφηκε"
+   },
+   "passphrase_must_caps": {
+      "message": "Το πρώτο γράμμα κάθε λέξης πρέπει να είναι κεφαλαίο"
+   },
+   "passphrase_must_contain": {
+      "message": "Η φράση πρόσβασής σας πρέπει να περιέχει:"
+   },
+   "passphrase_must_number": {
+      "message": "1 αριθμό"
+   },
+   "passphrase_must_separator": {
+      "message": "Ένα διαχωριστικό: XXX"
+   },
+   "passphrase_must_words": {
+      "message": "Τουλάχιστον XXX λέξεις"
+   },
+   "password_alert": {
+      "message": "Ειδοποίηση κωδικού πρόσβασης"
+   },
+   "password_cannot_meet_criteria": {
+      "message": "Ο κωδικός πρόσβασης δεν μπορεί να πληροί τα κριτήρια που ορίζονται από τους καθορισμένους τομείς στην εγγραφή."
+   },
+   "password_cannot_meet_criteria__gen": {
+      "message": "Δεν είναι δυνατή η δημιουργία κωδικού πρόσβασης που πληροί τα κριτήρια που ορίζονται από τους καθορισμένους τομείς στην εγγραφή."
+   },
+   "password_does_not_autofill": {
+      "message": "Ο κωδικός πρόσβασης δεν συμπληρώνεται αυτόματα"
+   },
+   "password_generator": {
+      "message": "Γεννήτρια κωδικού πρόσβασης"
+   },
+   "password_must_caps": {
+      "message": "Το πρώτο γράμμα κάθε λέξης πρέπει να είναι κεφαλαίο"
+   },
+   "password_must_char": {
+      "message": "Τουλάχιστον XXX χαρακτήρες"
+   },
+   "password_must_char__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX χαρακτήρες."
+   },
+   "password_must_contain": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει:"
+   },
+   "password_must_lowercase": {
+      "message": "Τουλάχιστον XXX πεζό χαρακτήρα"
+   },
+   "password_must_lowercase__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX πεζό γράμμα."
+   },
+   "password_must_lowercase_p": {
+      "message": "Τουλάχιστον XXX πεζούς χαρακτήρες"
+   },
+   "password_must_lowercase_p__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX πεζά γράμματα."
+   },
+   "password_must_not_contain_these_symbols": {
+      "message": "Ο κωδικός πρόσβασής σας δεν πρέπει να περιέχει: XXX"
+   },
+   "password_must_number": {
+      "message": "Τουλάχιστον XXX αριθμό"
+   },
+   "password_must_number__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX αριθμό."
+   },
+   "password_must_number_p": {
+      "message": "Τουλάχιστον XXX αριθμούς"
+   },
+   "password_must_number_p__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX αριθμούς"
+   },
+   "password_must_number_singluar": {
+      "message": "Τουλάχιστον 1 αριθμός"
+   },
+   "password_must_separator": {
+      "message": "Ένα διαχωριστικό:"
+   },
+   "password_must_symbol": {
+      "message": "Τουλάχιστον XXX σύμβολο: YYY"
+   },
+   "password_must_symbol__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX σύμβολο: YYY"
+   },
+   "password_must_symbol_p": {
+      "message": "Τουλάχιστον XXX σύμβολα: YYY"
+   },
+   "password_must_symbol_p__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX σύμβολα: YYY"
+   },
+   "password_must_uppercase": {
+      "message": "Τουλάχιστον XXX κεφαλαίο χαρακτήρα"
+   },
+   "password_must_uppercase__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX κεφαλαίο γράμμα."
+   },
+   "password_must_uppercase_p": {
+      "message": "Τουλάχιστον XXX κεφαλαίους χαρακτήρες"
+   },
+   "password_must_uppercase_p__solo": {
+      "message": "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον XXX κεφαλαία γράμματα."
+   },
+   "password_passphrase_alert": {
+      "message": "Ειδοποίηση κωδικού πρόσβασης και φράσης πρόσβασης"
+   },
+   "password_reset_email_tip": {
+      "message": "Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσει η διαδικασία ανάκτησης λογαριασμού. Ίσως χρειαστεί να ελέγξετε τον φάκελο ανεπιθύμητης αλληλογραφίας ή να ξεμπλοκάρετε τα email που αποστέλλονται από το keepersecurity.com."
+   },
+   "password_strength": {
+      "message": "Ισχύς κωδικού πρόσβασης"
+   },
+   "password_suggestions": {
+      "message": "Προτάσεις κωδικών πρόσβασης"
+   },
+   "password_suggestions_desc": {
+      "message": "Ελέγξτε εάν προτείνονται ισχυροί κωδικοί πρόσβασης που δημιουργούνται όταν κάνετε κλικ στο πεδίο Κωδικός πρόσβασης σε μια σελίδα εγγραφής."
+   },
+   "password_updated": {
+      "message": "Password Updated!"
+   },
+   "payment_card": {
+      "message": "Κάρτα πληρωμής"
+   },
+   "payment_card_saved": {
+      "message": "Η Κάρτα Πληρωμής Αποθηκεύτηκε!"
+   },
+   "payment_cards": {
+      "message": "Κάρτες πληρωμής"
+   },
+   "payment_field": {
+      "message": "Payment Field"
+   },
+   "payment_updated": {
+      "message": "Η πληρωμή ενημερώθηκε!"
+   },
+   "phone_call": {
+      "message": "Τηλεφωνική κλήση"
+   },
+   "phone_number": {
+      "message": "Phone Number"
+   },
+   "phone_type": {
+      "message": "Τύπος τηλεφώνου"
+   },
+   "pin_generator": {
+      "message": "Πρόγραμμα δημιουργίας PIN"
+   },
+   "port": {
+      "message": "Θύρα"
+   },
+   "portrait_mode": {
+      "message": "Κάθετος προσανατολισμός σελίδας"
+   },
+   "prevent_lockout": {
+      "message": "Αποτροπή κλειδώματος"
+   },
+   "preview": {
+      "message": "Προεπισκόπηση"
+   },
+   "preview_snapshot_desc": {
+      "message": "Κάντε προεπισκόπηση του πλήρους στιγμιότυπου πριν το κατεβάσετε και το μοιραστείτε με το Keeper."
+   },
+   "primary_website_address": {
+      "message": "Διεύθυνση κύριου ιστοτόπου"
+   },
+   "privacy": {
+      "message": "Privacy Policy"
+   },
+   "privacy_reminder": {
+      "message": "Για λόγους απορρήτου, δεν προβάλλουμε τη μέθοδο δύο παραγόντων που χρησιμοποιείτε. Ελέγξτε SMS, email, κλειδί ασφαλείας ή εφαρμογή ελέγχου ταυτότητας TOTP για τον κωδικό σας."
+   },
+   "privacy_screen_is_enabled_by_admin": {
+      "message": "Η οθόνη Απορρήτου ενεργοποιείται από τον διαχειριστή"
+   },
+   "privacy_screen_prevents_hint": {
+      "message": "Η οθόνη Απορρήτου αποτρέπει τόσο \\nτην προβολή των κωδικών πρόσβασης όσο \\nκαι την τροποποίηση των διευθύνσεων \\nURL ιστότοπου μετά την αποθήκευση της εγγραφής."
+   },
+   "prompt_appearance": {
+      "message": "Άμεση Εμφάνιση"
+   },
+   "prompt_appearance_desc": {
+      "message": "Ρυθμίστε το πως θέλετε να εμφανίζονται στην οθόνη σας οι άμεσες λειτουργίες"
+   },
+   "prompt_appearance_desc_2": {
+      "message": "Προσαρμόστε τον τρόπο με τον οποίο θέλετε να εμφανίζονται τα μηνύματα στο παράθυρο του προγράμματος περιήγησής σας."
+   },
+   "prompt_location": {
+      "message": "Θέση προτροπής"
+   },
+   "prompt_to_autofill_desc": {
+      "message": "Αυτόματη συμπλήρωση πεδίων φόρμας όταν επισκέπτεστε μια σελίδα σύνδεσης σε έναν ιστότοπο. Επισκεφτείτε την οθόνη Προτιμήσεις αυτόματης συμπλήρωσης για να ελέγξετε τη συμπεριφορά μεμονωμένων ιστότοπων."
+   },
+   "prompt_to_change_desc": {
+      "message": "Στη σελίδα «Αλλαγή κωδικού πρόσβασης», το Keeper θα δημιουργήσει ένα νέο κωδικό πρόσβασης και θα συμπληρώσει αυτόματα τα πεδία με τον παλαιό και το νέο κωδικό πρόσβασης."
+   },
+   "prompt_to_create": {
+      "message": "Προτροπή δημιουργίας"
+   },
+   "prompt_to_create_desc": {
+      "message": "Κατά την πληκτρολόγηση ενός κωδικού πρόσβασης, εάν δεν βρεθεί υπάρχουσα εγγραφή για έναν ιστότοπο, το Keeper θα σας ζητήσει να αποθηκεύσετε τον κωδικό πρόσβασής σας στη θυρίδα σας."
+   },
+   "prompt_to_disable": {
+      "message": "Προτροπή για απενεργοποίηση"
+   },
+   "prompt_to_disable_desc": {
+      "message": "Αυτό θα σας υπενθυμίσει ότι το KeeperFill είναι απενεργοποιημένο επειδή μπορεί να επιβραδύνει τη συγκεκριμένη σελίδα."
+   },
+   "prompt_to_fill": {
+      "message": "Προτροπή συμπλήρωσης"
+   },
+   "prompt_to_fill_desc": {
+      "message": "Όταν επισκεφτείτε μια οθόνη σύνδεσης σε ιστότοπο, το Keeper θα σας ζητήσει να συνδεθείτε αυτόματα με τον αποθηκευμένο κωδικό πρόσβασής σας."
+   },
+   "prompt_to_hover_locks_desc": {
+      "message": "Να εμφανίζονται μόνο τα εικονίδια Keeper όταν τοποθετείτε το ποντίκι πάνω από το πεδίο."
+   },
+   "prompt_to_login": {
+      "message": "Προτροπή σύνδεσης"
+   },
+   "prompt_to_login_desc": {
+      "message": "Εάν αποσυνδεθείτε από το Keeper, όταν επισκεφτείτε μια οθόνη σύνδεσης σε ιστότοπο, θα σας ζητήσουμε να συνδεθείτε στο Keeper."
+   },
+   "prompt_to_save": {
+      "message": "Προτροπή αποθήκευσης"
+   },
+   "prompt_to_save_desc": {
+      "message": "Αφού συνδεθείτε σε έναν ιστότοπο χωρίς αντίστοιχη εγγραφή, το Keeper θα σας ζητήσει να αποθηκεύσετε τον κωδικό πρόσβασής σας στη θυρίδα σας."
+   },
+   "prompt_to_update": {
+      "message": "Θέλετε να ενημερώσετε την εγγραφή του Keeper για αυτόν τον ιστότοπο;"
+   },
+   "promtp_to_change": {
+      "message": "Προτροπή αλλαγής"
+   },
+   "protip": {
+      "message": "Pro Tip"
+   },
+   "pull_addresses": {
+      "message": "Θέλετε να εισάγετε διευθύνσεις σε αυτήν την ιστοσελίδα;"
+   },
+   "pull_information_from_extensions": {
+      "message": "Θέλατε το Keeper να συμπληρώσει τις XXX στην ιστοσελίδα YYY;"
+   },
+   "pull_payment_cards": {
+      "message": "Θέλετε να εισάγετε κάρτες πληρωμής σε αυτήν την ιστοσελίδα;"
+   },
+   "quick_sync": {
+      "message": "Γρήγορος συγχρονισμός"
+   },
+   "quick_sync_desc": {
+      "message": "Συγχρονισμός μόνο των νέων δεδομένων."
+   },
+   "ready_to_share_question": {
+      "message": "Είστε έτοιμοι για κοινή χρήση;"
+   },
+   "recents_translated": {
+      "message": "Πρόσφατα"
+   },
+   "record_add": {
+      "message": "Προσθήκη Εγγραφής"
+   },
+   "record_deleted": {
+      "message": "Το αρχείο διεγράφη"
+   },
+   "record_details": {
+      "message": "Στοιχεία αρχείου"
+   },
+   "record_header": {
+      "message": "Αρχείο"
+   },
+   "recovery_account_recovery": {
+      "message": "Ανάκτηση λογαριασμού"
+   },
+   "recovery_email_verification": {
+      "message": "Επαλήθευση e-mail"
+   },
+   "recovery_forgot_pass": {
+      "message": "Ξεχάσατε τον κωδικό πρόσβασης;"
+   },
+   "recovery_forgotpass": {
+      "message": "Ξεχάσατε τον κωδικό πρόσβασης;"
+   },
+   "recovery_resend_code": {
+      "message": "Επανάληψη αποστολής κωδικού πρόσβασης"
+   },
+   "recovery_title": {
+      "message": "Ξεχάσατε τον κύριο κωδικό πρόσβασής σας;"
+   },
+   "referral_v4_cancel": {
+      "message": "Όχι ευχαριστώ"
+   },
+   "region_selector_title": {
+      "message": "Τοποθεσία κέντρου δεδομένων"
+   },
+   "registration_field": {
+      "message": "Registration Field"
+   },
+   "registration_updated": {
+      "message": "Η εγγραφή ενημερώθηκε!"
+   },
+   "relying_party": {
+      "message": "Υπηρεσία αξιοπιστίας"
+   },
+   "remember_email": {
+      "message": "Απομνημόνευση Email"
+   },
+   "remove_from_favs": {
+      "message": "Διαγραφή από τα Αγαπημένα"
+   },
+   "remove_from_login_list": {
+      "message": "Ο χρήστης XXX θα καταργηθεί από τον κατάλογο λίστα σύνδεσης."
+   },
+   "remove_user": {
+      "message": "Διαγραφή χρήστη;"
+   },
+   "report_an_autofill_issue": {
+      "message": "Αναφορά προβλήματος αυτόματης συμπλήρωσης"
+   },
+   "report_autofill_issue": {
+      "message": "Αναφορά προβλήματος αυτόματης συμπλήρωσης"
+   },
+   "report_issue": {
+      "message": "Αναφορά προβλήματος"
+   },
+   "report_sent": {
+      "message": "Report Sent!"
+   },
+   "report_to_keeper": {
+      "message": "Would you like to report this to Keeper to improve the extension?"
+   },
+   "req_timeout": {
+      "message": "Το αίτημά έληξε"
+   },
+   "request_admin_approval": {
+      "message": "Αίτημα έγκρισης διαχειριστή"
+   },
+   "require_two_factor": {
+      "message": "Απαιτείται έλεγχος ταυτότητας δύο παραγόντων:"
+   },
+   "require_two_factor_no_colon": {
+      "message": "Απαιτείται έλεγχος ταυτότητας δύο παραγόντων"
+   },
+   "required": {
+      "message": "Υποχρεωτικό"
+   },
+   "required_custom_field": {
+      "message": "Απαιτούμενο προσαρμοσμένο πεδίο"
+   },
+   "resend_email": {
+      "message": "Νέα αποστολή email"
+   },
+   "restore_defalt_settings": {
+      "message": "Επαναφορά αρχικών ρυθμίσεων"
+   },
+   "restore_default_autofill_settings": {
+      "message": "Restore Default Autofill Settings"
+   },
+   "restrictedByAdmin": {
+      "message": "Ο διαχειριστής Keeper δεν επιτρέπει αυτή τη λειτουργία."
+   },
+   "restricted_totp": {
+      "message": "Ο διαχειριστής Keeper έχει περιορίσει τη δυνατότητα προσθήκης κωδικών δύο παραγόντων σε εγγραφές."
+   },
+   "retake": {
+      "message": "Νέα λήψη"
+   },
+   "revert_change": {
+      "message": "Επαναφορά αλλαγής"
+   },
+   "role_enf_restriction": {
+      "message": "Δεν σας επιτρέπεται η εκτέλεση αυτής της λειτουργίας. Για βοήθεια επικοινωνήστε με τον Διαχειριστή σας στο Keeper."
+   },
+   "rotation_port": {
+      "message": "Θύρα περιστροφής"
+   },
+   "rsa_passcode": {
+      "message": "Κωδικός πρόσβασης RSA"
+   },
+   "rt_label_address": {
+      "message": "Διεύθυνση"
+   },
+   "rt_label_bankAccount": {
+      "message": "Τραπεζικός λογαριασμός"
+   },
+   "rt_label_bankCard": {
+      "message": "Κάρτα πληρωμής"
+   },
+   "rt_label_birthCertificate": {
+      "message": "Πιστοποιητικό γέννησης"
+   },
+   "rt_label_contact": {
+      "message": "Επικοινωνία"
+   },
+   "rt_label_databaseCredentials": {
+      "message": "Βάση δεδομένων"
+   },
+   "rt_label_driverLicense": {
+      "message": "Άδεια οδήγησης"
+   },
+   "rt_label_encryptedNotes": {
+      "message": "Ασφαλής σημείωση"
+   },
+   "rt_label_file": {
+      "message": "Συνημμένο αρχείο"
+   },
+   "rt_label_general": {
+      "message": "Γενικά"
+   },
+   "rt_label_healthInsurance": {
+      "message": "Ασφάλεια υγείας"
+   },
+   "rt_label_login": {
+      "message": "Σύνδεση"
+   },
+   "rt_label_membership": {
+      "message": "Μέλος"
+   },
+   "rt_label_pamAwsConfiguration": {
+      "message": "Ρύθμιση παραμέτρων AWS PAM"
+   },
+   "rt_label_pamAzureConfiguration": {
+      "message": "Ρύθμιση παραμέτρων PAM Entra ID (Azure)"
+   },
+   "rt_label_pamDatabase": {
+      "message": "Βάση δεδομένων PAM"
+   },
+   "rt_label_pamDirectory": {
+      "message": "Κατάλογος PAM"
+   },
+   "rt_label_pamLocalConfiguration": {
+      "message": "Τοπική ρύθμιση παραμέτρων PAM"
+   },
+   "rt_label_pamMachine": {
+      "message": "Μηχάνημα PAM"
+   },
+   "rt_label_pamNetworkConfiguration": {
+      "message": "Ρύθμιση παραμέτρων δικτύου PAM"
+   },
+   "rt_label_pamRemoteBrowser": {
+      "message": "Απομακρυσμένο πρόγραμμα περιήγησης PAM"
+   },
+   "rt_label_pamUser": {
+      "message": "Χρήστης PAM"
+   },
+   "rt_label_passport": {
+      "message": "Διαβατήριο"
+   },
+   "rt_label_photo": {
+      "message": "Φωτογραφία"
+   },
+   "rt_label_pl_address": {
+      "message": "Διευθύνσεις"
+   },
+   "rt_label_pl_bankAccount": {
+      "message": "Τραπεζικοί λογαριασμοί"
+   },
+   "rt_label_pl_bankCard": {
+      "message": "Κάρτες πληρωμής"
+   },
+   "rt_label_pl_birthCertificate": {
+      "message": "Πιστοποιητικά γέννησης"
+   },
+   "rt_label_pl_contact": {
+      "message": "Επαφές"
+   },
+   "rt_label_pl_databaseCredentials": {
+      "message": "Βάσεις δεδομένων"
+   },
+   "rt_label_pl_encryptedNotes": {
+      "message": "Ασφαλείς σημειώσεις"
+   },
+   "rt_label_pl_file": {
+      "message": "Αρχεία"
+   },
+   "rt_label_pl_login": {
+      "message": "Συνδέσεις"
+   },
+   "rt_label_pl_membership": {
+      "message": "Μέλος"
+   },
+   "rt_label_pl_passport": {
+      "message": "Διαβατήρια"
+   },
+   "rt_label_pl_photo": {
+      "message": "Φωτογραφίες"
+   },
+   "rt_label_pl_serverCredentials": {
+      "message": "Διακομιστές"
+   },
+   "rt_label_pl_softwareLicense": {
+      "message": "Άδειες λογισμικού"
+   },
+   "rt_label_pl_sshKeys": {
+      "message": "Κλειδιά SSH"
+   },
+   "rt_label_pl_ssnCard": {
+      "message": "Ταυτότητες"
+   },
+   "rt_label_serverCredentials": {
+      "message": "Διακομιστής"
+   },
+   "rt_label_softwareLicense": {
+      "message": "Άδεια λογισμικού"
+   },
+   "rt_label_sshKeys": {
+      "message": "Κλειδί SSH"
+   },
+   "rt_label_ssnCard": {
+      "message": "Ταυτότητα"
+   },
+   "rt_label_wifi_login": {
+      "message": "Σύνδεση WiFi"
+   },
+   "rule_contains": {
+      "message": "Περιέχει τουλάχιστον XXX χαρακτήρες στις τιμές: ΥΥΥ"
+   },
+   "rule_contains_range_digit": {
+      "message": "Περιέχει τουλάχιστον XXX ψηφία"
+   },
+   "rule_contains_range_lowercase": {
+      "message": "Περιέχει τουλάχιστον XXX πεζούς χαρακτήρες"
+   },
+   "rule_contains_range_uppercase": {
+      "message": "Περιέχει τουλάχιστον XXX κεφαλαίους χαρακτήρες"
+   },
+   "rule_size_min": {
+      "message": "Τουλάχιστον XXX χαρακτήρες"
+   },
+   "safari_ext_off": {
+      "message": "Η επέκταση Safari για το Keeper είναι επί του παρόντος απενεργοποιημένο. Μπορείτε να το ενεργοποιήσετε στην ενότητα Επεκτάσεις στις Ρυθμίσεις Safari."
+   },
+   "safari_ext_on": {
+      "message": "Η επέκταση Safari για το Keeper είναι επί του παρόντος ενεργοποιημένο. Μπορείτε να το απενεργοποιήσετε στην ενότητα Επεκτάσεις στις Ρυθμίσεις Safari."
+   },
+   "safari_ext_unknown": {
+      "message": "Μπορείτε να ενεργοποιήσετε την επέκταση Safari για το Keeper στην ενότητα Επεκτάσεις στις Ρυθμίσεις Safari."
+   },
+   "safari_upgrade_13": {
+      "message": "Το KeeperFill για Safari είναι διαθέσιμο μόνο για macOS High Sierra (10.13.6) ή νεότερης έκδοσης και για Safari 13 ή νεότερης έκδοσης."
+   },
+   "save_password_not_logged_in": {
+      "message": "Έχετε αποσυνδεθεί από το Keeper. Συνδεθείτε μέσω του λουκέτου Keeper που βρίσκεται στο πρόγραμμα περιήγησής σας."
+   },
+   "save_password_prompt": {
+      "message": "Θέλετε να αποθηκεύσετε αυτόν τον κωδικό πρόσβασης;"
+   },
+   "save_password_setting_prompt": {
+      "message": "Προτροπή αποθήκευσης κωδικού πρόσβασης"
+   },
+   "save_password_setting_prompt_desc": {
+      "message": "Λάβετε μια προτροπή για να δημιουργήσετε μια νέα εγγραφή αφού συνδεθείτε σε έναν ιστότοπο με νέα διαπιστευτήρια."
+   },
+   "save_password_view": {
+      "message": "Αποθηκεύσατε τις αλλαγές στη θυρίδα σας; Μην ανησυχείτε, μπορείτε πάντα να επαναφέρετε τον κωδικό πρόσβασης από την οθόνη «Ιστορικό εγγραφών»."
+   },
+   "save_password_view2": {
+      "message": "Αποθηκεύσατε τις αλλαγές στη θυρίδα σας; Μην ανησυχείτε, μπορείτε πάντα να επαναφέρετε τον κωδικό πρόσβασης από την οθόνη «Ιστορικό εγγραφών»."
+   },
+   "save_prompt": {
+      "message": "Προτροπή αποθήκευσης"
+   },
+   "save_prompt2": {
+      "message": "Ζητήστε να αποθηκεύσετε τους κωδικούς πρόσβασης"
+   },
+   "scanning_for_key": {
+      "message": "Αναζήτηση κλειδιού ασφαλείας..."
+   },
+   "screen_capture": {
+      "message": "Καταγραφή οθόνης"
+   },
+   "secret1_header": {
+      "message": "Σύνδεση"
+   },
+   "secret2_header": {
+      "message": "Κωδικός πρόσβασης"
+   },
+   "secret_key": {
+      "message": "Κλειδί ασφαλείας"
+   },
+   "secured_note": {
+      "message": "Ασφαλής σημείωση"
+   },
+   "security_key_generic_error": {
+      "message": "Κάτι δεν πήγε σωστά με το κλειδί ασφαλείας. Δοκίμασε ξανά."
+   },
+   "security_key_not_associated": {
+      "message": "Για να συνδεθείτε με αυτό το κλειδί ασφαλείας, πρέπει πρώτα να το καταχωρήσετε στον λογαριασμό σας."
+   },
+   "security_key_timeout": {
+      "message": "Δεν μπορούμε να βρούμε το κλειδί ασφαλείας σας. Παρακαλούμε δοκιμάστε ξανά."
+   },
+   "security_two_factor_title": {
+      "message": "Έλεγχος ταυτότητας δύο παραγόντων"
+   },
+   "security_twofactor_3": {
+      "message": "Πραγματοποιήστε έλεγχο ταυτότητας"
+   },
+   "see_data": {
+      "message": "See what data will be sent."
+   },
+   "select_an_issue": {
+      "message": "Επιλέξτε ένα πρόβλημα"
+   },
+   "send_keeper_push": {
+      "message": "Αποστολή ειδοποίησης Push Keeper"
+   },
+   "sending_pause": {
+      "message": "Γίνεται αποστολή..."
+   },
+   "server_connection_timeout_try_later": {
+      "message": "Λήξη χρόνου σύνδεσης διακομιστή. Δοκιμάστε ξανά αργότερα."
+   },
+   "set_as_primary_website": {
+      "message": "Ορισμός ως κύριου ιστότοπου"
+   },
+   "set_to_default": {
+      "message": "Επαναφορά προεπιλεγμένων ρυθμίσεων"
+   },
+   "set_up_biometric_login": {
+      "message": "Ρύθμιση βιομετρικής σύνδεσης"
+   },
+   "setup": {
+      "message": "Εγκατάσταση"
+   },
+   "setup_record_url": {
+      "message": "Εισαγάγετε τη διεύθυνση ιστότοπου"
+   },
+   "sf_records": {
+      "message": "Αρχεία"
+   },
+   "share_snapshot": {
+      "message": "Κοινή χρήση στιγμιότυπου"
+   },
+   "share_snapshot_desc": {
+      "message": "Αφού βεβαιωθείτε ότι δεν περιλαμβάνονται εμπιστευτικές πληροφορίες σε αυτό το στιγμιότυπο, χρησιμοποιήστε το κουμπί Κοινή χρήση στιγμιότυπου για να στείλετε αυτές τις πληροφορίες στην ομάδα Βελτιώσεων Αυτόματης Συμπλήρωσης του Keeper."
+   },
+   "short_record_removed_ressage": {
+      "message": "Αυτή η εγγραφή θα αφαιρεθεί από το θησαυροφυλάκιό σας."
+   },
+   "short_shared_record_removed_message": {
+      "message": "Αυτή η εγγραφή θα αφαιρεθεί από τους κοινόχρηστους φακέλους. Η πρόσβαση δεν θα είναι πλέον διαθέσιμη σε μέλη αυτών των κοινόχρηστων φακέλων."
+   },
+   "show_addresses": {
+      "message": "Εμφάνιση διευθύνσεων"
+   },
+   "show_all_passkeys": {
+      "message": "Εμφάνιση όλων των διαπιστευτηρίων"
+   },
+   "show_always": {
+      "message": "Να εμφανίζεται πάντα"
+   },
+   "show_idb_storage": {
+      "message": "Εμφάνιση χώρου αποθήκευσης IDB"
+   },
+   "show_less": {
+      "message": "Εμφάνιση λιγότερων"
+   },
+   "show_local_storage": {
+      "message": "Εμφάνιση τοπικού χώρου αποθήκευσης"
+   },
+   "show_locks": {
+      "message": "Προβολή κλειδαριών"
+   },
+   "show_more": {
+      "message": "Εμφάνιση περισσοτέρων"
+   },
+   "show_on_hover": {
+      "message": "Να εμφανίζεται μόνο με κίνηση του ποντικιού"
+   },
+   "show_payment_cards": {
+      "message": "Εμφάνιση καρτών πληρωμής"
+   },
+   "show_snapshot_tool": {
+      "message": "Εμφάνιση εργαλείου στιγμιότυπων"
+   },
+   "showhide": {
+      "message": "Εμφάνιση/Απόκρυψη"
+   },
+   "sidebar_shortcut_favorites": {
+      "message": "Αγαπημένα"
+   },
+   "sign_in": {
+      "message": "Σύνδεση"
+   },
+   "single_click_filling_no_iframe": {
+      "message": "Για λόγους ασφαλείας, η συμπλήρωση με ένα κλικ δεν υποστηρίζεται σε αυτόν τον ιστότοπο (iFrame μεταξύ τομέων). Επικοινωνήστε με την Υποστήριξη Keeper για βοήθεια."
+   },
+   "slide_in": {
+      "message": "Σύρετε"
+   },
+   "snapshot_shared": {
+      "message": "Έγινε κοινή χρήση στιγμιότυπου"
+   },
+   "snapshot_tool": {
+      "message": "Εργαλείο στιγμιότυπων"
+   },
+   "snapshot_tool_disabled": {
+      "message": "Απενεργοποιήθηκε το εργαλείο στιγμιότυπων"
+   },
+   "snapshot_tool_enabled": {
+      "message": "Ενεργοποιήθηκε το εργαλείο στιγμιότυπων"
+   },
+   "something_went_wrong": {
+      "message": "Κάτι πήγε στραβά"
+   },
+   "something_went_wrong_caps": {
+      "message": "Κάτι πήγε στραβά"
+   },
+   "sso_enterprise_domain": {
+      "message": "Domain επιχείρησης"
+   },
+   "state": {
+      "message": "State"
+   },
+   "state_province": {
+      "message": "Πολιτεία/Περιφέρεια"
+   },
+   "stay_logged_in": {
+      "message": "Μείνετε συνδεδεμένοι"
+   },
+   "stay_logged_in_desc2": {
+      "message": "Ενεργοποιήστε το για να παραμείνετε συνδεδεμένοι όταν κλείνετε και ανοίγετε ξανά το Keeper ή κάνετε επανεκκίνηση της συσκευής σας. Εξαιρούνται οι αποσυνδέσεις που έχουν ολοκληρωθεί με μη αυτόματο τρόπο ή με το Χρονόμετρο αποσύνδεσης λόγω αδράνειας."
+   },
+   "stf_SSID": {
+      "message": "Όνομα δικτύου (SSID)"
+   },
+   "stf_alternativeIPs": {
+      "message": "Εναλλακτικές IP"
+   },
+   "stf_cardholderName": {
+      "message": "Όνομα κατόχου κάρτας"
+   },
+   "stf_company": {
+      "message": "Εταιρεία"
+   },
+   "stf_databaseId": {
+      "message": "Αναγνωριστικό βάσης δεδομένων"
+   },
+   "stf_dateActive": {
+      "message": "Ημερομηνία ενεργοποίησης"
+   },
+   "stf_dateIssued": {
+      "message": "Ημερομηνία έκδοσης"
+   },
+   "stf_directoryId": {
+      "message": "Αναγνωριστικό καταλόγου"
+   },
+   "stf_dlNumber": {
+      "message": "Αριθμός άδειας οδήγησης"
+   },
+   "stf_domainName": {
+      "message": "Ονομα τομέα"
+   },
+   "stf_identificationNumber": {
+      "message": "Αριθμός αναγνώρισης"
+   },
+   "stf_identityNumber": {
+      "message": "Αριθμός ταυτότητας"
+   },
+   "stf_insuredsName": {
+      "message": "Όνομα ασφαλισμένου"
+   },
+   "stf_passphrase": {
+      "message": "Φράση πρόσβασης"
+   },
+   "stf_passportNumber": {
+      "message": "Αριθμός διαβατηρίου"
+   },
+   "stf_ssnNumber": {
+      "message": "Αριθμός κοινωνικής ασφάλισης"
+   },
+   "stf_type": {
+      "message": "Τύπος"
+   },
+   "street_address_one": {
+      "message": "Διεύθυνση - Γραμμή 1"
+   },
+   "street_address_two": {
+      "message": "Διεύθυνση - Γραμμή 2"
+   },
+   "submit_button": {
+      "message": "Submit Button"
+   },
+   "suggest_recs_count": {
+      "message": "XXX προτεινόμενες εγγραφές"
+   },
+   "sync_data": {
+      "message": "Συγχρονισμός δεδομένων"
+   },
+   "take_a_screenshot": {
+      "message": "Κάντε λήψη στιγμιότυπου οθόνης."
+   },
+   "take_snapshot": {
+      "message": "Λήψη στιγμιότυπου"
+   },
+   "take_snapshot_desc": {
+      "message": "Τραβήξτε ένα στιγμιότυπο αυτής της ιστοσελίδας για να το μοιραστείτε με την ομάδα Βελτίωσης Αυτόματης Συμπλήρωσης του Keeper."
+   },
+   "tap_to_fill": {
+      "message": "Πατήστε για συμπλήρωση"
+   },
+   "tell_us_what_went_wrong": {
+      "message": "Πείτε μας τι πήγε στραβά"
+   },
+   "terms": {
+      "message": "Όροι και Προϋποθέσεις"
+   },
+   "text_sent": {
+      "message": "Το μήνυμα κειμένου έχει ήδη σταλεί, περιμένετε."
+   },
+   "time_ago_1_month": {
+      "message": "πριν από 1 μήνα"
+   },
+   "time_ago_1_week": {
+      "message": "πριν από 1 εβδομάδα"
+   },
+   "time_ago_1_year": {
+      "message": "πριν από 1 χρόνο"
+   },
+   "time_ago_months": {
+      "message": "πριν από XXX μήνες"
+   },
+   "time_ago_weeks": {
+      "message": "πριν από XXX εβδομάδες"
+   },
+   "time_ago_years": {
+      "message": "πριν από XXX χρόνια"
+   },
+   "title_address_title_placeholder": {
+      "message": "Τίτλος (π.χ. οικία, εργασία)"
+   },
+   "title_header": {
+      "message": "Τίτλος"
+   },
+   "today": {
+      "message": "Σήμερα"
+   },
+   "top_left": {
+      "message": "Πάνω Αριστερά"
+   },
+   "top_right": {
+      "message": "Πάνω Δεξιά"
+   },
+   "totp_code_does_not_autofill": {
+      "message": "Ο κωδικός TOTP δεν συμπληρώνεται αυτόματα."
+   },
+   "tour_continue": {
+      "message": "Συνέχεια"
+   },
+   "try_again": {
+      "message": "Προσπαθήστε ξανά"
+   },
+   "try_another_method": {
+      "message": "Δοκιμάστε μια άλλη μέθοδο"
+   },
+   "tunnel_port": {
+      "message": "Θύρα σήραγγας"
+   },
+   "turn_off_verify_fill_mode": {
+      "message": "Απενεργοποίηση λειτουργίας επαλήθευσης συμπλήρωσης"
+   },
+   "turn_on_anyway": {
+      "message": "Ενεργοποίηση ούτως ή άλλως"
+   },
+   "turn_on_verify_fill_mode": {
+      "message": "Ενεργοποίηση λειτουργίας επαλήθευσης συμπλήρωσης"
+   },
+   "two_fac_req": {
+      "message": "Απαίτηση δύο παραγόντων"
+   },
+   "two_fact_rsa_success": {
+      "message": "Επιτυχής έλεγχος ταυτότητας"
+   },
+   "two_factor_channel_google": {
+      "message": "Παρακαλώ εισάγετε τον κωδικό στην εφαρμογή ελέγχου ταυτότητας της."
+   },
+   "two_factor_channel_push": {
+      "message": "Παρακαλώ εισάγετε τον κωδικό επαλήθευσης στη συσκευή σας DNA."
+   },
+   "two_factor_channel_rsa": {
+      "message": "Εισάγετε τον κωδικό πρόσβασης RSA."
+   },
+   "two_factor_channel_sms": {
+      "message": "Ο κωδικός σας στάλθηκε μέσω μηνύματος κειμένου."
+   },
+   "two_factor_code": {
+      "message": "Κωδικός Δύο Παραγόντων"
+   },
+   "two_factor_code_duration": {
+      "message": "Διάρκεια κωδικού δύο παραγόντων"
+   },
+   "two_factor_frequency_explanation": {
+      "message": "Επιλέξτε πόσο συχνά θα σας ζητείται να συνδέεστε σε αυτήν τη συσκευή με τη μέθοδο ελέγχου ταυτότητας δύο παραγόντων."
+   },
+   "two_factor_generic_code_prompt": {
+      "message": "Εισαγάγετε τον κωδικό από τη μέθοδο δύο παραγόντων."
+   },
+   "two_factor_invalid_totp": {
+      "message": "Ο παρεχόμενος κωδικός δύο παραγόντων δεν είναι έγκυρος ή έχει λήξει."
+   },
+   "two_factor_method_title": {
+      "message": "Μέθοδος δύο παραγόντων"
+   },
+   "two_factor_need_totp": {
+      "message": "Εισάγετε των κωδικό σας"
+   },
+   "two_factor_required": {
+      "message": "Έλεγχος ταυτότητας δύο παραγόντων επιβάλλεται από τον διαχειριστή του Keeper σας."
+   },
+   "two_factor_send_new_code": {
+      "message": "Αποστολή νέου κωδικού"
+   },
+   "type_title": {
+      "message": "Τύπος"
+   },
+   "u2f_login_instruction": {
+      "message": "Τοποθετήστε το κλειδί ασφαλείας σας σε μια θύρα USB. Εάν στο κλειδί ασφαλείας σας υπάρχει πλήκτρο ή δίσκος, πατήστε το."
+   },
+   "unable_to_generate": {
+      "message": "Δεν είναι δυνατή η δημιουργία"
+   },
+   "unable_to_save": {
+      "message": "Δεν είναι δυνατή η αποθήκευση"
+   },
+   "unexpected_error": {
+      "message": "Προέκυψε ένα μη αναμενόμενο σφάλμα. Κάντε επανεκκίνηση της συσκευής σας και εάν το πρόβλημα παραμένει, επισκεφτείτε το keepersecurity.com/support για βοήθεια."
+   },
+   "unexpected_error_with_code": {
+      "message": "Προέκυψε ένα μη αναμενόμενο σφάλμα. Κάντε επανεκκίνηση της συσκευής σας και εάν το πρόβλημα παραμένει, επισκεφτείτε το keepersecurity.com/support για βοήθεια. (Κωδικός σφάλματος XXX)."
+   },
+   "update_existing_passkey": {
+      "message": "Ενημέρωση υφιστάμενου κλειδιού πρόσβασης"
+   },
+   "update_passkey": {
+      "message": "Ενημέρωση κλειδιού πρόσβασης"
+   },
+   "update_xxx": {
+      "message": "Ενημέρωση XXX"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "use_another_method": {
+      "message": "Χρήση άλλης μεθόδου"
+   },
+   "use_as_default_settings": {
+      "message": "Χρήση ως προεπιλεγμένες ρυθμίσεις"
+   },
+   "use_backup_2fa": {
+      "message": "Χρήση μεθόδου δημιουργίας αντιγράφων ασφαλείας δύο παραγόντων"
+   },
+   "use_passkey": {
+      "message": "Χρήση κλειδιού πρόσβασης"
+   },
+   "use_passphrase": {
+      "message": "Χρήση φράσης πρόσβασης"
+   },
+   "use_password": {
+      "message": "Χρήση κωδικού πρόσβασης"
+   },
+   "use_pin_code": {
+      "message": "Χρήση κωδικού PIN"
+   },
+   "use_two_factor_method": {
+      "message": "Χρήση μεθόδου δύο παραγόντων"
+   },
+   "username_and_password_do_not_autofill": {
+      "message": "Το όνομα χρήστη και ο κωδικός πρόσβασης δεν συμπληρώνονται αυτόματα"
+   },
+   "username_does_not_autofill": {
+      "message": "Το όνομα χρήστη δεν συμπληρώνεται αυτόματα"
+   },
+   "vault_login": {
+      "message": "Σύνδεση στο Θησαυροφυλάκιο (Vault)"
+   },
+   "verification_code": {
+      "message": "Κωδικός Επαλήθευσης"
+   },
+   "verification_code_text": {
+      "message": "Κωδικός Επαλήθευσης"
+   },
+   "verified_fill_mode_off": {
+      "message": "Λειτουργία επαλήθευσης συμπλήρωσης απενεργοποιημένη"
+   },
+   "verified_fill_mode_on": {
+      "message": "Λειτουργία επαλήθευσης συμπλήρωσης ενεργοποιημένη"
+   },
+   "verify": {
+      "message": "Επαλήθευση"
+   },
+   "verify_fill_mode_warning": {
+      "message": "Η λειτουργία Επαλήθευσης συμπλήρωσης θα σας ζητά να επιβεβαιώνετε κάθε φορά πριν από την αυτόματη συμπλήρωση. Αυτή η πρόσθετη προστασία μπορεί να διακόψει τη ροή σας και να σας φανεί ενοχλητική σε ιστότοπους που χρησιμοποιείτε συχνά."
+   },
+   "view_all_methods": {
+      "message": "Προβολή όλων των μεθόδων"
+   },
+   "view_contents": {
+      "message": "Προβολή Περιεχομένων"
+   },
+   "view_gen_history": {
+      "message": "Προβολή Ιστορικού δημιουργίας"
+   },
+   "view_password": {
+      "message": "Εμφάνιση κωδικού πρόσβασης"
+   },
+   "view_password_restriction": {
+      "message": "Η προβολή αυτού του κωδικού πρόσβασης δεν επιτρέπεται από τον διαχειριστή σας στο Keeper."
+   },
+   "view_qr_code": {
+      "message": "Προβολή του κωδικού QR"
+   },
+   "view_record_in_vault": {
+      "message": "Η εγγραφή αποθηκεύτηκε. Θέλετε να την προβάλλετε;"
+   },
+   "waiting": {
+      "message": "Περιμένετε..."
+   },
+   "warning_alert": {
+      "message": "Ειδοποίηση"
+   },
+   "was_change_successful": {
+      "message": "Η αλλαγή ολοκληρώθηκε με επιτυχία;"
+   },
+   "website_days": {
+      "message": "Ημέρες"
+   },
+   "website_hours": {
+      "message": "Ώρες"
+   },
+   "website_partners_64": {
+      "message": "Κωδικός χώρας"
+   },
+   "website_success": {
+      "message": "Success!"
+   },
+   "website_support_22": {
+      "message": "Θυρίδα web"
+   },
+   "website_support_rev_02": {
+      "message": "=Χρειάζεστε βοήθεια;"
+   },
+   "website_support_rev_32": {
+      "message": "Two-Factor Codes"
+   },
+   "word_count": {
+      "message": "XXX λέξεις"
+   },
+   "xxx_numbers": {
+      "message": "XXX αριθμοί"
+   },
+   "year": {
+      "message": "Year"
+   },
+   "yesterday": {
+      "message": "Εχθές"
+   },
+   "your_request_timed_out": {
+      "message": "Το αίτημά σας έληξε"
+   },
+   "zip_postal_code": {
+      "message": "Ταχυδρομικός κώδικας"
+   }
+}

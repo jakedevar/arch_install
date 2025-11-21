@@ -1,0 +1,3929 @@
+{
+   "508_record_menu": {
+      "message": "قائمة خيارات السجل"
+   },
+   "About": {
+      "message": "نبذة عنا"
+   },
+   "Accept": {
+      "message": "قبول"
+   },
+   "Account": {
+      "message": "الحساب"
+   },
+   "Action_delete": {
+      "message": "حذف"
+   },
+   "Action_edit": {
+      "message": "تعديل"
+   },
+   "Add_Account": {
+      "message": "إضافة حساب"
+   },
+   "Add_to_Existing": {
+      "message": "الإضافة إلى سجل قائم"
+   },
+   "Addresses": {
+      "message": "العناوين"
+   },
+   "AllRecords": {
+      "message": "كافة السجلات"
+   },
+   "Appearance": {
+      "message": "المظهر"
+   },
+   "AutoFill": {
+      "message": "الملء التلقائي"
+   },
+   "Back": {
+      "message": "عودة"
+   },
+   "Cancel": {
+      "message": "إلغاء"
+   },
+   "ChatAuthenticationRequired": {
+      "message": "يستلزم التوثيق"
+   },
+   "ChatEnterCode": {
+      "message": "أدخل الرمز"
+   },
+   "ChatSaveCodeForever": {
+      "message": "لا تسأل مرة أخرى على هذا الجهاز"
+   },
+   "Close": {
+      "message": "إغلاق"
+   },
+   "Continue": {
+      "message": "الاستمرار"
+   },
+   "Copy": {
+      "message": "نسخ"
+   },
+   "CreateNew": {
+      "message": "إنشاء سجل جديد"
+   },
+   "Data_Vault": {
+      "message": "المخزن"
+   },
+   "Delete": {
+      "message": "حذف"
+   },
+   "Disable": {
+      "message": "تعطيل"
+   },
+   "Dont_show_again": {
+      "message": "عدم الإظهار مرة أخرى."
+   },
+   "Edit": {
+      "message": "تعديل"
+   },
+   "Edit_Record": {
+      "message": "تعديل السجل"
+   },
+   "Email": {
+      "message": "البريد الإلكتروني"
+   },
+   "Email_Address": {
+      "message": "عنوان البريد الإلكتروني"
+   },
+   "Email_not_valid": {
+      "message": "البريد الإلكتروني لا يبدو صالحاً."
+   },
+   "Enable": {
+      "message": "تمكين"
+   },
+   "Enter_master_password": {
+      "message": "إدخال كلمة المرور الرئيسية"
+   },
+   "Error": {
+      "message": "خطأ"
+   },
+   "Exit": {
+      "message": "الخروج"
+   },
+   "Fill": {
+      "message": "ملء"
+   },
+   "Fill_Password": {
+      "message": "ملء كلمة المرور"
+   },
+   "Fill_and_Save_Caps": {
+      "message": "الملء والحفظ"
+   },
+   "Fill_and_save": {
+      "message": "الملء والحفظ"
+   },
+   "FolderName": {
+      "message": "اسم المجلد"
+   },
+   "Generate_passphrase": {
+      "message": "إنشاء عبارة المرور"
+   },
+   "Generate_password": {
+      "message": "إنشاء كلمة مرور"
+   },
+   "Help": {
+      "message": "المساعدة"
+   },
+   "Hide": {
+      "message": "إخفاء"
+   },
+   "History": {
+      "message": "السجل"
+   },
+   "InvalidEmailOrPassword": {
+      "message": "هناك خطأ في البريد الإلكتروني أو كلمة المرو. يرجى إعادة الإدخال مرة أخرى."
+   },
+   "KeeperAskLoginIntervalQuestion": {
+      "message": "كم مرة يجب أن يطلب منك Keeper تسجيل الدخول مرة أخرى؟"
+   },
+   "KeeperProfile_new": {
+      "message": "إنشاء حساب"
+   },
+   "Launch": {
+      "message": "تشغيل"
+   },
+   "Login": {
+      "message": "تسجيل الدخول"
+   },
+   "Login_Link": {
+      "message": "عنوان URL لتسجيل الدخول"
+   },
+   "Logout": {
+      "message": "تسجيل الخروج"
+   },
+   "LogoutOfKeeper": {
+      "message": "تسجيل الخروج من Keeper"
+   },
+   "LogoutTimer": {
+      "message": "مؤقت تسجيل الخروج"
+   },
+   "Menu_options": {
+      "message": "Options"
+   },
+   "Minutes": {
+      "message": "دقائق"
+   },
+   "Network_error": {
+      "message": "تعذر الاتصال. الرجاء التحقق من اتصال شبكة الاتصال الخاص بك"
+   },
+   "New_Record": {
+      "message": "سجل جديد"
+   },
+   "Next": {
+      "message": "التالي"
+   },
+   "No": {
+      "message": "لا"
+   },
+   "Number": {
+      "message": "الرقم"
+   },
+   "OK": {
+      "message": "موافقة"
+   },
+   "Okay": {
+      "message": "حسنًا"
+   },
+   "Options": {
+      "message": "الخيارات"
+   },
+   "PasswordGenerator": {
+      "message": "Password Generator"
+   },
+   "Passwords": {
+      "message": "كلمات المرور"
+   },
+   "Please_fill_out_restore_fields_code": {
+      "message": "الرجاء إدخال رمز التحقق المرسل إلى بريدك الإلكتروني"
+   },
+   "QuickStartGuide": {
+      "message": "دليل التشغيل السريع"
+   },
+   "Remove": {
+      "message": "حذف"
+   },
+   "Require_every_12_hours": {
+      "message": "المطالبة بالمصادقة الثنائية كل 12 ساعة"
+   },
+   "Require_every_24_hours": {
+      "message": "المطالبة بالمصادقة الثنائية كل 24 ساعة"
+   },
+   "Require_every_30_days": {
+      "message": "المطالبة بالمصادقة الثنائية كل 30 يوماً"
+   },
+   "Require_every_login": {
+      "message": "المطالبة بالمصادقة الثنائية كل مرة عند تسجيل الدخول"
+   },
+   "SSO_connection_failure": {
+      "message": "تعذر الاتصال بموفر تسجيل الدخول الأحادي (SSO). يُرجى المحاولة في وقت لاحق."
+   },
+   "Save": {
+      "message": "حفظ"
+   },
+   "Save_code__forever": {
+      "message": "لا تسأل مرة أخرى على هذا الجهاز"
+   },
+   "Save_passphrase": {
+      "message": "حفظ عبارة المرور"
+   },
+   "Save_password": {
+      "message": "Save Password"
+   },
+   "Search": {
+      "message": "بحث"
+   },
+   "SearchKeeper": {
+      "message": "البحث في Keeper"
+   },
+   "SendEmail": {
+      "message": "ارسال بريد إلكتروني"
+   },
+   "Separator": {
+      "message": "فاصل"
+   },
+   "Settings": {
+      "message": "الإعدادات"
+   },
+   "Share": {
+      "message": "شارك"
+   },
+   "Show": {
+      "message": "إظهار"
+   },
+   "Success": {
+      "message": "تم بنجاح"
+   },
+   "Theme": {
+      "message": "الخلفية"
+   },
+   "ThemeColorAluminum": {
+      "message": "ألومنيوم"
+   },
+   "ThemeColorBlueGreen": {
+      "message": "أزرق Overpass"
+   },
+   "ThemeColorBurgundy": {
+      "message": "تدرج نبيتي"
+   },
+   "ThemeColorClassic": {
+      "message": "كلاسيكي"
+   },
+   "ThemeColorDeepOcean": {
+      "message": "محيط عميق"
+   },
+   "ThemeColorFlame": {
+      "message": "شعلة"
+   },
+   "ThemeColorGlam": {
+      "message": "مبهج"
+   },
+   "ThemeColorGreen": {
+      "message": "أخضر"
+   },
+   "ThemeColorPhoenix": {
+      "message": "العنقاء"
+   },
+   "ThemeColorRedBlue": {
+      "message": "أحمر وأزرق"
+   },
+   "Themes": {
+      "message": "السمات"
+   },
+   "Title_required": {
+      "message": "العنوان حقل مطلوب."
+   },
+   "Uppercase": {
+      "message": "أحرف كبيرة"
+   },
+   "Username": {
+      "message": "اسم المستخدم"
+   },
+   "VaultLoginTerms": {
+      "message": "باستخدامك Keeper فإنك توافق على \u003Ca class=\"highlight\" href=\"https://keepersecurity.com/ar_AE/termsofuse.html\" target=\"_blank\" rel=\"noopener noreferrer\">شروط الاستخدام\u003C/a> الخاصة بنا."
+   },
+   "Version": {
+      "message": "الإصدار"
+   },
+   "View": {
+      "message": "عرض"
+   },
+   "Yes": {
+      "message": "نعم"
+   },
+   "access_denied": {
+      "message": "لا تملك الامتيازات المطلوبة لإجراء هذه العملية."
+   },
+   "access_denied_v3": {
+      "message": "تم رفض الوصول"
+   },
+   "account_deletion_confirmation": {
+      "message": "حذف الحساب"
+   },
+   "account_locked": {
+      "message": "تم تأمين هذا الحساب. يُرجى التواصل مع مسؤول Keeper الخاص بك للحصول على المساعدة."
+   },
+   "account_transfer_popup_message": {
+      "message": "تم تمكين سياسة \"نقل الحساب\" في مخزن Keeper الخاص بك والتي تسمح لدور مسؤول معين في Keeper بنقل سجلات المخزن في موعد لاحق، بما يتوافق مع الإجراءات والسياسات التشغيلية في مؤسستك. يرجى تأكيد الموافقة على هذه السياسة بالنقر على \"قبول\"."
+   },
+   "action_collapse": {
+      "message": "طيّ"
+   },
+   "action_expand": {
+      "message": "توسيع"
+   },
+   "action_select": {
+      "message": "تحديد"
+   },
+   "add_address": {
+      "message": "إضافة عنوان"
+   },
+   "add_login": {
+      "message": "إضافة تسجيل دخول"
+   },
+   "add_passkey": {
+      "message": "إضافة مفتاح مرور"
+   },
+   "add_passkey_to_login": {
+      "message": "إضافة مفتاح مرور إلى تسجيل الدخول"
+   },
+   "add_payment_card": {
+      "message": "إضافة بطاقة دفع"
+   },
+   "add_to_favs": {
+      "message": "إضافة إلى المفضلات"
+   },
+   "add_website_address": {
+      "message": "إضافة عنوان الموقع الإلكتروني"
+   },
+   "address_field": {
+      "message": "حقل العنوان"
+   },
+   "address_saved": {
+      "message": "تم حفظ العنوان!"
+   },
+   "address_updated": {
+      "message": "تم تحديث العنوان!"
+   },
+   "adjusted": {
+      "message": "تم التعديل"
+   },
+   "admin_qsg_297": {
+      "message": "Two-Factor Authentication"
+   },
+   "admin_reauthenticate": {
+      "message": "يطلب منك المسؤول الخاص بك أن تقوم بإعادة المصادقة من أجل المتابعة."
+   },
+   "advanced_settings": {
+      "message": "الإعدادات المتقدمة"
+   },
+   "all_categories": {
+      "message": "كل الفئات"
+   },
+   "all_storage_cleared": {
+      "message": "تم مسح كل التخزين"
+   },
+   "always_show": {
+      "message": "إظهار دائمًا"
+   },
+   "animation": {
+      "message": "رسوم متحركة"
+   },
+   "approve_this_device_by_method_below": {
+      "message": "اعتمد هذا الجهاز عبر اختيار طريقة من الطرق المبينة أدناه:"
+   },
+   "approved": {
+      "message": "تمت الموافقة"
+   },
+   "are_you_sure": {
+      "message": "هل أنت متأكد؟"
+   },
+   "are_you_sure_title": {
+      "message": "هل أنت متأكد من هذا الإجراء؟"
+   },
+   "artwork_appname": {
+      "message": "مدير كلمات المرور والخزينة الرقمية Keeper®"
+   },
+   "artwork_appname_safari": {
+      "message": "مدير كلمات المرور  Keeper®"
+   },
+   "auto_logout_extension_help": {
+      "message": "إعداد مؤقت تسجيل الخروج التلقائي يديره ملحق متصفح Keeper."
+   },
+   "auto_submit": {
+      "message": "إرسال تلقائي"
+   },
+   "auto_submit_desc": {
+      "message": "بعد ملء بيانات تسجيل الدخول تلقائياً، سوف يقوم Keeper تلقائياً بإرسال نموذج موقع الويب وتسجيل الدخول إلى موقع الويب."
+   },
+   "auto_submit_desc3": {
+      "message": "التحكم فيما إذا كان يتم إرسال النماذج تلقائيًا بمجرد إدخال اسم المستخدم وكلمة المرور."
+   },
+   "auto_submit_desc_2": {
+      "message": "بعد ملء اسم المستخدم وكلمة المرور الخاصين بك تلقائيًا سيقوم Keeper بتسجيل الطلب وتسجيل الدخول تلقائيًا على موقع الويب."
+   },
+   "autofill2_": {
+      "message": "الملء التلقائي عند تحميل الصفحة"
+   },
+   "autofill_cleared": {
+      "message": "تم مسح إصلاحات حقل الملء التلقائي!"
+   },
+   "autofill_desc_2": {
+      "message": "بالنسبة إلى السجلات التي تم تمكين ميزة الملء التلقائي عند تحميل الصفحة لها، اسأل قبل الملء التلقائي عند تحميل الصفحة."
+   },
+   "autofill_fill_http": {
+      "message": "اكتشف Keeper أن مجال موقع الويب XXX يستخدم اتصال http غير آمن وسيتم عرض أي معلومات تقدمها  بشكل غير مشفر على شبكتك. انقر على \"موافق\" لملء بيانات الاعتماد أو انقر على \"إلغاء\" للإنهاء."
+   },
+   "autofill_fills_wrong_field": {
+      "message": "الملء التلقائي يملأ الحقل غير الصحيح"
+   },
+   "autofill_issue_notes_label": {
+      "message": "يُرجى إضافة المزيد من التفاصيل لمساعدتنا على فهم المشكلة."
+   },
+   "autofill_issue_notes_label_optional": {
+      "message": "يُرجى إضافة المزيد من التفاصيل لمساعدتنا على فهم المشكلة. (اختياري)"
+   },
+   "autofill_issue_notes_placeholder": {
+      "message": "مثال: تم تخطي حقل كلمة المرور"
+   },
+   "autofill_issue_reported": {
+      "message": "تم الإبلاغ عن مشكلة في التعبئة التلقائية"
+   },
+   "autofill_issues_message": {
+      "message": "يمكن إصلح مشاكل الملء التلقائي من خلال النقر بزر الماوس الأيمن في الحقل لإصلاح المشكلة"
+   },
+   "autofill_only_fills_part_of_the_field": {
+      "message": "الملء التلقائي يملأ جزءًا فقط من الحقل"
+   },
+   "autofill_prompt_desc": {
+      "message": "احصل على مطالبة بالملء التلقائي عند زيارة موقع ويب لديك سجل واحد له على الأقل."
+   },
+   "autofill_restored": {
+      "message": "تمت استعادة إعدادات الملء التقائي!"
+   },
+   "autofill_suggest": {
+      "message": "اقتراحات الملء التلقائي"
+   },
+   "autofill_suggestions": {
+      "message": "اقتراحات الملء التلقائي"
+   },
+   "autofill_suggestions_desc": {
+      "message": "اقترح عناوين بريد إلكتروني من المخزنة لدنى Keeper وكلمة مرور قوية عند إنشاء أو تسجيل بيانات تسجيل دخول جديدة."
+   },
+   "autofill_title_2": {
+      "message": "مطالبة الملء التلقائي"
+   },
+   "autosubmit2": {
+      "message": "الإرسال تلقائيًا بعد الملء التلقائي"
+   },
+   "back_to_login": {
+      "message": "العودة إلى تسجيل الدخول"
+   },
+   "bad_client_time": {
+      "message": "الرجاء تفقد إعدادات التاريخ والوقت في جهازك."
+   },
+   "be_header_store_text": {
+      "message": "قم بإنشاء كلمات مرور قوية، وملء معلوماتك السرية وحمايتها مع تشفير قائم على منهج صفر المعرفة."
+   },
+   "be_header_store_text_safari": {
+      "message": "قم بإنشاء كلمات مرور قوية، وملء معلوماتك السرية وحمايتها مع تشفير قائم على منهج صفر المعرفة."
+   },
+   "be_install_title": {
+      "message": "أضف Keeper إلى متصفحك"
+   },
+   "be_security_keys_not_supported_desc": {
+      "message": "مفاتيح الأمن غير مدعومة بواسطة SSO Connect في المقر. يُرجى استخدام خزينة الويب لتسجيل الدخول."
+   },
+   "be_updated_error": {
+      "message": "تم التحديث. يرجى إعادة تشغيل المتصفح."
+   },
+   "billing_address": {
+      "message": "عنوان إرسال الفواتير"
+   },
+   "biometric_login": {
+      "message": "تسجيل الدخول بالعلامات الحيوية"
+   },
+   "biometric_login_disabled": {
+      "message": "تم تعطيل تسجيل الدخول البيومتري"
+   },
+   "biometric_login_enabled": {
+      "message": "تم تمكين تسجيل الدخول البيومتري"
+   },
+   "bottom_left": {
+      "message": "في الأسفل جهة اليسار"
+   },
+   "bottom_right": {
+      "message": "في الأسفل جهة اليمين"
+   },
+   "buy_city": {
+      "message": "المدينة"
+   },
+   "buy_country_title": {
+      "message": "Country"
+   },
+   "buy_security_code_placeholder": {
+      "message": "CVC"
+   },
+   "buy_state": {
+      "message": "State"
+   },
+   "call_sent": {
+      "message": "نتصل بك الآن، يرجى الانتظار"
+   },
+   "card_number": {
+      "message": "رقم البطاقة"
+   },
+   "cardname_ending_in_cardnumber": {
+      "message": "XXX ينتهي في YYY"
+   },
+   "cardnumber_required": {
+      "message": "رقم البطاقة مطلوب"
+   },
+   "ccc_AD": {
+      "message": "أندورا"
+   },
+   "ccc_AE": {
+      "message": "الإمارات العربية المتحدة"
+   },
+   "ccc_AF": {
+      "message": "أفغانستان"
+   },
+   "ccc_AG": {
+      "message": "أنتيغوا وباربودا"
+   },
+   "ccc_AI": {
+      "message": "أنغويلا"
+   },
+   "ccc_AL": {
+      "message": "ألبانيا"
+   },
+   "ccc_AM": {
+      "message": "أرمينيا"
+   },
+   "ccc_AN": {
+      "message": "جزر الأنتيل الهولندية"
+   },
+   "ccc_AO": {
+      "message": "أنغولا"
+   },
+   "ccc_AR": {
+      "message": "الأرجنتين"
+   },
+   "ccc_AS": {
+      "message": "ساموا الأمريكية (حيازة أمريكية)"
+   },
+   "ccc_AT": {
+      "message": "النمسا"
+   },
+   "ccc_AU": {
+      "message": "أستراليا"
+   },
+   "ccc_AW": {
+      "message": "أروبا"
+   },
+   "ccc_AZ": {
+      "message": "أذربيجان"
+   },
+   "ccc_BA": {
+      "message": "البوسنة والهرسك"
+   },
+   "ccc_BB": {
+      "message": "بربادوس"
+   },
+   "ccc_BD": {
+      "message": "بنغلاديش"
+   },
+   "ccc_BE": {
+      "message": "بلجيكا"
+   },
+   "ccc_BF": {
+      "message": "بوركينا فاسو"
+   },
+   "ccc_BG": {
+      "message": "بلغاريا"
+   },
+   "ccc_BH": {
+      "message": "البحرين"
+   },
+   "ccc_BI": {
+      "message": "بوروندي"
+   },
+   "ccc_BJ": {
+      "message": "بنين"
+   },
+   "ccc_BM": {
+      "message": "برمودا"
+   },
+   "ccc_BN": {
+      "message": "دار السلام عاصمة بروناي"
+   },
+   "ccc_BO": {
+      "message": "بوليفيا"
+   },
+   "ccc_BR": {
+      "message": "البرازيل"
+   },
+   "ccc_BS": {
+      "message": "جزر البهاما"
+   },
+   "ccc_BT": {
+      "message": "بوتان"
+   },
+   "ccc_BW": {
+      "message": "بوتسوانا"
+   },
+   "ccc_BY": {
+      "message": "بيلاروس"
+   },
+   "ccc_BZ": {
+      "message": "بليز"
+   },
+   "ccc_CA": {
+      "message": "كندا"
+   },
+   "ccc_CC": {
+      "message": "جزيرة كوكوس (أستراليا)"
+   },
+   "ccc_CD": {
+      "message": "جمهورية الكونغو الديمقراطية"
+   },
+   "ccc_CF": {
+      "message": "جمهورية أفريقيا الوسطى"
+   },
+   "ccc_CG": {
+      "message": "جمهورية الكونغو"
+   },
+   "ccc_CH": {
+      "message": "سويسرا"
+   },
+   "ccc_CI": {
+      "message": "ساحل العاج"
+   },
+   "ccc_CK": {
+      "message": "جزر كوك (نيوزيلندا)"
+   },
+   "ccc_CL": {
+      "message": "شيلي"
+   },
+   "ccc_CM": {
+      "message": "الكاميرون"
+   },
+   "ccc_CN": {
+      "message": "الصين"
+   },
+   "ccc_CO": {
+      "message": "كولومبيا"
+   },
+   "ccc_CR": {
+      "message": "كوستا ريكا"
+   },
+   "ccc_CS": {
+      "message": "جمهورية صربيا"
+   },
+   "ccc_CU": {
+      "message": "كوبا"
+   },
+   "ccc_CV": {
+      "message": "الرأس الأخضر"
+   },
+   "ccc_CY": {
+      "message": "قبرص"
+   },
+   "ccc_CZ": {
+      "message": "التشيك"
+   },
+   "ccc_DE": {
+      "message": "ألمانيا"
+   },
+   "ccc_DJ": {
+      "message": "جيبوتي"
+   },
+   "ccc_DK": {
+      "message": "الدنمارك"
+   },
+   "ccc_DM": {
+      "message": "دومينيكا"
+   },
+   "ccc_DO": {
+      "message": "جمهورية الدومنيكان"
+   },
+   "ccc_DZ": {
+      "message": "الجزائر"
+   },
+   "ccc_EC": {
+      "message": "الإكوادور"
+   },
+   "ccc_EE": {
+      "message": "إستونيا"
+   },
+   "ccc_EG": {
+      "message": "مصر"
+   },
+   "ccc_ER": {
+      "message": "إريتريا"
+   },
+   "ccc_ES": {
+      "message": "إسبانيا"
+   },
+   "ccc_ET": {
+      "message": "أثيوبيا"
+   },
+   "ccc_FI": {
+      "message": "فنلندا"
+   },
+   "ccc_FJ": {
+      "message": "فيجي"
+   },
+   "ccc_FK": {
+      "message": "جزر فوكلاند"
+   },
+   "ccc_FM": {
+      "message": "ولايات ميكرونيسيا المتحدة"
+   },
+   "ccc_FO": {
+      "message": "جزر فارو"
+   },
+   "ccc_FR": {
+      "message": "فرنسا"
+   },
+   "ccc_GA": {
+      "message": "الغابون"
+   },
+   "ccc_GB": {
+      "message": "المملكة المتحدة (بريطانيا العظمى)"
+   },
+   "ccc_GD": {
+      "message": "غرينادا"
+   },
+   "ccc_GE": {
+      "message": "جمهورية جورجيا"
+   },
+   "ccc_GF": {
+      "message": "غويانا الفرنسية"
+   },
+   "ccc_GH": {
+      "message": "غانا"
+   },
+   "ccc_GI": {
+      "message": "جبل طارق"
+   },
+   "ccc_GL": {
+      "message": "جرينلاند"
+   },
+   "ccc_GM": {
+      "message": "غامبيا"
+   },
+   "ccc_GN": {
+      "message": "غينيا"
+   },
+   "ccc_GP": {
+      "message": "غوادلوب"
+   },
+   "ccc_GQ": {
+      "message": "غينيا الإستوائية"
+   },
+   "ccc_GR": {
+      "message": "اليونان"
+   },
+   "ccc_GS": {
+      "message": "جورجيا الجنوبية (جزر فوكلاند)"
+   },
+   "ccc_GT": {
+      "message": "غواتيمالا"
+   },
+   "ccc_GU": {
+      "message": "غوام (حيازة أمريكية)"
+   },
+   "ccc_GW": {
+      "message": "غينيا بيساو"
+   },
+   "ccc_GY": {
+      "message": "غيانا"
+   },
+   "ccc_HK": {
+      "message": "هونغ كونغ"
+   },
+   "ccc_HN": {
+      "message": "هندوراس"
+   },
+   "ccc_HR": {
+      "message": "كرواتيا"
+   },
+   "ccc_HT": {
+      "message": "هايتي"
+   },
+   "ccc_HU": {
+      "message": "اليونان"
+   },
+   "ccc_ID": {
+      "message": "أندونيسيا"
+   },
+   "ccc_IE": {
+      "message": "أيرلندا"
+   },
+   "ccc_IL": {
+      "message": "إسرائيل"
+   },
+   "ccc_IN": {
+      "message": "الهند"
+   },
+   "ccc_IQ": {
+      "message": "العراق"
+   },
+   "ccc_IR": {
+      "message": "إيران"
+   },
+   "ccc_IS": {
+      "message": "أيسلندا"
+   },
+   "ccc_IT": {
+      "message": "إيطاليا"
+   },
+   "ccc_JM": {
+      "message": "جامايكا"
+   },
+   "ccc_JO": {
+      "message": "الأردن"
+   },
+   "ccc_JP": {
+      "message": "اليابان"
+   },
+   "ccc_KE": {
+      "message": "كينيا"
+   },
+   "ccc_KG": {
+      "message": "قيرغيزستان"
+   },
+   "ccc_KH": {
+      "message": "كمبوديا"
+   },
+   "ccc_KI": {
+      "message": "كيريباتي"
+   },
+   "ccc_KM": {
+      "message": "جزر القمر"
+   },
+   "ccc_KN": {
+      "message": "سانت كيتس ونيفيس"
+   },
+   "ccc_KR": {
+      "message": "جمهورية كوريا"
+   },
+   "ccc_KW": {
+      "message": "الكويت"
+   },
+   "ccc_KY": {
+      "message": "جزر كايمان"
+   },
+   "ccc_KZ": {
+      "message": "كازاخستان"
+   },
+   "ccc_LA": {
+      "message": "لاوس"
+   },
+   "ccc_LB": {
+      "message": "لبنان"
+   },
+   "ccc_LC": {
+      "message": "سانت لوسيا"
+   },
+   "ccc_LI": {
+      "message": "ليختنشتاين"
+   },
+   "ccc_LK": {
+      "message": "سيريلانكا"
+   },
+   "ccc_LR": {
+      "message": "ليبريا"
+   },
+   "ccc_LS": {
+      "message": "ليسوتو"
+   },
+   "ccc_LT": {
+      "message": "ليتوانيا"
+   },
+   "ccc_LU": {
+      "message": "لوكسمبورغ"
+   },
+   "ccc_LV": {
+      "message": "لاتفيا"
+   },
+   "ccc_MA": {
+      "message": "المغرب"
+   },
+   "ccc_MC": {
+      "message": "موناكو (فرنسا)"
+   },
+   "ccc_MD": {
+      "message": "مولدوفا"
+   },
+   "ccc_MG": {
+      "message": "مدغشقر"
+   },
+   "ccc_MH": {
+      "message": "جمهورية جزر المارشال"
+   },
+   "ccc_MK": {
+      "message": "مقدونيا"
+   },
+   "ccc_ML": {
+      "message": "مالي"
+   },
+   "ccc_MM": {
+      "message": "ميانمار"
+   },
+   "ccc_MN": {
+      "message": "منغوليا"
+   },
+   "ccc_MO": {
+      "message": "ماكاو"
+   },
+   "ccc_MP": {
+      "message": "كومنولث جزر ماريانا الشمالية"
+   },
+   "ccc_MQ": {
+      "message": "مارتينيك"
+   },
+   "ccc_MR": {
+      "message": "موريتانيا"
+   },
+   "ccc_MS": {
+      "message": "مونتسيرات"
+   },
+   "ccc_MT": {
+      "message": "مالطة"
+   },
+   "ccc_MU": {
+      "message": "موريشيوس"
+   },
+   "ccc_MV": {
+      "message": "جزر المالديف"
+   },
+   "ccc_MW": {
+      "message": "ملاوي"
+   },
+   "ccc_MX": {
+      "message": "المكسيك"
+   },
+   "ccc_MY": {
+      "message": "ماليزيا"
+   },
+   "ccc_MZ": {
+      "message": "موزامبيق"
+   },
+   "ccc_NA": {
+      "message": "ناميبيا"
+   },
+   "ccc_NC": {
+      "message": "كاليدونيا الجديدة"
+   },
+   "ccc_NE": {
+      "message": "النيجر"
+   },
+   "ccc_NF": {
+      "message": "جزيرة نورفولك (أستراليا)"
+   },
+   "ccc_NG": {
+      "message": "نيجيريا"
+   },
+   "ccc_NI": {
+      "message": "نيكاراغوا"
+   },
+   "ccc_NL": {
+      "message": "هولندا"
+   },
+   "ccc_NO": {
+      "message": "النرويج"
+   },
+   "ccc_NP": {
+      "message": "نيبال"
+   },
+   "ccc_NR": {
+      "message": "ناورو"
+   },
+   "ccc_NU": {
+      "message": "نيوزيلندا"
+   },
+   "ccc_NZ": {
+      "message": "نيوزيلاندا"
+   },
+   "ccc_OM": {
+      "message": "سلطنة عمان"
+   },
+   "ccc_PA": {
+      "message": "بنما"
+   },
+   "ccc_PE": {
+      "message": "بيرو"
+   },
+   "ccc_PF": {
+      "message": "بولينيزيا الفرنسية"
+   },
+   "ccc_PG": {
+      "message": "بابوا غينيا الجديدة"
+   },
+   "ccc_PH": {
+      "message": "الفلبين"
+   },
+   "ccc_PK": {
+      "message": "باكستان"
+   },
+   "ccc_PL": {
+      "message": "بولندا"
+   },
+   "ccc_PM": {
+      "message": "سانت بيير وميكلون"
+   },
+   "ccc_PN": {
+      "message": "جزيرة بيتكيرن"
+   },
+   "ccc_PR": {
+      "message": "بورتوريكو"
+   },
+   "ccc_PT": {
+      "message": "البرتغال"
+   },
+   "ccc_PW": {
+      "message": "بالاو"
+   },
+   "ccc_PY": {
+      "message": "باراغواي"
+   },
+   "ccc_QA": {
+      "message": "دولة قطر"
+   },
+   "ccc_RE": {
+      "message": "لا ريونيون"
+   },
+   "ccc_RO": {
+      "message": "رومانيا"
+   },
+   "ccc_RU": {
+      "message": "روسيا"
+   },
+   "ccc_RW": {
+      "message": "رواندا"
+   },
+   "ccc_SA": {
+      "message": "المملكة العربية السعودية"
+   },
+   "ccc_SB": {
+      "message": "جزر سليمان"
+   },
+   "ccc_SC": {
+      "message": "سيشيل"
+   },
+   "ccc_SD": {
+      "message": "السودان"
+   },
+   "ccc_SE": {
+      "message": "السويد"
+   },
+   "ccc_SG": {
+      "message": "سنغافورة"
+   },
+   "ccc_SH": {
+      "message": "سانت هيلانة"
+   },
+   "ccc_SI": {
+      "message": "سلوفينيا"
+   },
+   "ccc_SK": {
+      "message": "جمهورية سلوفاكيا"
+   },
+   "ccc_SL": {
+      "message": "سيرا ليون"
+   },
+   "ccc_SM": {
+      "message": "سان مارينو"
+   },
+   "ccc_SN": {
+      "message": "السنغال"
+   },
+   "ccc_SO": {
+      "message": "الصومال"
+   },
+   "ccc_SR": {
+      "message": "سورينام"
+   },
+   "ccc_ST": {
+      "message": "ساو تومي وبرينسيبي"
+   },
+   "ccc_SV": {
+      "message": "السلفادور"
+   },
+   "ccc_SY": {
+      "message": "الجمهورية العربية السورية (سوريا)"
+   },
+   "ccc_SZ": {
+      "message": "سوازيلند"
+   },
+   "ccc_TC": {
+      "message": "جزر تركس وكايكوس"
+   },
+   "ccc_TD": {
+      "message": "تشاد"
+   },
+   "ccc_TG": {
+      "message": "توغو"
+   },
+   "ccc_TH": {
+      "message": "تايلاند"
+   },
+   "ccc_TJ": {
+      "message": "طاجيكستان"
+   },
+   "ccc_TK": {
+      "message": "توكيلاو (ساموا الغربية)"
+   },
+   "ccc_TL": {
+      "message": "تيمور (إندونيسيا)"
+   },
+   "ccc_TM": {
+      "message": "تركمانستان"
+   },
+   "ccc_TN": {
+      "message": "تونس"
+   },
+   "ccc_TO": {
+      "message": "تونغا"
+   },
+   "ccc_TR": {
+      "message": "تركيا"
+   },
+   "ccc_TT": {
+      "message": "ترينيداد وتوباغو"
+   },
+   "ccc_TV": {
+      "message": "توفالو"
+   },
+   "ccc_TW": {
+      "message": "تايوان"
+   },
+   "ccc_TZ": {
+      "message": "تنزانيا"
+   },
+   "ccc_UA": {
+      "message": "أوكرانيا"
+   },
+   "ccc_UG": {
+      "message": "أوغندا"
+   },
+   "ccc_UM": {
+      "message": "جزر الولايات المتحدة الصغيرة النائية"
+   },
+   "ccc_US": {
+      "message": "الولايات المتحدة الأمريكية"
+   },
+   "ccc_UY": {
+      "message": "الأوروغواي"
+   },
+   "ccc_UZ": {
+      "message": "أوزبكستان"
+   },
+   "ccc_VA": {
+      "message": "مدينة الفاتيكان"
+   },
+   "ccc_VC": {
+      "message": "سانت فينسنت والغرينادين"
+   },
+   "ccc_VE": {
+      "message": "فنزويلا"
+   },
+   "ccc_VG": {
+      "message": "جزر العذراء البريطانية"
+   },
+   "ccc_VI": {
+      "message": "جزر العذراء الأمريكية"
+   },
+   "ccc_VN": {
+      "message": "فيتنام"
+   },
+   "ccc_VU": {
+      "message": "فانواتو"
+   },
+   "ccc_WF": {
+      "message": "واليس وفوتونا"
+   },
+   "ccc_WS": {
+      "message": "ساموا الأمريكية (حيازة أمريكية)"
+   },
+   "ccc_YE": {
+      "message": "اليمن"
+   },
+   "ccc_YT": {
+      "message": "مايوت (فرنسا)"
+   },
+   "ccc_ZA": {
+      "message": "جنوب أفريقيا"
+   },
+   "ccc_ZM": {
+      "message": "زامبيا"
+   },
+   "ccc_ZW": {
+      "message": "زمبابوي"
+   },
+   "change_password": {
+      "message": "تغيير كلمة المرور"
+   },
+   "change_password_complete": {
+      "message": "تم تغيير كلمة المرور في خزينتك. يرجى إرسال التغيير على موقع الويب."
+   },
+   "change_pw_prompt": {
+      "message": "مطالبة تغيير كلمة المرور"
+   },
+   "change_pw_prompt_desc": {
+      "message": "احصل على إشعار يعرض المساعدة في تغيير كلمة مرورك."
+   },
+   "change_your_password": {
+      "message": "هل ترغب في تغيير وحفظ كلمة مرورك؟"
+   },
+   "change_your_password2": {
+      "message": "هل تريد أن يساعدك Keeper في تغيير كلمة مرورك؟"
+   },
+   "character_count": {
+      "message": "XXX من الأحرف"
+   },
+   "character_length": {
+      "message": "عدد الرموز: XXX"
+   },
+   "check_spam_folder_reminder": {
+      "message": "يُرجى مراجعة مجلد البريد غير الهام أو العشوائي بحثاً عن رسالة بريد إلكتروني من keepersecurity.com. ويمكنك إضافة keepersecurity.com لقائمتك الآمنة."
+   },
+   "city": {
+      "message": "المدينة"
+   },
+   "clear_all_storage": {
+      "message": "مسح كل التخزين"
+   },
+   "clear_field_fixes_for_this_site": {
+      "message": "مسح إصلاحات الحقول لهذا الموقع"
+   },
+   "clear_generatory_history": {
+      "message": "مسح سجل مولّد كلمات المرور"
+   },
+   "clear_hist": {
+      "message": "مسح المحفوظات"
+   },
+   "clear_hist_warning": {
+      "message": "أنت على وشك مسح سجل مولد كلمات المرور بشكل دائم."
+   },
+   "clear_idb_storage": {
+      "message": "مسح تخزين IndexedDB"
+   },
+   "clear_local_storage": {
+      "message": "مسح التخزين المحلي"
+   },
+   "clear_search": {
+      "message": "مسح البحث"
+   },
+   "click_to_fill": {
+      "message": "انقر للتعبئة"
+   },
+   "clipboard_expiration": {
+      "message": "انتهاء صلاحية الحافظة"
+   },
+   "clipboard_expiration_description": {
+      "message": "سيتم مسح الحافظة تلقائيًا بعد نسخ أي بيانات من إضافات المتصفح."
+   },
+   "code_invalid": {
+      "message": "رمز غير صالح"
+   },
+   "commerce_popup_final_notice": {
+      "message": "إشعار نهائي"
+   },
+   "commerce_popup_final_notice_message": {
+      "message": "ستنتهي الفترة التجريبية من Keeper بعد 24 ساعة. وسيتم تعطيل الوصول إلى الميزات المميزة. الرجاء الترقية الآن للاحتفاظ بالوصول الكامل."
+   },
+   "confirm_new_password": {
+      "message": "تأكيد كلمة المرور الجديدة"
+   },
+   "confirm_password": {
+      "message": "تأكيد كلمة المرور"
+   },
+   "confirm_password_view": {
+      "message": "انقر على قفل في حقل تأكيد كلمة المرور لملء كلمة المرور المحدثة وانقر التالي."
+   },
+   "confirm_screenshot": {
+      "message": "تأكيد لقطة الشاشة"
+   },
+   "connection_port": {
+      "message": "منفذ الاتصال"
+   },
+   "console_loading": {
+      "message": "جاري التحميل..."
+   },
+   "consumer_auto_backup_option3": {
+      "message": "كل 30 يوماً"
+   },
+   "contact_address": {
+      "message": "عنوان"
+   },
+   "contact_firstname": {
+      "message": "الاسم الأول"
+   },
+   "contact_lastname": {
+      "message": "الاسم الأخير"
+   },
+   "contact_phonenumber": {
+      "message": "رقم الهاتف"
+   },
+   "copy_passphrase": {
+      "message": "نسخ عبارة المرور"
+   },
+   "copy_password": {
+      "message": "نسخ كلمة المرور"
+   },
+   "copy_pin_code": {
+      "message": "نسخ رقم التعريف الشخصي (PIN)"
+   },
+   "copy_two_factor_code": {
+      "message": "نسخ كلمة المرور ذات عاملين"
+   },
+   "couldnt_complete_snapshot": {
+      "message": "لم نتمكن من إكمال اللقطة."
+   },
+   "country": {
+      "message": "البلد"
+   },
+   "create_a_record": {
+      "message": "قم بإنشاء سجل"
+   },
+   "create_account": {
+      "message": "إنشاء حساب"
+   },
+   "create_login_with_passkey": {
+      "message": "إنشاء تسجيل دخول مع مفتاح مرور"
+   },
+   "create_new": {
+      "message": "إنشاء جديد"
+   },
+   "create_passkey": {
+      "message": "إنشاء مفتاح مرور"
+   },
+   "create_record": {
+      "message": "إنشاء سجل"
+   },
+   "created_date_xxx": {
+      "message": "تم الإنشاء بتاريخ XXX"
+   },
+   "creating_preview": {
+      "message": "إنشاء معاينة"
+   },
+   "current_password": {
+      "message": "كلمة السر الحالية"
+   },
+   "cvv": {
+      "message": "CVV"
+   },
+   "date_modified": {
+      "message": "تاريخ التعديل"
+   },
+   "day_ago": {
+      "message": "منذ يوم واحد"
+   },
+   "days_ago": {
+      "message": "منذ XXX يوم"
+   },
+   "default": {
+      "message": "افتراضي"
+   },
+   "delete_passkey": {
+      "message": "حذف مفتاح المرور"
+   },
+   "delete_this_passkey_question": {
+      "message": "هل تريد حذف مفتاح المرور هذا؟"
+   },
+   "desktop_installer_language": {
+      "message": "يمكن استخدام Keeper مجاناً لإدارة كلمات المرور محلياً على تطبيقات سطح المكتب وتطبيقات الجوال الأصلية. أما الميزات المدفوعة مثل التخزين على Cloud والنسخ الاحتياطي والمشاركة وتطبيق الويب وامتدادات المتصفح والمزامنة فهي مجاناً لمدة 30 يوماً وتتطلب اشتراكاً سنوياً مدفوعاً بعد ذلك. تتطلب ميزات Cloud اتصالاً بالإنترنت."
+   },
+   "device_approval": {
+      "message": "اعتماد الجهاز"
+   },
+   "did_this_fix_issue": {
+      "message": "هل أدى ذلك إلى إصلاح مشكلتك"
+   },
+   "disable_snapshot_tool": {
+      "message": "تعطيل أداة Snapshot"
+   },
+   "disabled_prompt": {
+      "message": "مطالبة تعطيل KeeperFill"
+   },
+   "disabled_prompt_desc": {
+      "message": "احصل على إشعار عندما يتوقف Keeper عن معالجة الحقول في صفحة ويب بسبب مشاكل محتملة في الأداء."
+   },
+   "dismiss": {
+      "message": "استبعاد"
+   },
+   "display_locks": {
+      "message": "عرض الأقفال"
+   },
+   "dna_options_title": {
+      "message": "Keeper DNA"
+   },
+   "dna_waiting_watch": {
+      "message": "في انتظار التحقق من Watch..."
+   },
+   "domain_matching": {
+      "message": "مطابقة المجال"
+   },
+   "domain_specific_password_title": {
+      "message": "يتطلب مدير Keeper الخاص بك أن تلتزم كلمة مرورك بالقواعد التالية:"
+   },
+   "dont_show": {
+      "message": "عدم الإظهار مرة أخرى"
+   },
+   "duo_instructions": {
+      "message": "سوف نرسل رسالة أو نتصل بك لإخبارك بكود المرور على XXX."
+   },
+   "duo_push": {
+      "message": "Duo Push"
+   },
+   "duo_push_description": {
+      "message": "سنرسل لك إعلاماً منبثقاً أو رسالة نصية أو سنجري لك مكالمة برمز مرور على جهازك."
+   },
+   "duo_push_was_denied": {
+      "message": "تم رفض وصول إعلامات Duo."
+   },
+   "duo_sent": {
+      "message": "تم إرسال إعلام Duo بالفعل، يرجى الانتظار."
+   },
+   "duo_text_desc": {
+      "message": "إرسال رسالة نصية تحتوي على رمز المرور"
+   },
+   "duo_text_message": {
+      "message": "رسالة نصية"
+   },
+   "duo_voice_call": {
+      "message": "مكالمة صوتية"
+   },
+   "duo_voice_desc": {
+      "message": "اصل على رمز المرور من خلال مكالمة صوتية"
+   },
+   "edit_address": {
+      "message": "تحرير العنوان"
+   },
+   "edit_card": {
+      "message": "تحرير البطاقة"
+   },
+   "edit_field_label": {
+      "message": "تحرير تسمية الحقل"
+   },
+   "effortless_login": {
+      "message": "تسجيل دخول سهل"
+   },
+   "email_or_username": {
+      "message": "البريد الإلكتروني أو اسم المستخدم"
+   },
+   "email_verification_message": {
+      "message": "تم إرسال رسالة عبر الإلكتروني إلى XXX تحتوي على التعليمات. إذا كانت تحتوي على رمز تحقق يمكنك إدخاله أدناه."
+   },
+   "enable_keeperfill": {
+      "message": "تمكين KeeperFill"
+   },
+   "enable_snapshot_tool": {
+      "message": "إظهار أداة Snapshot"
+   },
+   "enable_verify_fill_mode": {
+      "message": "تفعيل وضع التحقق من التعبئة"
+   },
+   "encryption_error": {
+      "message": "هناك مشكلة في فك تشفير خزينتك إذا كنت بحاجة إلى المساعدة، يُرجى زيارة keepersecurity.com/support."
+   },
+   "enter_a_password": {
+      "message": "أدخل كلمة مرور"
+   },
+   "enter_a_username": {
+      "message": "أدخل اسم المستخدم"
+   },
+   "enter_city": {
+      "message": "الرجاء إدخال مدينة"
+   },
+   "enter_country": {
+      "message": "الرجاء إدخال بلد"
+   },
+   "enter_cvv_number": {
+      "message": "يرجى إدخال CVV"
+   },
+   "enter_email": {
+      "message": "أدخل عنوان البريد الإلكتروني"
+   },
+   "enter_exp_date": {
+      "message": "الرجاء إدخال تاريخ الانتهاء"
+   },
+   "enter_first_name": {
+      "message": "الرجاء إدخال اسمك الأول"
+   },
+   "enter_last_name": {
+      "message": "الرجاء إدخال اسمك الأخير"
+   },
+   "enter_name_on_card": {
+      "message": "الرجاء إدخال الاسم على البطاقة"
+   },
+   "enter_rsa_passcode": {
+      "message": "أدخل رمز مرور RSA"
+   },
+   "enter_street_address": {
+      "message": "الرجاء إدخال عنوان شارع"
+   },
+   "enter_valid_phone": {
+      "message": "Please enter a valid phone number."
+   },
+   "enter_verification_code": {
+      "message": "أدخل رمز التحقق"
+   },
+   "enter_verification_code2": {
+      "message": "إدخال رمز المصادقة الثنائية"
+   },
+   "enterprise_sso_connect_button": {
+      "message": "اتصال"
+   },
+   "enterprise_sso_login": {
+      "message": "تسجيل الدخول الأحادي للشركات"
+   },
+   "enterprise_sso_login_domain_desc": {
+      "message": "مستخدم تسجيل الدخول الأحادي مع نطاق مؤسسي"
+   },
+   "enterprise_sso_login_domain_title": {
+      "message": "مجال شركات"
+   },
+   "enterprise_sso_login_mp_desc": {
+      "message": "مستخدم تسجيل الدخول الأحادي مع كلمة مرور رئيسية"
+   },
+   "enterprise_sso_login_mp_title": {
+      "message": "كلمة المرور الرئيسية"
+   },
+   "every_24_hours": {
+      "message": "كل 24 ساعة"
+   },
+   "every_30_days": {
+      "message": "كل 30 يومًا"
+   },
+   "every_login": {
+      "message": "عند كل تسجيل دخول"
+   },
+   "every_login_lowercase": {
+      "message": "كل عملية تسجيل دخول"
+   },
+   "every_twelve_hours": {
+      "message": "كل 12 ساعة"
+   },
+   "existing_passkey_detected": {
+      "message": "تم الكشف عن مفتاح المرور الحالي"
+   },
+   "exp": {
+      "message": "انتهى"
+   },
+   "expiration": {
+      "message": "تاريخ الانتهاء"
+   },
+   "expired_master_password_description": {
+      "message": "انتهت صلاحية كلمة مرورك الرئيسية، ومطلوب منك تغييرها قبل أن تتمكن من تسجيل الدخول."
+   },
+   "expired_please_purchase": {
+      "message": "لقد انتهى اشتراكك. الرجاء شراء اشتراك الآن."
+   },
+   "ext_2FACopied": {
+      "message": "تم نسخ رمز المصادقة الثنائية!"
+   },
+   "ext_AccessibilityDesc": {
+      "message": "ركز على أيقونات حقل النموذج من Keeper عند الضغط على أدوات تحكم لوحة المفاتيح."
+   },
+   "ext_AddCountry": {
+      "message": "إضافة البلد"
+   },
+   "ext_AddFolder": {
+      "message": "إضافة مجلد"
+   },
+   "ext_AddressLineOnePlaceholder": {
+      "message": "شارع الثورة"
+   },
+   "ext_AddressLineTwoPlaceholder": {
+      "message": "شقة رقم 2"
+   },
+   "ext_AddressSaved": {
+      "message": "تم حفظ العنوان!"
+   },
+   "ext_AddressTitlePlaceholder": {
+      "message": "مثل عنوان عملي"
+   },
+   "ext_AllowQRCodeDesc": {
+      "message": "السماح للآخرين بالانضمام إلى هذه الشبكة من خلل مسح رمز QR."
+   },
+   "ext_AltMPError": {
+      "message": "صفحة تسجيل الدخول هذه مخصصة لعملاء Enterprise SSO الذين يستخدمون كلمة مرور رئيسية بديلة. يُرجى البدء من جديد وتسجيل الدخول من شاشة ملحق مستعرض Keeper عبر كتابة بريدك الإلكتروني وانقر على \"التالي\"."
+   },
+   "ext_AutofillEnable": {
+      "message": "تفعيل الملء التلقائي"
+   },
+   "ext_AutofillPrefs": {
+      "message": "تفضيلات التعبئة التلقائية"
+   },
+   "ext_AutofillPrefsDesc": {
+      "message": "ما السجل الذي ترغب في أن يقوم Keeper بالتعبئة التلقائية له لهذا الموقع؟"
+   },
+   "ext_AutofillTitle": {
+      "message": "تعبئة تلقائية على هذا الموقع"
+   },
+   "ext_BrowserPrompts": {
+      "message": "مطالبات المتصفح"
+   },
+   "ext_BrowserPromptsDesc": {
+      "message": "اختيار المطالبات التي تريد أن يعرضها Keeper في متصفحك."
+   },
+   "ext_CCNCopied": {
+      "message": "تم نسخ رقم البطاقة!"
+   },
+   "ext_CVVCopied": {
+      "message": "تم نسخ رقم التحقق من البطاقة (CVV)!"
+   },
+   "ext_Capitals": {
+      "message": "الأحرف الكبيرة"
+   },
+   "ext_CardCVVExample": {
+      "message": "123"
+   },
+   "ext_CardExpDateExample": {
+      "message": "12/22"
+   },
+   "ext_CardNumber": {
+      "message": "رقم البطاقة"
+   },
+   "ext_CardSaved": {
+      "message": "تم حفظ البطاقة!"
+   },
+   "ext_CardTitlePlaceholder": {
+      "message": "مثل بطاقة ماستركارد خاصتي"
+   },
+   "ext_CharacterCount": {
+      "message": "XXX من الأحرف"
+   },
+   "ext_ChooseARecordType": {
+      "message": "اختر نوع السجل:"
+   },
+   "ext_ChooseRecordToChangePW": {
+      "message": "ما السجل الذي تريد أن يغير Keeper كلمة المرور له؟"
+   },
+   "ext_CityPlaceholder": {
+      "message": "الجيزة"
+   },
+   "ext_Copy2FACode": {
+      "message": "نسخ رمز المصادقة الثنائية"
+   },
+   "ext_CopyCCN": {
+      "message": "نسخ رقم البطاقة"
+   },
+   "ext_CopyCVV": {
+      "message": "نسخ رمز التحقق من البطاقة (CVV)"
+   },
+   "ext_CopyLoginID": {
+      "message": "نسخ معرف تسجيل الدخول"
+   },
+   "ext_CopyPIN": {
+      "message": "نسخ رقم التعريف الشخصي (PIN)"
+   },
+   "ext_CopyPassphrase": {
+      "message": "نسخ عبارة المرور"
+   },
+   "ext_CopyPassword": {
+      "message": "نسخ كلمة المرور"
+   },
+   "ext_CopyUsername": {
+      "message": "نسخ اسم المستخدم"
+   },
+   "ext_DarkMode": {
+      "message": "النمط الداكن"
+   },
+   "ext_Date": {
+      "message": "التاريخ"
+   },
+   "ext_Encryption": {
+      "message": "التشفير"
+   },
+   "ext_ExpiredMasterPasswordDesc": {
+      "message": "عليك تغيير كلمة المرور الرئيسية الخاصة بك قبل أن تتمكن من تسجيل الدخول مرة أخرى."
+   },
+   "ext_ExpiredMasterPasswordTitle": {
+      "message": "انتهت صلاحية كلمة المرور الرئيسية الخاصة بك."
+   },
+   "ext_ExpiresMMYY": {
+      "message": "انتهاء الصلاحية (شهر/سنة)"
+   },
+   "ext_FirstNamePlaceholder": {
+      "message": "إيهاب"
+   },
+   "ext_FontSize": {
+      "message": "حجم الخط"
+   },
+   "ext_FontSizeDescription": {
+      "message": "اسحب شريط التمرير أدناه لتغيير حجم خط النص في الملحق."
+   },
+   "ext_FormFieldIcons": {
+      "message": "أيقونات حقل النموذج"
+   },
+   "ext_FormFieldIconsDesc": {
+      "message": "تظهر أيقونات Keeper داخل حقول النماذج القابلة للملء ويمكن النقر عليها لعرض المقترحات والخيارات الإضافية."
+   },
+   "ext_FullNamePlaceholder": {
+      "message": "إيهاب عبد الحفيظ"
+   },
+   "ext_Hidden": {
+      "message": "مخفية"
+   },
+   "ext_HideQRCode": {
+      "message": "إخفاء رمز QR"
+   },
+   "ext_KeeperAskLoginIntervalQuestion": {
+      "message": "تسجيل الخروج تلقائياً من Keeper بعد:"
+   },
+   "ext_LastNamePlaceholder": {
+      "message": "عبد الحفيظ"
+   },
+   "ext_LightMode": {
+      "message": "النمط الفاتح"
+   },
+   "ext_LoginIDCopied": {
+      "message": "تم نسخ تسجيل الدخول!"
+   },
+   "ext_Logout": {
+      "message": "تسجيل الخروج"
+   },
+   "ext_LogoutOfUsername": {
+      "message": "تسجيل الخروج من XXX"
+   },
+   "ext_LogoutTimer": {
+      "message": "مؤقت تسجيل الدخول عند عدم النشاط"
+   },
+   "ext_Lowercase": {
+      "message": "الأحرف الصغيرة"
+   },
+   "ext_MatchingCount": {
+      "message": "XXX تطابق"
+   },
+   "ext_MatchingRecordCount": {
+      "message": "XXX سجل متطابق"
+   },
+   "ext_MatchingRecords": {
+      "message": "السجلات المطابقة"
+   },
+   "ext_MatchingRecordsCount": {
+      "message": "XXX سجلات مطابقة"
+   },
+   "ext_MatchingSites": {
+      "message": "المواقع المطابقة"
+   },
+   "ext_Matching_records_amount_plural": {
+      "message": "XXX من بيانات تسجيل الدخول المتوافقة"
+   },
+   "ext_Matching_records_amount_singular": {
+      "message": "XXX تسجيل دخول متوافق"
+   },
+   "ext_MyGoogleLogin": {
+      "message": "تسجيل الدخول إلى حسابي على Google"
+   },
+   "ext_MyVault": {
+      "message": "مخزني"
+   },
+   "ext_Name": {
+      "message": "الاسم"
+   },
+   "ext_NetworkName": {
+      "message": "اسم الشبكة"
+   },
+   "ext_NetworkVisibility": {
+      "message": "رؤية الشبكة"
+   },
+   "ext_NoMatchingAddresses": {
+      "message": "لا توجد عناوين في خزينتك. هل تريد إنشاء عنوان؟"
+   },
+   "ext_NoMatchingPaymentCards": {
+      "message": "لا توجد بطاقات دفع في خزينتك. هل تود إنشاء بطاقة دفع؟"
+   },
+   "ext_NoMatchingRecords": {
+      "message": "لا توجد سجلات في خزينتك تتطابق مع هذا الموقع. هل تريد إنشاء سجل؟"
+   },
+   "ext_NoRecordsMessage": {
+      "message": "ليس لديك سجلات."
+   },
+   "ext_NoResultsFound": {
+      "message": "لم يتم العثور على نتائج"
+   },
+   "ext_NotesCopied": {
+      "message": "تم نسخ الملاحظات!"
+   },
+   "ext_Number": {
+      "message": "الرقم"
+   },
+   "ext_Numbers": {
+      "message": "الأرقام"
+   },
+   "ext_OfflineUnavailable": {
+      "message": "الخزينة من دون اتصال بالإنترنت غير متاحة على هذا الجهاز حتى تقوم بتسجيل الدخول مرة واحد على الأقل أثناء اتصالك بالإنترنت. لاحظ أن الخزينة من دون اتصال بالإنترنت متاحة فقط لعملاء إصدار Business وEnterprise من Keeper بموافقة مسؤول Keeper."
+   },
+   "ext_OneResult": {
+      "message": "نتيجة واحدة لـ\"XXX\""
+   },
+   "ext_OpenInVault": {
+      "message": "فتح في الخزينة"
+   },
+   "ext_PINCopied": {
+      "message": "تم نسخ رقم التعريف الشخصي (PIN)"
+   },
+   "ext_PaymentCard": {
+      "message": "بطاقة الدفع"
+   },
+   "ext_PhoneNumberPlaceholder": {
+      "message": "(+1) 419-843-2744"
+   },
+   "ext_PopupFinalNotice": {
+      "message": "إشعار نهائي"
+   },
+   "ext_PopupFinalNoticeMessage": {
+      "message": "ستنتهي الفترة التجريبية من Keeper بعد 24 ساعة. وسيتم تعطيل الوصول إلى الميزات المميزة. الرجاء الترقية الآن للاحتفاظ بالوصول الكامل."
+   },
+   "ext_PromptAppearanceDesc": {
+      "message": "خصص الطريقة التي تود عن طريقها عرض المطالبات على شاشتك."
+   },
+   "ext_RecordSaved": {
+      "message": "تم حفظ السجل"
+   },
+   "ext_RemoveAccountDescription": {
+      "message": "سوف يتم حذف XXX من قائمة تسجيل الدخول."
+   },
+   "ext_RemoveAccountTitle": {
+      "message": "حذف الحساب من القائمة"
+   },
+   "ext_ResendCode": {
+      "message": "إعادة إرسال الرمز"
+   },
+   "ext_ResetPassword": {
+      "message": "إعادة تعيين كلمة المرور"
+   },
+   "ext_ResultsCount": {
+      "message": "XXX نتائج"
+   },
+   "ext_ResultsCountFor": {
+      "message": "XXX نتائج لـ \"YYY\""
+   },
+   "ext_ResultsCountNone": {
+      "message": "لا يوجد نتائج لـ \"YYY\""
+   },
+   "ext_ResultsFound": {
+      "message": "تم العثور على XXX نتائج"
+   },
+   "ext_Revert": {
+      "message": "لا، رجوع"
+   },
+   "ext_SSOMessage": {
+      "message": "يتم توفير نطاق المؤسسات من خلال مسؤول Keeper الخاص بك."
+   },
+   "ext_SaveToVault": {
+      "message": "حفظ إلى الخزينة"
+   },
+   "ext_SearchFavorites": {
+      "message": "بحث في التفضيلات"
+   },
+   "ext_SearchVault": {
+      "message": "بحث في الخزينة"
+   },
+   "ext_ShowQRCodeScan": {
+      "message": "السماح للآخرين بالانضمام إلى هذه الشبكة من خلال مسح \u003Ckeepertag>رمز QR\u003C/keepertag>."
+   },
+   "ext_SortBy": {
+      "message": "الفرز حسب"
+   },
+   "ext_StatePlaceholder": {
+      "message": "القاهرة"
+   },
+   "ext_Symbols": {
+      "message": "الرموز"
+   },
+   "ext_TermsPrivacy": {
+      "message": "أوافق على\u003Ckeepertag>شروط استخدام \u003C/keepertag> و\u003Ckeepertag>سياسة الخصوصية\u003C/keepertag> Keeper"
+   },
+   "ext_TimerSaved": {
+      "message": "تم حفظ المؤقت!"
+   },
+   "ext_TitleRequired": {
+      "message": "العنوان (مطلوب)"
+   },
+   "ext_TwoFactorCopied": {
+      "message": "تم نسخ رمز المصادقة الثنائية!"
+   },
+   "ext_Type": {
+      "message": "النوع"
+   },
+   "ext_UnableToLoginTitle": {
+      "message": "تعذر تسجيل الدخول إلى Keeper"
+   },
+   "ext_UnsavedPrompt": {
+      "message": "هناك تغييرات غير محفوظة، هل تريد الإلغاء بالتأكيد؟"
+   },
+   "ext_UpdateRecord": {
+      "message": "هل تريد تحديث هذا السجل؟"
+   },
+   "ext_Uppercase": {
+      "message": "أحرف كبيرة"
+   },
+   "ext_Use": {
+      "message": "استخدام"
+   },
+   "ext_UseAsDefaultSettings": {
+      "message": "الاستخدام كإعدادات افتراضية"
+   },
+   "ext_UsePassphrase": {
+      "message": "استخدام عبارة المرور"
+   },
+   "ext_UsePassword": {
+      "message": "استخدام كلمة مرور"
+   },
+   "ext_UsernameCopied": {
+      "message": "تم نسخ اسم المستخدم!"
+   },
+   "ext_Verify": {
+      "message": "تحقق"
+   },
+   "ext_Visible": {
+      "message": "مرئية"
+   },
+   "ext_ZipCodePlaceholder": {
+      "message": "1234"
+   },
+   "ext_accessibility": {
+      "message": "تسهيلات الاستخدام"
+   },
+   "ext_account_number": {
+      "message": "رقم الحساب"
+   },
+   "ext_account_type": {
+      "message": "نوع الحساب"
+   },
+   "ext_action_requires_authentication": {
+      "message": "يتطلب الإجراء مصادقة"
+   },
+   "ext_add_new_record": {
+      "message": "إضافة سجل جديد"
+   },
+   "ext_add_record_text": {
+      "message": "إضافة عنوان سجل."
+   },
+   "ext_add_to_keeper": {
+      "message": "إضافة إلى Keeper"
+   },
+   "ext_autofill_desc": {
+      "message": "في حالة عدم وجود سجلات متطابقة لهذا الموقع، اقترح بيانات تسجيل الدخول وكلمات مروري القوية التي تم أنشاؤها والمخزنة عند الكتابة في حقل ما."
+   },
+   "ext_autofill_desc_2": {
+      "message": "إذا لم تكن هناك سجلات متوافقة للموقع، قم باقتراح أسماء المستخدم المخزنة الخاصة بي وكلمات مرور قوية موّلدة عند الكتابة داخل الحقول."
+   },
+   "ext_biometric_login_canceled": {
+      "message": "تم إلغاء العملية أو انتهت مهلتها. يُرجى المحاولة مرة أخرى."
+   },
+   "ext_biometric_login_desc": {
+      "message": "تمكين تسجيل الدخول البيومتري باستخدام مفتاح مرور للوصول بشكل أسرع وأكثر أمانًا. يتم تخزين مفتاح المرور المشفر بشكل آمن في منطقة آمنة داخل الجهاز، وبهذا فلا حاجة إلى كلمات المرور والمصادقة متعددة العوامل (MFA). لا يمكن لـ Keeper أبدًا الوصول إلى بياناتك الحيوية."
+   },
+   "ext_biometric_login_feature_desc": {
+      "message": "قم بإعداد تسجيل الدخول البيومتري باستخدام مفتاح مرور للوصول السريع والآمن — لا يلزم كلمة مرور. تحديث في أي وقت في الإعدادات."
+   },
+   "ext_biometric_login_restricted_desc": {
+      "message": "تم تقييد تسجيل الدخول البيومتري باستخدام مفتاح مرور من قِبل المسؤول."
+   },
+   "ext_biometric_login_restricted_header": {
+      "message": "تسجيل الدخول البيومتري مقيد"
+   },
+   "ext_confirm_screenshot_desc": {
+      "message": "تحقّق من اللقطة التي التقطتها. أعد الالتقاط إذا لزم الأمر، أو تابع مراجعة المعلومات المكتشفة وأضف الملاحظات."
+   },
+   "ext_create_address_restricted_message_2": {
+      "message": "قام المسؤول بتقييد إنشاء العناوين."
+   },
+   "ext_create_card_restricted_message_2": {
+      "message": "قام المسؤول بتقييد إنشاء بطاقات الدفع."
+   },
+   "ext_create_passkey_desc": {
+      "message": "أنشئ مفتاح مرور لتمكين استخدام ماسحات القياسات البيومترية لتسجيل الدخول، إذا كان جهازك يدعم ذلك."
+   },
+   "ext_create_record_in_shared_folders_only_message": {
+      "message": "يمكن إنشاء السجلات داخل المجلدات المشتركة فقط. المسؤول الخاص بك هو من فرض هذا الحظر."
+   },
+   "ext_create_record_in_shared_folders_only_message_2": {
+      "message": "قام المسؤول الخاص بك بفرض قيود على مكان إنشاء السجلات داخل المجلدات المشتركة."
+   },
+   "ext_create_record_restricted_header": {
+      "message": "إنشاء السجلات محظور"
+   },
+   "ext_create_record_restricted_header_2": {
+      "message": "الإنشاء محظور"
+   },
+   "ext_create_record_restricted_message": {
+      "message": "حظر المسؤول الخاص بك إنشاء السجلات."
+   },
+   "ext_create_record_restricted_message_2": {
+      "message": "قام المسؤول بتقييد إنشاء سجلات تسجيل الدخول."
+   },
+   "ext_date_of_birth": {
+      "message": "تاريخ الميلاد"
+   },
+   "ext_days_maximum": {
+      "message": "XXX يوم/أيام بحد أقصى"
+   },
+   "ext_default": {
+      "message": "افتراضي"
+   },
+   "ext_default_card": {
+      "message": "البطاقة الافتراضية"
+   },
+   "ext_delete_passkey_desc": {
+      "message": "سيؤدي حذف مفتاح المرور هذا إلى إزالته من حسابك. قد يؤثر ذلك في قدرتك على تسجيل الدخول على الأجهزة التي يكون فيها مفتاح المرور هذا مطلوبًا. إذا تابعت، فتأكد من أن بإمكانك الوصول إلى كلمة المرور الرئيسية أو تسجيل الدخول الأحادي (SSO) لتجنب قفل حسابك."
+   },
+   "ext_dna_code_prompt": {
+      "message": "أدخل الرمز من ساعتك الذكية."
+   },
+   "ext_driver_license": {
+      "message": "رقم رخصة القيادة"
+   },
+   "ext_email_prompt": {
+      "message": "قم بإنشاء بيانات تسجيل دخول باستخدام البريد الإلكتروني أدناه."
+   },
+   "ext_enter_secret_key": {
+      "message": "أدخل مفتاح السر"
+   },
+   "ext_enter_text_code": {
+      "message": "أدخل الرمز المرسل عبر الرسائل النصية."
+   },
+   "ext_enter_totp": {
+      "message": "أدخل الرمز من تطبيق المصادقة/TOTP الخاص بك."
+   },
+   "ext_existing_passkey_detected_desc": {
+      "message": "يبدو أن لديك بالفعل مفتاح مرور لهذا الحساب على جهازك."
+   },
+   "ext_history": {
+      "message": "السجل"
+   },
+   "ext_hostname": {
+      "message": "اسم المضيف أو عنوان IP"
+   },
+   "ext_hours_maximum": {
+      "message": "XXX ساعة/ساعات بحد أقصى"
+   },
+   "ext_http_fill_warning_desc": {
+      "message": "إرسال تحذير عند استخدام KeeperFill على مواقع الويب من دون اتصال HTTPS مشفر."
+   },
+   "ext_iframe_err": {
+      "message": "الرجاء النقر على قفل Keeper في شريط أدوات متصفحك لتسجيل الدخول."
+   },
+   "ext_incorrect_totp_code": {
+      "message": "الرمز الخاص بك غير صالح أو انتهت صلاحيته.\\nانقر \"إعادة إرسال الرمز\" للحصول على رمز جديد."
+   },
+   "ext_install_instruction_click": {
+      "message": "انقر على XXX وYYY بجوار Keeper."
+   },
+   "ext_install_instruction_header": {
+      "message": "أضف Keeper إلى شريط أدواتك للوصول إليه بسهولة"
+   },
+   "ext_install_instructions_pin": {
+      "message": "ثبّت Keeper في شريط الأدوات للوصول إليه بسهولة"
+   },
+   "ext_install_instructions_select": {
+      "message": "حدد متصفحك للحصول على التعليمات"
+   },
+   "ext_launch_site": {
+      "message": "فتح موقع الويب"
+   },
+   "ext_log_in_to_keeper": {
+      "message": "تسجيل الدخول إلى Keeper"
+   },
+   "ext_minutes_maximum": {
+      "message": "XXX دقيقة/دقائق بحد أقصى"
+   },
+   "ext_mob_banner_day_left_in_trial": {
+      "message": "يتبقى يوم واحد في الفترة التجريبية"
+   },
+   "ext_mob_banner_days_left_in_trial": {
+      "message": "تبقى XXX أيام في الفترة التجريبية"
+   },
+   "ext_mob_turn_on_now": {
+      "message": "التشغيل الآن"
+   },
+   "ext_mp_reentry_modal_message": {
+      "message": "يطلب منك المشرف إعادة المصادقة."
+   },
+   "ext_mp_reentry_overlay_alert_message": {
+      "message": "يطلب مسؤول Keeper الخاص بك إعادة المصادقة. افتح Keeper من شريط أدوات المتصفح للمتابعة."
+   },
+   "ext_new_login_creation_screen_description": {
+      "message": "لتحسين الأمن، سيتم فتح علامة تبويب منفصلة لإنشاء سجل من موقع ويب."
+   },
+   "ext_new_login_creation_screen_header": {
+      "message": "شاشة إنشاء تسجيل دخول جديدة"
+   },
+   "ext_no_matching_addresses_create_restricted": {
+      "message": "لا توجد عناوين في خزينتك. حظر المسؤول الخاص بك إنشاء العناوين."
+   },
+   "ext_no_matching_cards_create_restricted": {
+      "message": "لا توجد بطاقات دفع في خزينتك. حظر المسؤول الخاص بك إنشاء بطاقات الدفع."
+   },
+   "ext_no_matching_records_create_restricted": {
+      "message": "لا يوجد سجلات مطابقة. حظر المسؤول الخاص بك إنشاء السجلات."
+   },
+   "ext_open_admin_console": {
+      "message": "فتح وحدة تحكم المسؤول"
+   },
+   "ext_open_vault": {
+      "message": "الفتح في خزينة الويب"
+   },
+   "ext_overwrite_field_content": {
+      "message": "استبدال محتوى الحقل"
+   },
+   "ext_overwrite_field_content_desc": {
+      "message": "قم بتشغيله للسماح لـ Keeper باستبدال محتوى الحقل الحالي باستخدام الحقول المخصصة لهذا السجل."
+   },
+   "ext_passport_number": {
+      "message": "رقم جواز السفر"
+   },
+   "ext_password_prompt": {
+      "message": "دع Keeper ينشئ كلمة مرور قوية."
+   },
+   "ext_password_rules_unmet_warning": {
+      "message": "يطلب المسؤول الخاص بك أن تتبع كلمة مرورك القواعد التالية:"
+   },
+   "ext_pin_code": {
+      "message": "رمز PIN"
+   },
+   "ext_prevent_lockout_desc": {
+      "message": "تأكد من أنك لا تزال قادرًا على تسجيل الدخول عبر كلمة المرور الرئيسية أو تسجيل الدخول الأحادي (SSO) قبل تعطيل تسجيل الدخول البيومتري لتجنب قفل حسابك."
+   },
+   "ext_private_key": {
+      "message": "المفتاح الخاص"
+   },
+   "ext_prompt_to_login_subtext": {
+      "message": "أين هذا؟"
+   },
+   "ext_public_key": {
+      "message": "المفتاح العام"
+   },
+   "ext_push_notif": {
+      "message": "تم إرسال الإعلام المؤقت إلى الجهاز المعتمد."
+   },
+   "ext_quick_sync_your_data": {
+      "message": "مزامنة سريعة لبياناتك"
+   },
+   "ext_report_autofill_prompt_desc": {
+      "message": "التقط لقطة سريعة للشاشة—يستخدم Keeper البيانات لتحديد المشكلة. يستغرق الأمر بضع ثوانٍ فقط!"
+   },
+   "ext_routing_number": {
+      "message": "رقم التحويل"
+   },
+   "ext_save_to_keeper": {
+      "message": "حفظ كلمات المرور في Keeper؟"
+   },
+   "ext_scan_2fa_code": {
+      "message": "مسح رمز المصادقة الثنائية"
+   },
+   "ext_scan_failed": {
+      "message": "فشل المسح"
+   },
+   "ext_scan_failed_warning": {
+      "message": "لم يتم اكتشاف رمز كلمة المرور الصالحة لمرة واحدة المستندة إلى الوقت. يُرجى إدخال مفتاحك السري يدويًا."
+   },
+   "ext_security_code": {
+      "message": "رمز الأمان"
+   },
+   "ext_security_title": {
+      "message": "الأمن"
+   },
+   "ext_select_a_location": {
+      "message": "حدد موقعًا"
+   },
+   "ext_session_persistence_setting_desc": {
+      "message": "البقاء قيد تسجيل الدخول في Keeper عند إغلاق المتصفح أو إعادة تشغيل الكمبيوتر."
+   },
+   "ext_session_persistence_setting_prompt": {
+      "message": "نوصي بأن تقوم بتشغيل تسجيل الخروج التلقائي في حال ابتعدت عن جهازك بعد تسجيل الدخول إلى Keeper."
+   },
+   "ext_session_persistence_setting_title": {
+      "message": "البقاء قيد تسجيل الدخول"
+   },
+   "ext_sharing_restricted_file_with_attachment_message": {
+      "message": "قام المسؤول الخاص بك بحظرك من مشاركة السجلات التي تتضمن ملفات مرفقة."
+   },
+   "ext_sharing_restricted_header": {
+      "message": "المشاركة محظورة"
+   },
+   "ext_sharing_restricted_indirect_sharing_message": {
+      "message": "قام المسؤول الخاص بك بحظرك من إضافة سجلات إلى المجلدات المشتركة."
+   },
+   "ext_sharing_restricted_message": {
+      "message": "قام المسؤول الخاص بك بحظرك من مشاركة السجلات."
+   },
+   "ext_sharing_through_shared_folders_only_message": {
+      "message": "وفقًا للمسؤول الخاص بك يُسمح لك بمشاركة السجلات عبر إضافتها إلى المجلدات المشتركة فقط."
+   },
+   "ext_single_suggested": {
+      "message": "سجل واحد مقترح"
+   },
+   "ext_social_security_number": {
+      "message": "رقم التأمين الاجتماعي"
+   },
+   "ext_software_license_number": {
+      "message": "مفتاح ترخيص البرامج"
+   },
+   "ext_sso_pw": {
+      "message": "تسجيل الدخول بكلمة مرور SSO الرئيسية"
+   },
+   "ext_stay_logged": {
+      "message": "البقاء قيد تسجيل الدخول بين الجلسات"
+   },
+   "ext_stay_logged_desc": {
+      "message": "عدم المطالبة بتسجيل الدخول عند إغلاق التطبيق وإعادة فتحه أو إعادة تشغيل الجهاز إلا إذا تم تسجيل الخروج يدوياً أو تلقائياً باستخدام \"تسجيل الخروج عند عدم النشاط\"."
+   },
+   "ext_stay_logged_desc_2": {
+      "message": "عدم المطالبة بتسجيل الدخول عند إغلاق Keeper أو إعادة تشغيله أو إعادة تشغيل جهازك، إلا في حال تم تسجيل خروجك يدويًا أو تلقائيًا بسبب تسجيل الخروج لعدم النشاط."
+   },
+   "ext_subsequent_fill": {
+      "message": "الملء التلقائي على الصفحات التالية"
+   },
+   "ext_subsequent_fill_desc": {
+      "message": "قم بإيقاف تشغيله لمنع Keeper من الملء التلقائي على عدة صفحات أثناء عمليات تسجيل الدخول متعددة الخطوات."
+   },
+   "ext_sync_complete": {
+      "message": "اكتملت المزامنة"
+   },
+   "ext_sync_setting_desc": {
+      "message": "استخدم الخيارات أدناه لتأكيد تحديث المخزن يدويًا."
+   },
+   "ext_totp_delete_warning_2": {
+      "message": "يمكنك استعادة رموز المصادقة الثنائية المحذوفة عبر استعادة الإصدارات السابقة من هذا السجل في خزينتك."
+   },
+   "ext_totp_delete_warning_3": {
+      "message": "عطّل المصادقة متعددة العوامل لهذه الخدمة أو موقع الويب قبل حذفها من هذا السجل. سيؤدي ذلك إلى منع فقدان الوصول إلى هذه الخدمة."
+   },
+   "ext_totp_restricted_message": {
+      "message": "حظر المسؤول الخاص بك القدرة على إضافة رموز مصادقة ثنائية إلى السجلات."
+   },
+   "ext_two_factor_channel_rsa": {
+      "message": "أدخل رمز مرور RSA الخاص بك."
+   },
+   "ext_two_factor_field_tooltip_message": {
+      "message": "استخدم Keeper لتخزين رموز المصادقة الثنائية وملئها تلقائياً على أي جهاز."
+   },
+   "ext_two_factor_generic_code_prompt": {
+      "message": "أدخل الرمز من طريقة المصادقة الثنائية الخاصة بك."
+   },
+   "ext_type_or_generate": {
+      "message": "كتابة أو توليد"
+   },
+   "ext_website": {
+      "message": "موقع ويب"
+   },
+   "ext_zip_code": {
+      "message": "الرمز البريدي"
+   },
+   "extension_DetailView_itemCopied": {
+      "message": "تم النسخ إلى الحافظة"
+   },
+   "extension_phonetype_home": {
+      "message": "المنزل"
+   },
+   "extension_phonetype_mobile": {
+      "message": "للجوال"
+   },
+   "extension_phonetype_work": {
+      "message": "العمل"
+   },
+   "extension_prompt_to_disable": {
+      "message": "قد يُضعف ملحق المتصفح أداء موقع الويب هذا. يُرجى النقر على أيقونة Keeper في شريط الأدوات لإعادة تمكين Keeper على موقع الويب هذا."
+   },
+   "extension_prompt_to_disable_header": {
+      "message": "تم تعطيل Keeper على موقع الويب الحالي."
+   },
+   "extension_prompt_to_fill": {
+      "message": "هل ترغب أن يقوم Keeper بملء بيانات تسجيل دخولك تلقائياً؟"
+   },
+   "extension_prompt_to_login": {
+      "message": "يُرجى النقر على أيقونة Keeper في شريط الأدوات الخاص بمتصفحك لتسجيل الدخول."
+   },
+   "fade_in": {
+      "message": "تلاشي للداخل"
+   },
+   "fastfill_RecordSaved": {
+      "message": "تم حفظ السجل!"
+   },
+   "fastfill_less": {
+      "message": "أقل"
+   },
+   "fastfill_more": {
+      "message": "المزيد"
+   },
+   "featureRestricted": {
+      "message": "تم تقييد الميزة"
+   },
+   "feature_restricted_by_admin": {
+      "message": "ميزة مقيدة من مسؤول Keeper"
+   },
+   "ff_private_window_error": {
+      "message": "يُرجى استخدام خزينة الويب لتسجيل الدخول إلى Keeper عند استخدام وضع نافذة Firefox الخاص (Firefox Private Window). سيقوم Keeper بملء المواقع تلقائياً، ولكن لن يكون شريط الأدوات متاحاً."
+   },
+   "field_icon": {
+      "message": "أيقونة حقول الإدخال"
+   },
+   "field_icons": {
+      "message": "أيقونات الحقول"
+   },
+   "field_icons_desc": {
+      "message": "اختر ما إذا كانت أيقونات Keeper ستظهر في الحقول أم لا ومتى تظهر."
+   },
+   "field_text": {
+      "message": "نص"
+   },
+   "files_learnmorepage_description": {
+      "message": "Keeper is a secure and easy-to-use password manager and digital vault."
+   },
+   "files_sorry_later": {
+      "message": "لاحقاً"
+   },
+   "files_upload_create_new_dontask": {
+      "message": "لا تسأل مرة أخرى"
+   },
+   "fill_address": {
+      "message": "ملء العنوان"
+   },
+   "fill_and_save_password": {
+      "message": "ملء كلمة المرور وحفظها"
+   },
+   "fill_card": {
+      "message": "ملء البطاقة"
+   },
+   "fill_card_number": {
+      "message": "ملء رقم البطاقة"
+   },
+   "fill_city": {
+      "message": "ملء المدينة"
+   },
+   "fill_cvv": {
+      "message": "ملء CVV"
+   },
+   "fill_email_address": {
+      "message": "ملء عنوان البريد الإلكتروني"
+   },
+   "fill_emailusername": {
+      "message": "ملء البريد الإلكتروني/اسم المستخدم"
+   },
+   "fill_expiration_date": {
+      "message": "ملء تاريخ انتهاء الصلاحية"
+   },
+   "fill_first_name": {
+      "message": "ملء الاسم الأول"
+   },
+   "fill_icon_is_missing": {
+      "message": "أيقونة الملء مفقودة"
+   },
+   "fill_last_name": {
+      "message": "ملء الاسم الأخير"
+   },
+   "fill_name_on_card": {
+      "message": "ملء الاسم الموجود على البطاقة"
+   },
+   "fill_phone_number": {
+      "message": "ملء رقم الهاتف"
+   },
+   "fill_prompt": {
+      "message": "مطالبة الملء"
+   },
+   "fill_record": {
+      "message": "ملء السجل"
+   },
+   "fill_state": {
+      "message": "ملء الولاية"
+   },
+   "fill_street_address_line_one": {
+      "message": "ملء سطر عنوان الشارع 1"
+   },
+   "fill_street_address_line_two": {
+      "message": "ملء سطر عنوان الشارع 2"
+   },
+   "fill_tool": {
+      "message": "أداة KeeperFill"
+   },
+   "fill_tool_desc": {
+      "message": "تعرض أيقونات Keeper في حقول النماذج بحيث يمكنك النقر عليها لملء بيانات اعتمادك تلقائيًا في مواقع الويب والنماذج."
+   },
+   "fill_zip_postal_code": {
+      "message": "ملء الرمز البريدي"
+   },
+   "filled": {
+      "message": "تمت تعبئته"
+   },
+   "filter": {
+      "message": "عامل التصفية"
+   },
+   "fix_autofill_fields": {
+      "message": "إصلاح حقول الملء التلقائي"
+   },
+   "fix_webpage": {
+      "message": "إصلاح صفحة الويب"
+   },
+   "footer_new_security": {
+      "message": "الأمن"
+   },
+   "forgot_master_password": {
+      "message": "هل نسيت كلمة المرور الرئيسية"
+   },
+   "free_trial_expired_please_purchase": {
+      "message": "لقد انتهت فترة تجربتك المجانية. الرجاء شراء اشتراك."
+   },
+   "full_name": {
+      "message": "الاسم بالكامل"
+   },
+   "full_sync": {
+      "message": "مزامنة كاملة"
+   },
+   "full_sync_desc": {
+      "message": "قد تستغرق مزامنة كافة البيانات بضع دقائق."
+   },
+   "generator_history": {
+      "message": "سجّل مولّد كلمات المرور"
+   },
+   "generic_restriction": {
+      "message": "Performing this action is restricted by your Keeper administrator."
+   },
+   "get_help": {
+      "message": "احصل على مساعدة"
+   },
+   "got_it": {
+      "message": "فهمت"
+   },
+   "greater_than_zero": {
+      "message": "لابد أن تكون القيمة أكبر من 0."
+   },
+   "groups_invalid_code2": {
+      "message": "الرمز الذي أدخلته غير صالح"
+   },
+   "groups_invalid_validation_code": {
+      "message": "رمز التأكيد الذي قدمته غير صحيح."
+   },
+   "header_admin": {
+      "message": "Admin Console"
+   },
+   "hidden_field": {
+      "message": "حقل مخفي"
+   },
+   "hide_contents": {
+      "message": "إخفاء المحتويات"
+   },
+   "hide_password": {
+      "message": "إخفاء كلمة المرور"
+   },
+   "hover_locks": {
+      "message": "إظهار القفل عند وضع المؤشر"
+   },
+   "http_basic_auth_description": {
+      "message": "موقع الويب هذا (XXX) يطلب تسجيل الدخول باستخدام مصادقة HTTP الأساسية. إذا كنت تثق في هذا الموقع، وكنت ترغب في تسجيل الدخول باستخدام سجل Keeper المطابق (YYY) من خزينتك، انقر على \"موافق\" أو انقر على \"إلغاء\" للخروج."
+   },
+   "http_basic_auth_title": {
+      "message": "طلب الملء التلقائي باستخدام مصادقة HTTP الأساسية"
+   },
+   "http_fill_warning_prompt_desc": {
+      "message": "احصل على إشعار لإعلامك بالمخاطر الأمنية عند محاولة الملء التلقائي على مواقع الويب التي لا تحتوي على اتصال  HTTPS مشفر."
+   },
+   "http_fill_warning_promt": {
+      "message": "مطالبة تحذير ملء HTTP"
+   },
+   "idb_storage_cleared": {
+      "message": "تم مسح تخزين IndexedDB"
+   },
+   "idb_storage_visible": {
+      "message": "تخزين IDB ظاهر"
+   },
+   "in120seconds": {
+      "message": "120 ثانية"
+   },
+   "in30seconds": {
+      "message": "30 ثانية"
+   },
+   "in45seconds": {
+      "message": "45 ثانية"
+   },
+   "in60seconds": {
+      "message": "60 ثانية"
+   },
+   "in90seconds": {
+      "message": "90 ثانية"
+   },
+   "inactivity_logout_timer_desc": {
+      "message": "عيّن مقدار الوقت الذي يمكن أن تبقى فيه غير نشط قبل أن يتم تسجيل خروجك تلقائيًا."
+   },
+   "individual_fill_cross_domain": {
+      "message": "اكتشف Keeper أن الموقع XXX يحتوي على نموذج تسجيل دخول مضمن باستخدام المجال YYY. إذا كنت تثق بهذا الموقع، انقر على \"موافق\" لملء بيانات الاعتماد أو انقر على \"إلغاء\" للإنهاء."
+   },
+   "input_fields_desc": {
+      "message": "تظهر الأيقونات بداخل حقول مدخلات قابلة للتعبئة ويمكن أن يتم النقر عليها لإحضار مقترحات Keeperوخيارات أخرى."
+   },
+   "insert_security_key": {
+      "message": "أدخل مفتاح الأمن"
+   },
+   "introducing_clipboard_expiration": {
+      "message": "تقديم ميزة انتهاء صلاحية الحافظة (Clipboard Expiration)"
+   },
+   "introducing_clipboard_expiration_desc": {
+      "message": "حدِّد مدة بقاء بيانات الاعتماد المنسوخة في الحافظة. يمكنك الوصول إلى هذا في الإعدادات."
+   },
+   "introducing_passkeys": {
+      "message": "إليك مفاتيح المرور من Keeper"
+   },
+   "introducing_passkeys_content": {
+      "message": "استخدم ملحقات المتصفح من Keeper لإنشاء مفاتيح مرور وتسجيل الدخول إلى مواقع الويب المدعومة. قم بإدارة مفاتيح مرورك ومشاركتها باستخدام خزينة Keeper الخاصة بك على جميع أجهزتك بأمان."
+   },
+   "invalid_email_or_password": {
+      "message": "هناك خطأ في البريد الإلكتروني أو كلمة المرو."
+   },
+   "invalid_two_factor_data": {
+      "message": "بيانات المصادقة الثنائية غير صالحة"
+   },
+   "json_code_snippet": {
+      "message": "قصاصة JSON البرمجية"
+   },
+   "keeper_login": {
+      "message": "قم بتسجيل الدخول إلى Keeper لملء بيانات الاعتماد."
+   },
+   "keeper_passkey_created": {
+      "message": "تم إنشاء مفتاح مرور Keeper"
+   },
+   "keeper_push": {
+      "message": "إعلام Keeper"
+   },
+   "keeper_push_description": {
+      "message": "تُعد إعلامات Keeper وسيلة أمان بسيطة للحساب وتستخدم لمسة واحدة عوضاً عن الرموز. فعندما تقوم بتسجيل الدخول إلى Keeper على جهاز جديد، ستتلقى مطالبة بلمسة واحدة على جهازك الآخر."
+   },
+   "keeper_push_description_short": {
+      "message": "Keeper Push عبارة عن إشعار مصادقة سهل وآمن يُرسل إلى أحد أجهزتك المعتمدة."
+   },
+   "keeper_push_not_approved": {
+      "message": "لم تتم الموافقة على الإعلام المؤقت."
+   },
+   "keeper_push_sent": {
+      "message": "تم إرسال إعلام Keeper"
+   },
+   "keeper_push_sent_to_device": {
+      "message": "تم إرسال إعلام Keeper إلى الجهاز المعتمد"
+   },
+   "keeper_sso_not_permitted": {
+      "message": "يُسمح لحسابك بتسجيل الدخول إلى Keeper باستخدام تسجيل الدخول الأحادي. ُيرجى التأكد من أن هذا الحساب معيّن لعقدة داخل وحدة تحكم مسؤول Keeper التي تم تزويدها من خلال تسجيل الدخول الأحادي."
+   },
+   "keeperfill_insecure_field": {
+      "message": "لا يستطيع Keeper ملء كلمة مرور في حقل الإدخال. يُرجى النقر على أيقونة القفل الخاصة بحقل النموذج والمحاولة مرة أخرى."
+   },
+   "kfg_enter_password": {
+      "message": "Enter Password"
+   },
+   "kfg_expire": {
+      "message": "تاريخ انتهاء الصلاحية"
+   },
+   "kfg_password_rule_prompt": {
+      "message": "يتطلب مسؤول Keeper الخاص بك أن تتبع كلمة مرورك الرئيسية القواعد التالية:"
+   },
+   "kg_fair": {
+      "message": "مقبولة"
+   },
+   "kg_medium": {
+      "message": "متوسط"
+   },
+   "kg_off": {
+      "message": "إغلاق"
+   },
+   "kg_on": {
+      "message": "On"
+   },
+   "kg_strong": {
+      "message": "قوي"
+   },
+   "kg_two_factor_authentication": {
+      "message": "Two Factor Authentication"
+   },
+   "kg_weak": {
+      "message": "أسبوع"
+   },
+   "landscape_mode": {
+      "message": "الوضع الأفقي"
+   },
+   "last_synced_phrase": {
+      "message": "تمت آخر مزامنة في XXX"
+   },
+   "last_used_date": {
+      "message": "آخر استخدام: XXX"
+   },
+   "launch_and_autofill": {
+      "message": "التشغيل والملء التلقائي"
+   },
+   "launch_vault": {
+      "message": "تشغيل الخزينة"
+   },
+   "learnmo": {
+      "message": "اعرف المزيد"
+   },
+   "local_storage_cleared": {
+      "message": "تم مسح التخزين المحلي"
+   },
+   "local_storage_visible": {
+      "message": "التخزين المحلي مرئي"
+   },
+   "location": {
+      "message": "الموقع"
+   },
+   "lockout_minute": {
+      "message": "نظراً للمحاولات المتكررة، تم تقييد طلبك. حاول مرة أخرى بعد دقيقة واحدة."
+   },
+   "log_in": {
+      "message": "تسجيل الدخول"
+   },
+   "log_in_successful": {
+      "message": "تم تسجيل الدخول بنجاح"
+   },
+   "log_in_with_passkey": {
+      "message": "تسجيل الدخول باستخدام مفتاح المرور"
+   },
+   "login_button_disabled": {
+      "message": "تم تعطيل رز \"تسجيل الدخول\""
+   },
+   "login_different_account": {
+      "message": "تسجيل الدخول بحساب مختلف"
+   },
+   "login_field": {
+      "message": "حقل تسجيل الدخول"
+   },
+   "login_id": {
+      "message": "معرّف تسجيل الدخول"
+   },
+   "login_reminder": {
+      "message": "تذكير بتسجيل الدخول"
+   },
+   "login_updated": {
+      "message": "تم تحديث بيانات تسجيل الدخول!"
+   },
+   "logout_of_username": {
+      "message": "تسجيل الخروج من XXX"
+   },
+   "logout_timer_value_invalid": {
+      "message": "قيمة غير صالحة لإعداد مؤقِّت تسجيل الخروج"
+   },
+   "manage_passkeys": {
+      "message": "إدارة مفاتيح المرور"
+   },
+   "master_password": {
+      "message": "كلمة المرور الرئيسية"
+   },
+   "match_on_subdomain": {
+      "message": "مطابقة بناء على المجال الفرعي"
+   },
+   "match_on_subdomain_desc": {
+      "message": "عرض السجلات للملء التلقائي بناء على مطابقة صارمة للمجال الفرعي."
+   },
+   "match_on_subdomain_desc2": {
+      "message": "التحكم في إذا ما كان يتم اقتراح السجلات بناءً على المطابقة الصارمة للنطاق الفرعي."
+   },
+   "match_only_subdomains": {
+      "message": "مطابقة المجالات الفرعية فقط"
+   },
+   "match_system": {
+      "message": "مطابقة النظام"
+   },
+   "max_characters_xxx": {
+      "message": "الحد الأقصى للأحرف XXX"
+   },
+   "maybe_later": {
+      "message": "ربما لاحقاً"
+   },
+   "mob_banner_days_left_desc": {
+      "message": "قم بتشغيل Keeper Unlimited الآن للحصول على الحماية الكاملة."
+   },
+   "multi_line_text": {
+      "message": "نص متعدد السطور"
+   },
+   "multiple_folders": {
+      "message": "مجلدات متعددة"
+   },
+   "multiple_folders_prompt_desc": {
+      "message": "هذا السجل موجود في مجلدات متعددة ولا يمكن تحريره هنا. يرجى الانتقال إلى خزينة الويب أو تطبيق سطح المكتب لإجراء التغييرات."
+   },
+   "multiple_folders_prompt_title": {
+      "message": "السجل في مجلدات متعددة"
+   },
+   "name_on_card": {
+      "message": "الاسم على البطاقة"
+   },
+   "need_help_question": {
+      "message": "هل تحتاج لمساعدة؟"
+   },
+   "need_vault_settings_update": {
+      "message": "الرجاء تسجيل الدخول في خزينة الويب لتحديث إعدادات حسابك."
+   },
+   "network_encryption_none": {
+      "message": "لا يوجد تشفير"
+   },
+   "network_encryption_wep": {
+      "message": "WEP"
+   },
+   "network_encryption_wpa": {
+      "message": "WPA"
+   },
+   "network_hidden": {
+      "message": "مخفية"
+   },
+   "network_visible": {
+      "message": "مرئية"
+   },
+   "never_show": {
+      "message": "عدم الإظهار مطلقًا"
+   },
+   "new_password": {
+      "message": "كلمة مرور جديدة"
+   },
+   "new_password_alert": {
+      "message": "يرجى ملء حقوق كلمة المرور الجديدة قبل المتابعة."
+   },
+   "new_password_view": {
+      "message": "الآن، انقر على رمز القفل داخل كل حقل نموذج يطلب كلمة المرور الجديدة الخاصة بك. ثم انقر \"التالي\"."
+   },
+   "new_password_view2": {
+      "message": "الآن، حدد أيقونة Keeper في حقل نموذج كلمة المرور الجديدة لملء كلمة مرورك الجديدة."
+   },
+   "newfreetrial_popup_buy": {
+      "message": "Upgrade Now"
+   },
+   "next_button_disabled": {
+      "message": "تم تعطيل زر \"التالي\""
+   },
+   "next_step_colon_preview": {
+      "message": "الخطوة التالية: معاينة"
+   },
+   "no_animation": {
+      "message": "دون رسم متحرك"
+   },
+   "no_edit_permissions2": {
+      "message": "لا تملك أذونات التعديل في هذا السجل."
+   },
+   "no_email_entered": {
+      "message": "تم تعطيل زر \"التالي\" لأنه لم يتم إدخال بريد إلكتروني صالح."
+   },
+   "no_hist": {
+      "message": "لا يوجد سجل لكلمات المرور"
+   },
+   "no_records": {
+      "message": "لا توجد سجلات في الخزينة"
+   },
+   "no_records_match_domain": {
+      "message": "لا توجد سجلات في خزينتك تحتوي على عنوان موقع ويب يتطابق مع هذا الموقع. الرجاء فحص خزينتك أو إنشاء سجل جديد."
+   },
+   "no_suggest_recs": {
+      "message": "لا توجد سجلات مقترحة"
+   },
+   "no_thanks": {
+      "message": "لا، شكراً"
+   },
+   "non_login_field_does_not_autofill": {
+      "message": "الحقول غير المخصصة لتسجيل الدخول (على سبيل المثال الدفع أو الفواتير) لا تُملأ تلقائيًا"
+   },
+   "not_approved_by_account_owner": {
+      "message": "هذا الجهاز غير معتمد من قبل مالك الحساب. يُرجى الاتصال بمالك الحساب أو دعم Keeper."
+   },
+   "not_yet_used": {
+      "message": "لم يتم استخدامها بعد"
+   },
+   "note": {
+      "message": "ملحوظة"
+   },
+   "notes_header": {
+      "message": "ملاحظات"
+   },
+   "notifications_enabled_reminder": {
+      "message": "تأكد من تمكين التنبيهات على جهازك لتستلم إعلامات Keeper أو افتح التطبيق على جهازك المعتمد."
+   },
+   "ob2020_getstarted_1": {
+      "message": "إن Keeper هو الطريقة الأكثر أماناً لتخزين كلمات مرورك ومعلوماتك الخاصة وحمايتها من مجرمي الإنترنت."
+   },
+   "ob2020_getstarted_2": {
+      "message": "يحمي Keeper كلمات مرورك ويقوم بملئها تلقائياً على جميع أجهزتك، بما في ذلك الأجهزة المحمولة وأجهزة سطح المكتب."
+   },
+   "ob2020_getstarted_3": {
+      "message": "يستخدم Keeper التشفير الشامل على الطرفين مع بنية أمان صفر المعرفة الخاصة به، بحيث يكون لديك سيطرة كاملة على الوصول إلى معلوماتك."
+   },
+   "ob2020_welcome": {
+      "message": "مرحباً بك في خزينة Keeper الخاصة بك!"
+   },
+   "old_password_view": {
+      "message": "يرجى النقر على رمز القفل داخل حقل النموذج لكلمة المرور \"القديمة\" أو \"الحالية\"، إن وجدت. ثم انقر \"التالي\" للمتابعة."
+   },
+   "old_password_view2": {
+      "message": "حدد أيقونة Keeper في حقل نموذج كلمة المرور الحالية أو القديمة لملء كلمة مرورك الحالية."
+   },
+   "once_snapshot_shared_message": {
+      "message": "بعد أن تشارك اللقطة، سنعمل على مراجعتها وسنعلمك حين يتم تطبيق التحديثات."
+   },
+   "one_time_passcode": {
+      "message": "رمز مرور يستخدم لمرة واحدة"
+   },
+   "open_extension": {
+      "message": "فتح الملحق"
+   },
+   "open_my_vault": {
+      "message": "افتح خزينة الويب الخاصة بي"
+   },
+   "open_safari_settings": {
+      "message": "الخروج وفتح إعدادات سفاري"
+   },
+   "other_accounts": {
+      "message": "حسابات أخرى"
+   },
+   "other_login_methods": {
+      "message": "طرق تسجيل الدخول الأخرى"
+   },
+   "other_please_describe": {
+      "message": "أخرى (يُرجى الوصف)"
+   },
+   "page_info": {
+      "message": "معلومات الصفحة"
+   },
+   "pass_gen_history": {
+      "message": "سجل مولّد كلمات المرور"
+   },
+   "passkey": {
+      "message": "مفتاح المرور"
+   },
+   "passkey_already_registered": {
+      "message": "تم تسجيل مفتاح المرور بالفعل"
+   },
+   "passkey_already_registered_desc": {
+      "message": "هناك مفتاح مرور لهذا الحساب مسجل بالفعل لدى Keeper."
+   },
+   "passkey_count_plural": {
+      "message": "XXX مفاتيح مرور"
+   },
+   "passkey_count_single": {
+      "message": "مفتاح مرور 1"
+   },
+   "passphrase_cannot_meet_criteria": {
+      "message": "لا تستطيع أن تلبي عبارة المرور المعايير المحددة من قبل المجالات المحددة في السجل."
+   },
+   "passphrase_copied": {
+      "message": "تم نسخ عبارة المرور"
+   },
+   "passphrase_must_caps": {
+      "message": "يجب أن يكون أول حرف في كل كلمة حرفًا كبيرًا"
+   },
+   "passphrase_must_contain": {
+      "message": "يجب أن تحتوي عبارة مرورك على:"
+   },
+   "passphrase_must_number": {
+      "message": "رقم واحد"
+   },
+   "passphrase_must_separator": {
+      "message": "فاصل: XXX"
+   },
+   "passphrase_must_words": {
+      "message": "XXX كلمات على الأقل"
+   },
+   "password_alert": {
+      "message": "تنبيه بخصوص كلمة مرور"
+   },
+   "password_cannot_meet_criteria": {
+      "message": "لا تلبي كلمة المرور المعايير الموضوعة من قبل المجالات المحددة في السجل."
+   },
+   "password_cannot_meet_criteria__gen": {
+      "message": "لا يمكن توليد كلمة مرور تلبي المعايير الموضوعة من قبل المجالات المحددة في السجل."
+   },
+   "password_does_not_autofill": {
+      "message": "كلمة المرور لا تُملأ تلقائيًا"
+   },
+   "password_generator": {
+      "message": "مولد كلمات المرور"
+   },
+   "password_must_caps": {
+      "message": "يجب أن يكون أول حرف في كل كلمة حرفًا كبيرًا"
+   },
+   "password_must_char": {
+      "message": "XXX حروف على الأقل"
+   },
+   "password_must_char__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX من الحروف على الأقل."
+   },
+   "password_must_contain": {
+      "message": "يجب أن تحتوي كلمة مرورك على:"
+   },
+   "password_must_lowercase": {
+      "message": "XXX أحرف صغيرة على الأقل"
+   },
+   "password_must_lowercase__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX حرف صغير على الأقل."
+   },
+   "password_must_lowercase_p": {
+      "message": "XXX حرفًا صغيرًا على الأقل"
+   },
+   "password_must_lowercase_p__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX من الأحرف الصغيرة على الأقل."
+   },
+   "password_must_not_contain_these_symbols": {
+      "message": "يجب ألا تتضمن كلمة مرورك: XXX"
+   },
+   "password_must_number": {
+      "message": "على الأقل XXX رقم"
+   },
+   "password_must_number__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX رقم على الأقل."
+   },
+   "password_must_number_p": {
+      "message": "XXX أرقام على الأقل"
+   },
+   "password_must_number_p__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX من الأرقام على الأقل."
+   },
+   "password_must_number_singluar": {
+      "message": "رقم 1 على الأقل"
+   },
+   "password_must_separator": {
+      "message": "فاصل"
+   },
+   "password_must_symbol": {
+      "message": "على الأقل XXX رمز: YYY"
+   },
+   "password_must_symbol__solo": {
+      "message": "يجب أن تحتوي كلمة المرور الخاصة بك على  XXX رمز على الأقل: YYY"
+   },
+   "password_must_symbol_p": {
+      "message": "على الأقل XXX من الرموز: YYY"
+   },
+   "password_must_symbol_p__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على  XXX من الرموز على الأقل: YYY"
+   },
+   "password_must_uppercase": {
+      "message": "XXX أحرف كبيرة على الأقل"
+   },
+   "password_must_uppercase__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX حرف كبير على الأقل."
+   },
+   "password_must_uppercase_p": {
+      "message": "XXX حرفًا كبيرًا على الأقل"
+   },
+   "password_must_uppercase_p__solo": {
+      "message": "يجب أن تحتوي كلمة مرورك على XXX من الأحرف الكبيرة على الأقل."
+   },
+   "password_passphrase_alert": {
+      "message": "تنبيه بخصوص كلمة مرور وعبارة مرور"
+   },
+   "password_reset_email_tip": {
+      "message": "أدخل عنوان بريدك الإلكتروني لبدء عملية استعادة الحساب. قد تحتاج إلى التحقق من مجلد رسائل البريد الإلكتروني غير المرغوب فيها أو فك حظر رسائل البريد الإلكتروني الواردة من keepersecurity.com."
+   },
+   "password_strength": {
+      "message": "قوة كلمة المرور"
+   },
+   "password_suggestions": {
+      "message": "اقتراحات كلمات المرور"
+   },
+   "password_suggestions_desc": {
+      "message": "التحكم فيما إذا كان سيتم اقتراح كلمات مرور قوية مولّدة عند النقر فوق حقل كلمة المرور في صفحة التسجيل."
+   },
+   "password_updated": {
+      "message": "تم تحديث كلمة المرور!"
+   },
+   "payment_card": {
+      "message": "بطاقة الدفع"
+   },
+   "payment_card_saved": {
+      "message": "تم حفظ بطاقة الدفع!"
+   },
+   "payment_cards": {
+      "message": "بطاقات الدفع"
+   },
+   "payment_field": {
+      "message": "حقل الدفع"
+   },
+   "payment_updated": {
+      "message": "تم تحديث بيانات الدفع!"
+   },
+   "phone_call": {
+      "message": "مكالمة هاتفية"
+   },
+   "phone_number": {
+      "message": "رقم الهاتف"
+   },
+   "phone_type": {
+      "message": "نوع الهاتف"
+   },
+   "pin_generator": {
+      "message": "مولّد رموز PIN"
+   },
+   "port": {
+      "message": "المنفذ"
+   },
+   "portrait_mode": {
+      "message": "الوضع العمودي"
+   },
+   "prevent_lockout": {
+      "message": "منع الإغلاق"
+   },
+   "preview": {
+      "message": "معاينة"
+   },
+   "preview_snapshot_desc": {
+      "message": "قم بمعاينة لقطتك الكاملة قبل تنزيلها ومشاركتها مع Keeper."
+   },
+   "primary_website_address": {
+      "message": "العنوان الرئيسي للموقع الإلكتروني"
+   },
+   "privacy": {
+      "message": "Privacy Policy"
+   },
+   "privacy_reminder": {
+      "message": "لأسباب تتعلق بالخصوصية، لا نعرض طريقة المصادقة الثنائية التي تستخدمها. تفقد الرسائل النصية، أو البريد الإلكتروني، أو مفتاح الأمن، أو تطبيق التصديق باستخدام كلمات المرور التي تستخدم لمرة واحدة ولفترة زمنية محدودة (TOTP) لتحصل على الرمز الخاص بك."
+   },
+   "privacy_screen_is_enabled_by_admin": {
+      "message": "يتم تفعيل شاشة الخصوصية من خلال المسؤول"
+   },
+   "privacy_screen_prevents_hint": {
+      "message": "تمنع شاشة الخصوصية كلاً من إمكانية\\n الاطلاع على كلمة المرور وتعديل عنو\\nان URL لمواقع الويب بعد حفظ السجل."
+   },
+   "prompt_appearance": {
+      "message": "عرض المطالبات"
+   },
+   "prompt_appearance_desc": {
+      "message": "خصص الطريقة التي تود عن طريقها عرض المطالبات على شاشتك"
+   },
+   "prompt_appearance_desc_2": {
+      "message": "خصص الطريقة التي تريد عرض الإشعارات بها في نافذة المتصفح."
+   },
+   "prompt_location": {
+      "message": "موقع المطالبات"
+   },
+   "prompt_to_autofill_desc": {
+      "message": "قم بملء الحقول تلقائياً عند زيارة موقع ويب أو صفحة تسجيل دخول. قم بزيارة شاشة تفضيلات الملء التلقائي للتحكم في سلوك كل موقع على حدة."
+   },
+   "prompt_to_change_desc": {
+      "message": "في صفحات ويب \"تغيير كلمة المرور\"، يقوم Keeper بإنشاء كلمة مرور جديدة تلقائياً وملء حقول كلمات المرور القديمة والجديدة."
+   },
+   "prompt_to_create": {
+      "message": "مطالبة بالإنشاء"
+   },
+   "prompt_to_create_desc": {
+      "message": "عند كتابة كلمة مرور، إذا لم يتم العثور على سجل لموقع ويب، سيطلب منك Keeper حفظ كلمة مرورك في خزينتك."
+   },
+   "prompt_to_disable": {
+      "message": "تنبيه للتعطيل"
+   },
+   "prompt_to_disable_desc": {
+      "message": "سيذكرك هذا أن KeeperFill معطل لأنه من الممكن أن يبطئ هذه الصفحة."
+   },
+   "prompt_to_fill": {
+      "message": "تنبيه للملء"
+   },
+   "prompt_to_fill_desc": {
+      "message": "عند زيارة شاشة تسجيل الدخول على موقع ويب، سوف يطلب من Keeper تسجيل الدخول تلقائياً باستخدام كلمة المرور المحفوظة الخاصة بك."
+   },
+   "prompt_to_hover_locks_desc": {
+      "message": "أظهر أيقونات Keeper فقط عندما تحرك الماوس فوق الحقل."
+   },
+   "prompt_to_login": {
+      "message": "تنبيه لتسجيل الدخول"
+   },
+   "prompt_to_login_desc": {
+      "message": "إذا قمت بتسجيل خروج من Keeper، سوف يتم تذكيرك بتسجيل الدخول إلى Keeper عند زيارة شاشة تسجيل الدخول لموقع ويب."
+   },
+   "prompt_to_save": {
+      "message": "تنبيه للحفظ"
+   },
+   "prompt_to_save_desc": {
+      "message": "بعد تسجيل الدخول في موقع ويب لا يحتوي على سجل متطابق، سيطلب منك Keeper حفظ كلمة مرورك في خزينتك."
+   },
+   "prompt_to_update": {
+      "message": "هل تريد تحديث سجل Keeper الخاص بك لهذا الموقع؟"
+   },
+   "promtp_to_change": {
+      "message": "تنبيه للتغيير"
+   },
+   "protip": {
+      "message": "نصيحة احترافية"
+   },
+   "pull_addresses": {
+      "message": "هل تريد ملء العناوين على موقع الويب هذا؟"
+   },
+   "pull_information_from_extensions": {
+      "message": "هل ترغب في أن يقوم Keeper بملء XXX على موقع YYY؟"
+   },
+   "pull_payment_cards": {
+      "message": "هل تريد ملء بطاقات الدفع على موقع الويب هذا؟"
+   },
+   "quick_sync": {
+      "message": "مزامنة سريعة"
+   },
+   "quick_sync_desc": {
+      "message": "يقوم بمزامنة البيانات الجديدة فقط."
+   },
+   "ready_to_share_question": {
+      "message": "هل أنت مستعد للمشاركة؟"
+   },
+   "recents_translated": {
+      "message": "الأحدث"
+   },
+   "record_add": {
+      "message": "إضافة سجل"
+   },
+   "record_deleted": {
+      "message": "تم حذف السجل"
+   },
+   "record_details": {
+      "message": "تفاصيل السجل"
+   },
+   "record_header": {
+      "message": "سجل"
+   },
+   "recovery_account_recovery": {
+      "message": "استعادة الحساب"
+   },
+   "recovery_email_verification": {
+      "message": "التحقق من البريد الإلكتروني"
+   },
+   "recovery_forgot_pass": {
+      "message": "هل نسيت كلمة المرور؟"
+   },
+   "recovery_forgotpass": {
+      "message": "نسيت كلمة المرور"
+   },
+   "recovery_resend_code": {
+      "message": "إعادة إرسال الرمز"
+   },
+   "recovery_title": {
+      "message": "هل نسيت كلمة المرور الرئيسية؟"
+   },
+   "referral_v4_cancel": {
+      "message": "لا، شكراً"
+   },
+   "region_selector_title": {
+      "message": "موقع مراكز البيانات"
+   },
+   "registration_field": {
+      "message": "حقل التسجيل"
+   },
+   "registration_updated": {
+      "message": "تم تحديث التسجيل!"
+   },
+   "relying_party": {
+      "message": "جهة الاعتماد"
+   },
+   "remember_email": {
+      "message": "تذكر البريد الإلكتروني"
+   },
+   "remove_from_favs": {
+      "message": "حذف من المفضلات"
+   },
+   "remove_from_login_list": {
+      "message": "سوف يتم حذف XXX من قائمة تسجيل الدخول."
+   },
+   "remove_user": {
+      "message": "إزالة المستخدم؟"
+   },
+   "report_an_autofill_issue": {
+      "message": "الإبلاغ عن مشكلة في التعبئة التلقائية"
+   },
+   "report_autofill_issue": {
+      "message": "الإبلاغ عن مشكلة في التعبئة التلقائية"
+   },
+   "report_issue": {
+      "message": "الإبلاغ عن مشكلة"
+   },
+   "report_sent": {
+      "message": "تم إرسال التقرير!"
+   },
+   "report_to_keeper": {
+      "message": "هل تود إبلاغ Keeper عن ذلك لتحسين الملحق؟"
+   },
+   "req_timeout": {
+      "message": "انتهت مهلة الطلب."
+   },
+   "request_admin_approval": {
+      "message": "طلب موافقة المسؤول"
+   },
+   "require_two_factor": {
+      "message": "يلزم المصادقة الثنائية:"
+   },
+   "require_two_factor_no_colon": {
+      "message": "يلزم المصادقة الثنائية"
+   },
+   "required": {
+      "message": "مطلوب"
+   },
+   "required_custom_field": {
+      "message": "حقل مخصص مطلوب"
+   },
+   "resend_email": {
+      "message": "إعادة إرسال البريد الإلكتروني"
+   },
+   "restore_defalt_settings": {
+      "message": "استعادة الإعدادات الافتراضية"
+   },
+   "restore_default_autofill_settings": {
+      "message": "استعادة الإعدادات الافتراضية للملء التلقائي"
+   },
+   "restrictedByAdmin": {
+      "message": "تم تقييد هذه الميزة من قبل مسؤول Keeper الخاص بك."
+   },
+   "restricted_totp": {
+      "message": "قام مسؤول Keeper بتقييد القدرة على إضافة الرموز الثنائية إلى السجلات."
+   },
+   "retake": {
+      "message": "إعادة اللقطة"
+   },
+   "revert_change": {
+      "message": "التراجع عن التغيير"
+   },
+   "role_enf_restriction": {
+      "message": "أنت ممنوع من أداء هذه العملية. برجاء التواصل مع مسؤول Keeper الخاص بك للمساعدة."
+   },
+   "rotation_port": {
+      "message": "منفذ التدوير"
+   },
+   "rsa_passcode": {
+      "message": "رمز مرور RSA"
+   },
+   "rt_label_address": {
+      "message": "العنوان"
+   },
+   "rt_label_bankAccount": {
+      "message": "حساب بنكي"
+   },
+   "rt_label_bankCard": {
+      "message": "بطاقة الدفع"
+   },
+   "rt_label_birthCertificate": {
+      "message": "شهادة الميلاد"
+   },
+   "rt_label_contact": {
+      "message": "اتصل بنا"
+   },
+   "rt_label_databaseCredentials": {
+      "message": "قاعدة البيانات"
+   },
+   "rt_label_driverLicense": {
+      "message": "رخصة القيادة"
+   },
+   "rt_label_encryptedNotes": {
+      "message": "ملاحظات آمنة"
+   },
+   "rt_label_file": {
+      "message": "إرفاق ملف"
+   },
+   "rt_label_general": {
+      "message": "عام"
+   },
+   "rt_label_healthInsurance": {
+      "message": "التأمين الصحي"
+   },
+   "rt_label_login": {
+      "message": "تسجيل الدخول"
+   },
+   "rt_label_membership": {
+      "message": "العضوية"
+   },
+   "rt_label_pamAwsConfiguration": {
+      "message": "تكوين إدارة الوصول المتميز لخدمات أمازون ويب"
+   },
+   "rt_label_pamAzureConfiguration": {
+      "message": "تكوين Entra ID (Azure) لإدارة الوصول المتميز"
+   },
+   "rt_label_pamDatabase": {
+      "message": "قاعدة بيانات PAM"
+   },
+   "rt_label_pamDirectory": {
+      "message": "دليل PAM"
+   },
+   "rt_label_pamLocalConfiguration": {
+      "message": "تكوين محلي لإدارة الوصول المتميز"
+   },
+   "rt_label_pamMachine": {
+      "message": "آلة PAM"
+   },
+   "rt_label_pamNetworkConfiguration": {
+      "message": "تكوين الشبكة لإدارة الوصول المتميز"
+   },
+   "rt_label_pamRemoteBrowser": {
+      "message": "متصفح PAM عن بُعد"
+   },
+   "rt_label_pamUser": {
+      "message": "مستخدم PAM"
+   },
+   "rt_label_passport": {
+      "message": "جواز السفر"
+   },
+   "rt_label_photo": {
+      "message": "صورة"
+   },
+   "rt_label_pl_address": {
+      "message": "العناوين"
+   },
+   "rt_label_pl_bankAccount": {
+      "message": "حسابات البنوك"
+   },
+   "rt_label_pl_bankCard": {
+      "message": "بطاقات الدفع"
+   },
+   "rt_label_pl_birthCertificate": {
+      "message": "شهادات الميلاد"
+   },
+   "rt_label_pl_contact": {
+      "message": "جهات الاتصال"
+   },
+   "rt_label_pl_databaseCredentials": {
+      "message": "قواعد بيانات"
+   },
+   "rt_label_pl_encryptedNotes": {
+      "message": "ملاحظات آمنة"
+   },
+   "rt_label_pl_file": {
+      "message": "ملفات"
+   },
+   "rt_label_pl_login": {
+      "message": "بيانات تسجيل الدخول"
+   },
+   "rt_label_pl_membership": {
+      "message": "العضويات"
+   },
+   "rt_label_pl_passport": {
+      "message": "جوازات السفر"
+   },
+   "rt_label_pl_photo": {
+      "message": "صور"
+   },
+   "rt_label_pl_serverCredentials": {
+      "message": "خوادم"
+   },
+   "rt_label_pl_softwareLicense": {
+      "message": "تراخيص برامج"
+   },
+   "rt_label_pl_sshKeys": {
+      "message": "مفاتيح SSH"
+   },
+   "rt_label_pl_ssnCard": {
+      "message": "بطاقات الهوية"
+   },
+   "rt_label_serverCredentials": {
+      "message": "الخادم"
+   },
+   "rt_label_softwareLicense": {
+      "message": "ترخيص برامج"
+   },
+   "rt_label_sshKeys": {
+      "message": "مفتاح SSH"
+   },
+   "rt_label_ssnCard": {
+      "message": "بطاقة الهوية"
+   },
+   "rt_label_wifi_login": {
+      "message": "تسجيل دخول WiFi"
+   },
+   "rule_contains": {
+      "message": "يحتوي على XXX حرف (أحرف) على الأقل بالقيم: YYY"
+   },
+   "rule_contains_range_digit": {
+      "message": "يحتوي على XXX رقم (أرقام) على الأقل"
+   },
+   "rule_contains_range_lowercase": {
+      "message": "يحتوي على الأقل على XXX أحرف صغيرة"
+   },
+   "rule_contains_range_uppercase": {
+      "message": "يحتوي على الأقل على XXX أحرف كبيرة"
+   },
+   "rule_size_min": {
+      "message": "على الأقل XXX حرف (أحرف)"
+   },
+   "safari_ext_off": {
+      "message": "ملحق \"Keeper لسفاري\" قيد إيقاف التشغيل حاليًا. يمكنك تشغيله في قسم \"المحلقات\" في إعدادات سفاري."
+   },
+   "safari_ext_on": {
+      "message": "ملحق \"Keeper لسفاري\" قيد التشغيل حاليًا. يمكنك إيقاف تشغيله في قسم \"المحلقات\" في إعدادات سفاري."
+   },
+   "safari_ext_unknown": {
+      "message": "يمكنك تشغيل ملحق \"Keeper لسفاري\" في قسم \"الملحقات\" في إعدادات سفاري."
+   },
+   "safari_upgrade_13": {
+      "message": "تتوفر ميزة KeeperFill لمتصفح Safari فقط على نظام التشغيل macOS High Sierra (10.13.6) والإصدارات الأحدث التي يعمل عليها متصفح Safari 13 والإصدارات الأحدث."
+   },
+   "save_password_not_logged_in": {
+      "message": "لقد قمت بتسجيل الخروج من Keeper. الرجاء تسجيل الدخول باستخدام قفل Keeper الموجود في متصفحك."
+   },
+   "save_password_prompt": {
+      "message": "هل ترغب في حفظ كلمة المرور هذه؟"
+   },
+   "save_password_setting_prompt": {
+      "message": "مطالبة حفظ كلمات المرور"
+   },
+   "save_password_setting_prompt_desc": {
+      "message": "احصل على مطالبة بإنشاء سجل جديد بعد تسجيل الدخول إلى موقع ويب باستخدام بيانات اعتماد جديدة."
+   },
+   "save_password_view": {
+      "message": "هل تريد حفظ التغييرات في خزينتك؟ لا تقلق، يمكنك دائماً إعادة كلمة مرورك باستخدام شاشة \"محفوظات السجل\"."
+   },
+   "save_password_view2": {
+      "message": "هل تريد حفظ التغييرات في خزينتك؟ لا تقلق، يمكنك دائماً إعادة كلمة مرورك باستخدام شاشة \"محفوظات السجل\"."
+   },
+   "save_prompt": {
+      "message": "مطالبة الحفظ"
+   },
+   "save_prompt2": {
+      "message": "طلب حفظ كلمات المرور"
+   },
+   "scanning_for_key": {
+      "message": "جارٍ الفحص لاكتشاف مفتاح الأمن..."
+   },
+   "screen_capture": {
+      "message": "التقاط لقطة شاشة"
+   },
+   "secret1_header": {
+      "message": "تسجيل الدخول"
+   },
+   "secret2_header": {
+      "message": "كلمة المرور"
+   },
+   "secret_key": {
+      "message": "المفتاح السري"
+   },
+   "secured_note": {
+      "message": "ملاحظة مؤمنة"
+   },
+   "security_key_generic_error": {
+      "message": "وقع خطأ ما في مفتاح الأمان، الرجاء إعادة المحاولة."
+   },
+   "security_key_not_associated": {
+      "message": "لتسجيل الدخول باستخدام مفتاح الأمن هذا، عليك أولاً تسجيله في حسابك."
+   },
+   "security_key_timeout": {
+      "message": "لم نتمكن من العثور على مفتاح الأمن، رجاءً حاول مرة أخرى."
+   },
+   "security_two_factor_title": {
+      "message": "المصادقة المزدوجة"
+   },
+   "security_twofactor_3": {
+      "message": "Authenticate"
+   },
+   "see_data": {
+      "message": "تعرف على البيانات التي سيتم إرسالها."
+   },
+   "select_an_issue": {
+      "message": "حدد مشكلة"
+   },
+   "send_keeper_push": {
+      "message": "إرسال إعلام Keeper"
+   },
+   "sending_pause": {
+      "message": "جار الإرسال..."
+   },
+   "server_connection_timeout_try_later": {
+      "message": "انتهت مهلة اتصال الخادم. يُرجى المحاولة مرة أخرى لاحقاً."
+   },
+   "set_as_primary_website": {
+      "message": "تعيين كموقع إلكتروني رئيسي"
+   },
+   "set_to_default": {
+      "message": "ضبط إلى الافتراضي"
+   },
+   "set_up_biometric_login": {
+      "message": "إعداد تسجيل الدخول البيومتري"
+   },
+   "setup": {
+      "message": "إعداد"
+   },
+   "setup_record_url": {
+      "message": "أدخل عنوان موقع الويب"
+   },
+   "sf_records": {
+      "message": "السجلات"
+   },
+   "share_snapshot": {
+      "message": "مشاركة اللقطة"
+   },
+   "share_snapshot_desc": {
+      "message": "بعد التأكد من عدم وجود معلومات سرية مضمنة في هذه اللقطة، استخدم زر Share Snapshot لإرسال هذه المعلومات إلى فريق تحسينات الملء التلقائي في Keeper."
+   },
+   "short_record_removed_ressage": {
+      "message": "ستتم إزالة هذا السجل من مخزنك."
+   },
+   "short_shared_record_removed_message": {
+      "message": "ستتم إزالة هذا السجل من المجلدات المشتركة. لن يعود الوصول متاحًا لأعضاء هذه المجلدات المشتركة."
+   },
+   "show_addresses": {
+      "message": "إظهار العناوين"
+   },
+   "show_all_passkeys": {
+      "message": "إظهار كل مفاتيح المرور"
+   },
+   "show_always": {
+      "message": "أظهر دائماً"
+   },
+   "show_idb_storage": {
+      "message": "إظهار تخزين IDB"
+   },
+   "show_less": {
+      "message": "إظهار أقل"
+   },
+   "show_local_storage": {
+      "message": "إظهار التخزين المحلي"
+   },
+   "show_locks": {
+      "message": "إظهار الأقفال"
+   },
+   "show_more": {
+      "message": "إظهار المزيد"
+   },
+   "show_on_hover": {
+      "message": "أظهر عند المرور فوقها فقط"
+   },
+   "show_payment_cards": {
+      "message": "إظهار بطاقات الدفع"
+   },
+   "show_snapshot_tool": {
+      "message": "إظهار أداة Snapshot"
+   },
+   "showhide": {
+      "message": "إظهار/إخفاء"
+   },
+   "sidebar_shortcut_favorites": {
+      "message": "المفضلات"
+   },
+   "sign_in": {
+      "message": "تسجيل الدخول"
+   },
+   "single_click_filling_no_iframe": {
+      "message": "لأسباب أمنية، الملء بنقرة واحدة غير مدعوم في هذا الموقع (iFrame عبر المجالات). يرجى التواصل مع دعم Keeper للمساعدة."
+   },
+   "slide_in": {
+      "message": "الإزاحة للداخل"
+   },
+   "snapshot_shared": {
+      "message": "تمت مشاركة اللقطة"
+   },
+   "snapshot_tool": {
+      "message": "أداة Snapshot"
+   },
+   "snapshot_tool_disabled": {
+      "message": "تم تعطيل أداة Snapshot"
+   },
+   "snapshot_tool_enabled": {
+      "message": "تم تمكين أداة Snapshot"
+   },
+   "something_went_wrong": {
+      "message": "حدث خطأ"
+   },
+   "something_went_wrong_caps": {
+      "message": "حدث خطأ"
+   },
+   "sso_enterprise_domain": {
+      "message": "مجال شركات"
+   },
+   "state": {
+      "message": "الولاية"
+   },
+   "state_province": {
+      "message": "الولاية/المقاطعة"
+   },
+   "stay_logged_in": {
+      "message": "البقاء قيد تسجيل الدخول"
+   },
+   "stay_logged_in_desc2": {
+      "message": "قم بالتشغيل للبقاء قيد تسجيل الدخول عند إغلاق Keeper وإعادة فتحه أو إعادة تشغيل جهازك. يستثني من ذلك عمليات تسجيل الخروج التي تُجرى يدويًا أو بواسطة مؤقت تسجيل الدخول عند عدم النشاط."
+   },
+   "stf_SSID": {
+      "message": "اسم الشبكة (SSID)"
+   },
+   "stf_alternativeIPs": {
+      "message": "IP البديلة"
+   },
+   "stf_cardholderName": {
+      "message": "اسم حامل البطاقة"
+   },
+   "stf_company": {
+      "message": "الشركة"
+   },
+   "stf_databaseId": {
+      "message": "هوية قاعدة البيانات"
+   },
+   "stf_dateActive": {
+      "message": "تاريخ التفعيل"
+   },
+   "stf_dateIssued": {
+      "message": "تاريخ الإصدار"
+   },
+   "stf_directoryId": {
+      "message": "هوية الدليل"
+   },
+   "stf_dlNumber": {
+      "message": "رقم رخصة القيادة"
+   },
+   "stf_domainName": {
+      "message": "اسم المجال"
+   },
+   "stf_identificationNumber": {
+      "message": "رقم التعريف"
+   },
+   "stf_identityNumber": {
+      "message": "رقم الهوية"
+   },
+   "stf_insuredsName": {
+      "message": "اسم المؤمن عليه"
+   },
+   "stf_passphrase": {
+      "message": "عبارة المرور"
+   },
+   "stf_passportNumber": {
+      "message": "رقم جواز السفر"
+   },
+   "stf_ssnNumber": {
+      "message": "رقم التأمين الاجتماعي"
+   },
+   "stf_type": {
+      "message": "النوع"
+   },
+   "street_address_one": {
+      "message": "سطر عنوان الشارع 1"
+   },
+   "street_address_two": {
+      "message": "سطر عنوان الشارع 2"
+   },
+   "submit_button": {
+      "message": "زر الإرسال"
+   },
+   "suggest_recs_count": {
+      "message": "XXX سجلات مقترحة"
+   },
+   "sync_data": {
+      "message": "مزامنة البيانات"
+   },
+   "take_a_screenshot": {
+      "message": "التقط لقطة شاشة"
+   },
+   "take_snapshot": {
+      "message": "التقاط لقطة"
+   },
+   "take_snapshot_desc": {
+      "message": "التقط لقطة لصفحة الويب هذه لمشاركتها مع فريق تحسين الملء التلقائي في Keeper."
+   },
+   "tap_to_fill": {
+      "message": "اضغط للملء"
+   },
+   "tell_us_what_went_wrong": {
+      "message": "أخبرنا بما حدث من خطأ"
+   },
+   "terms": {
+      "message": "شروط الاستخدام"
+   },
+   "text_sent": {
+      "message": "تم إرسال الرسالة النصية بالفعل، يرجى الانتظار."
+   },
+   "time_ago_1_month": {
+      "message": "منذ شهر واحد"
+   },
+   "time_ago_1_week": {
+      "message": "منذ أسبوع واحد"
+   },
+   "time_ago_1_year": {
+      "message": "منذ سنة واحدة"
+   },
+   "time_ago_months": {
+      "message": "منذ XXX أشهر"
+   },
+   "time_ago_weeks": {
+      "message": "منذ XXX أسابيع"
+   },
+   "time_ago_years": {
+      "message": "منذ XXX سنوات"
+   },
+   "title_address_title_placeholder": {
+      "message": "العنوان (مثلاً: المنزل، العمل"
+   },
+   "title_header": {
+      "message": "العنوان"
+   },
+   "today": {
+      "message": "اليوم"
+   },
+   "top_left": {
+      "message": "أعلى اليسار"
+   },
+   "top_right": {
+      "message": "أعلى اليمين"
+   },
+   "totp_code_does_not_autofill": {
+      "message": "رمز TOTP لا يُملأ تلقائيًا"
+   },
+   "tour_continue": {
+      "message": "الاستمرار"
+   },
+   "try_again": {
+      "message": "حاول مرة أخرى"
+   },
+   "try_another_method": {
+      "message": "جرِّب بطريقة أخرى"
+   },
+   "tunnel_port": {
+      "message": "منفذ النفق"
+   },
+   "turn_off_verify_fill_mode": {
+      "message": "إيقاف تشغيل وضع التحقق من التعبئة"
+   },
+   "turn_on_anyway": {
+      "message": "تفعيل على أي حال"
+   },
+   "turn_on_verify_fill_mode": {
+      "message": "تفعيل وضع التحقق من التعبئة"
+   },
+   "two_fac_req": {
+      "message": "متطلب المصادقة الثنائية"
+   },
+   "two_fact_rsa_success": {
+      "message": "مصادقة ناجحة"
+   },
+   "two_factor_channel_google": {
+      "message": "يرجى إدخال الكود في تطبيق  تطبيق Authenticator."
+   },
+   "two_factor_channel_push": {
+      "message": "الرجاء إدخال رمز التحقق على جهاز DNA الخاص بك"
+   },
+   "two_factor_channel_rsa": {
+      "message": "الرجاء إدخال رمز المرور RSA الخاص بك"
+   },
+   "two_factor_channel_sms": {
+      "message": "الرجاء إدخال الرمز المرسل عبر رسالة نصية"
+   },
+   "two_factor_code": {
+      "message": "كلمة المرور ذات عاملين"
+   },
+   "two_factor_code_duration": {
+      "message": "مدة الرمز الثنائي"
+   },
+   "two_factor_frequency_explanation": {
+      "message": "اختر مدى تكرار مطالبتك بتسجيل الدخول على هذا الجهاز باستخدام طريقة المصادقة الثنائية."
+   },
+   "two_factor_generic_code_prompt": {
+      "message": "أدخل الرمز من طريقة المصادقة الثنائية الخاصة بك."
+   },
+   "two_factor_invalid_totp": {
+      "message": "رمز المصادقة الثنائية الذي تم إدخاله غير صالح أو انتهت صلاحيته."
+   },
+   "two_factor_method_title": {
+      "message": "طريقة المصادقة الثنائية"
+   },
+   "two_factor_need_totp": {
+      "message": "الرجاء إدخال رمزك"
+   },
+   "two_factor_required": {
+      "message": "المصادقة الثنائية مفروضة عليك من قبل مدير حسابك على Keeper."
+   },
+   "two_factor_send_new_code": {
+      "message": "إرسال رمز جديد"
+   },
+   "type_title": {
+      "message": "النوع"
+   },
+   "u2f_login_instruction": {
+      "message": "أدخل مفتاح الأمن في منفذ USB. إذا كان مفتاح الأمن به زر أو قرص ذهبي، اضغط عليه."
+   },
+   "unable_to_generate": {
+      "message": "يتعذر التوليد"
+   },
+   "unable_to_save": {
+      "message": "يتعذر الحفظ"
+   },
+   "unexpected_error": {
+      "message": "وقع خطأ غير متوقع. يُرجى إعادة تشغيل جهازك وفي حال استمرت هذه المشكلة، فيُرجى زيارة keepersecurity.com/support للحصول على المساعدة."
+   },
+   "unexpected_error_with_code": {
+      "message": "وقع خطأ غير متوقع. يُرجى إعادة تشغيل جهازك وفي حال استمرت هذه المشكلة، فيُرجى زيارة keepersecurity.com/support للحصول على المساعدة. (رمز الخطأ XXX)"
+   },
+   "update_existing_passkey": {
+      "message": "تحديث مفتاح المرور الحالي"
+   },
+   "update_passkey": {
+      "message": "تحديث مفتاح المرور"
+   },
+   "update_xxx": {
+      "message": "تحديث XXX"
+   },
+   "url": {
+      "message": "عنوان URL"
+   },
+   "use_another_method": {
+      "message": "استخدم طريقة أخرى"
+   },
+   "use_as_default_settings": {
+      "message": "الاستخدام كإعدادات افتراضية"
+   },
+   "use_backup_2fa": {
+      "message": "استخدام طريقة النسخ الاحتياطي الثنائية"
+   },
+   "use_passkey": {
+      "message": "استخدام مفتاح المرور"
+   },
+   "use_passphrase": {
+      "message": "استخدام عبارة المرور"
+   },
+   "use_password": {
+      "message": "استخدام كلمة مرور"
+   },
+   "use_pin_code": {
+      "message": "استخدام رمز PIN"
+   },
+   "use_two_factor_method": {
+      "message": "استخدم طريقة المصادقة الثنائية"
+   },
+   "username_and_password_do_not_autofill": {
+      "message": "اسم المستخدم وكلمة المرور لا يُملآن تلقائيًا"
+   },
+   "username_does_not_autofill": {
+      "message": "اسم المستخدم لا يُملأ تلقائيًا"
+   },
+   "vault_login": {
+      "message": "تسجيل الدخول في الخزينة"
+   },
+   "verification_code": {
+      "message": "رمز التحقق"
+   },
+   "verification_code_text": {
+      "message": "رمز التحقق"
+   },
+   "verified_fill_mode_off": {
+      "message": "إيقاف وضع التعبئة المؤكدة"
+   },
+   "verified_fill_mode_on": {
+      "message": "وضع التحقق من التعبئة قيد التشغيل"
+   },
+   "verify": {
+      "message": "تحقق"
+   },
+   "verify_fill_mode_warning": {
+      "message": "سيطلب منك وضع التحقق من التعبئة التأكيد في كل مرة قبل تنفيذ التعبئة التلقائية. توفّر هذه الحماية الإضافية أمانًا أعلى، لكنها قد تبطئ سير عملك أو تبدو مزعجة في المواقع التي تزورها كثيرًا."
+   },
+   "view_all_methods": {
+      "message": "عرض جميع الطرق"
+   },
+   "view_contents": {
+      "message": "عرض المحتويات"
+   },
+   "view_gen_history": {
+      "message": "عرض سجل المولد"
+   },
+   "view_password": {
+      "message": "عرض كلمة المرور"
+   },
+   "view_password_restriction": {
+      "message": "حظر مدير حسابك على Keeper مشاهدة كلمة المرور هذه."
+   },
+   "view_qr_code": {
+      "message": "عرض رمز QR"
+   },
+   "view_record_in_vault": {
+      "message": "تم حفظ السجل. هل تريد عرضه؟"
+   },
+   "waiting": {
+      "message": "انتظار..."
+   },
+   "warning_alert": {
+      "message": "تحذير"
+   },
+   "was_change_successful": {
+      "message": "هل كان هذا التغيير ناجحاً؟"
+   },
+   "website_days": {
+      "message": "Days"
+   },
+   "website_hours": {
+      "message": "Hours"
+   },
+   "website_partners_64": {
+      "message": "رمز البلد"
+   },
+   "website_success": {
+      "message": "تم بنجاح"
+   },
+   "website_support_22": {
+      "message": "خزينة الويب"
+   },
+   "website_support_rev_02": {
+      "message": "هل تحتاج لمساعدة؟"
+   },
+   "website_support_rev_32": {
+      "message": "رموز ثنائية"
+   },
+   "word_count": {
+      "message": "XXX من الكلمات"
+   },
+   "xxx_numbers": {
+      "message": "XXX أرقام"
+   },
+   "year": {
+      "message": "سنة"
+   },
+   "yesterday": {
+      "message": "أمس"
+   },
+   "your_request_timed_out": {
+      "message": "انتهت مهلة طلبك"
+   },
+   "zip_postal_code": {
+      "message": "الرمز البريدي"
+   }
+}

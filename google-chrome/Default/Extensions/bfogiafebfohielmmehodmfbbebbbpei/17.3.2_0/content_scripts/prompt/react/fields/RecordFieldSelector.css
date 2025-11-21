@@ -1,0 +1,63 @@
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .search-div form#search .keeper-outfit {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .search-div form#search .search-input-icon {
+  left: 2px !important;
+  margin-left: 0 !important;
+}
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .keeper-list-container .keeper-listitem .favicon-record-icon-for-keeper-list {
+  right: 10px;
+  left: initial;
+}
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .keeper-list-container .keeper-listitem .keeper-card-image {
+  right: 12px;
+  left: initial;
+}
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .keeper-list-container .keeper-listitem .themed-svg.keeper-iconbutton-address {
+  right: 12px;
+  left: initial;
+}
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .keeper-list-container .keeper-listitem #done-container {
+  left: 10px;
+  right: initial;
+}
+div#keeper-extension-root #keeper-extension.rtl .keeper-list .keeper-list-container .keeper-listitem-new {
+  padding: 10px !important;
+}
+div#keeper-extension-root #keeper-extension div[class^=keeper-record-field-] .keeper-record-label,
+div#keeper-extension-root #keeper-extension div[class^=keeper-record-field-] .keeper-record-field {
+  display: -moz-box;
+  display: flex;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem .title-for-keeper-list,
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem .username-for-keeper-list {
+  display: -moz-box;
+  display: flex;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem .favicon-record-icon-for-keeper-list {
+  left: 10px;
+  right: initial;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem .keeper-card-image {
+  left: 12px;
+  right: initial;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem .themed-svg.keeper-iconbutton-address {
+  left: 12px;
+  right: initial;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem #done-container {
+  margin: 0 !important;
+  -moz-transform: translateY(-12px);
+   -ms-transform: translateY(-12px);
+       transform: translateY(-12px);
+  right: 10px;
+  left: initial;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem-new {
+  gap: 8px;
+}
+div#keeper-extension-root #keeper-extension .keeper-list .keeper-list-container .keeper-listitem-new > div {
+  margin-left: 0;
+}

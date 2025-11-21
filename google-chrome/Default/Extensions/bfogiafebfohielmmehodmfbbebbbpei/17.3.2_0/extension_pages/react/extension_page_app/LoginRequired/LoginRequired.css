@@ -1,0 +1,31 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#login-required > .form-container {
+  width: 360px;
+}
+#login-required > .form-container p {
+  color: #000;
+  font-family: Outfit, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+}
+#login-required > .form-container button {
+  width: 320px;
+  height: 40px;
+  border-radius: 8px;
+  border: none;
+  background: #ffc700;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+}

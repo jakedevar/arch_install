@@ -1,0 +1,978 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #1b74da 0, #1b74da 100%);
+  background-image: linear-gradient(-45deg, #1b74da 0, #1b74da 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-red_and_blue keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-red_and_blue keeper-header,
+#keeper-extension.light-mode.keeper-theme-red_and_blue .keeper-header,
+#keeper-extension.light-mode.keeper-theme-red_and_blue keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #bd0b2d 0, #1f72a1 100%);
+  background-image: linear-gradient(-45deg, #bd0b2d 0, #1f72a1 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-phoenix keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-phoenix keeper-header,
+#keeper-extension.light-mode.keeper-theme-phoenix .keeper-header,
+#keeper-extension.light-mode.keeper-theme-phoenix keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #cb7600 0, #8e2e00 100%);
+  background-image: linear-gradient(-45deg, #cb7600 0, #8e2e00 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-aluminum keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-aluminum keeper-header,
+#keeper-extension.light-mode.keeper-theme-aluminum .keeper-header,
+#keeper-extension.light-mode.keeper-theme-aluminum keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #424242 0, #141414 100%);
+  background-image: linear-gradient(-45deg, #424242 0, #141414 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-deep_ocean keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-deep_ocean keeper-header,
+#keeper-extension.light-mode.keeper-theme-deep_ocean .keeper-header,
+#keeper-extension.light-mode.keeper-theme-deep_ocean keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #009eb0 0, #342ca5 100%);
+  background-image: linear-gradient(-45deg, #009eb0 0, #342ca5 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-flame keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-flame keeper-header,
+#keeper-extension.light-mode.keeper-theme-flame .keeper-header,
+#keeper-extension.light-mode.keeper-theme-flame keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #e96443 0, #904e95 100%);
+  background-image: linear-gradient(-45deg, #e96443 0, #904e95 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-blue_and_green keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-blue_and_green keeper-header,
+#keeper-extension.light-mode.keeper-theme-blue_and_green .keeper-header,
+#keeper-extension.light-mode.keeper-theme-blue_and_green keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #009450 0, #0078c0 100%);
+  background-image: linear-gradient(-45deg, #009450 0, #0078c0 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-glam keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-glam keeper-header,
+#keeper-extension.light-mode.keeper-theme-glam .keeper-header,
+#keeper-extension.light-mode.keeper-theme-glam keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #c56868 0, #433baa 100%);
+  background-image: linear-gradient(-45deg, #c56868 0, #433baa 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-green keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-green keeper-header,
+#keeper-extension.light-mode.keeper-theme-green .keeper-header,
+#keeper-extension.light-mode.keeper-theme-green keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #1c9b33 0, #005119 100%);
+  background-image: linear-gradient(-45deg, #1c9b33 0, #005119 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-burgundy keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-burgundy keeper-header,
+#keeper-extension.light-mode.keeper-theme-burgundy .keeper-header,
+#keeper-extension.light-mode.keeper-theme-burgundy keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #42275a 0, #734b6d 100%);
+  background-image: linear-gradient(-45deg, #42275a 0, #734b6d 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.light-mode.keeper-theme-classic keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-classic .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #1b74da !important;
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-classic .themed-svg svg path {
+  fill: #1b74da;
+}
+#keeper-extension.light-mode.keeper-theme-classic .themed-text {
+  color: #1b74da !important;
+}
+#keeper-extension.light-mode.keeper-theme-classic keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #1b74da !important;
+}
+#keeper-extension.light-mode.keeper-theme-red_and_blue keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-red_and_blue .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #ad1539 !important;
+}
+#keeper-extension.light-mode.keeper-theme-red_and_blue keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-red_and_blue .themed-svg svg path {
+  fill: #ad1539;
+}
+#keeper-extension.light-mode.keeper-theme-red_and_blue .themed-text {
+  color: #ad1539 !important;
+}
+#keeper-extension.light-mode.keeper-theme-red_and_blue keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #ad1539 !important;
+}
+#keeper-extension.light-mode.keeper-theme-phoenix keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-phoenix .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #973900 !important;
+}
+#keeper-extension.light-mode.keeper-theme-phoenix keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-phoenix .themed-svg svg path {
+  fill: #973900;
+}
+#keeper-extension.light-mode.keeper-theme-phoenix .themed-text {
+  color: #973900 !important;
+}
+#keeper-extension.light-mode.keeper-theme-phoenix keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #973900 !important;
+}
+#keeper-extension.light-mode.keeper-theme-aluminum keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-aluminum .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #2f2f2f !important;
+}
+#keeper-extension.light-mode.keeper-theme-aluminum keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-aluminum .themed-svg svg path {
+  fill: #2f2f2f;
+}
+#keeper-extension.light-mode.keeper-theme-aluminum .themed-text {
+  color: #2f2f2f !important;
+}
+#keeper-extension.light-mode.keeper-theme-aluminum keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #2f2f2f !important;
+}
+#keeper-extension.light-mode.keeper-theme-deep_ocean keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-deep_ocean .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #285290 !important;
+}
+#keeper-extension.light-mode.keeper-theme-deep_ocean keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-deep_ocean .themed-svg svg path {
+  fill: #285290;
+}
+#keeper-extension.light-mode.keeper-theme-deep_ocean .themed-text {
+  color: #285290 !important;
+}
+#keeper-extension.light-mode.keeper-theme-deep_ocean keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #285290 !important;
+}
+#keeper-extension.light-mode.keeper-theme-flame keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-flame .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #894252 !important;
+}
+#keeper-extension.light-mode.keeper-theme-flame keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-flame .themed-svg svg path {
+  fill: #894252;
+}
+#keeper-extension.light-mode.keeper-theme-flame .themed-text {
+  color: #894252 !important;
+}
+#keeper-extension.light-mode.keeper-theme-flame keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #894252 !important;
+}
+#keeper-extension.light-mode.keeper-theme-blue_and_green keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-blue_and_green .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #006a65 !important;
+}
+#keeper-extension.light-mode.keeper-theme-blue_and_green keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-blue_and_green .themed-svg svg path {
+  fill: #006a65;
+}
+#keeper-extension.light-mode.keeper-theme-blue_and_green .themed-text {
+  color: #006a65 !important;
+}
+#keeper-extension.light-mode.keeper-theme-blue_and_green keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #006a65 !important;
+}
+#keeper-extension.light-mode.keeper-theme-glam keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-glam .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #855289 !important;
+}
+#keeper-extension.light-mode.keeper-theme-glam keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-glam .themed-svg svg path {
+  fill: #855289;
+}
+#keeper-extension.light-mode.keeper-theme-glam .themed-text {
+  color: #855289 !important;
+}
+#keeper-extension.light-mode.keeper-theme-glam keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #855289 !important;
+}
+#keeper-extension.light-mode.keeper-theme-green keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-green .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #066618 !important;
+}
+#keeper-extension.light-mode.keeper-theme-green keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-green .themed-svg svg path {
+  fill: #066618;
+}
+#keeper-extension.light-mode.keeper-theme-green .themed-text {
+  color: #066618 !important;
+}
+#keeper-extension.light-mode.keeper-theme-green keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #066618 !important;
+}
+#keeper-extension.light-mode.keeper-theme-burgundy keeper-mode-selector .keeper-active,
+#keeper-extension.light-mode.keeper-theme-burgundy .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #422858 !important;
+}
+#keeper-extension.light-mode.keeper-theme-burgundy keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.light-mode.keeper-theme-burgundy .themed-svg svg path {
+  fill: #422858;
+}
+#keeper-extension.light-mode.keeper-theme-burgundy .themed-text {
+  color: #422858 !important;
+}
+#keeper-extension.light-mode.keeper-theme-burgundy keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #422858 !important;
+}
+#keeper-extension.light-mode .password-editor-checkbox.themed-svg svg path {
+  fill: #1b74da;
+}
+#keeper-extension.light-mode .password-editor-checkbox.themed-svg svg.unchecked path {
+  fill: #939393;
+}
+#keeper-extension.light-mode .password-editor-length input[type=range]::-webkit-slider-thumb {
+  background: #1b74da !important;
+}
+#keeper-extension.light-mode .password-editor-length input[type=range]::-moz-range-thumb {
+  background: #1b74da !important;
+}
+#keeper-extension.light-mode .inputs keeper-div:first-child {
+  color: #565656;
+}
+#keeper-extension.light-mode keeper-iconbutton-lock.high-contrast-border-underline.keeper-active,
+#keeper-extension.light-mode keeper-iconbutton-cc.high-contrast-border-underline.keeper-active,
+#keeper-extension.light-mode keeper-iconbutton-location.high-contrast-border-underline.keeper-active {
+  border-bottom: 4px solid Highlight !important;
+}
+#keeper-extension.light-mode keeper-iconbutton-lock.high-contrast-border-underline.keeper-inactive,
+#keeper-extension.light-mode keeper-iconbutton-cc.high-contrast-border-underline.keeper-inactive,
+#keeper-extension.light-mode keeper-iconbutton-location.high-contrast-border-underline.keeper-inactive {
+  border-bottom: 1px solid CanvasText !important;
+}
+
+#keeper-extension.high-contrast-border .password-editor-checkbox.themed-svg svg path {
+  fill: Highlight;
+}
+#keeper-extension.high-contrast-border .password-editor-checkbox.themed-svg svg.unchecked path {
+  fill: white;
+}
+
+#keeper-extension.dark-mode {
+  color: white !important;
+  background: #212121 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #48b6ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-classic .themed-svg svg path {
+  fill: #48b6ff;
+}
+#keeper-extension.dark-mode.keeper-theme-classic .themed-text {
+  color: #48b6ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #48b6ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-red_and_blue keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-red_and_blue .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #ff5c7b !important;
+}
+#keeper-extension.dark-mode.keeper-theme-red_and_blue keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-red_and_blue .themed-svg svg path {
+  fill: #ff5c7b;
+}
+#keeper-extension.dark-mode.keeper-theme-red_and_blue .themed-text {
+  color: #ff5c7b !important;
+}
+#keeper-extension.dark-mode.keeper-theme-red_and_blue keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #ff5c7b !important;
+}
+#keeper-extension.dark-mode.keeper-theme-phoenix keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-phoenix .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #ff6303 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-phoenix keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-phoenix .themed-svg svg path {
+  fill: #ff6303;
+}
+#keeper-extension.dark-mode.keeper-theme-phoenix .themed-text {
+  color: #ff6303 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-phoenix keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #ff6303 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-aluminum keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-aluminum .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #48b6ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-aluminum keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-aluminum .themed-svg svg path {
+  fill: #48b6ff;
+}
+#keeper-extension.dark-mode.keeper-theme-aluminum .themed-text {
+  color: #48b6ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-aluminum keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #48b6ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-deep_ocean keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-deep_ocean .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #258592 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-deep_ocean keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-deep_ocean .themed-svg svg path {
+  fill: #258592;
+}
+#keeper-extension.dark-mode.keeper-theme-deep_ocean .themed-text {
+  color: #258592 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-deep_ocean keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #258592 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-flame keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-flame .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #ff5a7f !important;
+}
+#keeper-extension.dark-mode.keeper-theme-flame keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-flame .themed-svg svg path {
+  fill: #ff5a7f;
+}
+#keeper-extension.dark-mode.keeper-theme-flame .themed-text {
+  color: #ff5a7f !important;
+}
+#keeper-extension.dark-mode.keeper-theme-flame keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #ff5a7f !important;
+}
+#keeper-extension.dark-mode.keeper-theme-blue_and_green keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-blue_and_green .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #00a79f !important;
+}
+#keeper-extension.dark-mode.keeper-theme-blue_and_green keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-blue_and_green .themed-svg svg path {
+  fill: #00a79f;
+}
+#keeper-extension.dark-mode.keeper-theme-blue_and_green .themed-text {
+  color: #00a79f !important;
+}
+#keeper-extension.dark-mode.keeper-theme-blue_and_green keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #00a79f !important;
+}
+#keeper-extension.dark-mode.keeper-theme-glam keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-glam .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #dc64e6 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-glam keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-glam .themed-svg svg path {
+  fill: #dc64e6;
+}
+#keeper-extension.dark-mode.keeper-theme-glam .themed-text {
+  color: #dc64e6 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-glam keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #dc64e6 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-green keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-green .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #00b923 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-green keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-green .themed-svg svg path {
+  fill: #00b923;
+}
+#keeper-extension.dark-mode.keeper-theme-green .themed-text {
+  color: #00b923 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-green keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #00b923 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-burgundy keeper-mode-selector .keeper-active,
+#keeper-extension.dark-mode.keeper-theme-burgundy .keeper-record-type-navigator .active {
+  border-bottom: 2px solid #be72ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-burgundy keeper-mode-selector .keeper-inactive {
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+#keeper-extension.dark-mode.keeper-theme-burgundy .themed-svg svg path {
+  fill: #be72ff;
+}
+#keeper-extension.dark-mode.keeper-theme-burgundy .themed-text {
+  color: #be72ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-burgundy keeper-extension-content keeper-password-options keeper-slider::after {
+  border-bottom: 4px solid #be72ff !important;
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #48b6ff 0, #48b6ff 100%);
+  background-image: linear-gradient(-45deg, #48b6ff 0, #48b6ff 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-red_and_blue keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-red_and_blue keeper-header,
+#keeper-extension.dark-mode.keeper-theme-red_and_blue .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-red_and_blue keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #ff5c7b 0, #ff5c7b 100%);
+  background-image: linear-gradient(-45deg, #ff5c7b 0, #ff5c7b 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-phoenix keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-phoenix keeper-header,
+#keeper-extension.dark-mode.keeper-theme-phoenix .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-phoenix keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #ff6303 0, #ff6303 100%);
+  background-image: linear-gradient(-45deg, #ff6303 0, #ff6303 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-aluminum keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-aluminum keeper-header,
+#keeper-extension.dark-mode.keeper-theme-aluminum .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-aluminum keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #48b6ff 0, #48b6ff 100%);
+  background-image: linear-gradient(-45deg, #48b6ff 0, #48b6ff 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-deep_ocean keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-deep_ocean keeper-header,
+#keeper-extension.dark-mode.keeper-theme-deep_ocean .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-deep_ocean keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #00afc5 0, #00afc5 100%);
+  background-image: linear-gradient(-45deg, #00afc5 0, #00afc5 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-flame keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-flame keeper-header,
+#keeper-extension.dark-mode.keeper-theme-flame .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-flame keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #ff5a7f 0, #ff5a7f 100%);
+  background-image: linear-gradient(-45deg, #ff5a7f 0, #ff5a7f 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-blue_and_green keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-blue_and_green keeper-header,
+#keeper-extension.dark-mode.keeper-theme-blue_and_green .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-blue_and_green keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #00a79f 0, #00a79f 100%);
+  background-image: linear-gradient(-45deg, #00a79f 0, #00a79f 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-glam keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-glam keeper-header,
+#keeper-extension.dark-mode.keeper-theme-glam .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-glam keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #dc64e6 0, #dc64e6 100%);
+  background-image: linear-gradient(-45deg, #dc64e6 0, #dc64e6 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-green keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-green keeper-header,
+#keeper-extension.dark-mode.keeper-theme-green .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-green keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #00b923 0, #00b923 100%);
+  background-image: linear-gradient(-45deg, #00b923 0, #00b923 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-burgundy keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-burgundy keeper-header,
+#keeper-extension.dark-mode.keeper-theme-burgundy .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-burgundy keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #be72ff 0, #be72ff 100%);
+  background-image: linear-gradient(-45deg, #be72ff 0, #be72ff 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #48b6ff 0, #48b6ff 100%);
+  background-image: linear-gradient(-45deg, #48b6ff 0, #48b6ff 100%);
+}
+#keeper-extension.dark-mode.keeper-theme-classic keeper-mode-selector,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic .keeper-header,
+#keeper-extension.dark-mode.keeper-theme-classic keeper-extension-content .slider-background {
+  background-image: -moz-linear-gradient(135deg, #191919 0, #191919 100%);
+  background-image: linear-gradient(-45deg, #191919 0, #191919 100%);
+}
+#keeper-extension.dark-mode .password-strength-label {
+  color: #b3b3b3 !important;
+}
+#keeper-extension.dark-mode .password-editor-checkbox.themed-svg svg path {
+  fill: #48b6ff;
+}
+#keeper-extension.dark-mode .password-editor-checkbox.themed-svg svg.unchecked path {
+  fill: #939393;
+}
+#keeper-extension.dark-mode .password-editor-length input[type=range]::-webkit-slider-thumb {
+  background: #48b6ff !important;
+}
+#keeper-extension.dark-mode .password-editor-length input[type=range]::-moz-range-thumb {
+  background: #48b6ff !important;
+}
+#keeper-extension.dark-mode button:not(.button.later, .ksjsui-relative, .ksjsui:relative),
+#keeper-extension.dark-mode keeper-button,
+#keeper-extension.dark-mode .keeper-button {
+  color: black;
+}
+#keeper-extension.dark-mode textarea {
+  border-color: #d8d8d8;
+}
+#keeper-extension.dark-mode textarea::-webkit-input-placeholder {
+  color: #b3b3b3;
+}
+#keeper-extension.dark-mode textarea::-moz-placeholder {
+  color: #b3b3b3;
+}
+#keeper-extension.dark-mode textarea:-ms-input-placeholder {
+  color: #b3b3b3;
+}
+#keeper-extension.dark-mode textarea::-ms-input-placeholder {
+  color: #b3b3b3;
+}
+#keeper-extension.dark-mode textarea::placeholder {
+  color: #b3b3b3;
+}
+#keeper-extension.dark-mode .keeper-extension-simple > .keeper-div {
+  color: #fff;
+}
+#keeper-extension.dark-mode .keeper-extension-simple .dont-show-again {
+  color: #48b6ff !important;
+}
+#keeper-extension.dark-mode [keeper-tooltip]::after {
+  background: white;
+  color: black;
+}
+#keeper-extension.dark-mode .login-input-helper .login-input-helper-emails .login-input-helper-email {
+  color: white;
+}
+#keeper-extension.dark-mode [keeper-tooltip]::before {
+  border-bottom-color: white;
+}
+#keeper-extension.dark-mode [keeper-tooltip].tooltip-top::before {
+  border-bottom-color: transparent;
+  border-top-color: white;
+}
+#keeper-extension.dark-mode [keeper-tooltip].tooltip-fullleft::before {
+  border-bottom-color: transparent;
+  border-left-color: white;
+}
+#keeper-extension.dark-mode [keeper-tooltip].tooltip-fullright::before {
+  border-bottom-color: transparent;
+  border-right-color: white;
+}
+#keeper-extension.dark-mode #edit-menu {
+  background: #202020 !important;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  border: 1px solid #979797;
+}
+#keeper-extension.dark-mode #edit-menu keeper-div {
+  color: white;
+}
+#keeper-extension.dark-mode #edit-menu keeper-div:hover {
+  background: #585858;
+}
+#keeper-extension.dark-mode keeper-list,
+#keeper-extension.dark-mode .keeper-list {
+  background: #202020;
+}
+#keeper-extension.dark-mode keeper-list .keeper-listitem-new div,
+#keeper-extension.dark-mode keeper-list .keeper-listitem div,
+#keeper-extension.dark-mode keeper-list keeper-listitem div,
+#keeper-extension.dark-mode keeper-list keeper-listitem-new div,
+#keeper-extension.dark-mode .keeper-list .keeper-listitem-new div,
+#keeper-extension.dark-mode .keeper-list .keeper-listitem div,
+#keeper-extension.dark-mode .keeper-list keeper-listitem div,
+#keeper-extension.dark-mode .keeper-list keeper-listitem-new div {
+  color: white !important;
+}
+#keeper-extension.dark-mode keeper-list .keeper-listitem-new:hover,
+#keeper-extension.dark-mode keeper-list .keeper-listitem:hover,
+#keeper-extension.dark-mode keeper-list keeper-listitem:hover,
+#keeper-extension.dark-mode keeper-list keeper-listitem-new:hover,
+#keeper-extension.dark-mode .keeper-list .keeper-listitem-new:hover,
+#keeper-extension.dark-mode .keeper-list .keeper-listitem:hover,
+#keeper-extension.dark-mode .keeper-list keeper-listitem:hover,
+#keeper-extension.dark-mode .keeper-list keeper-listitem-new:hover {
+  background: #121212;
+}
+#keeper-extension.dark-mode keeper-list .keeper-listitem-new svg path,
+#keeper-extension.dark-mode keeper-list .keeper-listitem svg path,
+#keeper-extension.dark-mode keeper-list keeper-listitem svg path,
+#keeper-extension.dark-mode keeper-list keeper-listitem-new svg path,
+#keeper-extension.dark-mode .keeper-list .keeper-listitem-new svg path,
+#keeper-extension.dark-mode .keeper-list .keeper-listitem svg path,
+#keeper-extension.dark-mode .keeper-list keeper-listitem svg path,
+#keeper-extension.dark-mode .keeper-list keeper-listitem-new svg path {
+  fill: white !important;
+}
+#keeper-extension.dark-mode keeper-list #search.promptWindow input,
+#keeper-extension.dark-mode .keeper-list #search.promptWindow input {
+  background: #202020;
+  color: white;
+  border-color: white;
+}
+#keeper-extension.dark-mode .password-editor .password-editor-options .password-editor-checkboxes div .password-editor-checkbox-label {
+  color: white;
+}
+#keeper-extension.dark-mode keeper-record-fields .label,
+#keeper-extension.dark-mode keeper-record-fields .value,
+#keeper-extension.dark-mode keeper-record-fields .keeper-record-label {
+  color: white !important;
+}
+#keeper-extension.dark-mode keeper-record-fields .field svg:not(.ksjsui:fill-current) path,
+#keeper-extension.dark-mode keeper-record-fields .keeper-password svg:not(.ksjsui:fill-current) path {
+  fill: white;
+}
+#keeper-extension.dark-mode .countdown-circle .progress {
+  stroke: #48b6ff;
+}
+#keeper-extension.dark-mode .record-edit-content g rect {
+  fill: #121212;
+}
+#keeper-extension.dark-mode .fill-record-button {
+  background: #1f1f1f;
+  border: 1px solid #f0f0f0;
+}
+#keeper-extension.dark-mode .fill-record-button .fill-record-button-text {
+  color: white;
+}
+#keeper-extension.dark-mode .fill-record-button .fill-record-button-icon svg path {
+  fill: white !important;
+}
+#keeper-extension.dark-mode keeper-mode-selector keeper-div:nth-child(1) {
+  box-shadow: inset -1px 0 0 rgba(255, 255, 255, 0.45), inset 1px 0 0 rgba(255, 255, 255, 0.45), inset 0 -1px 0 rgba(255, 255, 255, 0.45);
+}
+#keeper-extension.dark-mode .password-editor .password-editor-options .password-editor-length .password-editor-length-label {
+  color: white !important;
+}
+#keeper-extension.dark-mode .overlayalert {
+  border: 1px solid #888;
+  background: #1f1f1f;
+}
+#keeper-extension.dark-mode keeper-record .keeper-record-field-card,
+#keeper-extension.dark-mode keeper-record .keeper-record-field-login,
+#keeper-extension.dark-mode keeper-record .keeper-record-field-address {
+  border: 1px solid white !important;
+}
+#keeper-extension.dark-mode #password-header {
+  color: #b3b3b3 !important;
+}
+#keeper-extension.dark-mode .keeper-favicon,
+#keeper-extension.dark-mode keeper-input,
+#keeper-extension.dark-mode .keeper-input,
+#keeper-extension.dark-mode keeper-favicon keeper-div,
+#keeper-extension.dark-mode keeper-mode-selector keeper-div,
+#keeper-extension.dark-mode keeper-extension-content keeper-div,
+#keeper-extension.dark-mode keeper-extension-no-record keeper-div {
+  color: white !important;
+}
+#keeper-extension.dark-mode keeper-input {
+  color: white !important;
+}
+#keeper-extension.dark-mode keeper-record svg path,
+#keeper-extension.dark-mode .record-edit svg path,
+#keeper-extension.dark-mode keeper-password svg path {
+  fill: white;
+}
+#keeper-extension.dark-mode keeper-record svg.ksjsui\:fill-current path,
+#keeper-extension.dark-mode .record-edit svg.ksjsui\:fill-current path,
+#keeper-extension.dark-mode keeper-password svg.ksjsui\:fill-current path {
+  fill: inherit;
+}
+#keeper-extension.dark-mode keeper-record .matching-logins,
+#keeper-extension.dark-mode .record-edit .matching-logins,
+#keeper-extension.dark-mode keeper-password .matching-logins {
+  color: white !important;
+}
+#keeper-extension.dark-mode keeper-password keeper-password-privacy-screen,
+#keeper-extension.dark-mode keeper-password .keeper-password-privacy-screen,
+#keeper-extension.dark-mode .keeper-password keeper-password-privacy-screen,
+#keeper-extension.dark-mode .keeper-password .keeper-password-privacy-screen {
+  color: white !important;
+}
+#keeper-extension.dark-mode keeper-mode-selector svg path,
+#keeper-extension.dark-mode .toggle-icon svg path,
+#keeper-extension.dark-mode .menu-item-description:not(.themed-svg) svg path,
+#keeper-extension.dark-mode .keeper-select-usability:not(.themed-svg) svg path,
+#keeper-extension.dark-mode keeper-extension-content svg path,
+#keeper-extension.dark-mode keeper-record-fields keeper-iconbutton-fill svg path,
+#keeper-extension.dark-mode .keeper-record keeper-dropdown-toggle svg path {
+  fill: white;
+}
+#keeper-extension.dark-mode .record-edit-field-content .record-field-title,
+#keeper-extension.dark-mode .record-edit-field-content keeper-input {
+  color: #b3b3b3 !important;
+}
+#keeper-extension.dark-mode div.keeper-select,
+#keeper-extension.dark-mode div.keeper-select-usability,
+#keeper-extension.dark-mode span:not(.password-char,
+.specialChar,
+.num,
+.password-editor-checkbox-label,
+.text,
+.ButtonContent,
+.ksjsui-relative,
+.ksjsui:relative) {
+  color: white;
+}
+#keeper-extension.dark-mode .keeper-select-menu {
+  background: #121212;
+}
+#keeper-extension.dark-mode .keeper-select-menu .menu-item-description,
+#keeper-extension.dark-mode .keeper-select-menu .menu-desc-label {
+  color: white;
+}
+#keeper-extension.dark-mode .login-input-helper-instruction {
+  color: white !important;
+  opacity: 0.8;
+}
+#keeper-extension.dark-mode .login-input-helper,
+#keeper-extension.dark-mode .keeper-input-usability,
+#keeper-extension.dark-mode .password-input-helper-instruction,
+#keeper-extension.dark-mode .keeper-input-password,
+#keeper-extension.dark-mode .toggle-text {
+  color: white !important;
+}
+#keeper-extension.dark-mode .login-input-helper svg path,
+#keeper-extension.dark-mode .keeper-input-usability svg path,
+#keeper-extension.dark-mode .password-input-helper-instruction svg path,
+#keeper-extension.dark-mode .keeper-input-password svg path,
+#keeper-extension.dark-mode .toggle-text svg path {
+  fill: white;
+}
+#keeper-extension.dark-mode keeper-record .keeper-record-field-address,
+#keeper-extension.dark-mode keeper-record keeper-record-field-login,
+#keeper-extension.dark-mode keeper-record .keeper-record-field-login,
+#keeper-extension.dark-mode keeper-record .keeper-record-field-card,
+#keeper-extension.dark-mode .keeper-record .keeper-record-field-address,
+#keeper-extension.dark-mode .keeper-record keeper-record-field-login,
+#keeper-extension.dark-mode .keeper-record .keeper-record-field-login,
+#keeper-extension.dark-mode .keeper-record .keeper-record-field-card {
+  border-color: white !important;
+}
+#keeper-extension.dark-mode .keeper-header,
+#keeper-extension.dark-mode keeper-header {
+  width: 99.3%;
+  left: 1px;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-red_and_blue,
+#keeper-extension.dark-mode keeper-header.keeper-theme-red_and_blue {
+  background: #a12e44;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-phoenix,
+#keeper-extension.dark-mode keeper-header.keeper-theme-phoenix {
+  background: #824c00;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-aluminum,
+#keeper-extension.dark-mode keeper-header.keeper-theme-aluminum {
+  background: #424242;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-deep_ocean,
+#keeper-extension.dark-mode keeper-header.keeper-theme-deep_ocean {
+  background: #00626e;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-flame,
+#keeper-extension.dark-mode keeper-header.keeper-theme-flame {
+  background: #7d2d37;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-blue_and_green,
+#keeper-extension.dark-mode keeper-header.keeper-theme-blue_and_green {
+  background: #13653f;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-glam,
+#keeper-extension.dark-mode keeper-header.keeper-theme-glam {
+  background: #8b3f64;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-green,
+#keeper-extension.dark-mode keeper-header.keeper-theme-green {
+  background: #006813;
+}
+#keeper-extension.dark-mode .keeper-header.keeper-theme-burgundy,
+#keeper-extension.dark-mode keeper-header.keeper-theme-burgundy {
+  background: #42275a;
+}
+#keeper-extension.dark-mode keeper-iconbutton-lock.high-contrast-border-underline.keeper-active,
+#keeper-extension.dark-mode keeper-iconbutton-cc.high-contrast-border-underline.keeper-active,
+#keeper-extension.dark-mode keeper-iconbutton-location.high-contrast-border-underline.keeper-active {
+  border-bottom: 4px solid Highlight !important;
+}
+#keeper-extension.dark-mode keeper-iconbutton-lock.high-contrast-border-underline.keeper-inactive,
+#keeper-extension.dark-mode keeper-iconbutton-cc.high-contrast-border-underline.keeper-inactive,
+#keeper-extension.dark-mode keeper-iconbutton-location.high-contrast-border-underline.keeper-inactive {
+  border-bottom: 1px solid CanvasText !important;
+}
+#keeper-extension.dark-mode keeper-input:checked ~ label,
+#keeper-extension.dark-mode keeper-input[checked=true] ~ label {
+  background: #64dc16;
+}
+#keeper-extension.dark-mode keeper-input:checked ~ label::after,
+#keeper-extension.dark-mode keeper-input[checked=true] ~ label::after {
+  border: 1px solid #64dc16;
+  left: 12px;
+}

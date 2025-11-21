@@ -1,0 +1,442 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+input::-webkit-input-placeholder {
+  color: #565656;
+}
+
+input::-moz-placeholder {
+  color: #565656;
+}
+
+input:-ms-input-placeholder {
+  color: #565656;
+}
+
+input::-ms-input-placeholder {
+  color: #565656;
+}
+
+input::placeholder {
+  color: #565656;
+}
+
+.container#keeper-sso {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+       transform: translate(-50%, -50%);
+  width: 400px;
+  height: auto !important; /* Need to override from success.css */
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  font-family: Outfit, "Helvetica Neue", sans-serif;
+}
+
+.container#keeper-sso div.keeper-logo {
+  background-repeat: no-repeat;
+  background-size: 117px 36px;
+  display: block;
+  height: 36px;
+  width: 117px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
+
+/* Need to override from success.css */
+.container#keeper-sso .bottom_space_header {
+  margin-bottom: 32px;
+  width: 218px;
+}
+
+.container#keeper-sso div#progress {
+  margin-top: 10px;
+}
+
+.container#keeper-sso div#waiting {
+  margin-top: 20px;
+  font-family: inherit;
+  font-size: 15px;
+}
+
+.container#keeper-sso .error {
+  -moz-box-align: center !important;
+       align-items: center !important;
+}
+
+.container#keeper-sso .error_text {
+  color: #ce021b;
+  text-align: center !important;
+  font-family: inherit;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  margin-bottom: 32px;
+}
+
+.container#keeper-sso .saml_error {
+  text-align: center !important;
+  -moz-box-align: center !important;
+       align-items: center !important;
+}
+
+.container#keeper-sso button {
+  width: 160px !important;
+  height: 40px !important;
+  margin: 5px 4px !important;
+  cursor: pointer !important;
+  border: none !important;
+  border-radius: 4px !important;
+  color: black !important;
+  outline: none;
+  background-color: rgb(229, 229, 229) !important;
+  font-family: inherit !important;
+  font-size: 13px !important;
+  padding: unset; /* Clear value from default stylesheet */
+  -webkit-user-select: none !important;
+     -moz-user-select: none !important;
+      -ms-user-select: none !important;
+          user-select: none !important;
+}
+
+.container#keeper-sso button:focus-within {
+  outline: 2px solid #054b91;
+}
+
+.container#keeper-sso button.primary {
+  background-color: rgb(247, 198, 68) !important;
+}
+
+.container#keeper-sso button.backup {
+  background-color: transparent !important;
+  color: #1b74da !important;
+  font-size: 15px !important;
+  line-height: 24px;
+  height: 24px !important;
+  margin-top: 24px !important;
+}
+
+.container#keeper-sso .twofac {
+  width: 100% !important;
+  margin-top: 15px;
+  position: relative;
+}
+
+.container#keeper-sso #keeper-duo {
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+
+.container#keeper-sso #keeper-duo .logo {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/duo-logo.svg");
+  background-size: 75px 25px;
+  height: 25px;
+  width: 75px;
+  margin: 0 auto 15px;
+}
+
+.container#keeper-sso #keeper-duo .message {
+  text-align: center;
+  font-family: inherit;
+  font-size: 14px;
+  margin: 25px 40px 15px;
+}
+
+.container#keeper-sso #keeper-duo .duobuttons {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  -moz-box-align: center;
+       align-items: center;
+}
+
+.container#keeper-sso #keeper-duo .duobuttons button:active {
+  background-color: #ffd600;
+  color: #333;
+}
+
+.container#keeper-sso #keeper-duo .duobuttons button:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.container#keeper-sso #two_factor_info {
+  text-align: start !important;
+  font-family: inherit;
+  font-size: 13px;
+  margin-bottom: 5px !important;
+}
+
+.container#keeper-sso #two_factor_code {
+  width: 100% !important;
+  height: 40px !important;
+  color: black !important;
+  background-color: rgb(242, 242, 242) !important;
+  border: none !important;
+  font-family: inherit !important;
+  font-size: 14px !important;
+  padding: 0 50px 0 10px !important;
+  outline: none;
+  /* -moz-user-select: none !important;
+  -webkit-user-select: none !important; */
+}
+
+.container#keeper-sso #two_factor_code:focus-within {
+  outline: 2px solid #054b91;
+}
+
+.container#keeper-sso .twofac #eyeball {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  height: 24px !important;
+  width: 24px !important;
+  border: 0 none none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: none !important;
+}
+
+.container#keeper-sso .twofac #eyeball svg {
+  -webkit-filter: opacity(0.5);
+          filter: opacity(0.5);
+}
+
+.container#keeper-sso #two_factor_code::-webkit-input-placeholder {
+  opacity: 1;
+}
+
+.container#keeper-sso #two_factor_code::-moz-placeholder {
+  opacity: 1;
+}
+
+.container#keeper-sso #two_factor_code:-ms-input-placeholder {
+  opacity: 1;
+}
+
+.container#keeper-sso #two_factor_code::-ms-input-placeholder {
+  opacity: 1;
+}
+
+.container#keeper-sso #two_factor_code::placeholder {
+  opacity: 1;
+}
+
+.container#keeper-sso #twofac > select {
+  font-family: inherit;
+  font-size: 14px;
+  width: 100% !important;
+  height: 40px;
+  padding: 0 12px;
+  margin-bottom: 15px;
+  background-color: rgb(242, 242, 242);
+  border: none;
+  outline: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/arrow_drop_down_black.png");
+  background-size: 24px;
+  background-repeat: no-repeat;
+  background-position: 98% center;
+}
+
+/* let's just switch the image depending on the mode */
+.container.high-contrast-border#keeper-sso #twofac > select {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/arrow_drop_down_canvas.svg");
+}
+
+.container#keeper-sso #twofac > select:focus-within {
+  outline: 2px solid #054b91;
+}
+
+.container#keeper-sso #twofac > select::after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid blue;
+  /* border-color: #fff transparent transparent transparent; */
+}
+
+.container#keeper-sso #twofac #keeper-webauthn {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  -moz-box-align: center;
+       align-items: center;
+  gap: 12px;
+  margin-top: -12px;
+  margin-bottom: 24px;
+}
+
+.container#keeper-sso #twofac .scanning-text {
+  font-size: 16px;
+  line-height: 24px;
+  padding: 2px 12px;
+  color: #565656;
+  height: 40px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+
+.container#keeper-sso #twofac > button {
+  width: 100% !important;
+}
+
+/**
+ * Login V3
+ */
+.container#keeper-sso #device-approval {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  -moz-box-align: center;
+       align-items: center;
+  text-align: center;
+}
+
+.container#keeper-sso #device-approval div.device-approval-message {
+  font-size: 14px;
+  padding: 0 16px;
+}
+
+.container#keeper-sso #device-approval button.device-approval-option {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  margin-top: 12px !important;
+  padding: 10px;
+  background: #e5e5e5;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 20px;
+  font-size: 13px;
+  min-width: 200px;
+  cursor: pointer;
+  width: 272px !important;
+  height: 32px !important;
+  border: 1px solid #797979 !important;
+  display: -moz-box !important;
+  display: flex !important;
+  -moz-box-pack: center !important;
+       justify-content: center !important;
+  -moz-box-align: center !important;
+       align-items: center !important;
+}
+
+.container#keeper-sso #device-approval button.device-approval-option:disabled {
+  cursor: default;
+  background-color: rgba(229, 229, 229, 0.5) !important;
+}
+
+.container#keeper-sso #device-approval div.keeper-push-header {
+  display: -moz-box;
+  display: flex;
+}
+
+.container#keeper-sso #device-approval div.keeper-push-header div:first-child {
+  font-size: 14px;
+}
+
+.container#keeper-sso #device-approval div.keeper-push-header div:last-child {
+  /* background-image: url(chrome-extension://__MSG_@@extension_id__/images/help_black.png); */
+  height: 16px;
+  width: 16px;
+  background-size: 16px;
+  margin-left: 5px;
+  -webkit-filter: opacity(0.5);
+          filter: opacity(0.5);
+}
+
+.container#keeper-sso #device-approval div.keeper-push-sub-header {
+  font-size: 13px;
+  padding-top: 8px;
+}
+
+.container#keeper-sso #device-approval div.preloader {
+  width: 96px;
+}
+
+.container#keeper-sso #device-approval div.need-help {
+  font-size: 14px;
+}
+
+.container#keeper-sso #device-approval div.notifications-enabled {
+  padding-top: 8px;
+  font-size: 13px;
+}
+
+.container#keeper-sso #device-approved {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  -moz-box-align: center;
+       align-items: center;
+  margin: 24px 0;
+}
+
+.container#keeper-sso #device-approved .approved-image {
+  background-repeat: no-repeat;
+  background-size: 40px 40px;
+  display: block;
+  height: 40px;
+  width: 40px;
+  margin-bottom: 16px;
+}
+
+.container#keeper-sso #device-approved .approved-image.checkmark {
+  /* background-image: url(chrome-extension://__MSG_@@extension_id__/images/icon-greencheck.svg); */
+}
+
+.container#keeper-sso #device-approved .approved-image.timeout {
+  /* background-image: url(chrome-extension://__MSG_@@extension_id__/images/infoI.svg); */
+}
+
+.container#keeper-sso #device-approved .approved-message {
+  font-size: 14px;
+  text-align: center;
+}
+
+/* HIGH CONTRAST MODE SECTION */
+.container#keeper-sso.high-contrast-border,
+.container#keeper-sso .high-contrast-border,
+.container#keeper-sso #two_factor_code.high-contrast-border,
+.container#keeper-sso #expire_pulldown.high-contrast-border {
+  border: 1px solid CanvasText !important;
+}
+
+.container#keeper-sso .high-contrast-border-fill-white svg path,
+.container#keeper-sso svg.high-contrast-border-fill-white path {
+  fill: CanvasText !important;
+}

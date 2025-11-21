@@ -1,0 +1,23 @@
+@font-face {
+  font-family: SFUIText-Regular;
+  src: url(/fonts/custom/SFUIText-Regular.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: SFUIText-Medium;
+  src: url(/fonts/custom/SFUIText-Medium.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.sfuitext-regular {
+  font-family: SFUIText-Regular, sans-serif !important;
+  color: #333;
+}
+
+.sfuitext-medium {
+  font-family: SFUIText-Medium, sans-serif !important;
+  color: #333;
+}

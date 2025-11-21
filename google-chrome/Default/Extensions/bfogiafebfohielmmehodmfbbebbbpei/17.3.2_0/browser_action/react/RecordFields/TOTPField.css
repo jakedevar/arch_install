@@ -1,0 +1,160 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.field.otp {
+  display: -moz-box;
+  display: flex;
+}
+.field.otp .totp-top-container {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  width: 100%;
+  -moz-box-pack: start;
+       justify-content: flex-start;
+  gap: 4px;
+}
+.field.otp .totp-top-container .label-tooltip {
+  color: #565656;
+}
+.field.otp .totp-top-container .row {
+  gap: 12px;
+}
+.field.otp .totp-top-container .row .countdown-circle {
+  height: 32px;
+  width: 32px;
+  flex-shrink: 0;
+}
+.field.otp .totp-top-container .row .countdown-circle .base {
+  stroke-width: 3px;
+}
+.field.otp .totp-top-container .row .field-value {
+  width: 100%;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.field.otp .totp-top-container .row .show,
+.field.otp .totp-top-container .row .copy {
+  top: 0;
+  right: 0;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-pack: center;
+       justify-content: center;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.field.otp.v2.invalid-totp-token .totp-top-container .field-name {
+  color: #565656;
+}
+.dark-mode .field.otp.v2.invalid-totp-token .totp-top-container .field-name {
+  color: #b3b3b3;
+}
+.high-contrast-mode .field.otp.v2.invalid-totp-token .totp-top-container .field-name {
+  color: CanvasText;
+}
+.field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container {
+  gap: 12px;
+}
+.field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .keeper-iconbutton-circle {
+  width: 32px;
+  height: 32px;
+}
+.field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .keeper-iconbutton-circle path {
+  fill: #f0f0f0;
+}
+.dark-mode .field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .keeper-iconbutton-circle path {
+  fill: #565656;
+}
+.high-contrast-mode .field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .keeper-iconbutton-circle path {
+  fill: CanvasText;
+}
+.field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .text {
+  color: #000;
+}
+.dark-mode .field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .text {
+  color: #fff;
+}
+.high-contrast-mode .field.otp.v2.invalid-totp-token .totp-top-container .invalid-totp-token-message-container .text {
+  color: CanvasText;
+}
+.field.otp.v2 .totp-top-container .label-tooltip .field-name {
+  color: #565656;
+}
+.dark-mode .field.otp.v2 .totp-top-container .label-tooltip .field-name {
+  color: #b3b3b3;
+}
+.field.otp.v2 .totp-top-container .row {
+  gap: 12px;
+}
+.field.otp.v2 .totp-top-container .row svg.countdown-circle {
+  margin-left: 0;
+  margin-right: 0;
+}
+.field.otp.v2 .totp-top-container .row svg.countdown-circle g circle.base {
+  stroke: #ebebeb;
+}
+.dark-mode .field.otp.v2 .totp-top-container .row svg.countdown-circle g circle.base {
+  stroke: #565656;
+}
+.high-contrast-mode .field.otp.v2 .totp-top-container .row svg.countdown-circle g circle.base {
+  stroke: CanvasText;
+}
+.field.otp.v2 .totp-top-container .row svg.countdown-circle g circle.progress {
+  stroke: #1b74da;
+  stroke-width: 3px;
+}
+.dark-mode .field.otp.v2 .totp-top-container .row svg.countdown-circle g circle.progress {
+  stroke: #48b6ff;
+}
+.high-contrast-mode .field.otp.v2 .totp-top-container .row svg.countdown-circle g circle.progress {
+  stroke: Highlight;
+}
+.field.otp.v2 .totp-top-container .row svg.countdown-circle text {
+  font-size: 10px;
+  fill: #054b91;
+  font-family: Outfit, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+}
+.dark-mode .field.otp.v2 .totp-top-container .row svg.countdown-circle text {
+  fill: #e8f2fc;
+}
+.high-contrast-mode .field.otp.v2 .totp-top-container .row svg.countdown-circle text {
+  fill: Highlight;
+}
+.field.otp.v2 .totp-top-container .row .field-value .keeper-secret {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Roboto-Mono, monospace;
+}
+.field.otp.v2 .totp-top-container .row .field-value .keeper-secret-masked {
+  font-size: 20px;
+}
+.field.otp.v2 .totp-top-container .row .copy svg path {
+  fill: #000;
+}
+.dark-mode .field.otp.v2 .totp-top-container .row .copy svg path {
+  fill: #b3b3b3;
+}
+.high-contrast-mode .field.otp.v2 .totp-top-container .row .copy svg path {
+  fill: CanvasText;
+}

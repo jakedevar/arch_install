@@ -1,0 +1,128 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#add-payment.high-contrast-mode > .form-container .button-container button:focus-visible {
+  border: 2px solid Highlight !important;
+}
+
+#add-payment.dark-mode > .form-container .button-container button:focus-visible {
+  border: 2px solid rgb(72, 182, 255);
+}
+
+#add-payment .form-container {
+  width: 360px;
+}
+@media screen and (height <= 540px) {
+  #add-payment .form-container .folder-dropdown-field-container.v2 .dropdown-container {
+    width: -moz-calc(100% - 40px);
+    width: calc(100% - 40px);
+    height: -moz-calc(100% - 40px);
+    height: calc(100% - 40px);
+    top: 20px;
+  }
+  #add-payment .form-container .folder-dropdown-field-container.v2 .dropdown-field-options-container {
+    position: static;
+  }
+}
+@media screen and (540px < height <= 600px) {
+  #add-payment .form-container .folder-dropdown-field-container.v2 .dropdown-container {
+    height: 320px;
+  }
+}
+#add-payment .form-container .record-title {
+  gap: 8px;
+}
+#add-payment .form-container .record-title .record-title-icon {
+  flex-basis: 40px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid #d8d8d8;
+  background: #fff;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: center;
+       justify-content: center;
+  -moz-box-align: center;
+       align-items: center;
+}
+#add-payment .form-container .input-field-container.card-number input, #add-payment .form-container .input-field-container.expiration input, #add-payment .form-container .input-field-container.security-code input, #add-payment .form-container .input-field-container.pin-code input {
+  font-family: Roboto-Mono, monospace;
+}
+#add-payment .form-container .input-field-container.card-number input::-webkit-input-placeholder, #add-payment .form-container .input-field-container.expiration input::-webkit-input-placeholder, #add-payment .form-container .input-field-container.security-code input::-webkit-input-placeholder, #add-payment .form-container .input-field-container.pin-code input::-webkit-input-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#add-payment .form-container .input-field-container.card-number input::-moz-placeholder, #add-payment .form-container .input-field-container.expiration input::-moz-placeholder, #add-payment .form-container .input-field-container.security-code input::-moz-placeholder, #add-payment .form-container .input-field-container.pin-code input::-moz-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#add-payment .form-container .input-field-container.card-number input:-ms-input-placeholder, #add-payment .form-container .input-field-container.expiration input:-ms-input-placeholder, #add-payment .form-container .input-field-container.security-code input:-ms-input-placeholder, #add-payment .form-container .input-field-container.pin-code input:-ms-input-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#add-payment .form-container .input-field-container.card-number input::-ms-input-placeholder, #add-payment .form-container .input-field-container.expiration input::-ms-input-placeholder, #add-payment .form-container .input-field-container.security-code input::-ms-input-placeholder, #add-payment .form-container .input-field-container.pin-code input::-ms-input-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#add-payment .form-container .input-field-container.card-number input::placeholder, #add-payment .form-container .input-field-container.expiration input::placeholder, #add-payment .form-container .input-field-container.security-code input::placeholder, #add-payment .form-container .input-field-container.pin-code input::placeholder {
+  font-family: Outfit, sans-serif;
+}
+#add-payment .form-container .dropdown-field-container.address-dropdown-field .dropdown-field-options-container .dropdown-container {
+  top: initial;
+  bottom: 0;
+}
+#add-payment .form-container .button-container button.primary-btn {
+  width: 100%;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #ffc700;
+  cursor: pointer;
+  font-size: 15px;
+  flex-shrink: 0;
+  font-weight: 400;
+  font-family: Outfit, sans-serif;
+  border: none;
+}
+.dark-mode #add-payment .form-container .button-container button.primary-btn {
+  border: none;
+}
+.high-contrast-mode #add-payment .form-container .button-container button.primary-btn {
+  border: 1px solid ButtonBorder;
+}
+#add-payment .form-container .button-container button.primary-btn.disabled {
+  cursor: not-allowed;
+  background-color: #f0f0f0;
+  color: #888;
+}
+.dark-mode #add-payment .form-container .button-container button.primary-btn.disabled {
+  background-color: #f0f0f0;
+}
+.dark-mode #add-payment .form-container .button-container button.primary-btn.disabled {
+  color: #888;
+}
+.high-contrast-mode #add-payment .form-container .button-container button.primary-btn.disabled {
+  color: GrayText;
+}
+.high-contrast-mode #add-payment .form-container .button-container button.primary-btn.disabled {
+  border-color: GrayText;
+}
+#add-payment .form-container .button-container button.primary-btn.disabled:hover {
+  background-color: #f0f0f0;
+}
+.dark-mode #add-payment .form-container .button-container button.primary-btn.disabled:hover {
+  background-color: #f0f0f0;
+}
+#add-payment .form-container .button-container button.primary-btn:hover {
+  background-color: #e6b300;
+}
+#add-payment .form-container .button-container button.primary-btn:focus-visible {
+  outline: none;
+  border: 2px solid #054b91;
+}

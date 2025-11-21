@@ -1,0 +1,53 @@
+.hider {
+  position: absolute;
+  inset: 0px;
+  overflow: scroll;
+  left: 0;
+  height: 100%;
+  scrollbar-width: none;
+}
+.hider::-webkit-scrollbar {
+  display: none;
+}
+:global(.rtl) .hider {
+  right: 0;
+  left: -50px;
+}
+
+.scrollbar:hover > .trackX {
+  opacity: 1 !important;
+}
+.scrollbar:hover > .trackY {
+  opacity: 1 !important;
+}
+
+.trackX {
+  right: 2px;
+  bottom: 4px;
+  left: 2px;
+}
+
+.thumbX {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  will-change: transform;
+}
+
+.trackY {
+  right: 4px;
+  bottom: 2px;
+  top: 2px;
+}
+:global(.rtl) .trackY {
+  right: auto;
+  left: 4px;
+}
+
+.thumbY {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  will-change: transform;
+}
+.thumbY.darkMode {
+  background: rgba(255, 255, 255, 0.5);
+}

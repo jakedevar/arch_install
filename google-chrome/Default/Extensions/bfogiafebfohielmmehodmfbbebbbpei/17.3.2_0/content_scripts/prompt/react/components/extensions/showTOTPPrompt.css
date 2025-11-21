@@ -1,0 +1,81 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp {
+  display: -moz-box;
+  display: flex;
+  margin-top: -16px;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .countdown-circle.v2 {
+  margin-top: 8px;
+  margin-right: 14px;
+  padding: 0 !important;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .countdown-circle.v2 g circle.base {
+  stroke: #f0f0f0;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .countdown-circle.v2 text {
+  fill: #054b91;
+  font-size: 12px;
+  font-family: Outfit, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .label-field-container {
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .label-field-container .keeper-record-field .keeper-secret-masked,
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .label-field-container .keeper-record-field .keeper-secret {
+  font-size: 20px;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .icons {
+  margin-left: auto;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt .keeper-record-field-totp .icons .copy {
+  height: 24px;
+  margin-left: 12px;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.dark-mode .keeper-record-field-totp .countdown-circle.v2 text {
+  fill: #48b6ff;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.rtl .keeper-record-field-totp .countdown-circle {
+  margin-right: initial;
+  margin-left: 14px;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.rtl .keeper-record-field-totp .icons {
+  margin-left: initial;
+  margin-right: auto;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.rtl .keeper-record-field-totp .icons .copy {
+  margin-left: initial;
+  margin-right: 12px;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.high-contrast-mode .keeper-record-field-totp .countdown-circle.v2 g circle.progress {
+  stroke: Highlight;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.high-contrast-mode .keeper-record-field-totp .countdown-circle.v2 text {
+  fill: Highlight;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.high-contrast-mode .keeper-record-field-totp .icons .keeper-iconbutton-visibility path {
+  fill: CanvasText;
+}
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.darkMode .icon-and-header,
+div#keeper-extension-root > #keeper-extension.showTOTPPrompt.darkMode .keeper-record-field {
+  color: #d8d8d8;
+}

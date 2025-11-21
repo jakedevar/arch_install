@@ -1,0 +1,47 @@
+.prompttoggle {
+  cursor: pointer;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  height: 40px;
+  border-radius: 8px;
+}
+.prompttoggle .toggle-text {
+  font-size: 15px;
+}
+.prompttoggle .toggle-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+.prompttoggle .dummy-space {
+  -moz-box-flex: 1;
+       flex-grow: 1;
+}
+.prompttoggle .toggle-row {
+  display: -moz-box;
+  display: flex;
+  width: 100%;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+.prompttoggle .md-toggle,
+.prompttoggle .md-toggle-checked {
+  margin-right: 4px;
+  align-self: center;
+  position: relative;
+  top: 2px;
+  padding-right: 0;
+}
+
+.keeper-rtl .prompttoggle .toggle-icon,
+.rtl .prompttoggle .toggle-icon {
+  margin-left: 8px;
+}
+.keeper-rtl .prompttoggle .md-toggle,
+.keeper-rtl .prompttoggle .md-toggle-checked,
+.rtl .prompttoggle .md-toggle,
+.rtl .prompttoggle .md-toggle-checked {
+  padding-left: 0;
+}

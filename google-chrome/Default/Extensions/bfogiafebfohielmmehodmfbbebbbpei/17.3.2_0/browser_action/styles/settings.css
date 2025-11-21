@@ -1,0 +1,267 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#settings-root {
+  overflow-x: hidden;
+}
+#settings-root.landscape-mode {
+  position: absolute;
+  top: 0;
+  background-color: white;
+  width: 320px;
+}
+#settings-root:hover {
+  overflow: hidden auto;
+  margin-right: 0;
+}
+#settings-root .setting .icon path,
+#settings-root .setting .icon rect {
+  fill: #000;
+}
+.dark-mode #settings-root .setting .icon path,
+.dark-mode #settings-root .setting .icon rect {
+  fill: #fff;
+}
+.high-contrast-mode #settings-root .setting .icon path,
+.high-contrast-mode #settings-root .setting .icon rect {
+  fill: CanvasText;
+}
+#settings-root #settings {
+  margin: 24px 8px 24px 16px;
+}
+#settings-root #settings .changelocationprompt .settings-arrow,
+#settings-root #settings .themes .settings-arrow,
+#settings-root #settings .timer .settings-arrow {
+  top: 0;
+}
+#settings-root #settings .changelocationprompt .settings-arrow svg,
+#settings-root #settings .themes .settings-arrow svg,
+#settings-root #settings .timer .settings-arrow svg {
+  width: 20px;
+}
+#settings-root #settings > .setting:hover {
+  background-color: #f0f0f0;
+}
+#settings-root #settings .setting {
+  height: 48px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  border-radius: 8px;
+  padding: 0 8px;
+  font-size: 15px;
+  cursor: pointer;
+  width: 334px;
+}
+#settings-root #settings .setting .settings-arrow {
+  left: 5px;
+  position: relative;
+  -moz-box-flex: 1;
+       flex: 1;
+}
+#settings-root #settings #restore-default {
+  cursor: pointer;
+  color: #1b74da;
+  margin-top: 24px;
+  margin-left: 8px;
+}
+#settings-root #settings #delete-account {
+  color: #ce021b;
+}
+#settings-root #settings #delete-account .dark-mode {
+  color: #ff7361;
+}
+#settings-root .description-prompttoggle {
+  display: -moz-box;
+  display: flex;
+}
+#settings-root .description-prompttoggle .md-toggle,
+#settings-root .description-prompttoggle .md-toggle-checked {
+  margin-top: 6px;
+  align-self: flex-start;
+}
+#settings-root #containerforpromptlocation {
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 80px;
+  width: 120px;
+  border: none;
+  margin: 20px auto 16px;
+}
+#settings-root .themes-header {
+  padding-left: 8px;
+}
+#settings-root hr {
+  width: 336px;
+  margin: 16px 8px;
+}
+#settings-root #themes .themed-svg svg path,
+#settings-root .input-fields .themed-svg svg path {
+  fill: #888 !important;
+}
+#settings-root #themes .row .swatch,
+#settings-root .input-fields .row .swatch {
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+}
+#settings-root #themes .row .swatch[tooltip]::before,
+#settings-root .input-fields .row .swatch[tooltip]::before {
+  right: 15px;
+}
+#settings-root #themes .row .swatch.selected svg,
+#settings-root .input-fields .row .swatch.selected svg {
+  top: 7px;
+  left: 7px;
+}
+#settings-root #themes .row .swatch .swatch-bg,
+#settings-root .input-fields .row .swatch .swatch-bg {
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+  border-radius: 8px;
+  position: relative;
+  border: 1px solid #888;
+}
+#settings-root #themes .preview,
+#settings-root .input-fields .preview {
+  margin-top: 8px;
+  padding: 0 2px;
+}
+#settings-root #themes .preview label,
+#settings-root .input-fields .preview label {
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+#settings-root #themes .preview label span,
+#settings-root .input-fields .preview label span {
+  margin-left: 8px;
+}
+#settings-root #themes .toggle-row,
+#settings-root .input-fields .toggle-row {
+  height: 48px;
+  display: -moz-box;
+  display: flex;
+}
+#settings-root #themes .save,
+#settings-root .input-fields .save {
+  margin-top: 15px;
+}
+#settings-root #themes .selected-checkmark.icon.material-icons,
+#settings-root .input-fields .selected-checkmark.icon.material-icons {
+  color: white;
+  border: 0;
+  text-align: center;
+  margin-top: 6px;
+  width: 36px;
+}
+#settings-root #change-location-prompt-settings {
+  height: 500px;
+}
+#settings-root #change-location-prompt-settings .title {
+  display: -moz-box;
+  display: flex;
+}
+#settings-root #change-location-prompt-settings .title span {
+  margin-left: 8px;
+}
+#settings-root #change-location-prompt-settings .description {
+  margin-bottom: 16px;
+}
+#settings-root #change-location-prompt-settings div.cs-skin-elastic {
+  margin-bottom: 16px;
+}
+#settings-root #enablelogouttimer {
+  width: 64px;
+  height: 40px;
+  border: 1px solid #888;
+  padding: 0 8px;
+  border-radius: 8px;
+}
+#settings-root #security-settings {
+  padding: 24px;
+}
+#settings-root #security-settings .description {
+  padding-left: 32px;
+  margin: 0;
+  margin-bottom: 16px;
+  max-width: 100%;
+}
+#settings-root #security-settings .title {
+  display: -moz-box;
+  display: flex;
+  height: 48px;
+  -moz-box-align: center;
+       align-items: center;
+}
+#settings-root #security-settings .toggle-row {
+  display: -moz-box;
+  display: flex;
+  width: 100%;
+  -moz-box-align: center;
+       align-items: center;
+  cursor: pointer;
+}
+#settings-root #security-settings .toggle-row span {
+  padding-left: 8px;
+}
+#settings-root #security-settings .timer-toggle-row {
+  display: -moz-box;
+  display: flex;
+  width: 100%;
+  -moz-box-align: center;
+       align-items: center;
+}
+#settings-root #security-settings .timer-toggle-row span {
+  padding-left: 8px;
+}
+#settings-root .manage-passkeys-item {
+  border-radius: 8px;
+  border: 1px solid #d8d8d8;
+  cursor: pointer;
+  box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.15);
+}
+.dark-mode #settings-root .manage-passkeys-item {
+  border-color: #565656;
+  background: #262626;
+}
+#settings-root .passkey-list-item {
+  border-radius: 8px;
+  border: 1px solid #d8d8d8;
+}
+.dark-mode #settings-root .passkey-list-item {
+  border-color: #565656;
+  background: #262626;
+}
+#settings-root .passkey-list-item .delete-passkey-btn {
+  visibility: hidden;
+}
+#settings-root .passkey-list-item:hover {
+  border-radius: 8px;
+  background-color: #f0f0f0;
+}
+.dark-mode #settings-root .passkey-list-item:hover {
+  background-color: #565656;
+}
+#settings-root .passkey-list-item:hover .delete-passkey-btn {
+  visibility: visible;
+}
+
+#advanced-settings-screen .prompttoggle {
+  width: 100%;
+}
+#advanced-settings-screen .outfilt-label {
+  color: #565656;
+}

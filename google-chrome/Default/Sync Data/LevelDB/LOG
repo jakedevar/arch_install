@@ -1,0 +1,6 @@
+2025/11/20-18:56:21.679 6c3 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/11/20-18:56:21.701 6c3 Recovering log #7
+2025/11/20-18:56:21.704 6c3 Reusing old log /home/jakedevar/.config/google-chrome/Default/Sync Data/LevelDB/000007.log 
+2025/11/20-18:56:38.908 6c2 Level-0 table #11: started
+2025/11/20-18:56:38.913 6c2 Level-0 table #11: 115184 bytes OK
+2025/11/20-18:56:38.916 6c2 Delete type=0 #7

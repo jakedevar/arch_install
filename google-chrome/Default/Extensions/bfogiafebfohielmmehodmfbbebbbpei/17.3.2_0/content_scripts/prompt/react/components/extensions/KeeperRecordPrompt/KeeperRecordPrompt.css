@@ -1,0 +1,50 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container {
+  gap: 8px;
+  padding: 16px;
+  max-height: 478px;
+  min-height: 147px;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container > .record-type {
+  display: -moz-box;
+  display: flex;
+  font-size: 14px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container > label.matching-logins {
+  display: -moz-box;
+  display: flex;
+  font-size: 14px;
+  color: #606060;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container > .record-fields {
+  gap: 16px;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container > .record-fields .field {
+  margin-top: 0;
+  padding-bottom: 7px;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container > .record-fields .prompttoggle {
+  height: 20px;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container > .record-fields .prompttoggle .toggle-text {
+  font-size: 14px;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container .message-button-container {
+  gap: 8px;
+}
+div#keeper-extension-root > #keeper-extension.recordPrompt .prompt-container .prompt-button-group .keeper-button.keeper-button-disabled {
+  border-radius: 8px;
+  background: #f0f0f0 !important;
+  cursor: not-allowed;
+}

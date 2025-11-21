@@ -1,0 +1,3929 @@
+{
+   "508_record_menu": {
+      "message": "Menu Opzioni per voce"
+   },
+   "About": {
+      "message": "Informazioni"
+   },
+   "Accept": {
+      "message": "Accetta"
+   },
+   "Account": {
+      "message": "Account"
+   },
+   "Action_delete": {
+      "message": "Cancella"
+   },
+   "Action_edit": {
+      "message": "Modifica"
+   },
+   "Add_Account": {
+      "message": "Aggiungi account"
+   },
+   "Add_to_Existing": {
+      "message": "Aggiungi a esistente"
+   },
+   "Addresses": {
+      "message": "Indirizzi"
+   },
+   "AllRecords": {
+      "message": "Tutti i record"
+   },
+   "Appearance": {
+      "message": "Aspetto"
+   },
+   "AutoFill": {
+      "message": "Completamento automatico"
+   },
+   "Back": {
+      "message": "Indietro"
+   },
+   "Cancel": {
+      "message": "Annulla"
+   },
+   "ChatAuthenticationRequired": {
+      "message": "Autenticazione richiesta"
+   },
+   "ChatEnterCode": {
+      "message": "Inserisci codice"
+   },
+   "ChatSaveCodeForever": {
+      "message": "Non chiedere più su questo dispositivo"
+   },
+   "Close": {
+      "message": "Chiudi"
+   },
+   "Continue": {
+      "message": "Continua"
+   },
+   "Copy": {
+      "message": "Copia"
+   },
+   "CreateNew": {
+      "message": "Crea nuovo"
+   },
+   "Data_Vault": {
+      "message": "Volta"
+   },
+   "Delete": {
+      "message": "Cancella"
+   },
+   "Disable": {
+      "message": "Disabilita"
+   },
+   "Dont_show_again": {
+      "message": "Non mostrare più."
+   },
+   "Edit": {
+      "message": "Modifica"
+   },
+   "Edit_Record": {
+      "message": "Modifica voce"
+   },
+   "Email": {
+      "message": "E-mail"
+   },
+   "Email_Address": {
+      "message": "Indirizzo e-mail"
+   },
+   "Email_not_valid": {
+      "message": "L'indirizzo e-mail non risulta essere valido."
+   },
+   "Enable": {
+      "message": "Abilita"
+   },
+   "Enter_master_password": {
+      "message": "Inserisci password principale"
+   },
+   "Error": {
+      "message": "Errore"
+   },
+   "Exit": {
+      "message": "Esci"
+   },
+   "Fill": {
+      "message": "Compl."
+   },
+   "Fill_Password": {
+      "message": "Compila password"
+   },
+   "Fill_and_Save_Caps": {
+      "message": "Completa e Salva"
+   },
+   "Fill_and_save": {
+      "message": "Completa e salva"
+   },
+   "FolderName": {
+      "message": "Nome della cartella"
+   },
+   "Generate_passphrase": {
+      "message": "Genera frase d'accesso"
+   },
+   "Generate_password": {
+      "message": "Genera password"
+   },
+   "Help": {
+      "message": "Guida"
+   },
+   "Hide": {
+      "message": "Nascondi"
+   },
+   "History": {
+      "message": "cronologia"
+   },
+   "InvalidEmailOrPassword": {
+      "message": "Combinazione tra indirizzo e-mail e password non valida, riprova."
+   },
+   "KeeperAskLoginIntervalQuestion": {
+      "message": "Uscita automatica da Keeper tra:"
+   },
+   "KeeperProfile_new": {
+      "message": "Crea un account"
+   },
+   "Launch": {
+      "message": "Avvia"
+   },
+   "Login": {
+      "message": "Accedi"
+   },
+   "Login_Link": {
+      "message": "URL di accesso"
+   },
+   "Logout": {
+      "message": "Esci"
+   },
+   "LogoutOfKeeper": {
+      "message": "Esci da Keeper"
+   },
+   "LogoutTimer": {
+      "message": "Timer uscita"
+   },
+   "Menu_options": {
+      "message": "Opzioni"
+   },
+   "Minutes": {
+      "message": "Minuti"
+   },
+   "Network_error": {
+      "message": "Impossibile collegarsi. Controlla lo stato della tua connessione di rete."
+   },
+   "New_Record": {
+      "message": "Nuova voce"
+   },
+   "Next": {
+      "message": "Successivo"
+   },
+   "No": {
+      "message": "No"
+   },
+   "Number": {
+      "message": "N. tel."
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "Okay": {
+      "message": "Va bene"
+   },
+   "Options": {
+      "message": "Opzioni"
+   },
+   "PasswordGenerator": {
+      "message": "Generatore di password"
+   },
+   "Passwords": {
+      "message": "Password"
+   },
+   "Please_fill_out_restore_fields_code": {
+      "message": "Inserisci il codice di verifica che hai ricevuto via e-mail."
+   },
+   "QuickStartGuide": {
+      "message": "Guida rapida"
+   },
+   "Remove": {
+      "message": "Rimuovi"
+   },
+   "Require_every_12_hours": {
+      "message": "Richiedi 2FA ogni 12 ore"
+   },
+   "Require_every_24_hours": {
+      "message": "Richiedi 2FA ogni 24 ore"
+   },
+   "Require_every_30_days": {
+      "message": "Richiedi 2FA ogni 30 giorni"
+   },
+   "Require_every_login": {
+      "message": "Richiedi 2FA a ogni accesso"
+   },
+   "SSO_connection_failure": {
+      "message": "Impossibile collegarsi al fornitore SSO. Riprova più tardi."
+   },
+   "Save": {
+      "message": "Salva"
+   },
+   "Save_code__forever": {
+      "message": "Non chiedere più su questo dispositivo"
+   },
+   "Save_passphrase": {
+      "message": "Salva frase d'accesso"
+   },
+   "Save_password": {
+      "message": "Salva password"
+   },
+   "Search": {
+      "message": "Cerca"
+   },
+   "SearchKeeper": {
+      "message": "Cerca in Keeper"
+   },
+   "SendEmail": {
+      "message": "Invia e-mail"
+   },
+   "Separator": {
+      "message": "Separatore"
+   },
+   "Settings": {
+      "message": "Impostazioni"
+   },
+   "Share": {
+      "message": "Condividere"
+   },
+   "Show": {
+      "message": "Mostra"
+   },
+   "Success": {
+      "message": "Successo"
+   },
+   "Theme": {
+      "message": "Tema"
+   },
+   "ThemeColorAluminum": {
+      "message": "Alluminio"
+   },
+   "ThemeColorBlueGreen": {
+      "message": "Blu Overpass"
+   },
+   "ThemeColorBurgundy": {
+      "message": "Bordeaux"
+   },
+   "ThemeColorClassic": {
+      "message": "Classico"
+   },
+   "ThemeColorDeepOcean": {
+      "message": "Profondità marine"
+   },
+   "ThemeColorFlame": {
+      "message": "Fiamma"
+   },
+   "ThemeColorGlam": {
+      "message": "Glamour"
+   },
+   "ThemeColorGreen": {
+      "message": "Verde"
+   },
+   "ThemeColorPhoenix": {
+      "message": "Fenice"
+   },
+   "ThemeColorRedBlue": {
+      "message": "Rosso e blu"
+   },
+   "Themes": {
+      "message": "Temi"
+   },
+   "Title_required": {
+      "message": "Il titolo è un campo necessario."
+   },
+   "Uppercase": {
+      "message": "Maiuscolo"
+   },
+   "Username": {
+      "message": "Nome utente"
+   },
+   "VaultLoginTerms": {
+      "message": "Utilizzando Keeper, accetti le nostre \u003Ca class=\"highlight\" href=\"https://keepersecurity.com/it_IT/termsofuse.html\" target=\"_blank\" rel=\"noopener noreferrer\">Condizioni di utilizzo\u003C/a>."
+   },
+   "Version": {
+      "message": "Versione"
+   },
+   "View": {
+      "message": "Visualizza"
+   },
+   "Yes": {
+      "message": "Sì"
+   },
+   "access_denied": {
+      "message": "Nessun privilegio in possesso per effettuare l'operazione."
+   },
+   "access_denied_v3": {
+      "message": "Accesso negato"
+   },
+   "account_deletion_confirmation": {
+      "message": "Elimina account"
+   },
+   "account_locked": {
+      "message": "Questo account è stato bloccato. Contatta l'amministratore di Keeper per ricevere assistenza."
+   },
+   "account_transfer_popup_message": {
+      "message": "La regola di 'Trasferimento dell'account' è abilitata nella tua cassaforte Keeper, consentendo a un amministratore Keeper designato di trasferire le voci della cassaforte in un secondo momento, in conformità con le procedure operative e le politiche della tua organizzazione. Conferma questa regola facendo clic su 'Accetta'."
+   },
+   "action_collapse": {
+      "message": "Comprimi"
+   },
+   "action_expand": {
+      "message": "Espandi"
+   },
+   "action_select": {
+      "message": "Seleziona"
+   },
+   "add_address": {
+      "message": "Aggiungi indirizzo"
+   },
+   "add_login": {
+      "message": "Aggiungi accesso"
+   },
+   "add_passkey": {
+      "message": "Aggiungi chiave d'accesso"
+   },
+   "add_passkey_to_login": {
+      "message": "Aggiungi una chiave d'accesso alle credenziali"
+   },
+   "add_payment_card": {
+      "message": "Aggiungi carta di pagamento"
+   },
+   "add_to_favs": {
+      "message": "Aggiungi ai Preferiti"
+   },
+   "add_website_address": {
+      "message": "Aggiungi indirizzo del sito Web"
+   },
+   "address_field": {
+      "message": "Campo dell'indirizzo"
+   },
+   "address_saved": {
+      "message": "Indirizzo Salvato."
+   },
+   "address_updated": {
+      "message": "Indirizzo aggiornato."
+   },
+   "adjusted": {
+      "message": "sistemato"
+   },
+   "admin_qsg_297": {
+      "message": "Two-Factor Authentication"
+   },
+   "admin_reauthenticate": {
+      "message": "L'amministratore ti richiede una nuova autenticazione per poter procedere."
+   },
+   "advanced_settings": {
+      "message": "Impostazioni avanzate"
+   },
+   "all_categories": {
+      "message": "Tutte le categorie"
+   },
+   "all_storage_cleared": {
+      "message": "Tutta l'archiviazione cancellata"
+   },
+   "always_show": {
+      "message": "Mostra sempre"
+   },
+   "animation": {
+      "message": "Animazione"
+   },
+   "approve_this_device_by_method_below": {
+      "message": "Approva questo dispositivo selezionando un metodo tra quelli sotto:"
+   },
+   "approved": {
+      "message": "Approvato/a"
+   },
+   "are_you_sure": {
+      "message": "Vuoi procedere?"
+   },
+   "are_you_sure_title": {
+      "message": "Confermare?"
+   },
+   "artwork_appname": {
+      "message": "Keeper® Gestione password e Cassetta di sicurezza digitale"
+   },
+   "artwork_appname_safari": {
+      "message": "Keeper® Gestione password"
+   },
+   "auto_logout_extension_help": {
+      "message": "L'impostazione del timer per l'uscita automatica è gestita dall'estensione Keeper Browser."
+   },
+   "auto_submit": {
+      "message": "Invio automatico"
+   },
+   "auto_submit_desc": {
+      "message": "Dopo aver compilato in automatico i campi di accesso, Keeper invierà il modulo del sito Web e vi accederà sempre in automatico."
+   },
+   "auto_submit_desc3": {
+      "message": "Controlla se le forme vengono inviate in automatico non appena vengono inseriti il nome utente e la password."
+   },
+   "auto_submit_desc_2": {
+      "message": "Dopo aver inserito automaticamente il nome utente e la password, Keeper invierà in automatico il modulo e accederà al sito web."
+   },
+   "autofill2_": {
+      "message": "Compilazione automatica al caricamento della pagina"
+   },
+   "autofill_cleared": {
+      "message": "Campi di compilazione automatica svuotati."
+   },
+   "autofill_desc_2": {
+      "message": "Per le voci con la compilazione automatica al caricamento della pagina abilitata, chiedi prima della compilazione automatica al caricamento della pagina."
+   },
+   "autofill_fill_http": {
+      "message": "Il dominio del sito web XXX sta utilizzando una connessione http non sicura. Clicca su OK per inserire le credenziali o clicca su Annulla per interrompere."
+   },
+   "autofill_fills_wrong_field": {
+      "message": "La compilazione automatica completa il campo sbagliato"
+   },
+   "autofill_issue_notes_label": {
+      "message": "Aggiungi ulteriori dettagli per aiutarci a capire il problema."
+   },
+   "autofill_issue_notes_label_optional": {
+      "message": "Aggiungi ulteriori dettagli per aiutarci a capire il problema. (Facoltativo)"
+   },
+   "autofill_issue_notes_placeholder": {
+      "message": "Esempio: campo password saltato"
+   },
+   "autofill_issue_reported": {
+      "message": "Problema di compilazione automatica segnalato"
+   },
+   "autofill_issues_message": {
+      "message": "I problemi relativi alla compilazione automatica possono essere risolti facendo clic destro nel campo relativo"
+   },
+   "autofill_only_fills_part_of_the_field": {
+      "message": "La compilazione automatica completa solo una parte del campo"
+   },
+   "autofill_prompt_desc": {
+      "message": "Ricevi una richiesta di compilazione automatica quando visiti un sito web del quale hai almeno una voce."
+   },
+   "autofill_restored": {
+      "message": "Impostazioni di compilazione automatica ripristinate."
+   },
+   "autofill_suggest": {
+      "message": "Suggerimenti di compilazione automatica"
+   },
+   "autofill_suggestions": {
+      "message": "Suggerimenti di compilazione automatica"
+   },
+   "autofill_suggestions_desc": {
+      "message": "Suggerisci indirizzi e-mail e password complesse conservati in Keeper quando crei o registri un nuovo accesso."
+   },
+   "autofill_title_2": {
+      "message": "Richiesta di compilazione automatica"
+   },
+   "autosubmit2": {
+      "message": "Invia in automatico dopo la compilazione automatica"
+   },
+   "back_to_login": {
+      "message": "Torna al Login"
+   },
+   "bad_client_time": {
+      "message": "Verificare le impostazioni relative a data e orario del dispositivo in uso."
+   },
+   "be_header_store_text": {
+      "message": "Genera password complesse, compila in automatico e proteggi le tue informazioni riservate con la crittografia zero-knowledge."
+   },
+   "be_header_store_text_safari": {
+      "message": "Genera password complesse, compila in automatico e proteggi le tue informazioni riservate."
+   },
+   "be_install_title": {
+      "message": "Aggiungi Keeper al tuo browser"
+   },
+   "be_security_keys_not_supported_desc": {
+      "message": "Le chiavi di sicurezza non sono supportate da SSO Connect On-Prem. Per accedere, utilizza la Cassetta Web."
+   },
+   "be_updated_error": {
+      "message": "Aggiornato. Riavviare il browser."
+   },
+   "billing_address": {
+      "message": "Indirizzo di fatturazione"
+   },
+   "biometric_login": {
+      "message": "Accesso biometrico"
+   },
+   "biometric_login_disabled": {
+      "message": "Accesso biometrico disabilitato"
+   },
+   "biometric_login_enabled": {
+      "message": "Accesso biometrico abilitato"
+   },
+   "bottom_left": {
+      "message": "In basso a sinistra"
+   },
+   "bottom_right": {
+      "message": "In basso a destra"
+   },
+   "buy_city": {
+      "message": "Città"
+   },
+   "buy_country_title": {
+      "message": "Paese"
+   },
+   "buy_security_code_placeholder": {
+      "message": "CVC"
+   },
+   "buy_state": {
+      "message": "Stato"
+   },
+   "call_sent": {
+      "message": "Stai per ricevere una chiamata, attendi"
+   },
+   "card_number": {
+      "message": "Numero della carta"
+   },
+   "cardname_ending_in_cardnumber": {
+      "message": "XXX che finisce con XXX"
+   },
+   "cardnumber_required": {
+      "message": "Il numero della carta è obbligatorio."
+   },
+   "ccc_AD": {
+      "message": "Andorra"
+   },
+   "ccc_AE": {
+      "message": "Emirati Arabi Uniti"
+   },
+   "ccc_AF": {
+      "message": "Afghanistan"
+   },
+   "ccc_AG": {
+      "message": "Antigua e Barbuda"
+   },
+   "ccc_AI": {
+      "message": "Anguilla"
+   },
+   "ccc_AL": {
+      "message": "Albania"
+   },
+   "ccc_AM": {
+      "message": "Armenia"
+   },
+   "ccc_AN": {
+      "message": "Antille Olandesi"
+   },
+   "ccc_AO": {
+      "message": "Angola"
+   },
+   "ccc_AR": {
+      "message": "Argentina"
+   },
+   "ccc_AS": {
+      "message": "Samoa Americane (possedimento USA)"
+   },
+   "ccc_AT": {
+      "message": "Austria"
+   },
+   "ccc_AU": {
+      "message": "Australia"
+   },
+   "ccc_AW": {
+      "message": "Aruba"
+   },
+   "ccc_AZ": {
+      "message": "Azerbaigian"
+   },
+   "ccc_BA": {
+      "message": "Bosnia ed Erzegovina"
+   },
+   "ccc_BB": {
+      "message": "Barbados"
+   },
+   "ccc_BD": {
+      "message": "Bangladesh"
+   },
+   "ccc_BE": {
+      "message": "Belgio"
+   },
+   "ccc_BF": {
+      "message": "Burkina Faso"
+   },
+   "ccc_BG": {
+      "message": "Bulgaria"
+   },
+   "ccc_BH": {
+      "message": "Bahrein"
+   },
+   "ccc_BI": {
+      "message": "Burundi"
+   },
+   "ccc_BJ": {
+      "message": "Benin"
+   },
+   "ccc_BM": {
+      "message": "Bermuda"
+   },
+   "ccc_BN": {
+      "message": "Brunei"
+   },
+   "ccc_BO": {
+      "message": "Bolivia"
+   },
+   "ccc_BR": {
+      "message": "Brasile"
+   },
+   "ccc_BS": {
+      "message": "Bahamas"
+   },
+   "ccc_BT": {
+      "message": "Bhutan"
+   },
+   "ccc_BW": {
+      "message": "Botswana"
+   },
+   "ccc_BY": {
+      "message": "Bielorussia"
+   },
+   "ccc_BZ": {
+      "message": "Belize"
+   },
+   "ccc_CA": {
+      "message": "Canada"
+   },
+   "ccc_CC": {
+      "message": "Isole Cocos (Australia)"
+   },
+   "ccc_CD": {
+      "message": "Repubblica Democratica del Congo"
+   },
+   "ccc_CF": {
+      "message": "Repubblica Centrafricana"
+   },
+   "ccc_CG": {
+      "message": "Repubblica del Congo"
+   },
+   "ccc_CH": {
+      "message": "Svizzera"
+   },
+   "ccc_CI": {
+      "message": "Costa d'Avorio"
+   },
+   "ccc_CK": {
+      "message": "Isole Cook (Nuova Zelanda)"
+   },
+   "ccc_CL": {
+      "message": "Cile"
+   },
+   "ccc_CM": {
+      "message": "Camerun"
+   },
+   "ccc_CN": {
+      "message": "Cina"
+   },
+   "ccc_CO": {
+      "message": "Colombia"
+   },
+   "ccc_CR": {
+      "message": "Costa Rica"
+   },
+   "ccc_CS": {
+      "message": "Serbia"
+   },
+   "ccc_CU": {
+      "message": "Cuba"
+   },
+   "ccc_CV": {
+      "message": "Capo Verde"
+   },
+   "ccc_CY": {
+      "message": "Cipro"
+   },
+   "ccc_CZ": {
+      "message": "Repubblica Ceca"
+   },
+   "ccc_DE": {
+      "message": "Germania"
+   },
+   "ccc_DJ": {
+      "message": "Gibuti"
+   },
+   "ccc_DK": {
+      "message": "Danimarca"
+   },
+   "ccc_DM": {
+      "message": "Dominica"
+   },
+   "ccc_DO": {
+      "message": "Repubblica Dominicana"
+   },
+   "ccc_DZ": {
+      "message": "Algeria"
+   },
+   "ccc_EC": {
+      "message": "Ecuador"
+   },
+   "ccc_EE": {
+      "message": "Estonia"
+   },
+   "ccc_EG": {
+      "message": "Egitto"
+   },
+   "ccc_ER": {
+      "message": "Eritrea"
+   },
+   "ccc_ES": {
+      "message": "Spagna"
+   },
+   "ccc_ET": {
+      "message": "Etiopia"
+   },
+   "ccc_FI": {
+      "message": "Finlandia"
+   },
+   "ccc_FJ": {
+      "message": "Figi"
+   },
+   "ccc_FK": {
+      "message": "Isole Falkland"
+   },
+   "ccc_FM": {
+      "message": "Micronesia"
+   },
+   "ccc_FO": {
+      "message": "Isole Fær Øer"
+   },
+   "ccc_FR": {
+      "message": "Francia"
+   },
+   "ccc_GA": {
+      "message": "Gabon"
+   },
+   "ccc_GB": {
+      "message": "Regno Unito (Gran Bretagna)"
+   },
+   "ccc_GD": {
+      "message": "Grenada"
+   },
+   "ccc_GE": {
+      "message": "Repubblica di Georgia"
+   },
+   "ccc_GF": {
+      "message": "Guyana francese"
+   },
+   "ccc_GH": {
+      "message": "Ghana"
+   },
+   "ccc_GI": {
+      "message": "Gibilterra"
+   },
+   "ccc_GL": {
+      "message": "Groenlandia"
+   },
+   "ccc_GM": {
+      "message": "Gambia"
+   },
+   "ccc_GN": {
+      "message": "Guinea"
+   },
+   "ccc_GP": {
+      "message": "Guadalupa"
+   },
+   "ccc_GQ": {
+      "message": "Guinea Equatoriale"
+   },
+   "ccc_GR": {
+      "message": "Grecia"
+   },
+   "ccc_GS": {
+      "message": "Georgia del Sud (Isole Falkland)"
+   },
+   "ccc_GT": {
+      "message": "Guatemala"
+   },
+   "ccc_GU": {
+      "message": "Guam (possedimento USA)"
+   },
+   "ccc_GW": {
+      "message": "Guinea-Bissau"
+   },
+   "ccc_GY": {
+      "message": "Guyana"
+   },
+   "ccc_HK": {
+      "message": "Hong Kong"
+   },
+   "ccc_HN": {
+      "message": "Honduras"
+   },
+   "ccc_HR": {
+      "message": "Croazia"
+   },
+   "ccc_HT": {
+      "message": "Haiti"
+   },
+   "ccc_HU": {
+      "message": "Ungheria"
+   },
+   "ccc_ID": {
+      "message": "Indonesia"
+   },
+   "ccc_IE": {
+      "message": "Irlanda (Éire)"
+   },
+   "ccc_IL": {
+      "message": "Israele"
+   },
+   "ccc_IN": {
+      "message": "India"
+   },
+   "ccc_IQ": {
+      "message": "Iraq"
+   },
+   "ccc_IR": {
+      "message": "Iran"
+   },
+   "ccc_IS": {
+      "message": "Islanda"
+   },
+   "ccc_IT": {
+      "message": "Italia"
+   },
+   "ccc_JM": {
+      "message": "Giamaica"
+   },
+   "ccc_JO": {
+      "message": "Giordania"
+   },
+   "ccc_JP": {
+      "message": "Giappone"
+   },
+   "ccc_KE": {
+      "message": "Kenya"
+   },
+   "ccc_KG": {
+      "message": "Kirghizistan"
+   },
+   "ccc_KH": {
+      "message": "Cambogia"
+   },
+   "ccc_KI": {
+      "message": "Kiribati"
+   },
+   "ccc_KM": {
+      "message": "Comore"
+   },
+   "ccc_KN": {
+      "message": "Saint Kitts e Nevis"
+   },
+   "ccc_KR": {
+      "message": "Corea del Sud"
+   },
+   "ccc_KW": {
+      "message": "Kuwait"
+   },
+   "ccc_KY": {
+      "message": "Isole Cayman"
+   },
+   "ccc_KZ": {
+      "message": "Kazakistan"
+   },
+   "ccc_LA": {
+      "message": "Laos"
+   },
+   "ccc_LB": {
+      "message": "Libano"
+   },
+   "ccc_LC": {
+      "message": "Santa Lucia"
+   },
+   "ccc_LI": {
+      "message": "Liechtenstein"
+   },
+   "ccc_LK": {
+      "message": "Sri Lanka"
+   },
+   "ccc_LR": {
+      "message": "Liberia"
+   },
+   "ccc_LS": {
+      "message": "Lesotho"
+   },
+   "ccc_LT": {
+      "message": "Lituania"
+   },
+   "ccc_LU": {
+      "message": "Lussemburgo"
+   },
+   "ccc_LV": {
+      "message": "Lettonia"
+   },
+   "ccc_MA": {
+      "message": "Marocco"
+   },
+   "ccc_MC": {
+      "message": "Monaco (Francia)"
+   },
+   "ccc_MD": {
+      "message": "Moldavia"
+   },
+   "ccc_MG": {
+      "message": "Madagascar"
+   },
+   "ccc_MH": {
+      "message": "Isole Marshall"
+   },
+   "ccc_MK": {
+      "message": "Macedonia"
+   },
+   "ccc_ML": {
+      "message": "Mali"
+   },
+   "ccc_MM": {
+      "message": "Myanmar"
+   },
+   "ccc_MN": {
+      "message": "Mongolia"
+   },
+   "ccc_MO": {
+      "message": "Macao"
+   },
+   "ccc_MP": {
+      "message": "Isole Marianne Settentrionali"
+   },
+   "ccc_MQ": {
+      "message": "Martinica"
+   },
+   "ccc_MR": {
+      "message": "Mauritania"
+   },
+   "ccc_MS": {
+      "message": "Montserrat"
+   },
+   "ccc_MT": {
+      "message": "Malta"
+   },
+   "ccc_MU": {
+      "message": "Mauritius"
+   },
+   "ccc_MV": {
+      "message": "Maldive"
+   },
+   "ccc_MW": {
+      "message": "Malawi"
+   },
+   "ccc_MX": {
+      "message": "Messico"
+   },
+   "ccc_MY": {
+      "message": "Malesia"
+   },
+   "ccc_MZ": {
+      "message": "Mozambico"
+   },
+   "ccc_NA": {
+      "message": "Namibia"
+   },
+   "ccc_NC": {
+      "message": "Nuova Caledonia"
+   },
+   "ccc_NE": {
+      "message": "Niger"
+   },
+   "ccc_NF": {
+      "message": "Isola Norfolk (Australia)"
+   },
+   "ccc_NG": {
+      "message": "Nigeria"
+   },
+   "ccc_NI": {
+      "message": "Nicaragua"
+   },
+   "ccc_NL": {
+      "message": "Paesi Bassi"
+   },
+   "ccc_NO": {
+      "message": "Norvegia"
+   },
+   "ccc_NP": {
+      "message": "Nepal"
+   },
+   "ccc_NR": {
+      "message": "Nauru"
+   },
+   "ccc_NU": {
+      "message": "Niue (Nuova Zelanda)"
+   },
+   "ccc_NZ": {
+      "message": "Nuova Zelanda"
+   },
+   "ccc_OM": {
+      "message": "Oman"
+   },
+   "ccc_PA": {
+      "message": "Panama"
+   },
+   "ccc_PE": {
+      "message": "Perù"
+   },
+   "ccc_PF": {
+      "message": "Polinesia Francese"
+   },
+   "ccc_PG": {
+      "message": "Papua Nuova Guinea"
+   },
+   "ccc_PH": {
+      "message": "Filippine"
+   },
+   "ccc_PK": {
+      "message": "Pakistan"
+   },
+   "ccc_PL": {
+      "message": "Polonia"
+   },
+   "ccc_PM": {
+      "message": "Saint-Pierre e Miquelon"
+   },
+   "ccc_PN": {
+      "message": "Isola Pitcairn"
+   },
+   "ccc_PR": {
+      "message": "Puerto Rico"
+   },
+   "ccc_PT": {
+      "message": "Portogallo"
+   },
+   "ccc_PW": {
+      "message": "Palau"
+   },
+   "ccc_PY": {
+      "message": "Paraguay"
+   },
+   "ccc_QA": {
+      "message": "Qatar"
+   },
+   "ccc_RE": {
+      "message": "Reunion"
+   },
+   "ccc_RO": {
+      "message": "Romania"
+   },
+   "ccc_RU": {
+      "message": "Russia"
+   },
+   "ccc_RW": {
+      "message": "Ruanda"
+   },
+   "ccc_SA": {
+      "message": "Arabia Saudita"
+   },
+   "ccc_SB": {
+      "message": "Isole Salomone"
+   },
+   "ccc_SC": {
+      "message": "Seychelles"
+   },
+   "ccc_SD": {
+      "message": "Sudan"
+   },
+   "ccc_SE": {
+      "message": "Svezia"
+   },
+   "ccc_SG": {
+      "message": "Singapore"
+   },
+   "ccc_SH": {
+      "message": "Sant'Elena"
+   },
+   "ccc_SI": {
+      "message": "Slovenia"
+   },
+   "ccc_SK": {
+      "message": "Repubblica Slovacca (Slovacchia)"
+   },
+   "ccc_SL": {
+      "message": "Sierra Leone"
+   },
+   "ccc_SM": {
+      "message": "San Marino"
+   },
+   "ccc_SN": {
+      "message": "Senegal"
+   },
+   "ccc_SO": {
+      "message": "Somalia"
+   },
+   "ccc_SR": {
+      "message": "Suriname"
+   },
+   "ccc_ST": {
+      "message": "São Tomé e Principe"
+   },
+   "ccc_SV": {
+      "message": "El Salvador"
+   },
+   "ccc_SY": {
+      "message": "Repubblica Araba di Siria (Siria)"
+   },
+   "ccc_SZ": {
+      "message": "Swaziland"
+   },
+   "ccc_TC": {
+      "message": "Turks e Caicos"
+   },
+   "ccc_TD": {
+      "message": "Ciad"
+   },
+   "ccc_TG": {
+      "message": "Togo"
+   },
+   "ccc_TH": {
+      "message": "Thailandia"
+   },
+   "ccc_TJ": {
+      "message": "Tagikistan"
+   },
+   "ccc_TK": {
+      "message": "Tokelau (Samoa Occidentali)"
+   },
+   "ccc_TL": {
+      "message": "Timor (Indonesia)"
+   },
+   "ccc_TM": {
+      "message": "Turkmenistan"
+   },
+   "ccc_TN": {
+      "message": "Tunisia"
+   },
+   "ccc_TO": {
+      "message": "Tonga"
+   },
+   "ccc_TR": {
+      "message": "Turchia"
+   },
+   "ccc_TT": {
+      "message": "Trinidad e Tobago"
+   },
+   "ccc_TV": {
+      "message": "Tuvalu"
+   },
+   "ccc_TW": {
+      "message": "Taiwan"
+   },
+   "ccc_TZ": {
+      "message": "Tanzania"
+   },
+   "ccc_UA": {
+      "message": "Ucraina"
+   },
+   "ccc_UG": {
+      "message": "Uganda"
+   },
+   "ccc_UM": {
+      "message": "Isole minori esterne degli Stati Uniti d'America"
+   },
+   "ccc_US": {
+      "message": "Stati Uniti d'America"
+   },
+   "ccc_UY": {
+      "message": "Uruguay"
+   },
+   "ccc_UZ": {
+      "message": "Uzbekistan"
+   },
+   "ccc_VA": {
+      "message": "Città del Vaticano"
+   },
+   "ccc_VC": {
+      "message": "Saint Vincent e Grenadine"
+   },
+   "ccc_VE": {
+      "message": "Venezuela"
+   },
+   "ccc_VG": {
+      "message": "Isole Vergini britanniche"
+   },
+   "ccc_VI": {
+      "message": "Isole Vergini americane"
+   },
+   "ccc_VN": {
+      "message": "Vietnam"
+   },
+   "ccc_VU": {
+      "message": "Vanuatu"
+   },
+   "ccc_WF": {
+      "message": "Wallis e Futuna"
+   },
+   "ccc_WS": {
+      "message": "Samoa Americane (possedimento USA)"
+   },
+   "ccc_YE": {
+      "message": "Yemen"
+   },
+   "ccc_YT": {
+      "message": "Mayotte (Francia)"
+   },
+   "ccc_ZA": {
+      "message": "Sudafrica"
+   },
+   "ccc_ZM": {
+      "message": "Zambia"
+   },
+   "ccc_ZW": {
+      "message": "Zimbabwe"
+   },
+   "change_password": {
+      "message": "Modifica password"
+   },
+   "change_password_complete": {
+      "message": "La password è stata modificata nella tua cassetta di sicurezza. Invia la modifica al sito Web."
+   },
+   "change_pw_prompt": {
+      "message": "Finestra di cambio password"
+   },
+   "change_pw_prompt_desc": {
+      "message": "Ricevi una richiesta che offre assistenza con la modifica della password"
+   },
+   "change_your_password": {
+      "message": "Modificare e salvare la password?"
+   },
+   "change_your_password2": {
+      "message": "Vuoi che Keeper ti aiuti a modificare la password?"
+   },
+   "character_count": {
+      "message": "XXX caratteri"
+   },
+   "character_length": {
+      "message": "Lunghezza caratteri: XXX"
+   },
+   "check_spam_folder_reminder": {
+      "message": "Controlla la casella della posta indesiderata per vedere se vi è finita un'e-mail da parte di keepersecurity.com. Puoi aggiungere keepersecurity.com all'elenco dei siti sicuri."
+   },
+   "city": {
+      "message": "Città"
+   },
+   "clear_all_storage": {
+      "message": "Cancella tutta l'archiviazione"
+   },
+   "clear_field_fixes_for_this_site": {
+      "message": "Svuota i campi sistemati per questo sito"
+   },
+   "clear_generatory_history": {
+      "message": "Cancella cronologia del generatore di password"
+   },
+   "clear_hist": {
+      "message": "Svuota cronologia"
+   },
+   "clear_hist_warning": {
+      "message": "Stai per cancellare definitivamente la cronologia del generatore di password."
+   },
+   "clear_idb_storage": {
+      "message": "Cancella archiviazione IndexedDB"
+   },
+   "clear_local_storage": {
+      "message": "Cancella archiviazione locale"
+   },
+   "clear_search": {
+      "message": "Cancella ricerca"
+   },
+   "click_to_fill": {
+      "message": "Fai clic per compilare"
+   },
+   "clipboard_expiration": {
+      "message": "Scadenza appunti"
+   },
+   "clipboard_expiration_description": {
+      "message": "Cancella automaticamente gli appunti poco dopo aver copiato qualsiasi valore dall'estensione del browser."
+   },
+   "code_invalid": {
+      "message": "Codice non valido"
+   },
+   "commerce_popup_final_notice": {
+      "message": "ULTIMO AVVISO"
+   },
+   "commerce_popup_final_notice_message": {
+      "message": "Il periodo di prova di Keeper scade tra 24 ore, pertanto l'accesso alle funzionalità a pagamento verrà disabilitato.  Effettua subito l'upgrade per continuare a usufruire dell'accesso completo."
+   },
+   "confirm_new_password": {
+      "message": "Conferma nuova password"
+   },
+   "confirm_password": {
+      "message": "Conferma password"
+   },
+   "confirm_password_view": {
+      "message": "Fare clic sul lucchetto nel campo Conferma password per compilarlo con la password aggiornata, quindi fare clic su Avanti."
+   },
+   "confirm_screenshot": {
+      "message": "Conferma schermata"
+   },
+   "connection_port": {
+      "message": "Porta di connessione"
+   },
+   "console_loading": {
+      "message": "Caricamento..."
+   },
+   "consumer_auto_backup_option3": {
+      "message": "Ogni 30 giorni"
+   },
+   "contact_address": {
+      "message": "Indirizzo"
+   },
+   "contact_firstname": {
+      "message": "Nome"
+   },
+   "contact_lastname": {
+      "message": "Cognome"
+   },
+   "contact_phonenumber": {
+      "message": "Numero di telefono"
+   },
+   "copy_passphrase": {
+      "message": "Copia frase d'accesso"
+   },
+   "copy_password": {
+      "message": "Copia password"
+   },
+   "copy_pin_code": {
+      "message": "Copia codice PIN"
+   },
+   "copy_two_factor_code": {
+      "message": "Copia codice a due fattori"
+   },
+   "couldnt_complete_snapshot": {
+      "message": "Non è stato possibile completare l'istantanea."
+   },
+   "country": {
+      "message": "Paese"
+   },
+   "create_a_record": {
+      "message": "Crea una voce"
+   },
+   "create_account": {
+      "message": "Crea account"
+   },
+   "create_login_with_passkey": {
+      "message": "Crea credenziali con la chiave d'accesso"
+   },
+   "create_new": {
+      "message": "Crea nuovo"
+   },
+   "create_passkey": {
+      "message": "Crea chiave d'accesso"
+   },
+   "create_record": {
+      "message": "Crea voce"
+   },
+   "created_date_xxx": {
+      "message": "Data creazione: XXX"
+   },
+   "creating_preview": {
+      "message": "Creazione anteprima"
+   },
+   "current_password": {
+      "message": "Password attuale"
+   },
+   "cvv": {
+      "message": "CVV"
+   },
+   "date_modified": {
+      "message": "Data di modifica"
+   },
+   "day_ago": {
+      "message": "1 giorno fa"
+   },
+   "days_ago": {
+      "message": "XXX giorni fa"
+   },
+   "default": {
+      "message": "Predefinita"
+   },
+   "delete_passkey": {
+      "message": "Elimina la chiave d'accesso"
+   },
+   "delete_this_passkey_question": {
+      "message": "Elimina questa chiave d'accesso?"
+   },
+   "desktop_installer_language": {
+      "message": "Keeper è un'applicazione gratuita per la gestione delle password in locale su app native per desktop e dispositivi mobili. Le funzioni a pagamento quali l'archiviazione in cloud, i backup, la condivisione, la Web App, le estensioni per browser e la sincronizzazione possono essere utilizzate gratuitamente per 30 giorni, dopodiché è richiesta la sottoscrizione di un abbonamento annuale per continuare a usarle. Le funzionalità con il cloud richiedono una connessione a Internet."
+   },
+   "device_approval": {
+      "message": "Approvazione dispositivo"
+   },
+   "did_this_fix_issue": {
+      "message": "Il problema è stato risolto?"
+   },
+   "disable_snapshot_tool": {
+      "message": "Disabilita Strumento istantanee"
+   },
+   "disabled_prompt": {
+      "message": "Finestra di KeeperFill disabilitato"
+   },
+   "disabled_prompt_desc": {
+      "message": "Ricevi una richiesta quando Keeper interrompe l’elaborazione dei campi su una pagina web a causa di potenziali problemi di prestazione."
+   },
+   "dismiss": {
+      "message": "Ignora"
+   },
+   "display_locks": {
+      "message": "Mostra lucchetti"
+   },
+   "dna_options_title": {
+      "message": "Keeper DNA"
+   },
+   "dna_waiting_watch": {
+      "message": "In attesa di verifica da parte di Watch..."
+   },
+   "domain_matching": {
+      "message": "Corrispondenza dominio"
+   },
+   "domain_specific_password_title": {
+      "message": "L'amministratore di Keeper richiede che la tua password soddisfi i seguenti requisiti:"
+   },
+   "dont_show": {
+      "message": "Non mostrare più"
+   },
+   "duo_instructions": {
+      "message": "Verrà inviata una notifica push, un messaggio di testo o una chiamata con un codice d'accesso a XXX."
+   },
+   "duo_push": {
+      "message": "Notifica push Duo"
+   },
+   "duo_push_description": {
+      "message": "Riceverai un messaggio di testo, una notifica o una chiamata con un codice d'accesso al tuo dispositivo."
+   },
+   "duo_push_was_denied": {
+      "message": "La notifica push Duo è stata rifiutata."
+   },
+   "duo_sent": {
+      "message": "La notifica push Duo è già stata inviata, attendi."
+   },
+   "duo_text_desc": {
+      "message": "Invia un messaggio di testo con il codice d'accesso"
+   },
+   "duo_text_message": {
+      "message": "SMS"
+   },
+   "duo_voice_call": {
+      "message": "Chiamata vocale"
+   },
+   "duo_voice_desc": {
+      "message": "Ottieni il codice d'accesso tramite una chiamata vocale"
+   },
+   "edit_address": {
+      "message": "Modifica indirizzo"
+   },
+   "edit_card": {
+      "message": "Modifica carta di credito"
+   },
+   "edit_field_label": {
+      "message": "Modifica etichetta campo"
+   },
+   "effortless_login": {
+      "message": "Facile accesso"
+   },
+   "email_or_username": {
+      "message": "Indirizzo e-mail o nome utente"
+   },
+   "email_verification_message": {
+      "message": "È stata inviata un'e-mail a XXX con le istruzioni. Se viene fornito un codice di verifica, è necessario inserirlo qui sotto."
+   },
+   "enable_keeperfill": {
+      "message": "Abilita KeeperFill"
+   },
+   "enable_snapshot_tool": {
+      "message": "Mostra strumento istantanee"
+   },
+   "enable_verify_fill_mode": {
+      "message": "Attiva modalità di verifica compilazione"
+   },
+   "encryption_error": {
+      "message": "Si è verificato un problema durante la decrittografia della Cassetta di sicurezza. Contattare il supporto clienti di Keeper per ricevere assistenza."
+   },
+   "enter_a_password": {
+      "message": "Inserisci una password"
+   },
+   "enter_a_username": {
+      "message": "Inserisci un nome utente"
+   },
+   "enter_city": {
+      "message": "Inserisci la città"
+   },
+   "enter_country": {
+      "message": "Inserisci il Paese"
+   },
+   "enter_cvv_number": {
+      "message": "Inserisci CVV"
+   },
+   "enter_email": {
+      "message": "Inserisci indirizzo e-mail"
+   },
+   "enter_exp_date": {
+      "message": "Inserisci la data di scadenza"
+   },
+   "enter_first_name": {
+      "message": "Inserisci il nome"
+   },
+   "enter_last_name": {
+      "message": "Inserisci il cognome"
+   },
+   "enter_name_on_card": {
+      "message": "Inserisci il nome sulla carta"
+   },
+   "enter_rsa_passcode": {
+      "message": "Inserisci codice d'accesso RSA"
+   },
+   "enter_street_address": {
+      "message": "Inserire un indirizzo"
+   },
+   "enter_valid_phone": {
+      "message": "Inserisci un numero di telefono valido."
+   },
+   "enter_verification_code": {
+      "message": "Inserisci codice di verifica"
+   },
+   "enter_verification_code2": {
+      "message": "Inserisci codice del due fattori"
+   },
+   "enterprise_sso_connect_button": {
+      "message": "Connetti"
+   },
+   "enterprise_sso_login": {
+      "message": "Accesso SSO enterprise"
+   },
+   "enterprise_sso_login_domain_desc": {
+      "message": "Utente SSO con dominio aziendale"
+   },
+   "enterprise_sso_login_domain_title": {
+      "message": "Dominio aziendale"
+   },
+   "enterprise_sso_login_mp_desc": {
+      "message": "Utente SSO con password principale"
+   },
+   "enterprise_sso_login_mp_title": {
+      "message": "Password principale"
+   },
+   "every_24_hours": {
+      "message": "Ogni 24 ore"
+   },
+   "every_30_days": {
+      "message": "Ogni 30 giorni"
+   },
+   "every_login": {
+      "message": "Ogni accesso"
+   },
+   "every_login_lowercase": {
+      "message": "Ogni accesso"
+   },
+   "every_twelve_hours": {
+      "message": "Ogni 12 ore"
+   },
+   "existing_passkey_detected": {
+      "message": "Rilevata chiave d'accesso esistente"
+   },
+   "exp": {
+      "message": "Scad."
+   },
+   "expiration": {
+      "message": "Scadenza"
+   },
+   "expired_master_password_description": {
+      "message": "La password principale è scaduta.  È necessario cambiarla prima di effettuare l'accesso."
+   },
+   "expired_please_purchase": {
+      "message": "Il tuo abbonamento è scaduto. Rinnovalo ora."
+   },
+   "ext_2FACopied": {
+      "message": "Codice 2FA copiato!"
+   },
+   "ext_AccessibilityDesc": {
+      "message": "Fai attenzione alle icone dei campi del modulo di Keeper quando passi da una scheda all’altra usando la tastiera."
+   },
+   "ext_AddCountry": {
+      "message": "Aggiungi Paese"
+   },
+   "ext_AddFolder": {
+      "message": "Aggiungi cartella"
+   },
+   "ext_AddressLineOnePlaceholder": {
+      "message": "Via Trieste 12"
+   },
+   "ext_AddressLineTwoPlaceholder": {
+      "message": "Scala 2"
+   },
+   "ext_AddressSaved": {
+      "message": "Indirizzo salvato."
+   },
+   "ext_AddressTitlePlaceholder": {
+      "message": "es. il mio indirizzo di lavoro"
+   },
+   "ext_AllowQRCodeDesc": {
+      "message": "Consenti ad altri di entrare in questa rete scansionando un codice QR."
+   },
+   "ext_AltMPError": {
+      "message": "Questa pagina di accesso è per i clienti Enterprise SSO che utilizzano una password principale alternativa. Ricominciate ed effettuate l'accesso dalla schermata dell'estensione per browser di Keeper digitando il vostro indirizzo e-mail e facendo clic su \"Avanti\"."
+   },
+   "ext_AutofillEnable": {
+      "message": "Abilita compilazione automatica"
+   },
+   "ext_AutofillPrefs": {
+      "message": "Preferenze di compilazione automatica"
+   },
+   "ext_AutofillPrefsDesc": {
+      "message": "Quale voce desideri che Keeper compili in automatico per questo sito?"
+   },
+   "ext_AutofillTitle": {
+      "message": "Compila in automatico in questo sito"
+   },
+   "ext_BrowserPrompts": {
+      "message": "Prompt del browser"
+   },
+   "ext_BrowserPromptsDesc": {
+      "message": "Seleziona quali prompt desideri che Keeper visualizzi nel browser in uso."
+   },
+   "ext_CCNCopied": {
+      "message": "Numero di carta copiato."
+   },
+   "ext_CVVCopied": {
+      "message": "CVV copiato."
+   },
+   "ext_Capitals": {
+      "message": "Maiuscolo"
+   },
+   "ext_CardCVVExample": {
+      "message": "123"
+   },
+   "ext_CardExpDateExample": {
+      "message": "22/12"
+   },
+   "ext_CardNumber": {
+      "message": "Numero della carta"
+   },
+   "ext_CardSaved": {
+      "message": "Carta salvata."
+   },
+   "ext_CardTitlePlaceholder": {
+      "message": "es. la mia carta Mastercard"
+   },
+   "ext_CharacterCount": {
+      "message": "XXX caratteri"
+   },
+   "ext_ChooseARecordType": {
+      "message": "Seleziona un tipo di voce:"
+   },
+   "ext_ChooseRecordToChangePW": {
+      "message": "Per quale voce desideri che Keeper cambi la password?"
+   },
+   "ext_CityPlaceholder": {
+      "message": "Milano"
+   },
+   "ext_Copy2FACode": {
+      "message": "Copia codice 2FA"
+   },
+   "ext_CopyCCN": {
+      "message": "Copia numero di carta"
+   },
+   "ext_CopyCVV": {
+      "message": "Copia CVV"
+   },
+   "ext_CopyLoginID": {
+      "message": "Copia ID di accesso"
+   },
+   "ext_CopyPIN": {
+      "message": "Copia codice PIN"
+   },
+   "ext_CopyPassphrase": {
+      "message": "Copia frase d'accesso"
+   },
+   "ext_CopyPassword": {
+      "message": "Copia password"
+   },
+   "ext_CopyUsername": {
+      "message": "Copia nome utente"
+   },
+   "ext_DarkMode": {
+      "message": "Modalità scura"
+   },
+   "ext_Date": {
+      "message": "Data"
+   },
+   "ext_Encryption": {
+      "message": "Crittografia"
+   },
+   "ext_ExpiredMasterPasswordDesc": {
+      "message": "È necessario cambiare la password principale prima di poter effettuare di nuovo l'accesso."
+   },
+   "ext_ExpiredMasterPasswordTitle": {
+      "message": "La password principale è scaduta."
+   },
+   "ext_ExpiresMMYY": {
+      "message": "Scadenza (mm/aa)"
+   },
+   "ext_FirstNamePlaceholder": {
+      "message": "Gianni"
+   },
+   "ext_FontSize": {
+      "message": "Dimensioni carattere"
+   },
+   "ext_FontSizeDescription": {
+      "message": "Trascina il cursore qui sotto per modificare le dimensioni del carattere del testo nell'estensione."
+   },
+   "ext_FormFieldIcons": {
+      "message": "Icone dei campi del modulo"
+   },
+   "ext_FormFieldIconsDesc": {
+      "message": "Le icone di Keeper vengono visualizzate all’interno dei campi del modulo compilabili ed è possibile farci clic sopra per visualizzare suggerimenti e ulteriori opzioni."
+   },
+   "ext_FullNamePlaceholder": {
+      "message": "Gianni Rossi"
+   },
+   "ext_Hidden": {
+      "message": "Nascosta"
+   },
+   "ext_HideQRCode": {
+      "message": "Nascondi codice QR"
+   },
+   "ext_KeeperAskLoginIntervalQuestion": {
+      "message": "Disconnettiti in automatico da Keeper dopo:"
+   },
+   "ext_LastNamePlaceholder": {
+      "message": "Rossi"
+   },
+   "ext_LightMode": {
+      "message": "Modalità chiara"
+   },
+   "ext_LoginIDCopied": {
+      "message": "ID di accesso copiato."
+   },
+   "ext_Logout": {
+      "message": "Esci"
+   },
+   "ext_LogoutOfUsername": {
+      "message": "Esci da XXX"
+   },
+   "ext_LogoutTimer": {
+      "message": "Timer di disconnessione per inattività"
+   },
+   "ext_Lowercase": {
+      "message": "Minuscolo"
+   },
+   "ext_MatchingCount": {
+      "message": "XXX corrispondenti"
+   },
+   "ext_MatchingRecordCount": {
+      "message": "XXX voce corrispondente"
+   },
+   "ext_MatchingRecords": {
+      "message": "Voci corrispondenti"
+   },
+   "ext_MatchingRecordsCount": {
+      "message": "XXX voci corrispondenti"
+   },
+   "ext_MatchingSites": {
+      "message": "Siti corrispondenti"
+   },
+   "ext_Matching_records_amount_plural": {
+      "message": "Accessi corrispondenti a XXX"
+   },
+   "ext_Matching_records_amount_singular": {
+      "message": "Accesso corrispondente a XXX"
+   },
+   "ext_MyGoogleLogin": {
+      "message": "credenziali di Google"
+   },
+   "ext_MyVault": {
+      "message": "La mia cassetta di sicurezza"
+   },
+   "ext_Name": {
+      "message": "Nome"
+   },
+   "ext_NetworkName": {
+      "message": "Nome della rete"
+   },
+   "ext_NetworkVisibility": {
+      "message": "Visibilità della rete"
+   },
+   "ext_NoMatchingAddresses": {
+      "message": "Nessun indirizzo presente nella cassetta di sicurezza. Vuoi crearne uno?"
+   },
+   "ext_NoMatchingPaymentCards": {
+      "message": "Nessuna carta di pagamento presente nella cassetta di sicurezza. Vuoi crearne una?"
+   },
+   "ext_NoMatchingRecords": {
+      "message": "Nessuna voce presente nella cassetta di sicurezza corrisponde a questo sito Web. Vuoi crearne una?"
+   },
+   "ext_NoRecordsMessage": {
+      "message": "Non hai nessuna voce."
+   },
+   "ext_NoResultsFound": {
+      "message": "Nessun risultato"
+   },
+   "ext_NotesCopied": {
+      "message": "Note copiate."
+   },
+   "ext_Number": {
+      "message": "N. tel."
+   },
+   "ext_Numbers": {
+      "message": "Numeri"
+   },
+   "ext_OfflineUnavailable": {
+      "message": "La cassetta offline non è disponibile su questo dispositivo finché non ti sarai connesso almeno una volta mentre sei online. La cassetta offline è disponibile per i clienti con Keeper Business ed Enterprise dietro approvazione dell'amministratore di Keeper."
+   },
+   "ext_OneResult": {
+      "message": "1 risultato per \"XXX\""
+   },
+   "ext_OpenInVault": {
+      "message": "Apri nella cassetta di sicurezza"
+   },
+   "ext_PINCopied": {
+      "message": "Codice PIN copiato."
+   },
+   "ext_PaymentCard": {
+      "message": "Carta di pagamento"
+   },
+   "ext_PhoneNumberPlaceholder": {
+      "message": "(+39) 02 1234 5678"
+   },
+   "ext_PopupFinalNotice": {
+      "message": "ULTIMO AVVISO"
+   },
+   "ext_PopupFinalNoticeMessage": {
+      "message": "Il periodo di prova di Keeper scade tra 24 ore, pertanto l'accesso alle funzionalità a pagamento verrà disabilitato.  Effettua subito l'upgrade per continuare a usufruire dell'accesso completo."
+   },
+   "ext_PromptAppearanceDesc": {
+      "message": "Personalizza il modo in cui vuoi che i prompt vengano visualizzati sul tuo schermo."
+   },
+   "ext_RecordSaved": {
+      "message": "Voce salvata"
+   },
+   "ext_RemoveAccountDescription": {
+      "message": "XXX verrà rimosso dalla lista di accessi."
+   },
+   "ext_RemoveAccountTitle": {
+      "message": "Rimuovi l'account dalla lista"
+   },
+   "ext_ResendCode": {
+      "message": "Invia di nuovo il codice"
+   },
+   "ext_ResetPassword": {
+      "message": "Reimposta password"
+   },
+   "ext_ResultsCount": {
+      "message": "XXX risultati"
+   },
+   "ext_ResultsCountFor": {
+      "message": "XXX risultati per \"YYY\""
+   },
+   "ext_ResultsCountNone": {
+      "message": "Nessun risultato per \"YYY\""
+   },
+   "ext_ResultsFound": {
+      "message": "XXX risultati trovati"
+   },
+   "ext_Revert": {
+      "message": "No, ripristina la precedente"
+   },
+   "ext_SSOMessage": {
+      "message": "Il dominio aziendale viene fornito dal tuo amministratore di Keeper."
+   },
+   "ext_SaveToVault": {
+      "message": "Salva nella cassetta di sicurezza"
+   },
+   "ext_SearchFavorites": {
+      "message": "Cerca nei Preferiti"
+   },
+   "ext_SearchVault": {
+      "message": "Cerca nella cassetta di sicurezza"
+   },
+   "ext_ShowQRCodeScan": {
+      "message": "Consenti ad altri di entrare in questa rete scansionando un \u003Ckeepertag>codice QR\u003C/keepertag>."
+   },
+   "ext_SortBy": {
+      "message": "Ordina per"
+   },
+   "ext_StatePlaceholder": {
+      "message": "es. Lombardia"
+   },
+   "ext_Symbols": {
+      "message": "Simboli"
+   },
+   "ext_TermsPrivacy": {
+      "message": "Accetto i \u003Ckeepertag>Termini di utilizzo\u003C/keepertag> e l'\u003Ckeepertag>Informativa sulla privacy\u003C/keepertag> di Keeper"
+   },
+   "ext_TimerSaved": {
+      "message": "Timer salvato!"
+   },
+   "ext_TitleRequired": {
+      "message": "Titolo (Obbligatorio)"
+   },
+   "ext_TwoFactorCopied": {
+      "message": "Codice a due fattori copiato."
+   },
+   "ext_Type": {
+      "message": "Tipo"
+   },
+   "ext_UnableToLoginTitle": {
+      "message": "Impossibile accedere a Keeper"
+   },
+   "ext_UnsavedPrompt": {
+      "message": "Sono presenti delle modifiche non salvate. Annullarle?"
+   },
+   "ext_UpdateRecord": {
+      "message": "Vuoi aggiornare questa voce?"
+   },
+   "ext_Uppercase": {
+      "message": "Maiuscolo"
+   },
+   "ext_Use": {
+      "message": "Utilizza"
+   },
+   "ext_UseAsDefaultSettings": {
+      "message": "Usa come impostazioni predefinite"
+   },
+   "ext_UsePassphrase": {
+      "message": "Usa frase d'accesso"
+   },
+   "ext_UsePassword": {
+      "message": "Usa password"
+   },
+   "ext_UsernameCopied": {
+      "message": "Nome utente copiato."
+   },
+   "ext_Verify": {
+      "message": "Verifica"
+   },
+   "ext_Visible": {
+      "message": "Visibile"
+   },
+   "ext_ZipCodePlaceholder": {
+      "message": "12345"
+   },
+   "ext_accessibility": {
+      "message": "Accessibilità"
+   },
+   "ext_account_number": {
+      "message": "Numero di conto"
+   },
+   "ext_account_type": {
+      "message": "Tipo di conto"
+   },
+   "ext_action_requires_authentication": {
+      "message": "L'azione richiede l'autenticazione"
+   },
+   "ext_add_new_record": {
+      "message": "Aggiungi nuova voce"
+   },
+   "ext_add_record_text": {
+      "message": "Aggiungi un titolo alla voce."
+   },
+   "ext_add_to_keeper": {
+      "message": "Aggiungi a Keeper"
+   },
+   "ext_autofill_desc": {
+      "message": "Se non ci sono voci corrispondenti per il sito, suggerisci le mie credenziali memorizzate e le password generate in modo complesso quando digiti all'interno di un campo."
+   },
+   "ext_autofill_desc_2": {
+      "message": "Se non ci sono voci corrispondenti per il sito, suggerisci i miei nomi utente memorizzati e le password complesse generate quando inserisco testo nei campi."
+   },
+   "ext_biometric_login_canceled": {
+      "message": "L'operazione è stata annullata o è scaduta. Riprova."
+   },
+   "ext_biometric_login_desc": {
+      "message": "Abilita la biometria mediante chiave d'accesso per accedere in modo più rapido e sicuro. La tua chiave d'accesso crittografata viene memorizzata in modo sicuro nell'enclave del dispositivo, sostituendo le password e l'MFA. Keeper non può accedere ai tuoi dati biometrici."
+   },
+   "ext_biometric_login_feature_desc": {
+      "message": "Configura l'accesso biometrico con una chiave d'accesso per accedere in modo rapido e sicuro, senza bisogno di password. Modificalo quando vuoi nelle impostazioni."
+   },
+   "ext_biometric_login_restricted_desc": {
+      "message": "L'accesso biometrico mediante chiave di accesso è stato limitato dal tuo amministratore."
+   },
+   "ext_biometric_login_restricted_header": {
+      "message": "L'accesso biometrico è limitato"
+   },
+   "ext_confirm_screenshot_desc": {
+      "message": "Controlla l'immagine della schermata. Ripetila se necessario, oppure continua a rivedere le informazioni rilevate e aggiungi note."
+   },
+   "ext_create_address_restricted_message_2": {
+      "message": "La creazione di indirizzi è stata limitata dall'amministratore."
+   },
+   "ext_create_card_restricted_message_2": {
+      "message": "La creazione di carte di pagamento è stata limitata dall'amministratore."
+   },
+   "ext_create_passkey_desc": {
+      "message": "Crea una chiave d'accesso per abilitare l'utilizzo degli scanner biometrici per l'accesso, se supportato dal tuo dispositivo."
+   },
+   "ext_create_record_in_shared_folders_only_message": {
+      "message": "Le voci possono essere create solo all'interno di cartelle condivise. Questa restrizione è stata impostata dall'amministratore."
+   },
+   "ext_create_record_in_shared_folders_only_message_2": {
+      "message": "L'amministratore ha impostato una restrizione per cui le voci possono essere create solo all'interno di cartelle condivise."
+   },
+   "ext_create_record_restricted_header": {
+      "message": "La creazione di voci è limitata"
+   },
+   "ext_create_record_restricted_header_2": {
+      "message": "Creazione limitata"
+   },
+   "ext_create_record_restricted_message": {
+      "message": "La creazione di voci è stata limitata dall'amministratore."
+   },
+   "ext_create_record_restricted_message_2": {
+      "message": "La creazione di voci di accesso è stata limitata dall'amministratore."
+   },
+   "ext_date_of_birth": {
+      "message": "Data di nascita"
+   },
+   "ext_days_maximum": {
+      "message": "Max. XXX giorni"
+   },
+   "ext_default": {
+      "message": "Predefinita"
+   },
+   "ext_default_card": {
+      "message": "Carta predefinita"
+   },
+   "ext_delete_passkey_desc": {
+      "message": "Con l'eliminazione, questa chiave d'accesso verrà rimossa dal tuo account. Ciò potrebbe influire sulla tua capacità di accedere sui dispositivi in cui è necessaria questa chiave d'accesso. Se procedi, assicurati di poter accedere mediante Password principale o SSO per evitare di rimanere bloccato fuori dall'account."
+   },
+   "ext_dna_code_prompt": {
+      "message": "Inserisci il codice dello smartwatch."
+   },
+   "ext_driver_license": {
+      "message": "Numero di patente di guida"
+   },
+   "ext_email_prompt": {
+      "message": "Crea un accesso usando uno degli indirizzi e-mail riportati sotto"
+   },
+   "ext_enter_secret_key": {
+      "message": "Inserisci chiave segreta"
+   },
+   "ext_enter_text_code": {
+      "message": "Inserisci il codice inviato tramite messaggio di testo."
+   },
+   "ext_enter_totp": {
+      "message": "Inserisci il codice dell'app di autenticazione/TOTP."
+   },
+   "ext_existing_passkey_detected_desc": {
+      "message": "Sembra che ci sia già una chiave d'accesso per questo account sul tuo dispositivo."
+   },
+   "ext_history": {
+      "message": "Cronologia"
+   },
+   "ext_hostname": {
+      "message": "Nome host o indirizzo IP"
+   },
+   "ext_hours_maximum": {
+      "message": "Max. XXX ore"
+   },
+   "ext_http_fill_warning_desc": {
+      "message": "Emetti un avviso quando usi KeeperFill in siti web senza una connessione HTTPS crittografata."
+   },
+   "ext_iframe_err": {
+      "message": "Fare clic sul lucchetto di Keeper nella barra strumenti del browser per effettuare l'accesso."
+   },
+   "ext_incorrect_totp_code": {
+      "message": "Il codice inserito non è valido o è scaduto.\\nFai clic su Invia di nuovo il codice per riceverne un altro."
+   },
+   "ext_install_instruction_click": {
+      "message": "Fai clic su XXX e YYY vicino a Keeper."
+   },
+   "ext_install_instruction_header": {
+      "message": "Aggiungi Keeper alla barra degli strumenti per accedervi facilmente"
+   },
+   "ext_install_instructions_pin": {
+      "message": "Blocca Keeper nella barra degli strumenti per accedervi facilmente"
+   },
+   "ext_install_instructions_select": {
+      "message": "Seleziona il browser per le istruzioni"
+   },
+   "ext_launch_site": {
+      "message": "Apri sito web"
+   },
+   "ext_log_in_to_keeper": {
+      "message": "Accedi a Keeper"
+   },
+   "ext_minutes_maximum": {
+      "message": "Max. XXX minuti"
+   },
+   "ext_mob_banner_day_left_in_trial": {
+      "message": "Ancora 1 giorno di prova"
+   },
+   "ext_mob_banner_days_left_in_trial": {
+      "message": "XXX giorni di prova rimasti"
+   },
+   "ext_mob_turn_on_now": {
+      "message": "Attiva ora"
+   },
+   "ext_mp_reentry_modal_message": {
+      "message": "L'amministratore richiede di ri-autenticarsi."
+   },
+   "ext_mp_reentry_overlay_alert_message": {
+      "message": "L'amministratore richiede una nuova autenticazione. Apri Keeper nella barra degli strumenti del browser per continuare."
+   },
+   "ext_new_login_creation_screen_description": {
+      "message": "Per una maggiore sicurezza, la creazione di una voce da un sito web si apre ora in una scheda separata."
+   },
+   "ext_new_login_creation_screen_header": {
+      "message": "Nuova schermata per la creazione di credenziali"
+   },
+   "ext_no_matching_addresses_create_restricted": {
+      "message": "Non ci sono indirizzi nella cassetta di sicurezza. La creazione di indirizzi è stata limitata dall'amministratore."
+   },
+   "ext_no_matching_cards_create_restricted": {
+      "message": "Non ci sono carte di pagamento nella cassetta di sicurezza. La creazione di carte di pagamento è stata limitata dall'amministratore."
+   },
+   "ext_no_matching_records_create_restricted": {
+      "message": "Nessuna voce corrispondente. La creazione di voci è stata limitata dall'amministratore."
+   },
+   "ext_open_admin_console": {
+      "message": "Apri console di amministrazione"
+   },
+   "ext_open_vault": {
+      "message": "Apri in Cassetta Web"
+   },
+   "ext_overwrite_field_content": {
+      "message": "Sovrascrivi contenuto del campo"
+   },
+   "ext_overwrite_field_content_desc": {
+      "message": "Attiva per consentire a Keeper di sovrascrivere il contenuto per i campi personalizzati di questa voce."
+   },
+   "ext_passport_number": {
+      "message": "Numero di passaporto"
+   },
+   "ext_password_prompt": {
+      "message": "Fai creare a Keeper una password complessa."
+   },
+   "ext_password_rules_unmet_warning": {
+      "message": "L'amministratore richiede che la password segua queste regole:"
+   },
+   "ext_pin_code": {
+      "message": "Codice PIN"
+   },
+   "ext_prevent_lockout_desc": {
+      "message": "Assicurati di poter accedere tramite Password principale o SSO prima di disabilitare l'accesso biometrico per evitare di rimanere bloccato fuori dall'account."
+   },
+   "ext_private_key": {
+      "message": "Chiave privata"
+   },
+   "ext_prompt_to_login_subtext": {
+      "message": "Dove si trova?"
+   },
+   "ext_public_key": {
+      "message": "Chiave pubblica"
+   },
+   "ext_push_notif": {
+      "message": "Notifica push inviata al dispositivo approvato."
+   },
+   "ext_quick_sync_your_data": {
+      "message": "Sincronizza rapidamente i tuoi dati"
+   },
+   "ext_report_autofill_prompt_desc": {
+      "message": "Fai una rapida istantanea dello schermo: Keeper utilizza i dati per trovare il problema. Bastano solo pochi secondi."
+   },
+   "ext_routing_number": {
+      "message": "Codice BIC/SWIFT"
+   },
+   "ext_save_to_keeper": {
+      "message": "Salvare la password in Keeper?"
+   },
+   "ext_scan_2fa_code": {
+      "message": "Scansiona codice A2F"
+   },
+   "ext_scan_failed": {
+      "message": "Scansione non riuscita"
+   },
+   "ext_scan_failed_warning": {
+      "message": "Codice TOTP non rilevato. Inserisci manualmente la tua chiave segreta."
+   },
+   "ext_security_code": {
+      "message": "Codice di sicurezza"
+   },
+   "ext_security_title": {
+      "message": "Sicurezza"
+   },
+   "ext_select_a_location": {
+      "message": "Seleziona una posizione"
+   },
+   "ext_session_persistence_setting_desc": {
+      "message": "Rimani connesso a Keeper quando chiudi il browser o riavvii il computer."
+   },
+   "ext_session_persistence_setting_prompt": {
+      "message": "Consigliamo di attivare la disconnessione automatica nel caso in cui ti allontanassi dal dispositivo mentre Keeper è in uso."
+   },
+   "ext_session_persistence_setting_title": {
+      "message": "Rimani connesso"
+   },
+   "ext_sharing_restricted_file_with_attachment_message": {
+      "message": "L'amministratore ti ha impedito la condivisione di voci contenenti file allegati."
+   },
+   "ext_sharing_restricted_header": {
+      "message": "Condivisione limitata"
+   },
+   "ext_sharing_restricted_indirect_sharing_message": {
+      "message": "L'amministratore ti ha impedito di aggiungere voci alle cartelle condivise."
+   },
+   "ext_sharing_restricted_message": {
+      "message": "L'amministratore ti ha impedito di condividere le voci."
+   },
+   "ext_sharing_through_shared_folders_only_message": {
+      "message": "Secondo l'amministratore, puoi condividere le voci solo aggiungendole alle cartelle condivise."
+   },
+   "ext_single_suggested": {
+      "message": "1 voce suggerita"
+   },
+   "ext_social_security_number": {
+      "message": "Codice fiscale"
+   },
+   "ext_software_license_number": {
+      "message": "Codice licenza del software"
+   },
+   "ext_sso_pw": {
+      "message": "Accesso SSO con password principale"
+   },
+   "ext_stay_logged": {
+      "message": "Rimani connesso tra una sessione e l'altra"
+   },
+   "ext_stay_logged_desc": {
+      "message": "Non richiedere l'accesso quando chiudi e riapri l'app oppure riavii il dispositivo, se non quando ti disconnetti manualmente o in automatico con Disconnessione per inattività."
+   },
+   "ext_stay_logged_desc_2": {
+      "message": "Non richiedere l'accesso quando chiudi e riapri l'app oppure riavvii il dispositivo, se non quando ti disconnetti manualmente o in automatico con Disconnessione per inattività."
+   },
+   "ext_subsequent_fill": {
+      "message": "Compilazione automatica sulle pagine successive"
+   },
+   "ext_subsequent_fill_desc": {
+      "message": "Disattiva per impedire a Keeper di compilare automaticamente più pagine durante i flussi di accesso multi-fase."
+   },
+   "ext_sync_complete": {
+      "message": "Sincronizzazione completa"
+   },
+   "ext_sync_setting_desc": {
+      "message": "Utilizza le seguenti opzioni per confermare manualmente che la tua cassaforte è aggiornata."
+   },
+   "ext_totp_delete_warning_2": {
+      "message": "Puoi recuperare i codici a due fattori eliminati ripristinando le versioni precedenti di questa voce nella tua cassetta di sicurezza."
+   },
+   "ext_totp_delete_warning_3": {
+      "message": "Disattiva l'MFA su questo servizio o sito web prima di eliminarlo dalla voce. Questo impedirà l'accesso a questo servizio."
+   },
+   "ext_totp_restricted_message": {
+      "message": "L'amministratore ha limitato la possibilità di aggiungere codici a due fattori alle voci."
+   },
+   "ext_two_factor_channel_rsa": {
+      "message": "Inserisci il codice d'accesso per RSA."
+   },
+   "ext_two_factor_field_tooltip_message": {
+      "message": "Usa Keeper per salvare e compilare in automatico i codici a due fattori su qualsiasi dispositivo."
+   },
+   "ext_two_factor_generic_code_prompt": {
+      "message": "Inserisci il codice del metodo a due fattori."
+   },
+   "ext_type_or_generate": {
+      "message": "Digita o genera"
+   },
+   "ext_website": {
+      "message": "Sito web"
+   },
+   "ext_zip_code": {
+      "message": "CAP"
+   },
+   "extension_DetailView_itemCopied": {
+      "message": "Copiato negli appunti"
+   },
+   "extension_phonetype_home": {
+      "message": "Princ."
+   },
+   "extension_phonetype_mobile": {
+      "message": "Cell."
+   },
+   "extension_phonetype_work": {
+      "message": "Ufficio"
+   },
+   "extension_prompt_to_disable": {
+      "message": "L'estensione per browser potrebbe ridurre le prestazioni di questo sito Web. Fai clic sull'icona di Keeper nella barra degli strumenti per abilitare di nuovo Keeper per questo sito Web."
+   },
+   "extension_prompt_to_disable_header": {
+      "message": "Keeper è stato disabilitato per il sito Web attualmente aperto."
+   },
+   "extension_prompt_to_fill": {
+      "message": "Far compilare a Keeper i dati di accesso in automatico?"
+   },
+   "extension_prompt_to_login": {
+      "message": "Per accedere, fai clic sull'icona di Keeper che trovi nella barra degli strumenti del browser in uso."
+   },
+   "fade_in": {
+      "message": "Dissolvenza"
+   },
+   "fastfill_RecordSaved": {
+      "message": "Voce salvata!"
+   },
+   "fastfill_less": {
+      "message": "Meno"
+   },
+   "fastfill_more": {
+      "message": "Più info"
+   },
+   "featureRestricted": {
+      "message": "Funzionalità limitata"
+   },
+   "feature_restricted_by_admin": {
+      "message": "Funzione limitata dall'amministratore di Keeper"
+   },
+   "ff_private_window_error": {
+      "message": "Usa la Cassetta Web per accedere a Keeper quando utilizzi la modalità Finestra anonima di Firefox. Keeper compilerà in automatico i siti, ma la barra degli strumenti non sarà disponibile."
+   },
+   "field_icon": {
+      "message": "Icona campi per l'inserimento"
+   },
+   "field_icons": {
+      "message": "Icone dei campi"
+   },
+   "field_icons_desc": {
+      "message": "Seleziona quando e se le icone di Keeper vengono visualizzate nei campi."
+   },
+   "field_text": {
+      "message": "Testo"
+   },
+   "files_learnmorepage_description": {
+      "message": "Keeper® è un'applicazione di gestione di password che include anche una camera di sicurezza digitale."
+   },
+   "files_sorry_later": {
+      "message": "Più tardi"
+   },
+   "files_upload_create_new_dontask": {
+      "message": "Non chiedere più"
+   },
+   "fill_address": {
+      "message": "Compila indirizzo"
+   },
+   "fill_and_save_password": {
+      "message": "Compila e salva password"
+   },
+   "fill_card": {
+      "message": "Compila carta di credito"
+   },
+   "fill_card_number": {
+      "message": "Compila numero di carta"
+   },
+   "fill_city": {
+      "message": "Compila città"
+   },
+   "fill_cvv": {
+      "message": "Compila CVV"
+   },
+   "fill_email_address": {
+      "message": "Compila indirizzo e-mail"
+   },
+   "fill_emailusername": {
+      "message": "Compila indirizzo e-mail/nome utente"
+   },
+   "fill_expiration_date": {
+      "message": "Compila data di scadenza"
+   },
+   "fill_first_name": {
+      "message": "Compila nome"
+   },
+   "fill_icon_is_missing": {
+      "message": "L'icona di compilazione è assente"
+   },
+   "fill_last_name": {
+      "message": "Compila cognome"
+   },
+   "fill_name_on_card": {
+      "message": "Compila titolare carta"
+   },
+   "fill_phone_number": {
+      "message": "Compila numero di telefono"
+   },
+   "fill_prompt": {
+      "message": "Finestra di compilazione"
+   },
+   "fill_record": {
+      "message": "Compila voce"
+   },
+   "fill_state": {
+      "message": "Compila stato"
+   },
+   "fill_street_address_line_one": {
+      "message": "Compila indirizzo 1"
+   },
+   "fill_street_address_line_two": {
+      "message": "Compila indirizzo 2"
+   },
+   "fill_tool": {
+      "message": "Strumento KeeperFill"
+   },
+   "fill_tool_desc": {
+      "message": "Visualizza le icone di Keeper nei campi dei moduli, in modo che tu possa fare clic su di esse per compilarli automaticamente con le tue credenziali di accesso su siti web e moduli."
+   },
+   "fill_zip_postal_code": {
+      "message": "Compila CAP"
+   },
+   "filled": {
+      "message": "Compilato"
+   },
+   "filter": {
+      "message": "Filtra"
+   },
+   "fix_autofill_fields": {
+      "message": "Sistema campi di compilazione automatica"
+   },
+   "fix_webpage": {
+      "message": "Correggi pagina web"
+   },
+   "footer_new_security": {
+      "message": "Sicurezza"
+   },
+   "forgot_master_password": {
+      "message": "Hai dimenticato la password principale"
+   },
+   "free_trial_expired_please_purchase": {
+      "message": "La tua prova gratuita è scaduta. Acquista un abbonamento."
+   },
+   "full_name": {
+      "message": "Nome e cognome"
+   },
+   "full_sync": {
+      "message": "Sincronizzazione completa"
+   },
+   "full_sync_desc": {
+      "message": "Sincronizza tutti i dati, quindi potrebbe durare qualche minuto."
+   },
+   "generator_history": {
+      "message": "Cronologia del generatore"
+   },
+   "generic_restriction": {
+      "message": "L'esecuzione di questa azione è limitata dal tuo amministratore Keeper."
+   },
+   "get_help": {
+      "message": "Ricevi assistenza"
+   },
+   "got_it": {
+      "message": "Capito"
+   },
+   "greater_than_zero": {
+      "message": "Il valore dev'essere maggiore di 0."
+   },
+   "groups_invalid_code2": {
+      "message": "Il codice inserito non è valido"
+   },
+   "groups_invalid_validation_code": {
+      "message": "Il codice di convalida fornito non è corretto."
+   },
+   "header_admin": {
+      "message": "Console di amministrazione"
+   },
+   "hidden_field": {
+      "message": "Campo nascosto"
+   },
+   "hide_contents": {
+      "message": "Nascondi sommario"
+   },
+   "hide_password": {
+      "message": "Nascondi password"
+   },
+   "hover_locks": {
+      "message": "Mostra lucchetti al passaggio"
+   },
+   "http_basic_auth_description": {
+      "message": "Questo sito web (XXX) richiede l'accesso con l'autenticazione HTTP di base. Se ritieni questo sito affidabile e desideri effettuare l'accesso con la voce di Keeper corrispondente (YYY) dalla tua cassetta di sicurezza, fai clic su OK oppure su Annulla per interrompere."
+   },
+   "http_basic_auth_title": {
+      "message": "Richiesta di compilazione automatica con autenticazione HTTP di base"
+   },
+   "http_fill_warning_prompt_desc": {
+      "message": "Ricevi una richiesta di notifica sui rischi della sicurezza quando provi a compilare in automatico le credenziali sui siti web che non hanno una connessione crittografata HTTPS."
+   },
+   "http_fill_warning_promt": {
+      "message": "Finestra di avviso compilazione HTTP"
+   },
+   "idb_storage_cleared": {
+      "message": "Archiviazione IndexedDB cancellata"
+   },
+   "idb_storage_visible": {
+      "message": "Archiviazione IDB visibile"
+   },
+   "in120seconds": {
+      "message": "120 secondi"
+   },
+   "in30seconds": {
+      "message": "30 secondi"
+   },
+   "in45seconds": {
+      "message": "45 secondi"
+   },
+   "in60seconds": {
+      "message": "60 secondi"
+   },
+   "in90seconds": {
+      "message": "90 secondi"
+   },
+   "inactivity_logout_timer_desc": {
+      "message": "Imposta il tempo di inattività prima della disconnessione automatica."
+   },
+   "individual_fill_cross_domain": {
+      "message": "Keeper ha rilevato che il sito XXX ha un modulo di accesso integrato che utilizza il dominio YYY. Fai clic su OK per inserire le credenziali."
+   },
+   "input_fields_desc": {
+      "message": "Le icone appaiono all'interno dei campi di input compilabili e possono essere cliccate per visualizzare i suggerimenti di Keeper e altre opzioni."
+   },
+   "insert_security_key": {
+      "message": "Inserisci la chiave di sicurezza"
+   },
+   "introducing_clipboard_expiration": {
+      "message": "Introduzione alla scadenza degli appunti"
+   },
+   "introducing_clipboard_expiration_desc": {
+      "message": "Imposta per quanto tempo le credenziali copiate restano negli appunti. Puoi accedervi nelle impostazioni."
+   },
+   "introducing_passkeys": {
+      "message": "Introduzione alle chiavi d'accesso di Keeper"
+   },
+   "introducing_passkeys_content": {
+      "message": "Utilizza l'estensione del browser di Keeper per creare chiavi d'accesso e accedere ai siti web supportati. Gestisci e condividi in modo sicuro le tue chiavi d'accesso utilizzando la tua cassetta di sicurezza di Keeper su tutti i tuoi dispositivi."
+   },
+   "invalid_email_or_password": {
+      "message": "E-mail e password non valide"
+   },
+   "invalid_two_factor_data": {
+      "message": "Dati a due fattori non validi"
+   },
+   "json_code_snippet": {
+      "message": "Snippet di codice JSON"
+   },
+   "keeper_login": {
+      "message": "Accedi a Keeper per inserire le credenziali."
+   },
+   "keeper_passkey_created": {
+      "message": "Chiave d'accesso di Keeper creata"
+   },
+   "keeper_push": {
+      "message": "Notifica push di Keeper"
+   },
+   "keeper_push_description": {
+      "message": "Le notifiche push di Keeper sono un semplice metodo di sicurezza per account che utilizza il tocco singolo al posto dei codici. Quando effettui l'accesso a Keeper su un nuovo dispositivo, riceverai un messaggio di richiesta a tocco singolo sull'altro dispositivo."
+   },
+   "keeper_push_description_short": {
+      "message": "Keeper Push è una notifica di autenticazione facile e sicura che viene inviata a uno dei dispositivi approvati da te."
+   },
+   "keeper_push_not_approved": {
+      "message": "La notifica push non è stata approvata."
+   },
+   "keeper_push_sent": {
+      "message": "Notifica push di Keeper inviata"
+   },
+   "keeper_push_sent_to_device": {
+      "message": "Notifica push di Keeper inviata al dispositivo approvato"
+   },
+   "keeper_sso_not_permitted": {
+      "message": "Il tuo account non può accedere a Keeper usando il SSO. Assicurati che questo account sia assegnato a un nodo all'interno della console di amministrazione di Keeper in cui avviene il provisioning tramite Single Sign-On."
+   },
+   "keeperfill_insecure_field": {
+      "message": "Keeper non riesce a compilare il campo della password. Fai clic sull'icona a lucchetto del campo del modulo e riprova."
+   },
+   "kfg_enter_password": {
+      "message": "Inserisci password"
+   },
+   "kfg_expire": {
+      "message": "Data di scadenza"
+   },
+   "kfg_password_rule_prompt": {
+      "message": "L'amministratore di Keeper richiede che la Password principale si attenga alle seguenti regole:"
+   },
+   "kg_fair": {
+      "message": "Discreta"
+   },
+   "kg_medium": {
+      "message": "Nella media"
+   },
+   "kg_off": {
+      "message": "Non attivo"
+   },
+   "kg_on": {
+      "message": "Attivo"
+   },
+   "kg_strong": {
+      "message": "Forte"
+   },
+   "kg_two_factor_authentication": {
+      "message": "Autenticazione a due fattori"
+   },
+   "kg_weak": {
+      "message": "Debole"
+   },
+   "landscape_mode": {
+      "message": "Modalità Paesaggio"
+   },
+   "last_synced_phrase": {
+      "message": "Ultima sincronizzazione: XXX"
+   },
+   "last_used_date": {
+      "message": "Ultimo utilizzato: XXX"
+   },
+   "launch_and_autofill": {
+      "message": "Lancia e completa automaticamente"
+   },
+   "launch_vault": {
+      "message": "Apri cassetta di sicurezza"
+   },
+   "learnmo": {
+      "message": "Per sapere di più"
+   },
+   "local_storage_cleared": {
+      "message": "Archiviazione locale cancellata"
+   },
+   "local_storage_visible": {
+      "message": "Archiviazione locale visibile"
+   },
+   "location": {
+      "message": "Posizione"
+   },
+   "lockout_minute": {
+      "message": "A causa di ripetuti tentativi, la tua richiesta è stata limitata. Riprova tra 1 minuto."
+   },
+   "log_in": {
+      "message": "Accedi"
+   },
+   "log_in_successful": {
+      "message": "Accesso riuscito"
+   },
+   "log_in_with_passkey": {
+      "message": "Accesso con chiave d'accesso"
+   },
+   "login_button_disabled": {
+      "message": "Pulsante di accesso disabilitato"
+   },
+   "login_different_account": {
+      "message": "Accedi con un altro account"
+   },
+   "login_field": {
+      "message": "Campo di accesso"
+   },
+   "login_id": {
+      "message": "ID di accesso"
+   },
+   "login_reminder": {
+      "message": "Promemoria di accesso"
+   },
+   "login_updated": {
+      "message": "Credenziali aggiornate."
+   },
+   "logout_of_username": {
+      "message": "Esci da XXX"
+   },
+   "logout_timer_value_invalid": {
+      "message": "Valore non valido per l'impostazione del timer di disconnessione"
+   },
+   "manage_passkeys": {
+      "message": "Gestisci le chiavi d'accesso"
+   },
+   "master_password": {
+      "message": "Password principale"
+   },
+   "match_on_subdomain": {
+      "message": "Abbina in base al sottodominio"
+   },
+   "match_on_subdomain_desc": {
+      "message": "Visualizza le voci da compilare in automatico in base all'abbinamento esatto con il sottodominio."
+   },
+   "match_on_subdomain_desc2": {
+      "message": "Controlla se le voci vengono suggerite in base a una rigida corrispondenza di sottodominio."
+   },
+   "match_only_subdomains": {
+      "message": "Abbina solo sottodomini"
+   },
+   "match_system": {
+      "message": "Secondo il sistema"
+   },
+   "max_characters_xxx": {
+      "message": "Massimo XXX caratteri"
+   },
+   "maybe_later": {
+      "message": "Forse più tardi"
+   },
+   "mob_banner_days_left_desc": {
+      "message": "Attiva subito Keeper Unlimited per una protezione completa."
+   },
+   "multi_line_text": {
+      "message": "Testo su più righe"
+   },
+   "multiple_folders": {
+      "message": "Cartelle multiple"
+   },
+   "multiple_folders_prompt_desc": {
+      "message": "Questa voce è presente in più cartelle e non può essere modificata qui. Apri la cassetta Web o l'app per desktop per apportare modifiche."
+   },
+   "multiple_folders_prompt_title": {
+      "message": "Voce in più cartelle"
+   },
+   "name_on_card": {
+      "message": "Nome sulla carta"
+   },
+   "need_help_question": {
+      "message": "Serve aiuto?"
+   },
+   "need_vault_settings_update": {
+      "message": "Accedi al Vault Web per aggiornare le impostazioni dell'account."
+   },
+   "network_encryption_none": {
+      "message": "Nessuna crittografia"
+   },
+   "network_encryption_wep": {
+      "message": "WEP"
+   },
+   "network_encryption_wpa": {
+      "message": "WPA"
+   },
+   "network_hidden": {
+      "message": "Nascosta"
+   },
+   "network_visible": {
+      "message": "Visibile"
+   },
+   "never_show": {
+      "message": "Non mostrare mai"
+   },
+   "new_password": {
+      "message": "Nuova password"
+   },
+   "new_password_alert": {
+      "message": "Compilare i campi della nuova password prima di continuare."
+   },
+   "new_password_view": {
+      "message": "Ora fai clic sull'icona a lucchetto all'interno di ogni campo del modulo in cui devi inserire la nuova password, quindi fai clic su \"Avanti\"."
+   },
+   "new_password_view2": {
+      "message": "Ora seleziona l'icona di Keeper nel campo della password nuova per inserire la password nuova."
+   },
+   "newfreetrial_popup_buy": {
+      "message": "Upgrade Now"
+   },
+   "next_button_disabled": {
+      "message": "Pulsante \"Avanti\" disabilitato"
+   },
+   "next_step_colon_preview": {
+      "message": "Passaggio successivo: Anteprima"
+   },
+   "no_animation": {
+      "message": "Nessuna animazione"
+   },
+   "no_edit_permissions2": {
+      "message": "Non hai i permessi di modifica per questa voce."
+   },
+   "no_email_entered": {
+      "message": "Pulsante \"Avanti\" disabilitato per inserimento di indirizzo e-mail non valido"
+   },
+   "no_hist": {
+      "message": "Nessuna cronologia delle password"
+   },
+   "no_records": {
+      "message": "Nessuna voce nella cassetta di sicurezza"
+   },
+   "no_records_match_domain": {
+      "message": "Nessuna voce nella cassetta di sicurezza ha un indirizzo di sito Web corrispondente a questo. Controllare la cassetta o creare una nuova voce."
+   },
+   "no_suggest_recs": {
+      "message": "Nessuna voce suggerita"
+   },
+   "no_thanks": {
+      "message": "No, grazie"
+   },
+   "non_login_field_does_not_autofill": {
+      "message": "I campi che non contengono dati di accesso (es. pagamento o fatturazione) non si compilano automaticamente"
+   },
+   "not_approved_by_account_owner": {
+      "message": "Questo dispositivo non è approvato dal proprietario dell'account. Contatta il proprietario o l'assistenza di Keeper."
+   },
+   "not_yet_used": {
+      "message": "Non ancora utilizzata"
+   },
+   "note": {
+      "message": "Nota"
+   },
+   "notes_header": {
+      "message": "Note"
+   },
+   "notifications_enabled_reminder": {
+      "message": "Assicurati di avere le notifiche abilitate sul dispositivo per ricevere quelle push di Keeper oppure apri l'app sul dispositivo approvato."
+   },
+   "ob2020_getstarted_1": {
+      "message": "Keeper è lo strumento più sicuro per conservare e proteggere le password e le informazioni private personali dai criminali informatici."
+   },
+   "ob2020_getstarted_2": {
+      "message": "Keeper protegge e compila in automatico le password su tutti i vostri dispositivi mobili e fissi."
+   },
+   "ob2020_getstarted_3": {
+      "message": "Keeper utilizza una crittografia end-to-end con un'architettura di sicurezza proprietaria zero-knowledge in modo da completare il controllo sugli accessi alle tue informazioni."
+   },
+   "ob2020_welcome": {
+      "message": "Benvenuto nella tua cassetta di sicurezza di Keeper!"
+   },
+   "old_password_view": {
+      "message": "Fai clic sull'icona a lucchetto all'interno dei campi del modulo riguardanti la password precedente e attuale, se presenti. Poi fai clic su \"Avanti\" per continuare."
+   },
+   "old_password_view2": {
+      "message": "Seleziona l'icona di Keeper nel campo della password attuale o precedente per inserire la password attuale."
+   },
+   "once_snapshot_shared_message": {
+      "message": "Dopo la condivisione esaminaremo la tua istantanea e ti avviseremo quando verranno effettuati aggiornamenti."
+   },
+   "one_time_passcode": {
+      "message": "Codice d'accesso monouso"
+   },
+   "open_extension": {
+      "message": "Apri estensione"
+   },
+   "open_my_vault": {
+      "message": "Apri La mia cassetta web"
+   },
+   "open_safari_settings": {
+      "message": "Esci e apri le impostazioni di Safari..."
+   },
+   "other_accounts": {
+      "message": "Altri account"
+   },
+   "other_login_methods": {
+      "message": "Altri metodi di accesso"
+   },
+   "other_please_describe": {
+      "message": "Altro (per favore descrivi)"
+   },
+   "page_info": {
+      "message": "Informazioni pagina"
+   },
+   "pass_gen_history": {
+      "message": "Cronologia del generatore di password"
+   },
+   "passkey": {
+      "message": "Chiave d'accesso"
+   },
+   "passkey_already_registered": {
+      "message": "Chiave d'accesso già registrata"
+   },
+   "passkey_already_registered_desc": {
+      "message": "Una chiave d'accesso per questo account è già registrata in Keeper."
+   },
+   "passkey_count_plural": {
+      "message": "XXX chiavi d'accesso"
+   },
+   "passkey_count_single": {
+      "message": "1 chiave d'accesso"
+   },
+   "passphrase_cannot_meet_criteria": {
+      "message": "La frase d'accesso non può soddisfare i criteri stabiliti dai domini specificati nella voce."
+   },
+   "passphrase_copied": {
+      "message": "Frase d'accesso copiata"
+   },
+   "passphrase_must_caps": {
+      "message": "La prima lettera di ogni parola deve essere maiuscola"
+   },
+   "passphrase_must_contain": {
+      "message": "La frase d'accesso deve contenere:"
+   },
+   "passphrase_must_number": {
+      "message": "1 numero"
+   },
+   "passphrase_must_separator": {
+      "message": "Un separatore: XXX"
+   },
+   "passphrase_must_words": {
+      "message": "Almeno XXX parole"
+   },
+   "password_alert": {
+      "message": "Avviso password"
+   },
+   "password_cannot_meet_criteria": {
+      "message": "La password non può soddisfare i criteri stabiliti dai domini specificati nella voce."
+   },
+   "password_cannot_meet_criteria__gen": {
+      "message": "Impossibile generare una password che soddisfi i criteri stabiliti dai domini specificati nella voce."
+   },
+   "password_does_not_autofill": {
+      "message": "La password non si compila automaticamente"
+   },
+   "password_generator": {
+      "message": "Generatore di password"
+   },
+   "password_must_caps": {
+      "message": "La prima lettera di ogni parola deve essere maiuscola"
+   },
+   "password_must_char": {
+      "message": "Almeno XXX caratteri"
+   },
+   "password_must_char__solo": {
+      "message": "La password deve contenere almeno XXX caratteri."
+   },
+   "password_must_contain": {
+      "message": "La password deve contenere:"
+   },
+   "password_must_lowercase": {
+      "message": "Almeno XXX lettera minuscola"
+   },
+   "password_must_lowercase__solo": {
+      "message": "La password deve contenere almeno XXX lettera minuscola."
+   },
+   "password_must_lowercase_p": {
+      "message": "Almeno XXX lettere minuscole"
+   },
+   "password_must_lowercase_p__solo": {
+      "message": "La password deve contenere almeno XXX lettere minuscole."
+   },
+   "password_must_not_contain_these_symbols": {
+      "message": "La password non deve contenere: XXX"
+   },
+   "password_must_number": {
+      "message": "Almeno XXX numero"
+   },
+   "password_must_number__solo": {
+      "message": "La password deve contenere almeno XXX numero."
+   },
+   "password_must_number_p": {
+      "message": "Almeno XXX numeri"
+   },
+   "password_must_number_p__solo": {
+      "message": "La password deve contenere almeno XXX numeri."
+   },
+   "password_must_number_singluar": {
+      "message": "Almeno 1 numero"
+   },
+   "password_must_separator": {
+      "message": "Un separatore:"
+   },
+   "password_must_symbol": {
+      "message": "Almeno XXX simbolo: YYY"
+   },
+   "password_must_symbol__solo": {
+      "message": "La password deve contenere almeno XXX simbolo: YYY"
+   },
+   "password_must_symbol_p": {
+      "message": "Almeno XXX simboli: YYY"
+   },
+   "password_must_symbol_p__solo": {
+      "message": "La password deve contenere almeno XXX simboli: YYY"
+   },
+   "password_must_uppercase": {
+      "message": "Almeno XXX lettera maiuscola"
+   },
+   "password_must_uppercase__solo": {
+      "message": "La password deve contenere almeno XXX lettera maiuscola."
+   },
+   "password_must_uppercase_p": {
+      "message": "Almeno XXX lettere maiuscole"
+   },
+   "password_must_uppercase_p__solo": {
+      "message": "La password deve contenere almeno XXX lettere maiuscole."
+   },
+   "password_passphrase_alert": {
+      "message": "Avviso password e frase d'accesso"
+   },
+   "password_reset_email_tip": {
+      "message": "Inserisci il tuo indirizzo e-mail per iniziare il processo di recupero dell'account. Potrebbe essere necessario controllare la cartella spam o sbloccare le e-mail provenienti da keepersecurity.com."
+   },
+   "password_strength": {
+      "message": "Forze"
+   },
+   "password_suggestions": {
+      "message": "Suggerimenti per password"
+   },
+   "password_suggestions_desc": {
+      "message": "Controlla se le password complesse generate vengono suggerite quando fai clic sul campo della password nella pagina della registrazione."
+   },
+   "password_updated": {
+      "message": "Aggiornamento password riuscito."
+   },
+   "payment_card": {
+      "message": "Carta di pagamento"
+   },
+   "payment_card_saved": {
+      "message": "Carta Di Pagamento Salvata."
+   },
+   "payment_cards": {
+      "message": "Carte di pagamento"
+   },
+   "payment_field": {
+      "message": "Campo del pagamento"
+   },
+   "payment_updated": {
+      "message": "Pagamento aggiornato."
+   },
+   "phone_call": {
+      "message": "Telefonata"
+   },
+   "phone_number": {
+      "message": "Numero di telefono"
+   },
+   "phone_type": {
+      "message": "Tipo di telefono"
+   },
+   "pin_generator": {
+      "message": "Generatore di PIN"
+   },
+   "port": {
+      "message": "Porta"
+   },
+   "portrait_mode": {
+      "message": "Modalità Ritratto"
+   },
+   "prevent_lockout": {
+      "message": "Impedisci il blocco"
+   },
+   "preview": {
+      "message": "Anteprima"
+   },
+   "preview_snapshot_desc": {
+      "message": "Visualizza l'istantanea in anteprima prima di scaricarla e condividerla con Keeper."
+   },
+   "primary_website_address": {
+      "message": "Indirizzo del sito web primario"
+   },
+   "privacy": {
+      "message": "Privacy Policy"
+   },
+   "privacy_reminder": {
+      "message": "Per ragioni di privacy, il metodo a due fattori in uso non viene visualizzato. Controlla gli SMS, l'e-mail, la chiave di sicurezza o l'app di autenticazione TOTP per il codice."
+   },
+   "privacy_screen_is_enabled_by_admin": {
+      "message": "Il filtro privacy è abilitato dall'amministratore"
+   },
+   "privacy_screen_prevents_hint": {
+      "message": "Il filtro privacy impedisce sia la \\nvisualizzazione di una password sia la \\nmodifica dell'URL di un sito Web \\ndopo il salvataggio della voce."
+   },
+   "prompt_appearance": {
+      "message": "Aspetto dei prompt"
+   },
+   "prompt_appearance_desc": {
+      "message": "Personalizza il modo in cui vuoi che i prompt vengano visualizzati sul tuo schermo"
+   },
+   "prompt_appearance_desc_2": {
+      "message": "Personalizza la visualizzazione delle richieste nella finestra del browser in uso."
+   },
+   "prompt_location": {
+      "message": "Punto di visualizzazione"
+   },
+   "prompt_to_autofill_desc": {
+      "message": "Compila in automatico i campi del modulo quando apri la pagina di accesso di un sito Web. Apri la schermata delle preferenze di compilazione automatica per controllare il comportamento dei singoli siti Web."
+   },
+   "prompt_to_change_desc": {
+      "message": "Nelle pagine Web \"Cambia password\", Keeper genererà in automatico una nuova password e compilerà, sempre in automatico, i campi della nuova password e di quella precedente."
+   },
+   "prompt_to_create": {
+      "message": "Richiesta di creazione"
+   },
+   "prompt_to_create_desc": {
+      "message": "Mentre digiti la password, se non viene trovata alcuna voce esistente per un sito web, Keeper ti chiederà di salvare la password nella tua cassetta di sicurezza."
+   },
+   "prompt_to_disable": {
+      "message": "Richiesta di disabilitazione"
+   },
+   "prompt_to_disable_desc": {
+      "message": "In questo modo verrà ricordato che KeeperFill è disabilitato perché potrebbe rallentare la pagina aperta."
+   },
+   "prompt_to_fill": {
+      "message": "Richiedi compilazione"
+   },
+   "prompt_to_fill_desc": {
+      "message": "Aprendo la schermata di accesso a un sito Web, Keeper richiederà in automatico di accedervi con la password salvata."
+   },
+   "prompt_to_hover_locks_desc": {
+      "message": "Mostra solo le icone di Keeper quando passi il mouse sopra a un campo vuoto."
+   },
+   "prompt_to_login": {
+      "message": "Richiedi dati di accesso"
+   },
+   "prompt_to_login_desc": {
+      "message": "Una volta disconnessi da Keeper, sarà necessario accedere a Keeper quando si apre la schermata di accesso a un sito Web."
+   },
+   "prompt_to_save": {
+      "message": "Richiedi salvataggio"
+   },
+   "prompt_to_save_desc": {
+      "message": "Dopo aver effettuato l'accesso a un sito web senza voce corrispondente, Keeper ti chiederà di salvare la password nella tua cassetta di sicurezza."
+   },
+   "prompt_to_update": {
+      "message": "Aggiornare la voce di Keeper per questo sito?"
+   },
+   "promtp_to_change": {
+      "message": "Richiedi modifica"
+   },
+   "protip": {
+      "message": "Suggerimento per esperti"
+   },
+   "pull_addresses": {
+      "message": "Vorresti compilare gli indirizzi su questo sito web?"
+   },
+   "pull_information_from_extensions": {
+      "message": "Vuoi che Keeper compili XXX sul sito Web di YYY?"
+   },
+   "pull_payment_cards": {
+      "message": "Vorresti compilare le carte di pagamento su questo sito web?"
+   },
+   "quick_sync": {
+      "message": "Sincronizzazione rapida"
+   },
+   "quick_sync_desc": {
+      "message": "Sincronizza solo i dati nuovi."
+   },
+   "ready_to_share_question": {
+      "message": "È arrivato il momento di condividere?"
+   },
+   "recents_translated": {
+      "message": "Recenti"
+   },
+   "record_add": {
+      "message": "Aggiungi voce"
+   },
+   "record_deleted": {
+      "message": "Record eliminato"
+   },
+   "record_details": {
+      "message": "Dettagli del record"
+   },
+   "record_header": {
+      "message": "Voce"
+   },
+   "recovery_account_recovery": {
+      "message": "Recupero account"
+   },
+   "recovery_email_verification": {
+      "message": "Verifica per e-mail"
+   },
+   "recovery_forgot_pass": {
+      "message": "Password dimenticata?"
+   },
+   "recovery_forgotpass": {
+      "message": "Password dimenticata"
+   },
+   "recovery_resend_code": {
+      "message": "Invia di nuovo il codice"
+   },
+   "recovery_title": {
+      "message": "Hai dimenticato la password principale?"
+   },
+   "referral_v4_cancel": {
+      "message": "No, grazie"
+   },
+   "region_selector_title": {
+      "message": "Posizione centro dati"
+   },
+   "registration_field": {
+      "message": "Campo di registrazione"
+   },
+   "registration_updated": {
+      "message": "Registrazione aggiornata."
+   },
+   "relying_party": {
+      "message": "Relying Party"
+   },
+   "remember_email": {
+      "message": "Ricorda indirizzo e-mail"
+   },
+   "remove_from_favs": {
+      "message": "Rimuovi dai Preferiti"
+   },
+   "remove_from_login_list": {
+      "message": "XXX verrà rimosso dalla lista di accessi."
+   },
+   "remove_user": {
+      "message": "Rimuovere utente?"
+   },
+   "report_an_autofill_issue": {
+      "message": "Segnala un problema di compilazione automatica"
+   },
+   "report_autofill_issue": {
+      "message": "Segnala un problema di completamento automatico"
+   },
+   "report_issue": {
+      "message": "Segnala problema"
+   },
+   "report_sent": {
+      "message": "Resoconto inviato."
+   },
+   "report_to_keeper": {
+      "message": "Segnalare a Keeper per migliorare l'estensione?"
+   },
+   "req_timeout": {
+      "message": "Timeout della richiesta"
+   },
+   "request_admin_approval": {
+      "message": "Richiedi approvazione amministratore"
+   },
+   "require_two_factor": {
+      "message": "Richiedi autenticazione a due fattori:"
+   },
+   "require_two_factor_no_colon": {
+      "message": "Richiedi autenticazione a due fattori"
+   },
+   "required": {
+      "message": "Obbligatorio"
+   },
+   "required_custom_field": {
+      "message": "Campo personalizzato obbligatorio"
+   },
+   "resend_email": {
+      "message": "Invia di nuovo l'e-mail"
+   },
+   "restore_defalt_settings": {
+      "message": "Ripristina impostazioni predefinite"
+   },
+   "restore_default_autofill_settings": {
+      "message": "Ripristina impostazioni di compilazione automatica predefinite"
+   },
+   "restrictedByAdmin": {
+      "message": "Questa funzione è stata limitata dall'Amministratore di Keeper."
+   },
+   "restricted_totp": {
+      "message": "L'amministratore di Keeper ha limitato la possibilità di aggiungere codici a due fattori alle voci."
+   },
+   "retake": {
+      "message": "Scatta di nuovo"
+   },
+   "revert_change": {
+      "message": "Annulla modifica"
+   },
+   "role_enf_restriction": {
+      "message": "L'esecuzione di questa operazione è limitata ad alcuni utenti. Contattare l'amministratore di Keeper per ricevere assistenza."
+   },
+   "rotation_port": {
+      "message": "Porta di rotazione"
+   },
+   "rsa_passcode": {
+      "message": "Codice d'accesso RSA"
+   },
+   "rt_label_address": {
+      "message": "Indirizzo"
+   },
+   "rt_label_bankAccount": {
+      "message": "Conto bancario"
+   },
+   "rt_label_bankCard": {
+      "message": "Carta di pagamento"
+   },
+   "rt_label_birthCertificate": {
+      "message": "Certificato di nascita"
+   },
+   "rt_label_contact": {
+      "message": "Contatto"
+   },
+   "rt_label_databaseCredentials": {
+      "message": "Database"
+   },
+   "rt_label_driverLicense": {
+      "message": "Patente di guida"
+   },
+   "rt_label_encryptedNotes": {
+      "message": "Nota protetta"
+   },
+   "rt_label_file": {
+      "message": "File allegato"
+   },
+   "rt_label_general": {
+      "message": "Generale"
+   },
+   "rt_label_healthInsurance": {
+      "message": "Assicurazione sanitaria"
+   },
+   "rt_label_login": {
+      "message": "Dati di accesso"
+   },
+   "rt_label_membership": {
+      "message": "Abbonamento"
+   },
+   "rt_label_pamAwsConfiguration": {
+      "message": "Configurazione di AWS con PAM"
+   },
+   "rt_label_pamAzureConfiguration": {
+      "message": "Configurazione di Entra ID (Azure) con PAM"
+   },
+   "rt_label_pamDatabase": {
+      "message": "Database PAM"
+   },
+   "rt_label_pamDirectory": {
+      "message": "Directory PAM"
+   },
+   "rt_label_pamLocalConfiguration": {
+      "message": "Configurazione locale con PAM"
+   },
+   "rt_label_pamMachine": {
+      "message": "Macchina PAM"
+   },
+   "rt_label_pamNetworkConfiguration": {
+      "message": "Configurazione della rete con PAM"
+   },
+   "rt_label_pamRemoteBrowser": {
+      "message": "Browser remoto PAM"
+   },
+   "rt_label_pamUser": {
+      "message": "Utente PAM"
+   },
+   "rt_label_passport": {
+      "message": "Passaporto"
+   },
+   "rt_label_photo": {
+      "message": "Foto"
+   },
+   "rt_label_pl_address": {
+      "message": "Indirizzi"
+   },
+   "rt_label_pl_bankAccount": {
+      "message": "Conti bancari"
+   },
+   "rt_label_pl_bankCard": {
+      "message": "Carte di pagamento"
+   },
+   "rt_label_pl_birthCertificate": {
+      "message": "Certificato di nascita"
+   },
+   "rt_label_pl_contact": {
+      "message": "Contatti"
+   },
+   "rt_label_pl_databaseCredentials": {
+      "message": "Database"
+   },
+   "rt_label_pl_encryptedNotes": {
+      "message": "Note protette"
+   },
+   "rt_label_pl_file": {
+      "message": "File"
+   },
+   "rt_label_pl_login": {
+      "message": "Dati di accesso"
+   },
+   "rt_label_pl_membership": {
+      "message": "Abbonamenti"
+   },
+   "rt_label_pl_passport": {
+      "message": "Passaporti"
+   },
+   "rt_label_pl_photo": {
+      "message": "Foto"
+   },
+   "rt_label_pl_serverCredentials": {
+      "message": "Server"
+   },
+   "rt_label_pl_softwareLicense": {
+      "message": "Licenze software"
+   },
+   "rt_label_pl_sshKeys": {
+      "message": "Chiavi SSH"
+   },
+   "rt_label_pl_ssnCard": {
+      "message": "Carte d'identità"
+   },
+   "rt_label_serverCredentials": {
+      "message": "Server"
+   },
+   "rt_label_softwareLicense": {
+      "message": "Licenza software"
+   },
+   "rt_label_sshKeys": {
+      "message": "Chiave SSH"
+   },
+   "rt_label_ssnCard": {
+      "message": "Carta d'identità"
+   },
+   "rt_label_wifi_login": {
+      "message": "Accesso Wi-Fi"
+   },
+   "rule_contains": {
+      "message": "Contenga almeno XXX carattere/i nei valori: YYY"
+   },
+   "rule_contains_range_digit": {
+      "message": "Contenga almeno XXX cifra/e"
+   },
+   "rule_contains_range_lowercase": {
+      "message": "Contenga almeno XXX carattere/i minuscolo/i"
+   },
+   "rule_contains_range_uppercase": {
+      "message": "Contenga almeno XXX carattere/i maiuscolo/i"
+   },
+   "rule_size_min": {
+      "message": "Almeno XXX carattere/i"
+   },
+   "safari_ext_off": {
+      "message": "L'estensione di Keeper per Safari è al momento non attiva. Puoi attivarla nella sezione Estensioni delle impostazioni di Safari."
+   },
+   "safari_ext_on": {
+      "message": "L'estensione di Keeper per Safari è al momento attiva. Puoi disattivarla nella sezione Estensioni delle impostazioni di Safari."
+   },
+   "safari_ext_unknown": {
+      "message": "Puoi attivare l'estensione di Keeper per Safari nella sezione Estensioni delle impostazioni di Safari."
+   },
+   "safari_upgrade_13": {
+      "message": "KeeperFill per Safari è disponibile soltanto su macOS High Sierra (10.13.6) e versioni successive, con Safari 13 e versioni successive."
+   },
+   "save_password_not_logged_in": {
+      "message": "Al momento sei disconnesso da Keeper. Effettua l'accesso usando il lucchetto di Keeper che vedi nella finestra del browser."
+   },
+   "save_password_prompt": {
+      "message": "Salvare questa password?"
+   },
+   "save_password_setting_prompt": {
+      "message": "Richiesta di salvataggio della password"
+   },
+   "save_password_setting_prompt_desc": {
+      "message": "Ricevi una richiesta di creare una nuova voce dopo avere effettuato l’accesso a un sito web con nuove credenziali."
+   },
+   "save_password_view": {
+      "message": "Salvare le modifiche alla cassetta di sicurezza? Non preoccuparti, puoi sempre recuperare la password usando la schermata \"Cronologia della voce\"."
+   },
+   "save_password_view2": {
+      "message": "Salvare le modifiche alla cassetta di sicurezza?"
+   },
+   "save_prompt": {
+      "message": "Finestra di salvataggio"
+   },
+   "save_prompt2": {
+      "message": "Chiedi di salvare le password"
+   },
+   "scanning_for_key": {
+      "message": "Ricerca chiavi di sicurezza in corso..."
+   },
+   "screen_capture": {
+      "message": "Cattura di istantanea dello schermo"
+   },
+   "secret1_header": {
+      "message": "Dati di accesso"
+   },
+   "secret2_header": {
+      "message": "Password"
+   },
+   "secret_key": {
+      "message": "Codice segreto"
+   },
+   "secured_note": {
+      "message": "Nota protetta"
+   },
+   "security_key_generic_error": {
+      "message": "Si è verificato un problema con la chiave di sicurezza. Riprovare."
+   },
+   "security_key_not_associated": {
+      "message": "Per accedere con questa chiave di sicurezza, è necessario prima registrarla associandola al proprio account."
+   },
+   "security_key_timeout": {
+      "message": "Impossibile trovare la chiave di sicurezza. Riprovare."
+   },
+   "security_two_factor_title": {
+      "message": "Autenticazione a due fattori"
+   },
+   "security_twofactor_3": {
+      "message": "Autenticati"
+   },
+   "see_data": {
+      "message": "Guardate quali dati verranno inviati."
+   },
+   "select_an_issue": {
+      "message": "Seleziona un problema"
+   },
+   "send_keeper_push": {
+      "message": "Invia notifica push di Keeper"
+   },
+   "sending_pause": {
+      "message": "Invio in corso..."
+   },
+   "server_connection_timeout_try_later": {
+      "message": "Tempo scaduto per la connessione al server. Riprova più tardi."
+   },
+   "set_as_primary_website": {
+      "message": "Imposta come sito web primario"
+   },
+   "set_to_default": {
+      "message": "Ripristina predefiniti"
+   },
+   "set_up_biometric_login": {
+      "message": "Configura l'accesso biometrico"
+   },
+   "setup": {
+      "message": "Configurazione"
+   },
+   "setup_record_url": {
+      "message": "Inserisci l'indirizzo del sito Web"
+   },
+   "sf_records": {
+      "message": "Voci"
+   },
+   "share_snapshot": {
+      "message": "Condividi istantanea"
+   },
+   "share_snapshot_desc": {
+      "message": "Dopo aver verificato che l'istantanea non contenga informazioni riservate, usa il pulsante Condividi istantanea per inviare le informazioni al team di miglioramento della compilazione automatica di Keeper."
+   },
+   "short_record_removed_ressage": {
+      "message": "Questa voce verrà rimossa dalla tua cassetta di sicurezza."
+   },
+   "short_shared_record_removed_message": {
+      "message": "Questa voce verrà rimossa dalle cartelle condivise. I membri di queste cartelle condivise non potranno più accedere."
+   },
+   "show_addresses": {
+      "message": "Mostra indirizzi"
+   },
+   "show_all_passkeys": {
+      "message": "Mostra tutte le chiavi di accesso"
+   },
+   "show_always": {
+      "message": "Mostra sempre"
+   },
+   "show_idb_storage": {
+      "message": "Mostra archiviazione IDB"
+   },
+   "show_less": {
+      "message": "Mostra di meno"
+   },
+   "show_local_storage": {
+      "message": "Mostra archiviazione locale"
+   },
+   "show_locks": {
+      "message": "Mostra lucchetti"
+   },
+   "show_more": {
+      "message": "Mostra di più"
+   },
+   "show_on_hover": {
+      "message": "Mostra solo al passaggio del mouse"
+   },
+   "show_payment_cards": {
+      "message": "Mostra carte di pagamento"
+   },
+   "show_snapshot_tool": {
+      "message": "Mostra Strumento istantanee"
+   },
+   "showhide": {
+      "message": "Mostra/Nascondi"
+   },
+   "sidebar_shortcut_favorites": {
+      "message": "Preferiti"
+   },
+   "sign_in": {
+      "message": "Accedi"
+   },
+   "single_click_filling_no_iframe": {
+      "message": "Per ragioni di sicurezza, la compilazione con clic singolo non è supportata su questo sito (iFrame interdominio). Contatta il servizio di assistenza di Keeper."
+   },
+   "slide_in": {
+      "message": "Slide in"
+   },
+   "snapshot_shared": {
+      "message": "Istantanea condivisa"
+   },
+   "snapshot_tool": {
+      "message": "Strumento per istantanee"
+   },
+   "snapshot_tool_disabled": {
+      "message": "Strumento istantanee disabilitato"
+   },
+   "snapshot_tool_enabled": {
+      "message": "Strumento istantanee abilitato"
+   },
+   "something_went_wrong": {
+      "message": "Si è verificato un errore"
+   },
+   "something_went_wrong_caps": {
+      "message": "Si è verificato un problema"
+   },
+   "sso_enterprise_domain": {
+      "message": "Dominio enterprise"
+   },
+   "state": {
+      "message": "Stato"
+   },
+   "state_province": {
+      "message": "Stato/Provincia"
+   },
+   "stay_logged_in": {
+      "message": "Rimani connesso"
+   },
+   "stay_logged_in_desc2": {
+      "message": "Attiva per rimanere connesso quando chiudi e riapri Keeper o riavvii il dispositivo. Esclude le disconnessioni effettuate manualmente o con il timer di disconnessione per inattività."
+   },
+   "stf_SSID": {
+      "message": "Nome di rete (SSID)"
+   },
+   "stf_alternativeIPs": {
+      "message": "IP alternativi"
+   },
+   "stf_cardholderName": {
+      "message": "Nome dell'intestatario della carta"
+   },
+   "stf_company": {
+      "message": "Azienda"
+   },
+   "stf_databaseId": {
+      "message": "ID database"
+   },
+   "stf_dateActive": {
+      "message": "Data attivazione"
+   },
+   "stf_dateIssued": {
+      "message": "Data emissione"
+   },
+   "stf_directoryId": {
+      "message": "ID directory"
+   },
+   "stf_dlNumber": {
+      "message": "Numero di patente di guida"
+   },
+   "stf_domainName": {
+      "message": "Nome del dominio"
+   },
+   "stf_identificationNumber": {
+      "message": "Numero di identificazione"
+   },
+   "stf_identityNumber": {
+      "message": "Numero di identificazione"
+   },
+   "stf_insuredsName": {
+      "message": "Nome dell'assicurato"
+   },
+   "stf_passphrase": {
+      "message": "Frase d'accesso"
+   },
+   "stf_passportNumber": {
+      "message": "Numero di passaporto"
+   },
+   "stf_ssnNumber": {
+      "message": "Codice fiscale"
+   },
+   "stf_type": {
+      "message": "Tipo"
+   },
+   "street_address_one": {
+      "message": "Indirizzo - riga 1"
+   },
+   "street_address_two": {
+      "message": "Indirizzo - riga 2"
+   },
+   "submit_button": {
+      "message": "Pulsante di invio"
+   },
+   "suggest_recs_count": {
+      "message": "XXX voci suggerite"
+   },
+   "sync_data": {
+      "message": "Sincronizza dati"
+   },
+   "take_a_screenshot": {
+      "message": "Acquisisci schermata"
+   },
+   "take_snapshot": {
+      "message": "Scatta istantanea"
+   },
+   "take_snapshot_desc": {
+      "message": "Scatta un'istantanea di questa pagina Web da condividere con il team di miglioramento della compilazione automatica di Keeper."
+   },
+   "tap_to_fill": {
+      "message": "Tocca per riempire"
+   },
+   "tell_us_what_went_wrong": {
+      "message": "Dicci cosa è andato storto"
+   },
+   "terms": {
+      "message": "Termini e condizioni"
+   },
+   "text_sent": {
+      "message": "Il messaggio di testo è già stato inviato, attendi."
+   },
+   "time_ago_1_month": {
+      "message": "1 mese fa"
+   },
+   "time_ago_1_week": {
+      "message": "1 settimana fa"
+   },
+   "time_ago_1_year": {
+      "message": "1 anno fa"
+   },
+   "time_ago_months": {
+      "message": "XXX mesi fa"
+   },
+   "time_ago_weeks": {
+      "message": "XXX settimane fa"
+   },
+   "time_ago_years": {
+      "message": "XXX anni fa"
+   },
+   "title_address_title_placeholder": {
+      "message": "Titolo (es. Casa, Ufficio)"
+   },
+   "title_header": {
+      "message": "Titolo"
+   },
+   "today": {
+      "message": "Oggi"
+   },
+   "top_left": {
+      "message": "In alto a sinistra"
+   },
+   "top_right": {
+      "message": "In alto a destra"
+   },
+   "totp_code_does_not_autofill": {
+      "message": "Il codice TOTP non si compila automaticamente"
+   },
+   "tour_continue": {
+      "message": "Continua"
+   },
+   "try_again": {
+      "message": "Riprova"
+   },
+   "try_another_method": {
+      "message": "Prova un altro metodo"
+   },
+   "tunnel_port": {
+      "message": "Porta del tunnel"
+   },
+   "turn_off_verify_fill_mode": {
+      "message": "Disattiva modalità di verifica compilazione"
+   },
+   "turn_on_anyway": {
+      "message": "Attiva comunque"
+   },
+   "turn_on_verify_fill_mode": {
+      "message": "Attiva la modalità di verifica del riempimento"
+   },
+   "two_fac_req": {
+      "message": "Requisito per metodo a due fattori"
+   },
+   "two_fact_rsa_success": {
+      "message": "Autenticazione riuscita"
+   },
+   "two_factor_channel_google": {
+      "message": "Inserisci il codice nell'app Authenticator."
+   },
+   "two_factor_channel_push": {
+      "message": "Inserire il codice di verifica sul dispositivo con DNA."
+   },
+   "two_factor_channel_rsa": {
+      "message": "Inserisci il tuo codice d'accesso RSA."
+   },
+   "two_factor_channel_sms": {
+      "message": "Il codice ti è stato inviato via SMS."
+   },
+   "two_factor_code": {
+      "message": "Codice a due fattori"
+   },
+   "two_factor_code_duration": {
+      "message": "Durata codice per autenticazione a due fattori"
+   },
+   "two_factor_frequency_explanation": {
+      "message": "Scegli la frequenza con cui ti viene richiesto di accedere a questo dispositivo con il metodo di autenticazione a due fattori che hai selezionato."
+   },
+   "two_factor_generic_code_prompt": {
+      "message": "Inserisci il codice del metodo a due fattori."
+   },
+   "two_factor_invalid_totp": {
+      "message": "Il codice dell'2FA inserito non è valido oppure è scaduto."
+   },
+   "two_factor_method_title": {
+      "message": "Metodo a due fattori"
+   },
+   "two_factor_need_totp": {
+      "message": "Inserisci il tuo codice"
+   },
+   "two_factor_required": {
+      "message": "L'autenticazione a due fattori è richiesta dall'amministratore di Keeper."
+   },
+   "two_factor_send_new_code": {
+      "message": "Invia un nuovo codice"
+   },
+   "type_title": {
+      "message": "Tipo"
+   },
+   "u2f_login_instruction": {
+      "message": "Inserire la chiave di sicurezza nella porta USB. Toccare il pulsante o il cerchio dorato della chiave, se presente."
+   },
+   "unable_to_generate": {
+      "message": "Impossibile generare"
+   },
+   "unable_to_save": {
+      "message": "Impossibile salvare"
+   },
+   "unexpected_error": {
+      "message": "Si è verificato un errore imprevisto. Riavvia il dispositivo e, se il problema persiste, consulta la pagina web keepersecurity.com/support."
+   },
+   "unexpected_error_with_code": {
+      "message": "Si è verificato un errore imprevisto. Riavvia il dispositivo e, se il problema persiste, consulta la pagina web keepersecurity.com/support.  (Codice errore XXX)."
+   },
+   "update_existing_passkey": {
+      "message": "Aggiorna chiave d'accesso esistente"
+   },
+   "update_passkey": {
+      "message": "Aggiorna chiave d'accesso"
+   },
+   "update_xxx": {
+      "message": "Aggiorna XXX"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "use_another_method": {
+      "message": "Usa un altro metodo"
+   },
+   "use_as_default_settings": {
+      "message": "Usa come impostazioni predefinite"
+   },
+   "use_backup_2fa": {
+      "message": "Usa metodo di autenticazione a due fattori di backup"
+   },
+   "use_passkey": {
+      "message": "Utilizza chiave d'accesso"
+   },
+   "use_passphrase": {
+      "message": "Usa frase d'accesso"
+   },
+   "use_password": {
+      "message": "Usa password"
+   },
+   "use_pin_code": {
+      "message": "Usa codice PIN"
+   },
+   "use_two_factor_method": {
+      "message": "Usa metodo a due fattori"
+   },
+   "username_and_password_do_not_autofill": {
+      "message": "Nome utente e password non si compilano automaticamente"
+   },
+   "username_does_not_autofill": {
+      "message": "Il nome utente non si compila automaticamente"
+   },
+   "vault_login": {
+      "message": "Accesso alla Cassetta di sicurezza"
+   },
+   "verification_code": {
+      "message": "Codice di verifica"
+   },
+   "verification_code_text": {
+      "message": "Codice di verifica"
+   },
+   "verified_fill_mode_off": {
+      "message": "Modalità di verifica compilazione disattivata"
+   },
+   "verified_fill_mode_on": {
+      "message": "Modalità di verifica compilazione attivata"
+   },
+   "verify": {
+      "message": "Verifica"
+   },
+   "verify_fill_mode_warning": {
+      "message": "La Modalità di verifica compilazione ti chiederà di confermare ogni volta prima che venga attivato il riempimento automatico. Questa protezione aggiuntiva può interrompere il tuo flusso di lavoro e risultare fastidiosa sui siti che usi più spesso."
+   },
+   "view_all_methods": {
+      "message": "Visualizza tutti i metodi"
+   },
+   "view_contents": {
+      "message": "Visualizza sommario"
+   },
+   "view_gen_history": {
+      "message": "Visualizza la cronologia del generatore"
+   },
+   "view_password": {
+      "message": "Visualizza password"
+   },
+   "view_password_restriction": {
+      "message": "La visualizzazione di questa password è stata limitata dall'amministratore di Keeper."
+   },
+   "view_qr_code": {
+      "message": "Visualizza codice QR"
+   },
+   "view_record_in_vault": {
+      "message": "Voce salvata. Visualizzarla?"
+   },
+   "waiting": {
+      "message": "In attesa..."
+   },
+   "warning_alert": {
+      "message": "Avviso"
+   },
+   "was_change_successful": {
+      "message": "La modifica è andata a buon fine?"
+   },
+   "website_days": {
+      "message": "Giorni"
+   },
+   "website_hours": {
+      "message": "Ore"
+   },
+   "website_partners_64": {
+      "message": "Prefisso del paese"
+   },
+   "website_success": {
+      "message": "Successo!"
+   },
+   "website_support_22": {
+      "message": "Cassetta Web"
+   },
+   "website_support_rev_02": {
+      "message": "Serve aiuto?"
+   },
+   "website_support_rev_32": {
+      "message": "Codici per 2FA"
+   },
+   "word_count": {
+      "message": "XXX parole"
+   },
+   "xxx_numbers": {
+      "message": "XXX numeri"
+   },
+   "year": {
+      "message": "Anno"
+   },
+   "yesterday": {
+      "message": "Ieri"
+   },
+   "your_request_timed_out": {
+      "message": "Timeout della richiesta"
+   },
+   "zip_postal_code": {
+      "message": "CAP"
+   }
+}

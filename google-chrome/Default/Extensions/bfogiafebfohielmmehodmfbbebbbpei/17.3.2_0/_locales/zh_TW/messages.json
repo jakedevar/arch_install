@@ -1,0 +1,3929 @@
+{
+   "508_record_menu": {
+      "message": "記錄選項選單"
+   },
+   "About": {
+      "message": "關於"
+   },
+   "Accept": {
+      "message": "接受"
+   },
+   "Account": {
+      "message": "帳戶"
+   },
+   "Action_delete": {
+      "message": "刪除"
+   },
+   "Action_edit": {
+      "message": "編輯"
+   },
+   "Add_Account": {
+      "message": "新增帳戶"
+   },
+   "Add_to_Existing": {
+      "message": "添加至現有記錄"
+   },
+   "Addresses": {
+      "message": "地址"
+   },
+   "AllRecords": {
+      "message": "所有記錄"
+   },
+   "Appearance": {
+      "message": "外觀"
+   },
+   "AutoFill": {
+      "message": "自動填寫"
+   },
+   "Back": {
+      "message": "返回"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "ChatAuthenticationRequired": {
+      "message": "您必須通過身分認證"
+   },
+   "ChatEnterCode": {
+      "message": "請輸入代碼"
+   },
+   "ChatSaveCodeForever": {
+      "message": "在這台裝置上不要再問"
+   },
+   "Close": {
+      "message": "關閉"
+   },
+   "Continue": {
+      "message": "繼續"
+   },
+   "Copy": {
+      "message": "複製"
+   },
+   "CreateNew": {
+      "message": "建立"
+   },
+   "Data_Vault": {
+      "message": "數據庫"
+   },
+   "Delete": {
+      "message": "刪除"
+   },
+   "Disable": {
+      "message": "停止連線"
+   },
+   "Dont_show_again": {
+      "message": "以後不要顯示。"
+   },
+   "Edit": {
+      "message": "編輯"
+   },
+   "Edit_Record": {
+      "message": "編輯記錄"
+   },
+   "Email": {
+      "message": "電子郵件"
+   },
+   "Email_Address": {
+      "message": "電子郵件"
+   },
+   "Email_not_valid": {
+      "message": "電子郵件地址無效"
+   },
+   "Enable": {
+      "message": "啟動"
+   },
+   "Enter_master_password": {
+      "message": "輸入主密碼"
+   },
+   "Error": {
+      "message": "錯誤"
+   },
+   "Exit": {
+      "message": "登出"
+   },
+   "Fill": {
+      "message": "填寫"
+   },
+   "Fill_Password": {
+      "message": "填入密碼"
+   },
+   "Fill_and_Save_Caps": {
+      "message": "填寫和保存"
+   },
+   "Fill_and_save": {
+      "message": "填寫和保存"
+   },
+   "FolderName": {
+      "message": "資料夾名稱"
+   },
+   "Generate_passphrase": {
+      "message": "生成密碼片語"
+   },
+   "Generate_password": {
+      "message": "產生密碼"
+   },
+   "Help": {
+      "message": "幫助"
+   },
+   "Hide": {
+      "message": "隱藏"
+   },
+   "History": {
+      "message": "記錄"
+   },
+   "InvalidEmailOrPassword": {
+      "message": "無效的電子郵件地址或密碼，請重新輸入。"
+   },
+   "KeeperAskLoginIntervalQuestion": {
+      "message": "自動登出 Keeper。還剩下："
+   },
+   "KeeperProfile_new": {
+      "message": "建立帳戶"
+   },
+   "Launch": {
+      "message": "啟動"
+   },
+   "Login": {
+      "message": "登入"
+   },
+   "Login_Link": {
+      "message": "登入地址"
+   },
+   "Logout": {
+      "message": "登出"
+   },
+   "LogoutOfKeeper": {
+      "message": "登出Keeper"
+   },
+   "LogoutTimer": {
+      "message": "登出計時器"
+   },
+   "Menu_options": {
+      "message": "選項"
+   },
+   "Minutes": {
+      "message": "分鐘"
+   },
+   "Network_error": {
+      "message": "無法連線。請檢查您的網路連線狀態。"
+   },
+   "New_Record": {
+      "message": "新記錄"
+   },
+   "Next": {
+      "message": "下一步"
+   },
+   "No": {
+      "message": "不"
+   },
+   "Number": {
+      "message": "編號"
+   },
+   "OK": {
+      "message": "確定"
+   },
+   "Okay": {
+      "message": "好"
+   },
+   "Options": {
+      "message": "選項"
+   },
+   "PasswordGenerator": {
+      "message": "密碼產生器"
+   },
+   "Passwords": {
+      "message": "密碼"
+   },
+   "Please_fill_out_restore_fields_code": {
+      "message": "請輸入傳送到您的電子郵件的驗證碼。"
+   },
+   "QuickStartGuide": {
+      "message": "快速入門指南"
+   },
+   "Remove": {
+      "message": "消除"
+   },
+   "Require_every_12_hours": {
+      "message": "要求每 12 小時一次雙重驗證"
+   },
+   "Require_every_24_hours": {
+      "message": "要求每 24 小時一次雙重驗證"
+   },
+   "Require_every_30_days": {
+      "message": "要求每 30 天一次雙重驗證"
+   },
+   "Require_every_login": {
+      "message": "要求每次登入時雙重驗證"
+   },
+   "SSO_connection_failure": {
+      "message": "無法與 SSO 系統連線。請稍後再試一次。"
+   },
+   "Save": {
+      "message": "保存"
+   },
+   "Save_code__forever": {
+      "message": "在這台裝置上不要再問"
+   },
+   "Save_passphrase": {
+      "message": "儲存長密碼"
+   },
+   "Save_password": {
+      "message": "保存密碼"
+   },
+   "Search": {
+      "message": "搜尋"
+   },
+   "SearchKeeper": {
+      "message": "搜尋Keeper"
+   },
+   "SendEmail": {
+      "message": "傳送電子郵件"
+   },
+   "Separator": {
+      "message": "分隔符號"
+   },
+   "Settings": {
+      "message": "設定"
+   },
+   "Share": {
+      "message": "共享"
+   },
+   "Show": {
+      "message": "顯示"
+   },
+   "Success": {
+      "message": "成功"
+   },
+   "Theme": {
+      "message": "主題"
+   },
+   "ThemeColorAluminum": {
+      "message": "灰色"
+   },
+   "ThemeColorBlueGreen": {
+      "message": "Overpass 藍色"
+   },
+   "ThemeColorBurgundy": {
+      "message": "酒紅"
+   },
+   "ThemeColorClassic": {
+      "message": "傳統"
+   },
+   "ThemeColorDeepOcean": {
+      "message": "深海"
+   },
+   "ThemeColorFlame": {
+      "message": "火焰"
+   },
+   "ThemeColorGlam": {
+      "message": "鮮豔"
+   },
+   "ThemeColorGreen": {
+      "message": "綠色"
+   },
+   "ThemeColorPhoenix": {
+      "message": "鳳凰"
+   },
+   "ThemeColorRedBlue": {
+      "message": "紅與黑"
+   },
+   "Themes": {
+      "message": "主題"
+   },
+   "Title_required": {
+      "message": "標題是必須的。"
+   },
+   "Uppercase": {
+      "message": "大寫"
+   },
+   "Username": {
+      "message": "用戶名稱"
+   },
+   "VaultLoginTerms": {
+      "message": "使用 Keeper 即代表您同意遵守我們的\u003Ca class=\"highlight\" href=\"https://keepersecurity.com/zh_TW/termsofuse.html\" target=\"_blank\" rel=\"noopener noreferrer\">使用條款\u003C/a>。"
+   },
+   "Version": {
+      "message": "版本"
+   },
+   "View": {
+      "message": "瀏覽"
+   },
+   "Yes": {
+      "message": "是"
+   },
+   "access_denied": {
+      "message": "您沒有執行這項作業的必要權限。"
+   },
+   "access_denied_v3": {
+      "message": "拒絕存取"
+   },
+   "account_deletion_confirmation": {
+      "message": "刪除帳號"
+   },
+   "account_locked": {
+      "message": "This account has been locked. Please contact your Keeper Administrator for assistance."
+   },
+   "account_transfer_popup_message": {
+      "message": "Keeper 保管庫啟用了「帳戶轉移」策略，該策略允許指定的 Keeper 管理員角色根據組織的作業程序和政策，在未來某個日期轉移保管庫記錄。請按一下「接受」以確認此政策。"
+   },
+   "action_collapse": {
+      "message": "收合"
+   },
+   "action_expand": {
+      "message": "展開"
+   },
+   "action_select": {
+      "message": "選擇"
+   },
+   "add_address": {
+      "message": "加入地址"
+   },
+   "add_login": {
+      "message": "加入登入資料"
+   },
+   "add_passkey": {
+      "message": "新增通行金鑰"
+   },
+   "add_passkey_to_login": {
+      "message": "新增通行金鑰來登入"
+   },
+   "add_payment_card": {
+      "message": "加入支付卡"
+   },
+   "add_to_favs": {
+      "message": "加到喜好項目"
+   },
+   "add_website_address": {
+      "message": "新增網站地址"
+   },
+   "address_field": {
+      "message": "Address Field"
+   },
+   "address_saved": {
+      "message": "地址儲存完成！"
+   },
+   "address_updated": {
+      "message": "已更新地址！"
+   },
+   "adjusted": {
+      "message": "adjusted"
+   },
+   "admin_qsg_297": {
+      "message": "Two-Factor Authentication"
+   },
+   "admin_reauthenticate": {
+      "message": "管理者規定您必須重新認證才能繼續使用。"
+   },
+   "advanced_settings": {
+      "message": "高級設定"
+   },
+   "all_categories": {
+      "message": "所有類別"
+   },
+   "all_storage_cleared": {
+      "message": "已清除所有儲存空間"
+   },
+   "always_show": {
+      "message": "永遠顯示"
+   },
+   "animation": {
+      "message": "動畫"
+   },
+   "approve_this_device_by_method_below": {
+      "message": "請在下方選擇可核准使用這台裝置的方法："
+   },
+   "approved": {
+      "message": "已核准"
+   },
+   "are_you_sure": {
+      "message": "您確定嗎？"
+   },
+   "are_you_sure_title": {
+      "message": "確定嗎？"
+   },
+   "artwork_appname": {
+      "message": "Keeper® 密碼管理器 & 電子數據庫"
+   },
+   "artwork_appname_safari": {
+      "message": "Keeper® 密碼管理器 & 電子數據庫"
+   },
+   "auto_logout_extension_help": {
+      "message": "自動登出計時器設定是由 Keeper 瀏覽器延伸功能管理。"
+   },
+   "auto_submit": {
+      "message": "自動送出"
+   },
+   "auto_submit_desc": {
+      "message": "自動填寫登入資料後，Keeper 會自動送出網站表單並登入網站。"
+   },
+   "auto_submit_desc3": {
+      "message": "控制一旦輸入使用者名稱和密碼後是否自動提交表單。"
+   },
+   "auto_submit_desc_2": {
+      "message": "Keeper 在自動填入您的使用者名稱和密碼之後，會自動提交表單並登入網站。"
+   },
+   "autofill2_": {
+      "message": "頁面重新整理時自動填入"
+   },
+   "autofill_cleared": {
+      "message": "已清除自動填寫欄位修改內容！"
+   },
+   "autofill_desc_2": {
+      "message": "對於已啟用在頁面載入時自動填入的記錄，在頁面載入時自動填入之前詢問。"
+   },
+   "autofill_fill_http": {
+      "message": "Keeper 偵測到這個網域（XXX）使用不安全的 HTTP 連線，在網路上送出的資訊不會經過加密，可能洩密。按一下「好」可填入憑證，按一下「取消」可結束。"
+   },
+   "autofill_fills_wrong_field": {
+      "message": "自動填寫填寫了錯誤欄位"
+   },
+   "autofill_issue_notes_label": {
+      "message": "請新增更多詳細資訊，以協助我們了解問題。"
+   },
+   "autofill_issue_notes_label_optional": {
+      "message": "請新增更多詳細資訊，以協助我們了解問題。（選填）"
+   },
+   "autofill_issue_notes_placeholder": {
+      "message": "範例：跳過密碼欄位"
+   },
+   "autofill_issue_reported": {
+      "message": "已報告自動填寫問題"
+   },
+   "autofill_issues_message": {
+      "message": "Autofill issues can be fixed by right clicking into the field to fix the issue"
+   },
+   "autofill_only_fills_part_of_the_field": {
+      "message": "自動填寫僅會填寫部分欄位"
+   },
+   "autofill_prompt_desc": {
+      "message": "當造訪您至少有一筆記錄的網站時取得自動填滿的提示。"
+   },
+   "autofill_restored": {
+      "message": "已回復自動填寫設定！"
+   },
+   "autofill_suggest": {
+      "message": "自動填寫建議"
+   },
+   "autofill_suggestions": {
+      "message": "自動填寫建議"
+   },
+   "autofill_suggestions_desc": {
+      "message": "在建立或註冊新的登入帳號密碼時，提供儲存在  Keeper 裡的電子郵件位址和安全密碼建議。"
+   },
+   "autofill_title_2": {
+      "message": "自動填入提示"
+   },
+   "autosubmit2": {
+      "message": "在自動填入之後自動提交"
+   },
+   "back_to_login": {
+      "message": "返回「登入」"
+   },
+   "bad_client_time": {
+      "message": "請檢查您裝置上的時間和日期設定。"
+   },
+   "be_header_store_text": {
+      "message": "產生安全性極高的密碼，還能自動填寫資料，並以 Zero-Knowledge 加密技術保護您的機密資訊。"
+   },
+   "be_header_store_text_safari": {
+      "message": "產生安全性極高的密碼，還能自動填寫資料，並以 Zero-Knowledge 加密技術保護您的機密資訊。"
+   },
+   "be_install_title": {
+      "message": "新增 Keeper 到您的瀏覽器"
+   },
+   "be_security_keys_not_supported_desc": {
+      "message": "SSO Connect On-Prem 不支援安全金鑰。請使用 Web 保險箱來登入。"
+   },
+   "be_updated_error": {
+      "message": "更新完成。請重新啟動瀏覽器。"
+   },
+   "billing_address": {
+      "message": "帳單地址"
+   },
+   "biometric_login": {
+      "message": "生物辨識登入"
+   },
+   "biometric_login_disabled": {
+      "message": "已停用生物辨識登入"
+   },
+   "biometric_login_enabled": {
+      "message": "已啟用生物辨識登入"
+   },
+   "bottom_left": {
+      "message": "左下角"
+   },
+   "bottom_right": {
+      "message": "右下角"
+   },
+   "buy_city": {
+      "message": "城市"
+   },
+   "buy_country_title": {
+      "message": "國家"
+   },
+   "buy_security_code_placeholder": {
+      "message": "安全碼"
+   },
+   "buy_state": {
+      "message": "州"
+   },
+   "call_sent": {
+      "message": "我們正在打電話給您，請稍候"
+   },
+   "card_number": {
+      "message": "卡號"
+   },
+   "cardname_ending_in_cardnumber": {
+      "message": "尾碼是 YYY 的XXX"
+   },
+   "cardnumber_required": {
+      "message": "您必須提供卡號。"
+   },
+   "ccc_AD": {
+      "message": "安道爾"
+   },
+   "ccc_AE": {
+      "message": "阿拉伯聯合大公國"
+   },
+   "ccc_AF": {
+      "message": "阿富汗"
+   },
+   "ccc_AG": {
+      "message": "安地卡及巴布達"
+   },
+   "ccc_AI": {
+      "message": "安圭拉"
+   },
+   "ccc_AL": {
+      "message": "阿爾巴尼亞"
+   },
+   "ccc_AM": {
+      "message": "亞美尼亞"
+   },
+   "ccc_AN": {
+      "message": "荷屬安地列斯"
+   },
+   "ccc_AO": {
+      "message": "安哥拉"
+   },
+   "ccc_AR": {
+      "message": "阿根廷"
+   },
+   "ccc_AS": {
+      "message": "美屬薩摩亞 (美國屬地)"
+   },
+   "ccc_AT": {
+      "message": "奧地利"
+   },
+   "ccc_AU": {
+      "message": "澳洲"
+   },
+   "ccc_AW": {
+      "message": "阿魯巴"
+   },
+   "ccc_AZ": {
+      "message": "亞塞拜然"
+   },
+   "ccc_BA": {
+      "message": "波士尼亞赫塞哥維納"
+   },
+   "ccc_BB": {
+      "message": "巴貝多"
+   },
+   "ccc_BD": {
+      "message": "孟加拉"
+   },
+   "ccc_BE": {
+      "message": "比利時"
+   },
+   "ccc_BF": {
+      "message": "布吉納法索"
+   },
+   "ccc_BG": {
+      "message": "保加利亞"
+   },
+   "ccc_BH": {
+      "message": "巴林"
+   },
+   "ccc_BI": {
+      "message": "浦隆地"
+   },
+   "ccc_BJ": {
+      "message": "貝南"
+   },
+   "ccc_BM": {
+      "message": "百慕達"
+   },
+   "ccc_BN": {
+      "message": "汶萊達魯薩蘭國"
+   },
+   "ccc_BO": {
+      "message": "玻利維亞"
+   },
+   "ccc_BR": {
+      "message": "巴西"
+   },
+   "ccc_BS": {
+      "message": "巴哈馬"
+   },
+   "ccc_BT": {
+      "message": "不丹"
+   },
+   "ccc_BW": {
+      "message": "波札那"
+   },
+   "ccc_BY": {
+      "message": "白俄羅斯"
+   },
+   "ccc_BZ": {
+      "message": "貝里斯"
+   },
+   "ccc_CA": {
+      "message": "加拿大"
+   },
+   "ccc_CC": {
+      "message": "可可斯群島 (澳洲)"
+   },
+   "ccc_CD": {
+      "message": "剛果民主共和國"
+   },
+   "ccc_CF": {
+      "message": "中非共和國"
+   },
+   "ccc_CG": {
+      "message": "剛果共和國"
+   },
+   "ccc_CH": {
+      "message": "瑞士"
+   },
+   "ccc_CI": {
+      "message": "象牙海岸"
+   },
+   "ccc_CK": {
+      "message": "庫克群島 (紐西蘭)"
+   },
+   "ccc_CL": {
+      "message": "智利"
+   },
+   "ccc_CM": {
+      "message": "喀麥隆"
+   },
+   "ccc_CN": {
+      "message": "中國"
+   },
+   "ccc_CO": {
+      "message": "哥倫比亞"
+   },
+   "ccc_CR": {
+      "message": "哥斯大黎加"
+   },
+   "ccc_CS": {
+      "message": "塞爾維亞"
+   },
+   "ccc_CU": {
+      "message": "古巴"
+   },
+   "ccc_CV": {
+      "message": "維德角"
+   },
+   "ccc_CY": {
+      "message": "賽普勒斯"
+   },
+   "ccc_CZ": {
+      "message": "捷克"
+   },
+   "ccc_DE": {
+      "message": "德國"
+   },
+   "ccc_DJ": {
+      "message": "吉布地"
+   },
+   "ccc_DK": {
+      "message": "丹麥"
+   },
+   "ccc_DM": {
+      "message": "多明尼加"
+   },
+   "ccc_DO": {
+      "message": "多明尼加共和國"
+   },
+   "ccc_DZ": {
+      "message": "阿爾及利亞"
+   },
+   "ccc_EC": {
+      "message": "厄瓜多"
+   },
+   "ccc_EE": {
+      "message": "愛沙尼亞"
+   },
+   "ccc_EG": {
+      "message": "埃及"
+   },
+   "ccc_ER": {
+      "message": "厄利垂亞"
+   },
+   "ccc_ES": {
+      "message": "西班牙"
+   },
+   "ccc_ET": {
+      "message": "衣索比亞"
+   },
+   "ccc_FI": {
+      "message": "芬蘭"
+   },
+   "ccc_FJ": {
+      "message": "斐濟"
+   },
+   "ccc_FK": {
+      "message": "福克蘭群島"
+   },
+   "ccc_FM": {
+      "message": "密克羅尼西亞"
+   },
+   "ccc_FO": {
+      "message": "法羅群島"
+   },
+   "ccc_FR": {
+      "message": "法國"
+   },
+   "ccc_GA": {
+      "message": "加彭"
+   },
+   "ccc_GB": {
+      "message": "英國"
+   },
+   "ccc_GD": {
+      "message": "格瑞那達"
+   },
+   "ccc_GE": {
+      "message": "喬治亞"
+   },
+   "ccc_GF": {
+      "message": "法屬圭亞那"
+   },
+   "ccc_GH": {
+      "message": "迦納"
+   },
+   "ccc_GI": {
+      "message": "直布羅陀"
+   },
+   "ccc_GL": {
+      "message": "格陵蘭"
+   },
+   "ccc_GM": {
+      "message": "甘比亞"
+   },
+   "ccc_GN": {
+      "message": "幾內亞"
+   },
+   "ccc_GP": {
+      "message": "瓜德羅普"
+   },
+   "ccc_GQ": {
+      "message": "赤道幾內亞"
+   },
+   "ccc_GR": {
+      "message": "希臘"
+   },
+   "ccc_GS": {
+      "message": "南喬治亞 (福克蘭群島)"
+   },
+   "ccc_GT": {
+      "message": "瓜地馬拉"
+   },
+   "ccc_GU": {
+      "message": "關島 (美國屬地)"
+   },
+   "ccc_GW": {
+      "message": "幾內亞比索"
+   },
+   "ccc_GY": {
+      "message": "蓋亞納"
+   },
+   "ccc_HK": {
+      "message": "香港"
+   },
+   "ccc_HN": {
+      "message": "宏都拉斯"
+   },
+   "ccc_HR": {
+      "message": "克羅埃西亞"
+   },
+   "ccc_HT": {
+      "message": "海地"
+   },
+   "ccc_HU": {
+      "message": "匈牙利"
+   },
+   "ccc_ID": {
+      "message": "印尼"
+   },
+   "ccc_IE": {
+      "message": "愛爾蘭"
+   },
+   "ccc_IL": {
+      "message": "以色列"
+   },
+   "ccc_IN": {
+      "message": "印度"
+   },
+   "ccc_IQ": {
+      "message": "伊拉克"
+   },
+   "ccc_IR": {
+      "message": "伊朗"
+   },
+   "ccc_IS": {
+      "message": "冰島"
+   },
+   "ccc_IT": {
+      "message": "義大利"
+   },
+   "ccc_JM": {
+      "message": "牙買加"
+   },
+   "ccc_JO": {
+      "message": "約旦"
+   },
+   "ccc_JP": {
+      "message": "日本"
+   },
+   "ccc_KE": {
+      "message": "肯亞"
+   },
+   "ccc_KG": {
+      "message": "吉爾吉斯"
+   },
+   "ccc_KH": {
+      "message": "柬埔寨"
+   },
+   "ccc_KI": {
+      "message": "吉里巴斯"
+   },
+   "ccc_KM": {
+      "message": "科摩羅群島"
+   },
+   "ccc_KN": {
+      "message": "聖克里斯多福"
+   },
+   "ccc_KR": {
+      "message": "南韓"
+   },
+   "ccc_KW": {
+      "message": "科威特"
+   },
+   "ccc_KY": {
+      "message": "開曼群島"
+   },
+   "ccc_KZ": {
+      "message": "哈薩克"
+   },
+   "ccc_LA": {
+      "message": "寮國"
+   },
+   "ccc_LB": {
+      "message": "黎巴嫩"
+   },
+   "ccc_LC": {
+      "message": "聖露西亞"
+   },
+   "ccc_LI": {
+      "message": "列支敦斯登"
+   },
+   "ccc_LK": {
+      "message": "斯里蘭卡"
+   },
+   "ccc_LR": {
+      "message": "賴比瑞亞"
+   },
+   "ccc_LS": {
+      "message": "賴索托"
+   },
+   "ccc_LT": {
+      "message": "立陶宛"
+   },
+   "ccc_LU": {
+      "message": "盧森堡"
+   },
+   "ccc_LV": {
+      "message": "拉脫維亞"
+   },
+   "ccc_MA": {
+      "message": "摩洛哥"
+   },
+   "ccc_MC": {
+      "message": "摩納哥 (法國)"
+   },
+   "ccc_MD": {
+      "message": "摩爾多瓦"
+   },
+   "ccc_MG": {
+      "message": "馬達加斯加"
+   },
+   "ccc_MH": {
+      "message": "馬紹爾群島"
+   },
+   "ccc_MK": {
+      "message": "馬其頓"
+   },
+   "ccc_ML": {
+      "message": "馬利"
+   },
+   "ccc_MM": {
+      "message": "緬甸"
+   },
+   "ccc_MN": {
+      "message": "蒙古"
+   },
+   "ccc_MO": {
+      "message": "澳門"
+   },
+   "ccc_MP": {
+      "message": "北馬里亞納群島"
+   },
+   "ccc_MQ": {
+      "message": "馬丁尼克島"
+   },
+   "ccc_MR": {
+      "message": "茅利塔尼亞"
+   },
+   "ccc_MS": {
+      "message": "蒙特色拉特島"
+   },
+   "ccc_MT": {
+      "message": "馬爾他"
+   },
+   "ccc_MU": {
+      "message": "模里西斯"
+   },
+   "ccc_MV": {
+      "message": "馬爾地夫"
+   },
+   "ccc_MW": {
+      "message": "馬拉威"
+   },
+   "ccc_MX": {
+      "message": "墨西哥"
+   },
+   "ccc_MY": {
+      "message": "馬來西亞"
+   },
+   "ccc_MZ": {
+      "message": "莫三比克"
+   },
+   "ccc_NA": {
+      "message": "納米比亞"
+   },
+   "ccc_NC": {
+      "message": "新喀里多尼亞群島"
+   },
+   "ccc_NE": {
+      "message": "尼日"
+   },
+   "ccc_NF": {
+      "message": "諾福克島 (澳洲)"
+   },
+   "ccc_NG": {
+      "message": "奈及利亞"
+   },
+   "ccc_NI": {
+      "message": "尼加拉瓜"
+   },
+   "ccc_NL": {
+      "message": "荷蘭"
+   },
+   "ccc_NO": {
+      "message": "挪威"
+   },
+   "ccc_NP": {
+      "message": "尼泊爾"
+   },
+   "ccc_NR": {
+      "message": "諾魯"
+   },
+   "ccc_NU": {
+      "message": "紐威 (紐西蘭)"
+   },
+   "ccc_NZ": {
+      "message": "紐西蘭"
+   },
+   "ccc_OM": {
+      "message": "阿曼"
+   },
+   "ccc_PA": {
+      "message": "巴拿馬"
+   },
+   "ccc_PE": {
+      "message": "秘魯"
+   },
+   "ccc_PF": {
+      "message": "法屬玻里尼西亞"
+   },
+   "ccc_PG": {
+      "message": "巴布亞紐幾內亞"
+   },
+   "ccc_PH": {
+      "message": "菲律賓"
+   },
+   "ccc_PK": {
+      "message": "巴基斯坦"
+   },
+   "ccc_PL": {
+      "message": "波蘭"
+   },
+   "ccc_PM": {
+      "message": "聖匹島"
+   },
+   "ccc_PN": {
+      "message": "皮特康島"
+   },
+   "ccc_PR": {
+      "message": "波多黎各"
+   },
+   "ccc_PT": {
+      "message": "葡萄牙"
+   },
+   "ccc_PW": {
+      "message": "帛琉"
+   },
+   "ccc_PY": {
+      "message": "巴拉圭"
+   },
+   "ccc_QA": {
+      "message": "卡達"
+   },
+   "ccc_RE": {
+      "message": "留尼旺島"
+   },
+   "ccc_RO": {
+      "message": "羅馬尼亞"
+   },
+   "ccc_RU": {
+      "message": "俄羅斯"
+   },
+   "ccc_RW": {
+      "message": "盧安達"
+   },
+   "ccc_SA": {
+      "message": "沙烏地阿拉伯"
+   },
+   "ccc_SB": {
+      "message": "索羅門群島"
+   },
+   "ccc_SC": {
+      "message": "塞席爾"
+   },
+   "ccc_SD": {
+      "message": "蘇丹"
+   },
+   "ccc_SE": {
+      "message": "瑞典"
+   },
+   "ccc_SG": {
+      "message": "新加坡"
+   },
+   "ccc_SH": {
+      "message": "聖赫勒拿島"
+   },
+   "ccc_SI": {
+      "message": "斯洛維尼亞"
+   },
+   "ccc_SK": {
+      "message": "斯洛伐克"
+   },
+   "ccc_SL": {
+      "message": "獅子山"
+   },
+   "ccc_SM": {
+      "message": "聖馬利諾"
+   },
+   "ccc_SN": {
+      "message": "塞內加爾"
+   },
+   "ccc_SO": {
+      "message": "索馬利亞"
+   },
+   "ccc_SR": {
+      "message": "蘇利南"
+   },
+   "ccc_ST": {
+      "message": "聖多美普林西比"
+   },
+   "ccc_SV": {
+      "message": "薩爾瓦多"
+   },
+   "ccc_SY": {
+      "message": "敘利亞"
+   },
+   "ccc_SZ": {
+      "message": "史瓦濟蘭"
+   },
+   "ccc_TC": {
+      "message": "英屬土克斯及開科斯群島"
+   },
+   "ccc_TD": {
+      "message": "查德"
+   },
+   "ccc_TG": {
+      "message": "多哥"
+   },
+   "ccc_TH": {
+      "message": "泰國"
+   },
+   "ccc_TJ": {
+      "message": "塔吉克"
+   },
+   "ccc_TK": {
+      "message": "托克勞聯合群島 (西薩摩亞)"
+   },
+   "ccc_TL": {
+      "message": "帝汶 (印尼)"
+   },
+   "ccc_TM": {
+      "message": "土庫曼"
+   },
+   "ccc_TN": {
+      "message": "突尼西亞"
+   },
+   "ccc_TO": {
+      "message": "東加"
+   },
+   "ccc_TR": {
+      "message": "土耳其"
+   },
+   "ccc_TT": {
+      "message": "千里達"
+   },
+   "ccc_TV": {
+      "message": "吐瓦魯"
+   },
+   "ccc_TW": {
+      "message": "台灣"
+   },
+   "ccc_TZ": {
+      "message": "坦尚尼亞"
+   },
+   "ccc_UA": {
+      "message": "烏克蘭"
+   },
+   "ccc_UG": {
+      "message": "烏干達"
+   },
+   "ccc_UM": {
+      "message": "美國邊疆群島"
+   },
+   "ccc_US": {
+      "message": "美國"
+   },
+   "ccc_UY": {
+      "message": "烏拉圭"
+   },
+   "ccc_UZ": {
+      "message": "烏茲別克"
+   },
+   "ccc_VA": {
+      "message": "梵蒂岡"
+   },
+   "ccc_VC": {
+      "message": "聖文森"
+   },
+   "ccc_VE": {
+      "message": "委內瑞拉"
+   },
+   "ccc_VG": {
+      "message": "英屬維京群島"
+   },
+   "ccc_VI": {
+      "message": "美屬維京群島"
+   },
+   "ccc_VN": {
+      "message": "越南"
+   },
+   "ccc_VU": {
+      "message": "萬那杜"
+   },
+   "ccc_WF": {
+      "message": "瓦利斯及富圖納群島"
+   },
+   "ccc_WS": {
+      "message": "美屬薩摩亞 (美國屬地)"
+   },
+   "ccc_YE": {
+      "message": "葉門"
+   },
+   "ccc_YT": {
+      "message": "馬約特島 (法國)"
+   },
+   "ccc_ZA": {
+      "message": "南非"
+   },
+   "ccc_ZM": {
+      "message": "尚比亞"
+   },
+   "ccc_ZW": {
+      "message": "辛巴威"
+   },
+   "change_password": {
+      "message": "更改密碼"
+   },
+   "change_password_complete": {
+      "message": "保險箱中的密碼變更完成。請在網站上送出變更。"
+   },
+   "change_pw_prompt": {
+      "message": "更改密碼提示"
+   },
+   "change_pw_prompt_desc": {
+      "message": "取得提供變更密碼協助的提示。"
+   },
+   "change_your_password": {
+      "message": "您想變更和儲存密碼嗎？"
+   },
+   "change_your_password2": {
+      "message": "想不想讓 Keeper 幫您變更密碼？"
+   },
+   "character_count": {
+      "message": "XXX 個字元"
+   },
+   "character_length": {
+      "message": "字符長度： XXX"
+   },
+   "check_spam_folder_reminder": {
+      "message": "請檢查垃圾郵件檔案夾，看看是不是有 keepersecurity.com 寄來的電子郵件。您可以將 keepersecurity.com 加入安全名單。"
+   },
+   "city": {
+      "message": "City"
+   },
+   "clear_all_storage": {
+      "message": "清除所有儲存空間"
+   },
+   "clear_field_fixes_for_this_site": {
+      "message": "Clear Field Fixes For This Site"
+   },
+   "clear_generatory_history": {
+      "message": "清除密碼產生器歷史紀錄"
+   },
+   "clear_hist": {
+      "message": "清除紀錄"
+   },
+   "clear_hist_warning": {
+      "message": "您即將要永久清除密碼產生器的記錄。"
+   },
+   "clear_idb_storage": {
+      "message": "清除 IndexedDB 存儲空間"
+   },
+   "clear_local_storage": {
+      "message": "清除本地存儲空間"
+   },
+   "clear_search": {
+      "message": "清除搜尋文字"
+   },
+   "click_to_fill": {
+      "message": "按一下即可填入"
+   },
+   "clipboard_expiration": {
+      "message": "剪貼板到期"
+   },
+   "clipboard_expiration_description": {
+      "message": "從瀏覽器擴充功能複製任何值後，系統會自動清除您的剪貼簿。"
+   },
+   "code_invalid": {
+      "message": "代碼無效"
+   },
+   "commerce_popup_final_notice": {
+      "message": "最後通知"
+   },
+   "commerce_popup_final_notice_message": {
+      "message": "您的 Keeper 試用版將在 24 小時後到期。系統馬上就會停用付費版功能。現在升級就能保有全部強大功能。"
+   },
+   "confirm_new_password": {
+      "message": "Confirm New Password"
+   },
+   "confirm_password": {
+      "message": "Confirm Password"
+   },
+   "confirm_password_view": {
+      "message": "按一下確認密碼欄位中的掛鎖圖像以便填寫新密碼，然後按「下一步」。"
+   },
+   "confirm_screenshot": {
+      "message": "確認螢幕截圖"
+   },
+   "connection_port": {
+      "message": "連線連接埠"
+   },
+   "console_loading": {
+      "message": "Loading..."
+   },
+   "consumer_auto_backup_option3": {
+      "message": "每 30 天"
+   },
+   "contact_address": {
+      "message": "地址"
+   },
+   "contact_firstname": {
+      "message": "名"
+   },
+   "contact_lastname": {
+      "message": "姓"
+   },
+   "contact_phonenumber": {
+      "message": "手機號碼"
+   },
+   "copy_passphrase": {
+      "message": "複製長密碼"
+   },
+   "copy_password": {
+      "message": "拷貝密碼"
+   },
+   "copy_pin_code": {
+      "message": "拷貝 PIN 碼"
+   },
+   "copy_two_factor_code": {
+      "message": "複製雙重驗證碼"
+   },
+   "couldnt_complete_snapshot": {
+      "message": "我們無法完成快照。"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "create_a_record": {
+      "message": "建立記錄"
+   },
+   "create_account": {
+      "message": "建立帳號"
+   },
+   "create_login_with_passkey": {
+      "message": "建立使用通行金鑰的登入方式"
+   },
+   "create_new": {
+      "message": "建立新項目"
+   },
+   "create_passkey": {
+      "message": "建立通行金鑰"
+   },
+   "create_record": {
+      "message": "建立記錄"
+   },
+   "created_date_xxx": {
+      "message": "建立日期：XXX"
+   },
+   "creating_preview": {
+      "message": "創建預覽"
+   },
+   "current_password": {
+      "message": "目前密碼"
+   },
+   "cvv": {
+      "message": "安全碼"
+   },
+   "date_modified": {
+      "message": "修改日期"
+   },
+   "day_ago": {
+      "message": "1 天前"
+   },
+   "days_ago": {
+      "message": "XXX 天前"
+   },
+   "default": {
+      "message": "預設"
+   },
+   "delete_passkey": {
+      "message": "刪除金鑰"
+   },
+   "delete_this_passkey_question": {
+      "message": "是否删除此金輪？"
+   },
+   "desktop_installer_language": {
+      "message": "您可在原生的電腦版和行動版 App 上免費使用本機密碼管理功能，但是如要使用雲端儲存、備份、共享、網路 App、瀏覽器延伸功能和同步服務，除了可免費使用 30 天以外，之後就必須每年付費訂閱服務。雲端功能需要 Internet 連線。"
+   },
+   "device_approval": {
+      "message": "裝置核准"
+   },
+   "did_this_fix_issue": {
+      "message": "Did this fix your issue?"
+   },
+   "disable_snapshot_tool": {
+      "message": "停用快照工具"
+   },
+   "disabled_prompt": {
+      "message": "KeeperFill 停用提示"
+   },
+   "disabled_prompt_desc": {
+      "message": "當 Keeper 因潛在的效能問題而停止處理網頁上的欄位時取得提示。"
+   },
+   "dismiss": {
+      "message": "關閉"
+   },
+   "display_locks": {
+      "message": "顯示掛鎖圖像"
+   },
+   "dna_options_title": {
+      "message": "Keeper DNA"
+   },
+   "dna_waiting_watch": {
+      "message": "等待Watch驗證..."
+   },
+   "domain_matching": {
+      "message": "網域比對"
+   },
+   "domain_specific_password_title": {
+      "message": "Keeper 管理者要求密碼必須符合以下規則："
+   },
+   "dont_show": {
+      "message": "以後不要顯示"
+   },
+   "duo_instructions": {
+      "message": "我們將透過推送消息、短信或者語音呼叫的方式將密碼發送至XXX。"
+   },
+   "duo_push": {
+      "message": "Duo 推送消息"
+   },
+   "duo_push_description": {
+      "message": "我們會以推播通知、簡訊或通話方式，將密碼傳送到您的裝置。"
+   },
+   "duo_push_was_denied": {
+      "message": "Duo 推播功能遭拒"
+   },
+   "duo_sent": {
+      "message": "Duo 推播通知已經送出，請稍候。"
+   },
+   "duo_text_desc": {
+      "message": "傳送密碼簡訊"
+   },
+   "duo_text_message": {
+      "message": "短信"
+   },
+   "duo_voice_call": {
+      "message": "語音呼叫"
+   },
+   "duo_voice_desc": {
+      "message": "透過語音電話取得密碼"
+   },
+   "edit_address": {
+      "message": "修改地址"
+   },
+   "edit_card": {
+      "message": "編輯支付卡"
+   },
+   "edit_field_label": {
+      "message": "編輯欄位名稱"
+   },
+   "effortless_login": {
+      "message": "輕鬆登入"
+   },
+   "email_or_username": {
+      "message": "電子郵件位址或使用者名稱"
+   },
+   "email_verification_message": {
+      "message": "系統已將說明電子郵件發送到 XXX。如果系統提供驗證碼，您可以在下方輸入。"
+   },
+   "enable_keeperfill": {
+      "message": "啟用 KeeperFill"
+   },
+   "enable_snapshot_tool": {
+      "message": "顯示快照工具"
+   },
+   "enable_verify_fill_mode": {
+      "message": "啟用驗證填寫模式"
+   },
+   "encryption_error": {
+      "message": "解密您的數據庫時發生問題。請聯繫客服。"
+   },
+   "enter_a_password": {
+      "message": "輸入密碼"
+   },
+   "enter_a_username": {
+      "message": "輸入使用者名稱"
+   },
+   "enter_city": {
+      "message": "請輸入城市名稱"
+   },
+   "enter_country": {
+      "message": "請輸入國名"
+   },
+   "enter_cvv_number": {
+      "message": "請輸入安全碼"
+   },
+   "enter_email": {
+      "message": "請輸入電子郵件"
+   },
+   "enter_exp_date": {
+      "message": "請輸入到期日期"
+   },
+   "enter_first_name": {
+      "message": "請輸入不含姓氏的名字"
+   },
+   "enter_last_name": {
+      "message": "請輸入姓氏"
+   },
+   "enter_name_on_card": {
+      "message": "請輸入卡上的名稱"
+   },
+   "enter_rsa_passcode": {
+      "message": "請輸入 RSA 密碼"
+   },
+   "enter_street_address": {
+      "message": "請輸入街道地址"
+   },
+   "enter_valid_phone": {
+      "message": "請輸入一個有效的電話號碼。"
+   },
+   "enter_verification_code": {
+      "message": "請輸入驗證碼"
+   },
+   "enter_verification_code2": {
+      "message": "輸入雙重認證碼"
+   },
+   "enterprise_sso_connect_button": {
+      "message": "連線"
+   },
+   "enterprise_sso_login": {
+      "message": "企業 SSO 登入"
+   },
+   "enterprise_sso_login_domain_desc": {
+      "message": "有企業網域的 SSO 使用者"
+   },
+   "enterprise_sso_login_domain_title": {
+      "message": "企業網域"
+   },
+   "enterprise_sso_login_mp_desc": {
+      "message": "有主要密碼的 SSO 使用者"
+   },
+   "enterprise_sso_login_mp_title": {
+      "message": "主要密碼"
+   },
+   "every_24_hours": {
+      "message": "每 24 小時"
+   },
+   "every_30_days": {
+      "message": "每 30 天"
+   },
+   "every_login": {
+      "message": "每次登入"
+   },
+   "every_login_lowercase": {
+      "message": "Every login"
+   },
+   "every_twelve_hours": {
+      "message": "每 12 個小時"
+   },
+   "existing_passkey_detected": {
+      "message": "检测到现有金輪"
+   },
+   "exp": {
+      "message": "到期日"
+   },
+   "expiration": {
+      "message": "到期"
+   },
+   "expired_master_password_description": {
+      "message": "您的主密碼已過期。登錄前您必須更改主密碼。"
+   },
+   "expired_please_purchase": {
+      "message": "您的使用權已過期。請即時更新。"
+   },
+   "ext_2FACopied": {
+      "message": "雙重驗證代碼拷貝完成！"
+   },
+   "ext_AccessibilityDesc": {
+      "message": "使用鍵盤控制進行切換時，將焦點轉到 Keeper 表單欄位圖示上。"
+   },
+   "ext_AddCountry": {
+      "message": "新增國家/地區"
+   },
+   "ext_AddFolder": {
+      "message": "Add Folder"
+   },
+   "ext_AddressLineOnePlaceholder": {
+      "message": "1234 S. Holland Dr."
+   },
+   "ext_AddressLineTwoPlaceholder": {
+      "message": "Apt. #2"
+   },
+   "ext_AddressSaved": {
+      "message": "地址儲存完成！"
+   },
+   "ext_AddressTitlePlaceholder": {
+      "message": "例如：我的公司地址"
+   },
+   "ext_AllowQRCodeDesc": {
+      "message": "讓別人掃描 QR 條碼就能加入這個網路。"
+   },
+   "ext_AltMPError": {
+      "message": "This login page is for Enterprise SSO customers who use an alternate Master Password. Please start over and login from the Keeper Browser Extension screen by typing your email and clicking \"Next\"."
+   },
+   "ext_AutofillEnable": {
+      "message": "啟用自動填寫功能"
+   },
+   "ext_AutofillPrefs": {
+      "message": "自動填寫偏好設定"
+   },
+   "ext_AutofillPrefsDesc": {
+      "message": "您要讓 Keeper 為這個網站自動填寫哪筆記錄？"
+   },
+   "ext_AutofillTitle": {
+      "message": "在這個網站上自動填寫"
+   },
+   "ext_BrowserPrompts": {
+      "message": "瀏覽器提示"
+   },
+   "ext_BrowserPromptsDesc": {
+      "message": "選擇您要讓 Keeper 在瀏覽器中顯示哪些提示。"
+   },
+   "ext_CCNCopied": {
+      "message": "卡號拷貝完成！"
+   },
+   "ext_CVVCopied": {
+      "message": "驗證碼拷貝完成！"
+   },
+   "ext_Capitals": {
+      "message": "大寫"
+   },
+   "ext_CardCVVExample": {
+      "message": "123"
+   },
+   "ext_CardExpDateExample": {
+      "message": "12/22"
+   },
+   "ext_CardNumber": {
+      "message": "卡號"
+   },
+   "ext_CardSaved": {
+      "message": "支付卡資料儲存完成！"
+   },
+   "ext_CardTitlePlaceholder": {
+      "message": "例如：我的 Mastercard 卡"
+   },
+   "ext_CharacterCount": {
+      "message": "XXX 個字元"
+   },
+   "ext_ChooseARecordType": {
+      "message": "選擇記錄類型："
+   },
+   "ext_ChooseRecordToChangePW": {
+      "message": "您要讓 Keeper 變更哪筆記錄的密碼？"
+   },
+   "ext_CityPlaceholder": {
+      "message": "Charlottesville"
+   },
+   "ext_Copy2FACode": {
+      "message": "拷貝雙重驗證代碼"
+   },
+   "ext_CopyCCN": {
+      "message": "拷貝卡號"
+   },
+   "ext_CopyCVV": {
+      "message": "拷貝驗證碼"
+   },
+   "ext_CopyLoginID": {
+      "message": "拷貝登入帳號"
+   },
+   "ext_CopyPIN": {
+      "message": "拷貝 PIN 碼"
+   },
+   "ext_CopyPassphrase": {
+      "message": "複製長密碼"
+   },
+   "ext_CopyPassword": {
+      "message": "拷貝密碼"
+   },
+   "ext_CopyUsername": {
+      "message": "拷貝使用者名稱"
+   },
+   "ext_DarkMode": {
+      "message": "深色模式"
+   },
+   "ext_Date": {
+      "message": "日期"
+   },
+   "ext_Encryption": {
+      "message": "加密"
+   },
+   "ext_ExpiredMasterPasswordDesc": {
+      "message": "您必須變更主要密碼才能再次登入。"
+   },
+   "ext_ExpiredMasterPasswordTitle": {
+      "message": "您的主要密碼已經過期。"
+   },
+   "ext_ExpiresMMYY": {
+      "message": "到期日（mm/yy）"
+   },
+   "ext_FirstNamePlaceholder": {
+      "message": "John"
+   },
+   "ext_FontSize": {
+      "message": "字體大小"
+   },
+   "ext_FontSizeDescription": {
+      "message": "拖移下方滑桿即可更改延伸功能介面的文字字體大小。"
+   },
+   "ext_FormFieldIcons": {
+      "message": "表單欄位圖示"
+   },
+   "ext_FormFieldIconsDesc": {
+      "message": "Keeper 圖示會出現在可填寫的表單欄位內，按一下該圖示即可顯示建議和其他選項。"
+   },
+   "ext_FullNamePlaceholder": {
+      "message": "John Appleton"
+   },
+   "ext_Hidden": {
+      "message": "隱藏"
+   },
+   "ext_HideQRCode": {
+      "message": "隱藏 QR 條碼"
+   },
+   "ext_KeeperAskLoginIntervalQuestion": {
+      "message": "在以下時間段後自動登出 Keeper："
+   },
+   "ext_LastNamePlaceholder": {
+      "message": "Appleton"
+   },
+   "ext_LightMode": {
+      "message": "淺色模式"
+   },
+   "ext_LoginIDCopied": {
+      "message": "登入帳號拷貝完成！"
+   },
+   "ext_Logout": {
+      "message": "登出"
+   },
+   "ext_LogoutOfUsername": {
+      "message": "登出 XXX"
+   },
+   "ext_LogoutTimer": {
+      "message": "閒置登出計時器"
+   },
+   "ext_Lowercase": {
+      "message": "小寫"
+   },
+   "ext_MatchingCount": {
+      "message": "正在比對 XXX 筆記錄"
+   },
+   "ext_MatchingRecordCount": {
+      "message": "XXX 筆相符的記錄"
+   },
+   "ext_MatchingRecords": {
+      "message": "正在比對記錄"
+   },
+   "ext_MatchingRecordsCount": {
+      "message": "XXX 筆符合的記錄"
+   },
+   "ext_MatchingSites": {
+      "message": "符合條件的網站"
+   },
+   "ext_Matching_records_amount_plural": {
+      "message": "符合 XXX 個登入帳號"
+   },
+   "ext_Matching_records_amount_singular": {
+      "message": "符合 XXX 個登入帳號"
+   },
+   "ext_MyGoogleLogin": {
+      "message": "我的 Google 登入帳號"
+   },
+   "ext_MyVault": {
+      "message": "我的保險箱"
+   },
+   "ext_Name": {
+      "message": "名字"
+   },
+   "ext_NetworkName": {
+      "message": "網路名稱"
+   },
+   "ext_NetworkVisibility": {
+      "message": "網路能見度"
+   },
+   "ext_NoMatchingAddresses": {
+      "message": "您尚未在保險箱中設定地址。要建立嗎？"
+   },
+   "ext_NoMatchingPaymentCards": {
+      "message": "您尚未在保險箱中設定支付卡。要建立嗎？"
+   },
+   "ext_NoMatchingRecords": {
+      "message": "保險箱中沒有符合這個網站的記錄。您要建立嗎？"
+   },
+   "ext_NoRecordsMessage": {
+      "message": "您沒有記錄。"
+   },
+   "ext_NoResultsFound": {
+      "message": "找不到結果"
+   },
+   "ext_NotesCopied": {
+      "message": "筆記拷貝完成！"
+   },
+   "ext_Number": {
+      "message": "編號"
+   },
+   "ext_Numbers": {
+      "message": "數字"
+   },
+   "ext_OfflineUnavailable": {
+      "message": "您必須在上線時登入帳號至少一次，才能在這台裝置上使用離線保險箱。請注意，只有 Keeper Business 和 Enterprise 版的客戶才能使用離線保險箱，而且必須得到 Keeper 管理者的同意。"
+   },
+   "ext_OneResult": {
+      "message": "「XXX」的搜尋結果：1 個"
+   },
+   "ext_OpenInVault": {
+      "message": "在保險箱中開啟"
+   },
+   "ext_PINCopied": {
+      "message": "PIN 碼拷貝完成！"
+   },
+   "ext_PaymentCard": {
+      "message": "支付卡"
+   },
+   "ext_PhoneNumberPlaceholder": {
+      "message": "(+1) 419-843-2744"
+   },
+   "ext_PopupFinalNotice": {
+      "message": "最後通知"
+   },
+   "ext_PopupFinalNoticeMessage": {
+      "message": "您的 Keeper 試用版將在 24 小時後到期。系統馬上就會停用付費版功能。現在升級就能保有全部強大功能。"
+   },
+   "ext_PromptAppearanceDesc": {
+      "message": "自定提示在螢幕上的顯示方式。"
+   },
+   "ext_RecordSaved": {
+      "message": "記錄已保存"
+   },
+   "ext_RemoveAccountDescription": {
+      "message": "系統將移除登入列表中的 XXX。"
+   },
+   "ext_RemoveAccountTitle": {
+      "message": "移除列表中的帳號"
+   },
+   "ext_ResendCode": {
+      "message": "重新發送驗證碼"
+   },
+   "ext_ResetPassword": {
+      "message": "重置密碼"
+   },
+   "ext_ResultsCount": {
+      "message": "XXX 筆結果"
+   },
+   "ext_ResultsCountFor": {
+      "message": "「YYY」有 XXX 個結果"
+   },
+   "ext_ResultsCountNone": {
+      "message": "「YYY」沒有任何結果"
+   },
+   "ext_ResultsFound": {
+      "message": "找到 XXX 筆結果"
+   },
+   "ext_Revert": {
+      "message": "不要，回復"
+   },
+   "ext_SSOMessage": {
+      "message": "企業網域資訊必須由 Keeper 管理者提供。"
+   },
+   "ext_SaveToVault": {
+      "message": "儲存到保險箱"
+   },
+   "ext_SearchFavorites": {
+      "message": "搜尋常用項目"
+   },
+   "ext_SearchVault": {
+      "message": "搜尋保險箱"
+   },
+   "ext_ShowQRCodeScan": {
+      "message": "讓別人掃描 \u003Ckeepertag>QR 條碼\u003C/keepertag>就能加入這個網路。"
+   },
+   "ext_SortBy": {
+      "message": "排序依據"
+   },
+   "ext_StatePlaceholder": {
+      "message": "California"
+   },
+   "ext_Symbols": {
+      "message": "符號"
+   },
+   "ext_TermsPrivacy": {
+      "message": "我接受 Keeper 的\u003Ckeepertag>使用條款\u003C/keepertag>和\u003Ckeepertag>隱私權政策\u003C/keepertag>"
+   },
+   "ext_TimerSaved": {
+      "message": "計時設定儲存完成！"
+   },
+   "ext_TitleRequired": {
+      "message": "標題 （必填）"
+   },
+   "ext_TwoFactorCopied": {
+      "message": "兩步驟驗證碼拷貝完成！"
+   },
+   "ext_Type": {
+      "message": "類型"
+   },
+   "ext_UnableToLoginTitle": {
+      "message": "無法登入 Keeper"
+   },
+   "ext_UnsavedPrompt": {
+      "message": "還有尚未儲存的變更內容，是否確定要取消？"
+   },
+   "ext_UpdateRecord": {
+      "message": "您要更新這筆記錄嗎？"
+   },
+   "ext_Uppercase": {
+      "message": "大寫"
+   },
+   "ext_Use": {
+      "message": "使用"
+   },
+   "ext_UseAsDefaultSettings": {
+      "message": "做為預設設定"
+   },
+   "ext_UsePassphrase": {
+      "message": "使用長密碼"
+   },
+   "ext_UsePassword": {
+      "message": "使用密碼"
+   },
+   "ext_UsernameCopied": {
+      "message": "使用者名稱拷貝完成！"
+   },
+   "ext_Verify": {
+      "message": "校驗"
+   },
+   "ext_Visible": {
+      "message": "顯示"
+   },
+   "ext_ZipCodePlaceholder": {
+      "message": "12345"
+   },
+   "ext_accessibility": {
+      "message": "輔助使用"
+   },
+   "ext_account_number": {
+      "message": "帳號"
+   },
+   "ext_account_type": {
+      "message": "帳號類型"
+   },
+   "ext_action_requires_authentication": {
+      "message": "動作需要身分驗證"
+   },
+   "ext_add_new_record": {
+      "message": "新增記錄"
+   },
+   "ext_add_record_text": {
+      "message": "加入記錄名稱。"
+   },
+   "ext_add_to_keeper": {
+      "message": "加入 Keeper"
+   },
+   "ext_autofill_desc": {
+      "message": "當在欄位輸入時，若該網站沒有相符記錄，則建議我的儲存登入資料和生成的強密碼。"
+   },
+   "ext_autofill_desc_2": {
+      "message": "如果系統沒有與網站相符的記錄，即會在我填寫欄位時，建議我使用已儲存的使用者名稱，以及已產生的高強度密碼。"
+   },
+   "ext_biometric_login_canceled": {
+      "message": "作業已取消或逾時。請重試。"
+   },
+   "ext_biometric_login_desc": {
+      "message": "啟用使用金輪檔生物辨識登入，以實現更快、安全的存取。加密金鑰安全地儲存在裝置的安全性位址，從而取代了對密碼和 MFA 的需求。Keeper 絕不會存取您的生物辨識資料。"
+   },
+   "ext_biometric_login_feature_desc": {
+      "message": "設定生物辨識登入以實現快速、安全存取，無需密碼。隨時在設定中更新。"
+   },
+   "ext_biometric_login_restricted_desc": {
+      "message": "管理員限制使用金鑰的生物辨識登入。"
+   },
+   "ext_biometric_login_restricted_header": {
+      "message": "生物辨識登入已被限制"
+   },
+   "ext_confirm_screenshot_desc": {
+      "message": "檢查您的截圖。如有需要，請重新擷取，或繼續檢視偵測到的資訊並添加註釋。"
+   },
+   "ext_create_address_restricted_message_2": {
+      "message": "您的管理員已限制建立地址。"
+   },
+   "ext_create_card_restricted_message_2": {
+      "message": "您的管理員已限制建立支付卡。"
+   },
+   "ext_create_passkey_desc": {
+      "message": "如果您的裝置支援此功能，請建立金鑰以啟用使用生物辨識掃描器登入。"
+   },
+   "ext_create_record_in_shared_folders_only_message": {
+      "message": "只能在共享資料夾中建立記錄。您的管理員已設定這項限制。"
+   },
+   "ext_create_record_in_shared_folders_only_message_2": {
+      "message": "您的管理員已設定限制，只能在共享資料夾中建立記錄。"
+   },
+   "ext_create_record_restricted_header": {
+      "message": "限制建立記錄"
+   },
+   "ext_create_record_restricted_header_2": {
+      "message": "限制建立"
+   },
+   "ext_create_record_restricted_message": {
+      "message": "您的管理員已限制建立記錄。"
+   },
+   "ext_create_record_restricted_message_2": {
+      "message": "您的管理員已限制建立登入記錄。"
+   },
+   "ext_date_of_birth": {
+      "message": "生日"
+   },
+   "ext_days_maximum": {
+      "message": "最多 XXX 天"
+   },
+   "ext_default": {
+      "message": "預設"
+   },
+   "ext_default_card": {
+      "message": "預設卡別"
+   },
+   "ext_delete_passkey_desc": {
+      "message": "删除此金輪會將其從您的帳戶中移除。这可能会影响您在需要此金輪的设备上的登入能力。如果繼續，請確保您擁有存取主密鑰或單一登入（SSO）的權限，以避免被鎖定。"
+   },
+   "ext_dna_code_prompt": {
+      "message": "請輸入智慧型手錶上的驗證碼。"
+   },
+   "ext_driver_license": {
+      "message": "駕照號碼"
+   },
+   "ext_email_prompt": {
+      "message": "使用下方的電子郵件來建立登入資料"
+   },
+   "ext_enter_secret_key": {
+      "message": "輸入密鑰"
+   },
+   "ext_enter_text_code": {
+      "message": "請輸入我們透過簡訊傳送的驗證碼。"
+   },
+   "ext_enter_totp": {
+      "message": "請輸入認證工具/TOTP App 上的驗證碼。"
+   },
+   "ext_existing_passkey_detected_desc": {
+      "message": "您好像已经在设备上拥有此帳戶的金輪。"
+   },
+   "ext_history": {
+      "message": "記錄"
+   },
+   "ext_hostname": {
+      "message": "主機名稱或 IP 位址"
+   },
+   "ext_hours_maximum": {
+      "message": "最多 XXX 小時"
+   },
+   "ext_http_fill_warning_desc": {
+      "message": "在沒有 HTTPS 加密連線的網站上使用 KeeperFill 時發出警告。"
+   },
+   "ext_iframe_err": {
+      "message": "請點擊您的瀏覽器的工具列中的Keeper鎖形圖標進行登入。"
+   },
+   "ext_incorrect_totp_code": {
+      "message": "您的代碼無效或過期。\\n按一下「重新傳送代碼」就能收到新的。"
+   },
+   "ext_install_instruction_click": {
+      "message": "按一下 Keeper 旁邊的 XXX 和 YYY。"
+   },
+   "ext_install_instruction_header": {
+      "message": "新增 Keeper 到您的工具列以方便存取"
+   },
+   "ext_install_instructions_pin": {
+      "message": "將 Keeper 釘選到工具列以方便存取"
+   },
+   "ext_install_instructions_select": {
+      "message": "選擇您的瀏覽器以取得指示"
+   },
+   "ext_launch_site": {
+      "message": "啟動網站"
+   },
+   "ext_log_in_to_keeper": {
+      "message": "登入 Keeper"
+   },
+   "ext_minutes_maximum": {
+      "message": "最多 XXX 分鐘"
+   },
+   "ext_mob_banner_day_left_in_trial": {
+      "message": "試用期剩下 1 天"
+   },
+   "ext_mob_banner_days_left_in_trial": {
+      "message": "免費體驗剩餘天數：XXX"
+   },
+   "ext_mob_turn_on_now": {
+      "message": "立即打開"
+   },
+   "ext_mp_reentry_modal_message": {
+      "message": "您的管理員要求您重新驗證。"
+   },
+   "ext_mp_reentry_overlay_alert_message": {
+      "message": "管理員要求您重新認證。請開啟瀏覽器工具列中的 Keeper，以便繼續進行。"
+   },
+   "ext_new_login_creation_screen_description": {
+      "message": "為提高安全性，現在系統會在另一個的頁籤中開啟從網站建立記錄的畫面。"
+   },
+   "ext_new_login_creation_screen_header": {
+      "message": "新的登入建立畫面"
+   },
+   "ext_no_matching_addresses_create_restricted": {
+      "message": "您的保險箱中沒有地址。您的管理員已限制建立地址。"
+   },
+   "ext_no_matching_cards_create_restricted": {
+      "message": "您的保險箱中沒有支付卡。您的管理員已限制建立支付卡。"
+   },
+   "ext_no_matching_records_create_restricted": {
+      "message": "沒有相符的記錄。您的管理員已限制建立記錄。"
+   },
+   "ext_open_admin_console": {
+      "message": "開啟管理主控台"
+   },
+   "ext_open_vault": {
+      "message": "在 Web 保險箱中開啟"
+   },
+   "ext_overwrite_field_content": {
+      "message": "覆寫欄位內容"
+   },
+   "ext_overwrite_field_content_desc": {
+      "message": "開啟該功能以便 Keeper 使用此記錄的自訂欄位覆寫現有欄位內容。"
+   },
+   "ext_passport_number": {
+      "message": "護照號碼"
+   },
+   "ext_password_prompt": {
+      "message": "讓 Keeper 建立夠安全的密碼。"
+   },
+   "ext_password_rules_unmet_warning": {
+      "message": "管理員要求您的密碼必須遵循下列規則："
+   },
+   "ext_pin_code": {
+      "message": "PIN 碼"
+   },
+   "ext_prevent_lockout_desc": {
+      "message": "请确保在停用生物辨识登入前仍能够通过主密码或单一登录（SSO）登录，以避免帳戶被锁定。"
+   },
+   "ext_private_key": {
+      "message": "專用密鑰"
+   },
+   "ext_prompt_to_login_subtext": {
+      "message": "這是哪裡？"
+   },
+   "ext_public_key": {
+      "message": "公用密鑰"
+   },
+   "ext_push_notif": {
+      "message": "已向批准的裝置送出提醒。"
+   },
+   "ext_quick_sync_your_data": {
+      "message": "快速同步資料"
+   },
+   "ext_report_autofill_prompt_desc": {
+      "message": "快速擷取畫面—Keeper 會使用資料來尋找問題。只需要幾秒鐘！"
+   },
+   "ext_routing_number": {
+      "message": "分行代號"
+   },
+   "ext_save_to_keeper": {
+      "message": "是否將密碼儲存到 Keeper？"
+   },
+   "ext_scan_2fa_code": {
+      "message": "掃描 2FA 代碼"
+   },
+   "ext_scan_failed": {
+      "message": "掃描失敗"
+   },
+   "ext_scan_failed_warning": {
+      "message": "未偵測到 TOTP 代碼。請手動輸入您的密鑰。"
+   },
+   "ext_security_code": {
+      "message": "安全性代碼"
+   },
+   "ext_security_title": {
+      "message": "安全技術"
+   },
+   "ext_select_a_location": {
+      "message": "選擇地點"
+   },
+   "ext_session_persistence_setting_desc": {
+      "message": "關閉瀏覽器或重新啟動電腦後，繼續保持登入 Keeper 的狀態。"
+   },
+   "ext_session_persistence_setting_prompt": {
+      "message": "建議您開啟自動登出功能，以免您在登入 Keeper 的狀態下離開自己的裝置。"
+   },
+   "ext_session_persistence_setting_title": {
+      "message": "保持登入狀態"
+   },
+   "ext_sharing_restricted_file_with_attachment_message": {
+      "message": "您的管理員已限制您共享包含附件的記錄。"
+   },
+   "ext_sharing_restricted_header": {
+      "message": "限制共享"
+   },
+   "ext_sharing_restricted_indirect_sharing_message": {
+      "message": "您的管理員已限制您新增記錄到共享資料夾。"
+   },
+   "ext_sharing_restricted_message": {
+      "message": "您的管理員已限制您共享記錄。"
+   },
+   "ext_sharing_through_shared_folders_only_message": {
+      "message": "根據您的管理員，您只能透過將記錄新增到共享資料夾，來共享記錄。"
+   },
+   "ext_single_suggested": {
+      "message": "1 個建議的記錄"
+   },
+   "ext_social_security_number": {
+      "message": "身分證字號"
+   },
+   "ext_software_license_number": {
+      "message": "軟體授權金鑰"
+   },
+   "ext_sso_pw": {
+      "message": "SSO 主要密碼登入"
+   },
+   "ext_stay_logged": {
+      "message": "在不同的會話之間保持登入狀態"
+   },
+   "ext_stay_logged_desc": {
+      "message": "除非手動登出或因為閒置時間過長而自動登出，否則在關閉並重新開啟應用程式或重新啟動裝置時無需再次登入。"
+   },
+   "ext_stay_logged_desc_2": {
+      "message": "當您關閉並重新開啟 Keeper，或是重新起動裝置時，並不需要登入，除非您手動登出，或是因閒置時間過長而自動登出。"
+   },
+   "ext_subsequent_fill": {
+      "message": "在後續頁面中自動填充"
+   },
+   "ext_subsequent_fill_desc": {
+      "message": "關閉此功能以防止 Keeper 在多步驟登入流程中跨多個頁面自動填充。"
+   },
+   "ext_sync_complete": {
+      "message": "同步完成"
+   },
+   "ext_sync_setting_desc": {
+      "message": "使用以下選項手動確認保險箱是否保持最新狀態。"
+   },
+   "ext_totp_delete_warning_2": {
+      "message": "您可以在保險箱中還原這筆記錄的先前版本，來擷取已刪除的兩步驟代碼。"
+   },
+   "ext_totp_delete_warning_3": {
+      "message": "從此記錄中刪除此服務或網頁前，請停用其 MFA。這樣可防止喪失對此服務的存取。"
+   },
+   "ext_totp_restricted_message": {
+      "message": "您的管理員已限制將兩步驟代碼加入記錄的能力。"
+   },
+   "ext_two_factor_channel_rsa": {
+      "message": "請輸入 RSA 密碼。"
+   },
+   "ext_two_factor_field_tooltip_message": {
+      "message": "使用 Keeper 儲存和自動填寫任何裝置上的兩步驟代碼。"
+   },
+   "ext_two_factor_generic_code_prompt": {
+      "message": "請輸入兩步驟驗證碼。"
+   },
+   "ext_type_or_generate": {
+      "message": "輸入或產生"
+   },
+   "ext_website": {
+      "message": "網站"
+   },
+   "ext_zip_code": {
+      "message": "郵遞區號"
+   },
+   "extension_DetailView_itemCopied": {
+      "message": "複製至剪貼簿"
+   },
+   "extension_phonetype_home": {
+      "message": "住家"
+   },
+   "extension_phonetype_mobile": {
+      "message": "行動"
+   },
+   "extension_phonetype_work": {
+      "message": "公司"
+   },
+   "extension_prompt_to_disable": {
+      "message": "瀏覽器延伸功能可能降低這個網站的性能。如果要在這個網站上重新啟用 Keeper 功能，請按一下工具列上的 Keeper 圖像。"
+   },
+   "extension_prompt_to_disable_header": {
+      "message": "系統已針對這個網站停用 Keeper 功能。"
+   },
+   "extension_prompt_to_fill": {
+      "message": "您要讓 Keeper 自動填入您的登入資料嗎？"
+   },
+   "extension_prompt_to_login": {
+      "message": "按一下瀏覽器工具列上的 Keeper 圖像即可登入。"
+   },
+   "fade_in": {
+      "message": "淡入"
+   },
+   "fastfill_RecordSaved": {
+      "message": "記錄已保存！"
+   },
+   "fastfill_less": {
+      "message": "收起"
+   },
+   "fastfill_more": {
+      "message": "展開"
+   },
+   "featureRestricted": {
+      "message": "功能受限"
+   },
+   "feature_restricted_by_admin": {
+      "message": "受 Keeper 管理員限制的功能"
+   },
+   "ff_private_window_error": {
+      "message": "使用 Firefox 隱私視窗模式時，請用網頁保險箱登入 Keeper。Keeper 會自動填寫網站上的資料，但是無法使用工具列。"
+   },
+   "field_icon": {
+      "message": "輸入欄位圖像"
+   },
+   "field_icons": {
+      "message": "欄位圖示"
+   },
+   "field_icons_desc": {
+      "message": "選擇 Keeper 圖示何時以及是否出現在欄位中。"
+   },
+   "field_text": {
+      "message": "文字"
+   },
+   "files_learnmorepage_description": {
+      "message": "Keeper®是一款操作簡單且安全的密碼管理器和電子數據庫。"
+   },
+   "files_sorry_later": {
+      "message": "稍後再說"
+   },
+   "files_upload_create_new_dontask": {
+      "message": "不要再問我"
+   },
+   "fill_address": {
+      "message": "填入地址"
+   },
+   "fill_and_save_password": {
+      "message": "填寫並儲存密碼"
+   },
+   "fill_card": {
+      "message": "填入支付卡資訊"
+   },
+   "fill_card_number": {
+      "message": "填入卡號"
+   },
+   "fill_city": {
+      "message": "填入市區鄉鎮"
+   },
+   "fill_cvv": {
+      "message": "填入安全碼"
+   },
+   "fill_email_address": {
+      "message": "填入電子郵件位址"
+   },
+   "fill_emailusername": {
+      "message": "填入電子郵件/使用者名稱"
+   },
+   "fill_expiration_date": {
+      "message": "填入到期日期"
+   },
+   "fill_first_name": {
+      "message": "填入名字"
+   },
+   "fill_icon_is_missing": {
+      "message": "填寫圖示遺失"
+   },
+   "fill_last_name": {
+      "message": "填入姓氏"
+   },
+   "fill_name_on_card": {
+      "message": "填入持卡人姓名"
+   },
+   "fill_phone_number": {
+      "message": "填入電話號碼"
+   },
+   "fill_prompt": {
+      "message": "填寫提示"
+   },
+   "fill_record": {
+      "message": "填入記錄"
+   },
+   "fill_state": {
+      "message": "填入州名"
+   },
+   "fill_street_address_line_one": {
+      "message": "填入第 1 行街道地址"
+   },
+   "fill_street_address_line_two": {
+      "message": "填入第 2 行街道地址"
+   },
+   "fill_tool": {
+      "message": "KeeperFill 工具"
+   },
+   "fill_tool_desc": {
+      "message": "在表單欄位中顯示 Keeper 圖示，讓您只要在網站或表單中點擊該圖示，即可自動填入登入認證。"
+   },
+   "fill_zip_postal_code": {
+      "message": "填入郵遞區號"
+   },
+   "filled": {
+      "message": "已填寫"
+   },
+   "filter": {
+      "message": "過濾器"
+   },
+   "fix_autofill_fields": {
+      "message": "Fix Autofill Fields"
+   },
+   "fix_webpage": {
+      "message": "修復網頁"
+   },
+   "footer_new_security": {
+      "message": "安全技術"
+   },
+   "forgot_master_password": {
+      "message": "您忘記了主密碼"
+   },
+   "free_trial_expired_please_purchase": {
+      "message": "您的免費體驗已到期。請升級至付費版。"
+   },
+   "full_name": {
+      "message": "全名"
+   },
+   "full_sync": {
+      "message": "完整同步"
+   },
+   "full_sync_desc": {
+      "message": "同步所有資料可能需要幾分鐘。"
+   },
+   "generator_history": {
+      "message": "產生器歷史紀錄"
+   },
+   "generic_restriction": {
+      "message": "Keeper 管理者禁止您執行這個動作。"
+   },
+   "get_help": {
+      "message": "求助"
+   },
+   "got_it": {
+      "message": "我瞭解了"
+   },
+   "greater_than_zero": {
+      "message": "數值必須大於 0。"
+   },
+   "groups_invalid_code2": {
+      "message": "您輸入的代碼無效"
+   },
+   "groups_invalid_validation_code": {
+      "message": "您所提供的驗證碼不正確。"
+   },
+   "header_admin": {
+      "message": "管理控制台"
+   },
+   "hidden_field": {
+      "message": "隱藏欄位"
+   },
+   "hide_contents": {
+      "message": "隱藏內容"
+   },
+   "hide_password": {
+      "message": "隱藏密碼"
+   },
+   "hover_locks": {
+      "message": "懸停時顯示鎖頭"
+   },
+   "http_basic_auth_description": {
+      "message": "此網站 (XXX) 要求使用者要利用 HTTP 基本驗證來登入。如果您信任此網站，且您要用保險箱中相符的 Keeper 記錄 (YYY) 來登入，請按一下 [確定]，或按一下 [取消] 以中止。"
+   },
+   "http_basic_auth_title": {
+      "message": "要求利用 HTTP 基本驗證來自動填寫"
+   },
+   "http_fill_warning_prompt_desc": {
+      "message": "當嘗試在沒有 HTTPS 加密連線的網站上自動填滿時取得通知您安全性風險的提示。"
+   },
+   "http_fill_warning_promt": {
+      "message": "HTTP 填寫警告提示"
+   },
+   "idb_storage_cleared": {
+      "message": "已清除 IndexedDB 存儲空間"
+   },
+   "idb_storage_visible": {
+      "message": "IDB 存儲空間可見"
+   },
+   "in120seconds": {
+      "message": "120 秒"
+   },
+   "in30seconds": {
+      "message": "30秒"
+   },
+   "in45seconds": {
+      "message": "45 秒"
+   },
+   "in60seconds": {
+      "message": "60 秒"
+   },
+   "in90seconds": {
+      "message": "90 秒"
+   },
+   "inactivity_logout_timer_desc": {
+      "message": "設定將您自動登出前可以閒置的時間。"
+   },
+   "individual_fill_cross_domain": {
+      "message": "Keeper 偵測到 XXX 網站的內嵌登入表單使用了 YYY 網域。如果您信任這個網站，請按一下「好」以填入憑證，否則請按一下「取消」結束。"
+   },
+   "input_fields_desc": {
+      "message": "圖示會出現在可填寫的輸入欄位中，且可受點擊以顯示 Keeper 的建議及其他選項。"
+   },
+   "insert_security_key": {
+      "message": "請插入安全鎖"
+   },
+   "introducing_clipboard_expiration": {
+      "message": "介紹剪貼簿過期功能"
+   },
+   "introducing_clipboard_expiration_desc": {
+      "message": "設定複製的憑證在剪貼簿中保留的時間。在您的設定中存取此功能。"
+   },
+   "introducing_passkeys": {
+      "message": "「Keeper 密鑰」正式亮相！"
+   },
+   "introducing_passkeys_content": {
+      "message": "使用 Keeper 瀏覽器擴充套件，建立密鑰並登入受支援的網站。在您的所有裝置上使用 Keeper Vault 安全管理並共用您的密鑰。"
+   },
+   "invalid_email_or_password": {
+      "message": "無效的電子郵件地址或密"
+   },
+   "invalid_two_factor_data": {
+      "message": "無效的兩步驟資料"
+   },
+   "json_code_snippet": {
+      "message": "JSON 代碼段"
+   },
+   "keeper_login": {
+      "message": "請登入 Keeper 來填寫認證。"
+   },
+   "keeper_passkey_created": {
+      "message": "已建立 Keeper 通行金鑰"
+   },
+   "keeper_push": {
+      "message": "Keeper 推播"
+   },
+   "keeper_push_description": {
+      "message": "Keeper 推播通知是簡易的保護帳號方法，不過採用觸碰一下的方式進行驗證，而非送出驗證碼。您在新的裝置上登入 Keeper 時，另一台裝置會收到觸摸提示。"
+   },
+   "keeper_push_description_short": {
+      "message": "Keeper 推播是簡單、安全的認證通知訊息，可傳送到其中一台由您核准的裝置上。"
+   },
+   "keeper_push_not_approved": {
+      "message": "尚未核准推播通知。"
+   },
+   "keeper_push_sent": {
+      "message": "已傳送 Keeper 推播通知"
+   },
+   "keeper_push_sent_to_device": {
+      "message": "已將 Keeper 推播通知傳送到核准的裝置"
+   },
+   "keeper_sso_not_permitted": {
+      "message": "您的帳號不得使用 SSO 登入 Keeper。請務必在透過單一登入機制佈建的 Keeper 管理主控台中，將這個帳號指定給某個節點。"
+   },
+   "keeperfill_insecure_field": {
+      "message": "Keeper 無法將密碼填入輸入欄位。請按一下表單欄位中的鎖定圖像，然後再試一次。"
+   },
+   "kfg_enter_password": {
+      "message": "輸入密碼"
+   },
+   "kfg_expire": {
+      "message": "有效期"
+   },
+   "kfg_password_rule_prompt": {
+      "message": "密碼必須遵循這些規則："
+   },
+   "kg_fair": {
+      "message": "尚可"
+   },
+   "kg_medium": {
+      "message": "一般"
+   },
+   "kg_off": {
+      "message": "關"
+   },
+   "kg_on": {
+      "message": "開"
+   },
+   "kg_strong": {
+      "message": "強"
+   },
+   "kg_two_factor_authentication": {
+      "message": "兩步驗證"
+   },
+   "kg_weak": {
+      "message": "弱"
+   },
+   "landscape_mode": {
+      "message": "橫向模式"
+   },
+   "last_synced_phrase": {
+      "message": "上次同步時間：XXX"
+   },
+   "last_used_date": {
+      "message": "上次使用：XXX"
+   },
+   "launch_and_autofill": {
+      "message": "啟動並自動填入"
+   },
+   "launch_vault": {
+      "message": "啟動保險箱"
+   },
+   "learnmo": {
+      "message": "瞭解更多"
+   },
+   "local_storage_cleared": {
+      "message": "已清除本地存儲空間"
+   },
+   "local_storage_visible": {
+      "message": "本地存儲空間可見"
+   },
+   "location": {
+      "message": "位置"
+   },
+   "lockout_minute": {
+      "message": "由於您重複嘗試，因此要求受到限制。請在 1 分鐘後再試一次。"
+   },
+   "log_in": {
+      "message": "登入"
+   },
+   "log_in_successful": {
+      "message": "登入成功"
+   },
+   "log_in_with_passkey": {
+      "message": "利用通行金鑰來登入"
+   },
+   "login_button_disabled": {
+      "message": "已停用「登入」按鈕"
+   },
+   "login_different_account": {
+      "message": "使用其他帳號登入"
+   },
+   "login_field": {
+      "message": "Login Field"
+   },
+   "login_id": {
+      "message": "登入 ID"
+   },
+   "login_reminder": {
+      "message": "登入提醒"
+   },
+   "login_updated": {
+      "message": "已更新登入資料！"
+   },
+   "logout_of_username": {
+      "message": "登出 XXX"
+   },
+   "logout_timer_value_invalid": {
+      "message": "登出計時器設定值無效"
+   },
+   "manage_passkeys": {
+      "message": "管理金輪"
+   },
+   "master_password": {
+      "message": "主密碼"
+   },
+   "match_on_subdomain": {
+      "message": "根據子網域來比對"
+   },
+   "match_on_subdomain_desc": {
+      "message": "根據嚴格的子網域比對結果，顯示要用來自動填寫的記錄。"
+   },
+   "match_on_subdomain_desc2": {
+      "message": "根據嚴格的子網域比對控制是否建議記錄。"
+   },
+   "match_only_subdomains": {
+      "message": "僅匹配子網域"
+   },
+   "match_system": {
+      "message": "比對系統"
+   },
+   "max_characters_xxx": {
+      "message": "最大字符數 XXX"
+   },
+   "maybe_later": {
+      "message": "也許稍後"
+   },
+   "mob_banner_days_left_desc": {
+      "message": "立即開啟 Keeper Unlimited 以獲得完整的保護。"
+   },
+   "multi_line_text": {
+      "message": "多行文字"
+   },
+   "multiple_folders": {
+      "message": "多檔案夾"
+   },
+   "multiple_folders_prompt_desc": {
+      "message": "這筆記錄位於多個檔案夾，無法在此編輯。如要變更，請前往網頁保險箱或電腦 App。"
+   },
+   "multiple_folders_prompt_title": {
+      "message": "多檔案夾中的記錄"
+   },
+   "name_on_card": {
+      "message": "持卡人姓名"
+   },
+   "need_help_question": {
+      "message": "需要協助嗎？"
+   },
+   "need_vault_settings_update": {
+      "message": "請登入網頁保險箱以便更新帳號設定。"
+   },
+   "network_encryption_none": {
+      "message": "未加密"
+   },
+   "network_encryption_wep": {
+      "message": "WEP"
+   },
+   "network_encryption_wpa": {
+      "message": "WPA"
+   },
+   "network_hidden": {
+      "message": "隱藏"
+   },
+   "network_visible": {
+      "message": "顯示"
+   },
+   "never_show": {
+      "message": "永不顯示"
+   },
+   "new_password": {
+      "message": "新密碼"
+   },
+   "new_password_alert": {
+      "message": "請在繼續下一步之前填寫新密碼欄位。"
+   },
+   "new_password_view": {
+      "message": "在要求您輸入新密碼的所有表單欄位中按一下鎖頭圖像，接著按「下一步」。"
+   },
+   "new_password_view2": {
+      "message": "現在於新密碼表單欄位中選取 Keeper 圖示以填入您的新密碼。"
+   },
+   "newfreetrial_popup_buy": {
+      "message": "Upgrade Now"
+   },
+   "next_button_disabled": {
+      "message": "已停用「下一步」按鈕"
+   },
+   "next_step_colon_preview": {
+      "message": "下一步：預覽"
+   },
+   "no_animation": {
+      "message": "靜態"
+   },
+   "no_edit_permissions2": {
+      "message": "您沒有編輯該記錄的權限。"
+   },
+   "no_email_entered": {
+      "message": "已停用「下一步」按鈕，因為尚未輸入正確的電子郵件位址"
+   },
+   "no_hist": {
+      "message": "沒有密碼記錄"
+   },
+   "no_records": {
+      "message": "保險箱中沒有記錄"
+   },
+   "no_records_match_domain": {
+      "message": "保險箱中沒有符合這個網站的網址記錄。請檢查保險箱或建立新記錄。"
+   },
+   "no_suggest_recs": {
+      "message": "沒有建議記錄"
+   },
+   "no_thanks": {
+      "message": "不用了"
+   },
+   "non_login_field_does_not_autofill": {
+      "message": "非登入欄位（例如，付款或帳單）不自動填寫"
+   },
+   "not_approved_by_account_owner": {
+      "message": "帳號持有人並未核准這台裝置。請聯絡帳號持有人或 Keeper 客服中心。"
+   },
+   "not_yet_used": {
+      "message": "尚未使用"
+   },
+   "note": {
+      "message": "附註"
+   },
+   "notes_header": {
+      "message": "注意事項"
+   },
+   "notifications_enabled_reminder": {
+      "message": "請務必在裝置上啟用通知功能，否則無法收到 Keeper 推播通知，或在核准的裝置上開啟本 App。"
+   },
+   "ob2020_getstarted_1": {
+      "message": "Keeper 是儲存和保護密碼以及私人資訊的最安全方法，讓駭客不得其門而入。"
+   },
+   "ob2020_getstarted_2": {
+      "message": "Keeper 能在所有行動裝置和電腦上，嚴密保護並自動填寫密碼。"
+   },
+   "ob2020_getstarted_3": {
+      "message": "Keeper 使用端對端加密搭配專屬的零知識安全性架構，讓您全權控制對您的資訊的存取。"
+   },
+   "ob2020_welcome": {
+      "message": "歡迎光臨您的 Keeper 保險箱！"
+   },
+   "old_password_view": {
+      "message": "請在「舊」密碼或「目前」密碼表單欄位中按一下鎖頭圖像（如果有），然後按「下一步」繼續。"
+   },
+   "old_password_view2": {
+      "message": "在目前或舊密碼表單欄位中選取 Keeper 圖示以填入您目前的密碼。"
+   },
+   "once_snapshot_shared_message": {
+      "message": "共享後，我們會檢閱您的快照，並在更新完成後通知您。"
+   },
+   "one_time_passcode": {
+      "message": "拋棄式密碼"
+   },
+   "open_extension": {
+      "message": "開啟延伸功能"
+   },
+   "open_my_vault": {
+      "message": "開啟我的網頁保險箱"
+   },
+   "open_safari_settings": {
+      "message": "結束與開啟 Safari 設定……"
+   },
+   "other_accounts": {
+      "message": "其他帳戶"
+   },
+   "other_login_methods": {
+      "message": "其他登入方法"
+   },
+   "other_please_describe": {
+      "message": "其他（請描述）"
+   },
+   "page_info": {
+      "message": "頁面資訊"
+   },
+   "pass_gen_history": {
+      "message": "密碼產生器記錄"
+   },
+   "passkey": {
+      "message": "通行金鑰"
+   },
+   "passkey_already_registered": {
+      "message": "已登錄通行金鑰"
+   },
+   "passkey_already_registered_desc": {
+      "message": "已經向 Keeper 登錄此帳號的通行金鑰。"
+   },
+   "passkey_count_plural": {
+      "message": "XXX 個金輪"
+   },
+   "passkey_count_single": {
+      "message": "1 個金輪"
+   },
+   "passphrase_cannot_meet_criteria": {
+      "message": "長密碼無法滿足由特定網域為該記錄所設定的準則。"
+   },
+   "passphrase_copied": {
+      "message": "已複製長密碼"
+   },
+   "passphrase_must_caps": {
+      "message": "每個單字的首字母都必須是大寫"
+   },
+   "passphrase_must_contain": {
+      "message": "您的密語必須包含："
+   },
+   "passphrase_must_number": {
+      "message": "1 個數字"
+   },
+   "passphrase_must_separator": {
+      "message": "分隔符號：XXX"
+   },
+   "passphrase_must_words": {
+      "message": "至少 XXX 個單字"
+   },
+   "password_alert": {
+      "message": "密碼警示"
+   },
+   "password_cannot_meet_criteria": {
+      "message": "密碼無法滿足由特定網域為該記錄所設定的準則。"
+   },
+   "password_cannot_meet_criteria__gen": {
+      "message": "無法產生滿足由特定網域為該記錄所設定之準則的密碼。"
+   },
+   "password_does_not_autofill": {
+      "message": "密碼無法自動填寫"
+   },
+   "password_generator": {
+      "message": "密碼產生系統"
+   },
+   "password_must_caps": {
+      "message": "每個單字的首字母都必須是大寫"
+   },
+   "password_must_char": {
+      "message": "至少 XXX 個字元"
+   },
+   "password_must_char__solo": {
+      "message": "您的密碼必須至少包含 XXX 個字元。"
+   },
+   "password_must_contain": {
+      "message": "您的密碼必須包含："
+   },
+   "password_must_lowercase": {
+      "message": "至少 XXX 個小寫字母"
+   },
+   "password_must_lowercase__solo": {
+      "message": "您的密碼必須至少包含 XXX 個小寫字母。"
+   },
+   "password_must_lowercase_p": {
+      "message": "至少 XXX 個小寫字母"
+   },
+   "password_must_lowercase_p__solo": {
+      "message": "您的密碼必須至少包含 XXX 個小寫字母。"
+   },
+   "password_must_not_contain_these_symbols": {
+      "message": "您的密碼不能包含 XXX"
+   },
+   "password_must_number": {
+      "message": "至少 XXX 個號碼"
+   },
+   "password_must_number__solo": {
+      "message": "您的密碼必須至少包含 XXX 個號碼。"
+   },
+   "password_must_number_p": {
+      "message": "至少 XXX 個數字"
+   },
+   "password_must_number_p__solo": {
+      "message": "您的密碼必須至少包含 XXX 個號碼。"
+   },
+   "password_must_number_singluar": {
+      "message": "至少 1 個數字"
+   },
+   "password_must_separator": {
+      "message": "一個分隔符號："
+   },
+   "password_must_symbol": {
+      "message": "至少 XXX 個符號：YYY"
+   },
+   "password_must_symbol__solo": {
+      "message": "您的密碼必須至少包含 XXX 個符號：YYY"
+   },
+   "password_must_symbol_p": {
+      "message": "至少 XXX 個符號：YYY"
+   },
+   "password_must_symbol_p__solo": {
+      "message": "您的密碼必須至少包含 XXX 個符號：YYY"
+   },
+   "password_must_uppercase": {
+      "message": "至少 XXX 個大寫字母"
+   },
+   "password_must_uppercase__solo": {
+      "message": "您的密碼必須至少包含 XXX 個大寫字母。"
+   },
+   "password_must_uppercase_p": {
+      "message": "至少 XXX 個大寫字母"
+   },
+   "password_must_uppercase_p__solo": {
+      "message": "您的密碼必須至少包含 XXX 個大寫字母。"
+   },
+   "password_passphrase_alert": {
+      "message": "密碼與密語警示"
+   },
+   "password_reset_email_tip": {
+      "message": "請輸入您的電子郵件位址以開始帳戶復原流程。您可能需要檢查垃圾郵件資料夾或取消封鎖來自 keepersecurity.com 的電子郵件。"
+   },
+   "password_strength": {
+      "message": "密碼強度"
+   },
+   "password_suggestions": {
+      "message": "密碼建議"
+   },
+   "password_suggestions_desc": {
+      "message": "控制當按下註冊頁面的密碼欄位時是否建議強式產生的密碼。"
+   },
+   "password_updated": {
+      "message": "Password Updated!"
+   },
+   "payment_card": {
+      "message": "支付卡"
+   },
+   "payment_card_saved": {
+      "message": "支付卡儲存完成！"
+   },
+   "payment_cards": {
+      "message": "支付卡"
+   },
+   "payment_field": {
+      "message": "Payment Field"
+   },
+   "payment_updated": {
+      "message": "已更新付款資料！"
+   },
+   "phone_call": {
+      "message": "撥打電話"
+   },
+   "phone_number": {
+      "message": "Phone Number"
+   },
+   "phone_type": {
+      "message": "電話類型"
+   },
+   "pin_generator": {
+      "message": "PIN 產生器"
+   },
+   "port": {
+      "message": "傳輸埠"
+   },
+   "portrait_mode": {
+      "message": "直向模式"
+   },
+   "prevent_lockout": {
+      "message": "防止锁定"
+   },
+   "preview": {
+      "message": "預覽"
+   },
+   "preview_snapshot_desc": {
+      "message": "在下載並與 Keeper 共享前預覽完整快照。"
+   },
+   "primary_website_address": {
+      "message": "主要網址"
+   },
+   "privacy": {
+      "message": "Privacy Policy"
+   },
+   "privacy_reminder": {
+      "message": "為維護個人隱私，我們不會顯示您使用的兩步驟驗證方法。請查看簡訊、電子郵件、安全鎖或 TOTP（限時型單次密碼）認證工具 App 提供的驗證碼。"
+   },
+   "privacy_screen_is_enabled_by_admin": {
+      "message": "管理者已經啟用防窺屏風功能"
+   },
+   "privacy_screen_prevents_hint": {
+      "message": "防窺屏風功能讓您儲存記錄後，就能防止他人看到密碼並修改網站 URL。"
+   },
+   "prompt_appearance": {
+      "message": "提示外觀"
+   },
+   "prompt_appearance_desc": {
+      "message": "自定提示在螢幕上的顯示方式"
+   },
+   "prompt_appearance_desc_2": {
+      "message": "自訂您希望提示如何顯示在瀏覽器視窗中。"
+   },
+   "prompt_location": {
+      "message": "提示位置"
+   },
+   "prompt_to_autofill_desc": {
+      "message": "進入網站登入網頁時自動填寫表單欄位。進入「自動填寫偏好設定」畫面即可控制個別網站的做法。"
+   },
+   "prompt_to_change_desc": {
+      "message": "Keeper 會在「更改密碼」網頁上自動產生新的密碼，並自動填寫舊密碼和新密碼欄位。"
+   },
+   "prompt_to_create": {
+      "message": "建立提示"
+   },
+   "prompt_to_create_desc": {
+      "message": "輸入密碼時，如果在現有記錄中找不到某個網站，Keeper 會請您將密碼儲存到保險箱。"
+   },
+   "prompt_to_disable": {
+      "message": "停用提示"
+   },
+   "prompt_to_disable_desc": {
+      "message": "在此提醒您 KeeperFill 已經停用，因為可能讓網頁速度變慢。"
+   },
+   "prompt_to_fill": {
+      "message": "填寫提示"
+   },
+   "prompt_to_fill_desc": {
+      "message": "瀏覽網站登入畫面時，Keeper 會請您以事先儲存的密碼自動登入帳號。"
+   },
+   "prompt_to_hover_locks_desc": {
+      "message": "只要將滑鼠移到欄位上方，就能看到 Keeper 圖像。"
+   },
+   "prompt_to_login": {
+      "message": "登入提示"
+   },
+   "prompt_to_login_desc": {
+      "message": "如果您登出了 Keeper，系統會在您瀏覽網站登入畫面時提醒您登入 Keeper。"
+   },
+   "prompt_to_save": {
+      "message": "儲存提示"
+   },
+   "prompt_to_save_desc": {
+      "message": "登入沒有相符記錄的網站時，Keeper 會請您將密碼儲存到保險箱。"
+   },
+   "prompt_to_update": {
+      "message": "您要更新這個網站的 Keeper 記錄嗎？"
+   },
+   "promtp_to_change": {
+      "message": "變更提示"
+   },
+   "protip": {
+      "message": "Pro Tip"
+   },
+   "pull_addresses": {
+      "message": "您要在這個網站上填入地址嗎？"
+   },
+   "pull_information_from_extensions": {
+      "message": "您要讓 Keeper 在 YYY 網站上填入XXX資訊嗎？"
+   },
+   "pull_payment_cards": {
+      "message": "您要在這個網站上填入支付卡資料嗎？"
+   },
+   "quick_sync": {
+      "message": "快速同步"
+   },
+   "quick_sync_desc": {
+      "message": "只同步新資料。"
+   },
+   "ready_to_share_question": {
+      "message": "準備好共享了嗎?"
+   },
+   "recents_translated": {
+      "message": "最近使用記錄"
+   },
+   "record_add": {
+      "message": "添加記錄"
+   },
+   "record_deleted": {
+      "message": "記錄已被刪除"
+   },
+   "record_details": {
+      "message": "紀錄詳細資料"
+   },
+   "record_header": {
+      "message": "記錄"
+   },
+   "recovery_account_recovery": {
+      "message": "帳戶恢複"
+   },
+   "recovery_email_verification": {
+      "message": "電子郵件驗證"
+   },
+   "recovery_forgot_pass": {
+      "message": "忘記密碼?"
+   },
+   "recovery_forgotpass": {
+      "message": "忘記密碼"
+   },
+   "recovery_resend_code": {
+      "message": "重新發送驗證碼"
+   },
+   "recovery_title": {
+      "message": "忘記您的主要密碼"
+   },
+   "referral_v4_cancel": {
+      "message": "不用了"
+   },
+   "region_selector_title": {
+      "message": "機房位置"
+   },
+   "registration_field": {
+      "message": "Registration Field"
+   },
+   "registration_updated": {
+      "message": "已更新註冊資料！"
+   },
+   "relying_party": {
+      "message": "信賴憑證者"
+   },
+   "remember_email": {
+      "message": "記住電子郵件"
+   },
+   "remove_from_favs": {
+      "message": "移出喜好項目"
+   },
+   "remove_from_login_list": {
+      "message": "系統將移除登入列表中的 XXX。"
+   },
+   "remove_user": {
+      "message": "是否移除使用者？"
+   },
+   "report_an_autofill_issue": {
+      "message": "報告自動填寫問題"
+   },
+   "report_autofill_issue": {
+      "message": "報告自動填充問題"
+   },
+   "report_issue": {
+      "message": "回報問題"
+   },
+   "report_sent": {
+      "message": "Report Sent!"
+   },
+   "report_to_keeper": {
+      "message": "Would you like to report this to Keeper to improve the extension?"
+   },
+   "req_timeout": {
+      "message": "請求已超時"
+   },
+   "request_admin_approval": {
+      "message": "要求管理者核准"
+   },
+   "require_two_factor": {
+      "message": "需要雙因素驗證："
+   },
+   "require_two_factor_no_colon": {
+      "message": "需要雙因素驗證"
+   },
+   "required": {
+      "message": "必填"
+   },
+   "required_custom_field": {
+      "message": "必填自訂欄位"
+   },
+   "resend_email": {
+      "message": "重發電子郵件"
+   },
+   "restore_defalt_settings": {
+      "message": "回復預設設定"
+   },
+   "restore_default_autofill_settings": {
+      "message": "Restore Default Autofill Settings"
+   },
+   "restrictedByAdmin": {
+      "message": "Keeper 管理者禁止您使用本功能。"
+   },
+   "restricted_totp": {
+      "message": "您的 Keeper 管理員已限制將雙因素代碼新增到記錄的能力。"
+   },
+   "retake": {
+      "message": "重拍"
+   },
+   "revert_change": {
+      "message": "回復所作的更動"
+   },
+   "role_enf_restriction": {
+      "message": "您不得執行這項功能。請洽 Keeper 管理者尋求協助。"
+   },
+   "rotation_port": {
+      "message": "轉換連接埠"
+   },
+   "rsa_passcode": {
+      "message": "RSA 密碼"
+   },
+   "rt_label_address": {
+      "message": "地址"
+   },
+   "rt_label_bankAccount": {
+      "message": "銀行帳戶"
+   },
+   "rt_label_bankCard": {
+      "message": "支付卡"
+   },
+   "rt_label_birthCertificate": {
+      "message": "出生證明"
+   },
+   "rt_label_contact": {
+      "message": "聯絡方式"
+   },
+   "rt_label_databaseCredentials": {
+      "message": "資料庫"
+   },
+   "rt_label_driverLicense": {
+      "message": "駕駛執照"
+   },
+   "rt_label_encryptedNotes": {
+      "message": "安全附註"
+   },
+   "rt_label_file": {
+      "message": "檔案附件"
+   },
+   "rt_label_general": {
+      "message": "一般"
+   },
+   "rt_label_healthInsurance": {
+      "message": "健康保險"
+   },
+   "rt_label_login": {
+      "message": "登入"
+   },
+   "rt_label_membership": {
+      "message": "會員"
+   },
+   "rt_label_pamAwsConfiguration": {
+      "message": "PAM AWS 組態"
+   },
+   "rt_label_pamAzureConfiguration": {
+      "message": "PAM Entra ID (Azure) 組態"
+   },
+   "rt_label_pamDatabase": {
+      "message": "PAM 資料庫"
+   },
+   "rt_label_pamDirectory": {
+      "message": "PAM 目錄"
+   },
+   "rt_label_pamLocalConfiguration": {
+      "message": "PAM 本機組態"
+   },
+   "rt_label_pamMachine": {
+      "message": "PAM 機器"
+   },
+   "rt_label_pamNetworkConfiguration": {
+      "message": "PAM 網路組態"
+   },
+   "rt_label_pamRemoteBrowser": {
+      "message": "PAM 遙距瀏覽器"
+   },
+   "rt_label_pamUser": {
+      "message": "PAM 使用者"
+   },
+   "rt_label_passport": {
+      "message": "護照"
+   },
+   "rt_label_photo": {
+      "message": "照片"
+   },
+   "rt_label_pl_address": {
+      "message": "地址"
+   },
+   "rt_label_pl_bankAccount": {
+      "message": "銀行帳戶"
+   },
+   "rt_label_pl_bankCard": {
+      "message": "支付卡"
+   },
+   "rt_label_pl_birthCertificate": {
+      "message": "出生證明"
+   },
+   "rt_label_pl_contact": {
+      "message": "聯絡資訊"
+   },
+   "rt_label_pl_databaseCredentials": {
+      "message": "資料庫"
+   },
+   "rt_label_pl_encryptedNotes": {
+      "message": "安全附註"
+   },
+   "rt_label_pl_file": {
+      "message": "檔案"
+   },
+   "rt_label_pl_login": {
+      "message": "登入"
+   },
+   "rt_label_pl_membership": {
+      "message": "會員"
+   },
+   "rt_label_pl_passport": {
+      "message": "護照"
+   },
+   "rt_label_pl_photo": {
+      "message": "照片"
+   },
+   "rt_label_pl_serverCredentials": {
+      "message": "伺服器"
+   },
+   "rt_label_pl_softwareLicense": {
+      "message": "軟體使用授權"
+   },
+   "rt_label_pl_sshKeys": {
+      "message": "SSH 密鑰"
+   },
+   "rt_label_pl_ssnCard": {
+      "message": "身分證件"
+   },
+   "rt_label_serverCredentials": {
+      "message": "伺服器"
+   },
+   "rt_label_softwareLicense": {
+      "message": "軟體授權"
+   },
+   "rt_label_sshKeys": {
+      "message": "SSH 密鑰"
+   },
+   "rt_label_ssnCard": {
+      "message": "身分證件"
+   },
+   "rt_label_wifi_login": {
+      "message": "Wi-Fi 登入帳號"
+   },
+   "rule_contains": {
+      "message": "包含至少 XXX 個文字符號： YYY"
+   },
+   "rule_contains_range_digit": {
+      "message": "包含至少XXX 個數字"
+   },
+   "rule_contains_range_lowercase": {
+      "message": "包含至少 XXX 個小寫字母"
+   },
+   "rule_contains_range_uppercase": {
+      "message": "包含至少 XXX 個大寫字母"
+   },
+   "rule_size_min": {
+      "message": "至少 XXX 個字符"
+   },
+   "safari_ext_off": {
+      "message": "Safari 的 Keeper 延伸功能目前已經停用。如要啟用，請到 Safari 設定的「延伸功能」段落。"
+   },
+   "safari_ext_on": {
+      "message": "Safari 的 Keeper 延伸功能目前已經啟用。如要關掉，請到 Safari 設定的「延伸功能」段落。"
+   },
+   "safari_ext_unknown": {
+      "message": "如要啟用 Safari 的 Keeper 延伸功能，請到 Safari 設定的「延伸功能」段落。"
+   },
+   "safari_upgrade_13": {
+      "message": "KeeperFill for Safari 只支援 macOS High Sierra（10.13.6）和以後推出的作業系統，而且只支援 Safari 13 和以後的版本。"
+   },
+   "save_password_not_logged_in": {
+      "message": "您目前已經登出 Keeper。請使用瀏覽器的 Keeper 上鎖符號登入帳號。"
+   },
+   "save_password_prompt": {
+      "message": "您要儲存這個密碼嗎？"
+   },
+   "save_password_setting_prompt": {
+      "message": "儲存密碼提示"
+   },
+   "save_password_setting_prompt_desc": {
+      "message": "在以新認證登入網站後取得建立新記錄的提示。"
+   },
+   "save_password_view": {
+      "message": "是否儲存變更內容到保險箱？別擔心，您隨時可以在「過往記錄」畫面中回復密碼。"
+   },
+   "save_password_view2": {
+      "message": "是否儲存變更內容到保險箱？"
+   },
+   "save_prompt": {
+      "message": "儲存提示"
+   },
+   "save_prompt2": {
+      "message": "詢問是否儲存密碼"
+   },
+   "scanning_for_key": {
+      "message": "正在掃描安全鎖是否存在⋯"
+   },
+   "screen_capture": {
+      "message": "屏幕截圖"
+   },
+   "secret1_header": {
+      "message": "帳號"
+   },
+   "secret2_header": {
+      "message": "密碼"
+   },
+   "secret_key": {
+      "message": "私密金鑰"
+   },
+   "secured_note": {
+      "message": "安全附註"
+   },
+   "security_key_generic_error": {
+      "message": "安全鎖發生錯誤，請再試一次。"
+   },
+   "security_key_not_associated": {
+      "message": "若要使用這支安全鎖登入，必須先在帳號中註冊這支安全鎖。"
+   },
+   "security_key_timeout": {
+      "message": "找不到您的安全鎖，請再試一次。"
+   },
+   "security_two_factor_title": {
+      "message": "兩步驗證"
+   },
+   "security_twofactor_3": {
+      "message": "驗證"
+   },
+   "see_data": {
+      "message": "See what data will be sent."
+   },
+   "select_an_issue": {
+      "message": "選擇一個問題"
+   },
+   "send_keeper_push": {
+      "message": "傳送 Keeper 推播通知"
+   },
+   "sending_pause": {
+      "message": "正在發送..."
+   },
+   "server_connection_timeout_try_later": {
+      "message": "伺服器連線逾時。請稍後再試一次。"
+   },
+   "set_as_primary_website": {
+      "message": "設為主要網站"
+   },
+   "set_to_default": {
+      "message": "設回預設值"
+   },
+   "set_up_biometric_login": {
+      "message": "設定生物辨識登入"
+   },
+   "setup": {
+      "message": "設定"
+   },
+   "setup_record_url": {
+      "message": "輸入網站的網址"
+   },
+   "sf_records": {
+      "message": "記錄"
+   },
+   "share_snapshot": {
+      "message": "共享快照"
+   },
+   "share_snapshot_desc": {
+      "message": "確保此快照中沒有包含機密信息後，請使用「共享快照」按鈕將此資訊傳送給 Keeper 的自動填寫改進團隊。"
+   },
+   "short_record_removed_ressage": {
+      "message": "將從保存庫中移除此記錄。"
+   },
+   "short_shared_record_removed_message": {
+      "message": "將從共用資料夾中移除此記錄。這些共用資料夾的成員將不再擁有存取權限。"
+   },
+   "show_addresses": {
+      "message": "顯示地址"
+   },
+   "show_all_passkeys": {
+      "message": "顯示所有密鑰"
+   },
+   "show_always": {
+      "message": "一律顯示"
+   },
+   "show_idb_storage": {
+      "message": "顯示 IDB 存儲空間"
+   },
+   "show_less": {
+      "message": "顯示較少"
+   },
+   "show_local_storage": {
+      "message": "顯示本地存儲空間"
+   },
+   "show_locks": {
+      "message": "顯示鎖頭圖像"
+   },
+   "show_more": {
+      "message": "顯示更多"
+   },
+   "show_on_hover": {
+      "message": "滑鼠游標停留在上方時顯示"
+   },
+   "show_payment_cards": {
+      "message": "顯示支付卡"
+   },
+   "show_snapshot_tool": {
+      "message": "顯示快照工具"
+   },
+   "showhide": {
+      "message": "顯示∕隱藏"
+   },
+   "sidebar_shortcut_favorites": {
+      "message": "收藏夾"
+   },
+   "sign_in": {
+      "message": "登入"
+   },
+   "single_click_filling_no_iframe": {
+      "message": "為了安全起見，這個網站不支援單擊填入功能（跨網域 iFrame）。如需協助，請洽 Keeper 客服部門。"
+   },
+   "slide_in": {
+      "message": "滑入"
+   },
+   "snapshot_shared": {
+      "message": "已共享快照"
+   },
+   "snapshot_tool": {
+      "message": "快照工具"
+   },
+   "snapshot_tool_disabled": {
+      "message": "停用快照工具"
+   },
+   "snapshot_tool_enabled": {
+      "message": "啟用快照工具"
+   },
+   "something_went_wrong": {
+      "message": "出錯了"
+   },
+   "something_went_wrong_caps": {
+      "message": "發生問題"
+   },
+   "sso_enterprise_domain": {
+      "message": "企業網域"
+   },
+   "state": {
+      "message": "State"
+   },
+   "state_province": {
+      "message": "州/省"
+   },
+   "stay_logged_in": {
+      "message": "保持登入狀態"
+   },
+   "stay_logged_in_desc2": {
+      "message": "開啟以在關閉和重新開啟 Keeper 或重新啟動裝置時保持登入。不包括完全以手動方式或由閒置登出計時器進行的登出。"
+   },
+   "stf_SSID": {
+      "message": "網路名稱（SSID）"
+   },
+   "stf_alternativeIPs": {
+      "message": "替代 IP"
+   },
+   "stf_cardholderName": {
+      "message": "持卡人姓名"
+   },
+   "stf_company": {
+      "message": "公司"
+   },
+   "stf_databaseId": {
+      "message": "資料庫 ID"
+   },
+   "stf_dateActive": {
+      "message": "啟用日期"
+   },
+   "stf_dateIssued": {
+      "message": "核發日期"
+   },
+   "stf_directoryId": {
+      "message": "目錄 ID"
+   },
+   "stf_dlNumber": {
+      "message": "駕照號碼"
+   },
+   "stf_domainName": {
+      "message": "網域名稱"
+   },
+   "stf_identificationNumber": {
+      "message": "識別號碼"
+   },
+   "stf_identityNumber": {
+      "message": "識別身分號碼"
+   },
+   "stf_insuredsName": {
+      "message": "被保險人姓名"
+   },
+   "stf_passphrase": {
+      "message": "長密碼"
+   },
+   "stf_passportNumber": {
+      "message": "護照號碼"
+   },
+   "stf_ssnNumber": {
+      "message": "身分證字號"
+   },
+   "stf_type": {
+      "message": "類型"
+   },
+   "street_address_one": {
+      "message": "第 1 行街道地址"
+   },
+   "street_address_two": {
+      "message": "第 2 行街道地址"
+   },
+   "submit_button": {
+      "message": "Submit Button"
+   },
+   "suggest_recs_count": {
+      "message": "有 XXX 個建議記錄"
+   },
+   "sync_data": {
+      "message": "同步資料"
+   },
+   "take_a_screenshot": {
+      "message": "截圖"
+   },
+   "take_snapshot": {
+      "message": "拍攝快照"
+   },
+   "take_snapshot_desc": {
+      "message": "拍攝此網頁的快照，以便與 Keeper 的自動填寫改進小組共享。"
+   },
+   "tap_to_fill": {
+      "message": "點一下即可填入"
+   },
+   "tell_us_what_went_wrong": {
+      "message": "請告訴我們哪裡有問題"
+   },
+   "terms": {
+      "message": "條款與協議"
+   },
+   "text_sent": {
+      "message": "簡訊已經送出，請稍候。"
+   },
+   "time_ago_1_month": {
+      "message": "1 個月前"
+   },
+   "time_ago_1_week": {
+      "message": "1 週前"
+   },
+   "time_ago_1_year": {
+      "message": "1 年前"
+   },
+   "time_ago_months": {
+      "message": "XXX 個月前"
+   },
+   "time_ago_weeks": {
+      "message": "XXX 週前"
+   },
+   "time_ago_years": {
+      "message": "XXX 年前"
+   },
+   "title_address_title_placeholder": {
+      "message": "標題（例如：住家、工作）"
+   },
+   "title_header": {
+      "message": "標題"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "top_left": {
+      "message": "左上角"
+   },
+   "top_right": {
+      "message": "右上角"
+   },
+   "totp_code_does_not_autofill": {
+      "message": "TOTP 代碼無法自動填入"
+   },
+   "tour_continue": {
+      "message": "繼續"
+   },
+   "try_again": {
+      "message": "再試一次"
+   },
+   "try_another_method": {
+      "message": "嘗試其他方法"
+   },
+   "tunnel_port": {
+      "message": "隧道連接埠"
+   },
+   "turn_off_verify_fill_mode": {
+      "message": "關閉驗證填充模式"
+   },
+   "turn_on_anyway": {
+      "message": "仍要開啟"
+   },
+   "turn_on_verify_fill_mode": {
+      "message": "開啟驗證填寫模式"
+   },
+   "two_fac_req": {
+      "message": "兩步驟認證要求"
+   },
+   "two_fact_rsa_success": {
+      "message": "認證成功"
+   },
+   "two_factor_channel_google": {
+      "message": "請輸入您的 Authenticator 中所顯示的驗證代碼。"
+   },
+   "two_factor_channel_push": {
+      "message": "請輸入顯示在您的DNA裝置上的驗證碼。"
+   },
+   "two_factor_channel_rsa": {
+      "message": "請輸入您的RSA密碼。"
+   },
+   "two_factor_channel_sms": {
+      "message": "您的驗證代碼已通過簡訊發送。"
+   },
+   "two_factor_code": {
+      "message": "雙重驗證碼"
+   },
+   "two_factor_code_duration": {
+      "message": "兩步驟驗證碼時間限制"
+   },
+   "two_factor_frequency_explanation": {
+      "message": "請選擇您希望系統提示您以雙因素驗證方式登入此裝置的頻率。"
+   },
+   "two_factor_generic_code_prompt": {
+      "message": "請輸入兩步驟驗證碼。"
+   },
+   "two_factor_invalid_totp": {
+      "message": "所提供的兩步驟驗證碼無效或已過期。"
+   },
+   "two_factor_method_title": {
+      "message": "兩步驟驗證方法"
+   },
+   "two_factor_need_totp": {
+      "message": "請輸入您的代碼"
+   },
+   "two_factor_required": {
+      "message": "您的Keeper管理員要求您使用兩步驗證。"
+   },
+   "two_factor_send_new_code": {
+      "message": "發送一個新的代碼"
+   },
+   "type_title": {
+      "message": "類型"
+   },
+   "u2f_login_instruction": {
+      "message": "請將安全鎖插入 USB 埠。如果安全鎖上有按鈕或者金色磁碟圖像，請點一下。"
+   },
+   "unable_to_generate": {
+      "message": "無法產生"
+   },
+   "unable_to_save": {
+      "message": "無法儲存"
+   },
+   "unexpected_error": {
+      "message": "發生未預期的錯誤。請重新啟動裝置，如果問題依舊存在，請前往 keepersecurity.com/support 以取得協助。"
+   },
+   "unexpected_error_with_code": {
+      "message": "發生未預期的錯誤。請重新啟動裝置，如果問題依舊存在，請前往 keepersecurity.com/support 以取得協助。(錯誤代碼：XXX)。"
+   },
+   "update_existing_passkey": {
+      "message": "更新現有的通行金鑰"
+   },
+   "update_passkey": {
+      "message": "更新通行金鑰"
+   },
+   "update_xxx": {
+      "message": "更新 XXX"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "use_another_method": {
+      "message": "使用其他方法"
+   },
+   "use_as_default_settings": {
+      "message": "做為預設設定"
+   },
+   "use_backup_2fa": {
+      "message": "使用備份兩步驟驗證法"
+   },
+   "use_passkey": {
+      "message": "使用通行金鑰"
+   },
+   "use_passphrase": {
+      "message": "使用長密碼"
+   },
+   "use_password": {
+      "message": "使用密碼"
+   },
+   "use_pin_code": {
+      "message": "使用 PIN 碼"
+   },
+   "use_two_factor_method": {
+      "message": "使用兩步驟驗證方法"
+   },
+   "username_and_password_do_not_autofill": {
+      "message": "使用者名稱和密碼不會自動填入"
+   },
+   "username_does_not_autofill": {
+      "message": "使用者名稱無法自動填寫"
+   },
+   "vault_login": {
+      "message": "保險箱登入"
+   },
+   "verification_code": {
+      "message": "驗證碼"
+   },
+   "verification_code_text": {
+      "message": "驗證碼"
+   },
+   "verified_fill_mode_off": {
+      "message": "已驗證填寫模式關閉"
+   },
+   "verified_fill_mode_on": {
+      "message": "已驗證填充模式開啟"
+   },
+   "verify": {
+      "message": "校驗"
+   },
+   "verify_fill_mode_warning": {
+      "message": "驗證填寫模式會在每次自動填寫前提示您確認。在您經常使用的網站上，這種額外的保護功能可能會中斷您的瀏覽流程，而且可能會對您造成干擾。"
+   },
+   "view_all_methods": {
+      "message": "查看所有方法"
+   },
+   "view_contents": {
+      "message": "查看內容"
+   },
+   "view_gen_history": {
+      "message": "檢視產生器記錄"
+   },
+   "view_password": {
+      "message": "查看密碼"
+   },
+   "view_password_restriction": {
+      "message": "Keeper 管理員限制查看這組密碼的行為。"
+   },
+   "view_qr_code": {
+      "message": "查看 QR Code"
+   },
+   "view_record_in_vault": {
+      "message": "已儲存記錄。您要查看嗎？"
+   },
+   "waiting": {
+      "message": "等待中⋯"
+   },
+   "warning_alert": {
+      "message": "警告"
+   },
+   "was_change_successful": {
+      "message": "這次變更成功了嗎？"
+   },
+   "website_days": {
+      "message": "Days"
+   },
+   "website_hours": {
+      "message": "Hours"
+   },
+   "website_partners_64": {
+      "message": "國碼"
+   },
+   "website_success": {
+      "message": "Success!"
+   },
+   "website_support_22": {
+      "message": "Web 保存庫"
+   },
+   "website_support_rev_02": {
+      "message": "需要幫忙嗎？"
+   },
+   "website_support_rev_32": {
+      "message": "Two-Factor Codes"
+   },
+   "word_count": {
+      "message": "XXX 個字"
+   },
+   "xxx_numbers": {
+      "message": "XXX 個數字"
+   },
+   "year": {
+      "message": "Year"
+   },
+   "yesterday": {
+      "message": "昨天"
+   },
+   "your_request_timed_out": {
+      "message": "您的要求已經逾時"
+   },
+   "zip_postal_code": {
+      "message": "郵遞區號"
+   }
+}

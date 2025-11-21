@@ -1,0 +1,14 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.focus-none:focus, .focus-none:focus-visible {
+  outline: none;
+}

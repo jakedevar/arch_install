@@ -1,0 +1,92 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.rtl {
+  direction: rtl;
+}
+
+.ltr {
+  direction: ltr;
+}
+
+#keeper-extension {
+  background-color: rgba(0, 0, 0, 0.25);
+  z-index: 2;
+  position: absolute;
+  inset: 0;
+}
+#keeper-extension #menubutton {
+  width: 24px;
+  height: 24px;
+  margin: 0 8px;
+}
+#keeper-extension #menubutton #edit-menu {
+  display: block;
+  background: white;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  top: 36px;
+  right: 36px;
+  z-index: 1;
+  cursor: pointer;
+  font-size: 13px;
+  color: black;
+  border-radius: 2px;
+}
+#keeper-extension #menubutton #edit-menu.rtl {
+  right: unset;
+  left: 24px;
+}
+#keeper-extension #menubutton #edit-menu > div.keeper-div {
+  position: unset;
+  box-shadow: unset;
+  white-space: nowrap;
+  padding: 8px 16px !important;
+}
+#keeper-extension #menubutton #edit-menu > div.keeper-div.disabled {
+  color: #888;
+  cursor: not-allowed;
+}
+#keeper-extension #menubutton #edit-menu > div.keeper-div:hover {
+  background-color: #ccc;
+}
+#keeper-extension #menubutton #edit-menu > div:first-child {
+  margin-top: 4px !important;
+}
+#keeper-extension #menubutton #edit-menu > div:last-child {
+  margin-bottom: 4px !important;
+}
+#keeper-extension #popup-back-button-container {
+  width: 100%;
+  align-self: center;
+  margin-right: 164px;
+  display: -moz-box;
+  display: flex;
+  font-family: Outfit, sans-serif;
+  font-size: 12px;
+  line-height: normal !important;
+  height: 24px;
+  cursor: pointer;
+  color: white;
+}
+#keeper-extension #popup-back-button-container .back-content {
+  font-size: 15px;
+  cursor: pointer;
+  width: 100%;
+  align-self: center;
+}
+#keeper-extension .overlay-shadow,
+#keeper-extension #overlay-shadow {
+  background-color: rgba(0, 0, 0, 0.25);
+  z-index: 2;
+  position: absolute;
+  inset: 0;
+}

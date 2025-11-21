@@ -1,0 +1,284 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#header {
+  position: relative;
+  display: -moz-box;
+  display: flex;
+  padding: 10px 16px;
+  height: 56px;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+#header .close:focus-visible {
+  outline: 2px solid white !important;
+}
+#header.mpreentry-header {
+  background-color: #191919;
+}
+#header #landscape-select div.trigger {
+  height: 32px;
+  width: 32px;
+  cursor: pointer;
+}
+#header #landscape-select div.trigger:focus-visible {
+  height: 34px;
+  width: 34px;
+  border-radius: 50%;
+  margin: -1px;
+}
+#header #landscape-select svg {
+  background: rgba(255, 255, 255, 0.2);
+}
+.high-contrast-mode #header #landscape-select svg {
+  background: rgb(0, 0, 0);
+}
+#header #landscape-select:hover svg {
+  background: rgba(255, 255, 255, 0.3);
+}
+.high-contrast-mode #header #landscape-select:hover svg {
+  background: rgb(0, 0, 0);
+}
+#header.newUi {
+  padding: 20px 20px 12px;
+}
+#header.newUi.transparent {
+  background-color: transparent;
+}
+#header .new-ui-opts {
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+#header .new-ui-opts .add,
+#header .new-ui-opts .more-btn,
+#header .new-ui-opts .avatar {
+  width: 32px;
+  height: 32px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: center;
+       justify-content: center;
+  -moz-box-align: center;
+       align-items: center;
+  border-radius: 100px;
+  cursor: pointer;
+}
+#header .new-ui-opts .more-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+#header .new-ui-opts .add:hover svg > path {
+  fill: #e6b300;
+}
+#header .new-ui-opts .avatar {
+  border: 1px solid;
+  color: #fff;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.dark-mode #header .new-ui-opts .avatar {
+  color: #fff;
+}
+.high-contrast-mode #header .new-ui-opts .avatar {
+  color: ButtonText;
+}
+.dark-mode #header .new-ui-opts .avatar {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.high-contrast-mode #header .new-ui-opts .avatar {
+  border-color: ButtonText;
+}
+#header .new-ui-opts .avatar img {
+  border-radius: 50%;
+  width: 32px;
+}
+#header .new-ui-opts .more-btn {
+  background: rgba(255, 255, 255, 0.2);
+}
+#header .new-ui-opts .user-menu,
+#header .new-ui-opts .toolbar-menu {
+  position: absolute;
+  cursor: default;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-pack: center;
+       justify-content: center;
+  box-shadow: 0 6px 18px 0 rgba(0, 0, 0, 0.3);
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px;
+  z-index: 5;
+}
+#header .new-ui-opts .toolbar-menu {
+  width: 280px;
+  position: absolute;
+  top: 48px;
+  right: 28px;
+  -moz-box-align: baseline;
+       align-items: baseline;
+}
+#header .new-ui-opts .toolbar-menu hr {
+  width: 100%;
+  margin: 7.5px 0;
+}
+#header .new-ui-opts .toolbar-menu .item {
+  padding: 8px 16px;
+  height: 40px;
+  width: 100%;
+  cursor: pointer;
+  color: black;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  border-radius: 8px;
+  gap: 8px;
+}
+#header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate,
+#header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh {
+  width: 24px;
+  height: 24px;
+}
+#header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate path,
+#header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate rect,
+#header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh path,
+#header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh rect {
+  fill: #000;
+}
+.dark-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate path,
+.dark-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate rect,
+.dark-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh path,
+.dark-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh rect {
+  fill: #fff;
+}
+.high-contrast-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate path,
+.high-contrast-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-rotate rect,
+.high-contrast-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh path,
+.high-contrast-mode #header .new-ui-opts .toolbar-menu .item.sync-btn .keeper-iconbutton-refresh rect {
+  fill: CanvasText;
+}
+#header .new-ui-opts .toolbar-menu .item.disabled {
+  cursor: not-allowed;
+}
+#header .new-ui-opts .toolbar-menu .item:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+#header .new-ui-opts .user-menu {
+  width: 320px;
+  min-height: 124px;
+  max-height: 148px;
+  top: 48px;
+  right: 20px;
+}
+#header .new-ui-opts .user-menu .name {
+  color: black;
+  height: 24px;
+}
+#header .new-ui-opts .user-menu .email {
+  color: #565656;
+  height: 20px;
+}
+#header .new-ui-opts .user-menu .name,
+#header .new-ui-opts .user-menu .email {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+}
+#header .new-ui-opts .user-menu .avatar {
+  width: 40px;
+  height: 40px;
+}
+#header .new-ui-opts .user-menu .avatar img {
+  width: 40px;
+}
+#header .new-ui-opts .user-menu hr {
+  background-color: #d8d8d8;
+  width: 302px;
+}
+#header .new-ui-opts .user-menu .logout {
+  height: 40px;
+  color: #ce021b;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  position: relative;
+  cursor: pointer;
+  width: 90%;
+}
+#header > div:first-child {
+  -moz-box-align: center;
+       align-items: center;
+  display: -moz-box;
+  display: flex;
+}
+#header #back-button-arrow {
+  height: 24px;
+  width: 24px;
+}
+#header .keeperlogo {
+  margin-left: 8px;
+  cursor: pointer;
+}
+#header .keeperlogo:focus-visible {
+  border-radius: 8px;
+  outline: 2px solid white !important;
+  margin: -2px;
+  margin-left: 6px;
+}
+#header .icon.help {
+  display: -moz-box;
+  display: flex;
+  cursor: pointer;
+  margin-right: 2px;
+}
+#header .icon.vault {
+  font-size: 20px;
+  margin-right: 5px;
+  padding: 2px;
+}
+#header .close {
+  cursor: pointer;
+  width: auto;
+  height: 32px;
+  padding: 5px 0;
+  color: #fff;
+  display: -moz-box;
+  display: flex;
+  font-size: 13px;
+  padding-right: 4px;
+}
+#header .cancel {
+  height: 24px;
+  width: 24px;
+  cursor: pointer;
+}
+#header .icon svg path {
+  fill: white;
+}
+#header .save {
+  margin-right: 8px;
+  height: 24px;
+  width: 24px;
+  cursor: pointer;
+  color: white;
+}
+#header #save-icon-root {
+  margin: 0 0 0 auto;
+}

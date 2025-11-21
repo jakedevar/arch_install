@@ -1,0 +1,8 @@
+/*! asn1hex-1.1.js (c) 2012 Kenji Urushima | kjur.github.com/jsrsasign/license
+ */
+
+/**
+ * @file {@link http://asmjs.org Asm.js} implementation of the {@link https://en.wikipedia.org/wiki/Advanced_Encryption_Standard Advanced Encryption Standard}.
+ * @author Artem S Vybornov <vybornov@gmail.com>
+ * @license MIT
+ */

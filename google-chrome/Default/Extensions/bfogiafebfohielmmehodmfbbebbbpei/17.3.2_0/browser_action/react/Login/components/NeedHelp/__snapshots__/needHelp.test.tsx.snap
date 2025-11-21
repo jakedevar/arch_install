@@ -1,0 +1,805 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toggles open and closed 1`] = `
+{
+  "instance": null,
+  "nodeType": "component",
+  "props": {
+    "children": <NeedHelp
+      modalOpen={false}
+      setModalOpen={[MockFunction]}
+    />,
+    "store": {
+      "dispatch": [Function],
+      "getState": [Function],
+      "subscribe": [Function],
+    },
+  },
+  "rendered": {
+    "instance": null,
+    "nodeType": "component",
+    "props": {
+      "modalOpen": false,
+      "setModalOpen": [MockFunction],
+    },
+    "rendered": {
+      "instance": null,
+      "nodeType": "host",
+      "props": {
+        "children": [
+          <div
+            aria-label="Help"
+            className="need-help-container row center-just center-align focus-visible"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="combobox"
+            tabIndex={0}
+          >
+            <div
+              className="gold keeper-outfit outfit-body-medium"
+            >
+              Need Help?
+            </div>
+            <CaretDown
+              svgColorName="#ffc700"
+            />
+          </div>,
+          <div
+            className="need-help-items hidden"
+            onKeyDown={[Function]}
+          >
+            <div
+              className="keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible"
+              onClick={[Function]}
+              role="link"
+              tabIndex={-1}
+            >
+              Forgot Password
+            </div>
+            <div
+              className="keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible"
+              onClick={[Function]}
+              role="link"
+              tabIndex={-1}
+            >
+              Get Help
+            </div>
+          </div>,
+        ],
+      },
+      "rendered": [
+        {
+          "instance": null,
+          "nodeType": "host",
+          "props": {
+            "aria-label": "Help",
+            "children": [
+              <div
+                className="gold keeper-outfit outfit-body-medium"
+              >
+                Need Help?
+              </div>,
+              <CaretDown
+                svgColorName="#ffc700"
+              />,
+            ],
+            "className": "need-help-container row center-just center-align focus-visible",
+            "onClick": [Function],
+            "onKeyDown": [Function],
+            "role": "combobox",
+            "tabIndex": 0,
+          },
+          "rendered": [
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Need Help?",
+                "className": "gold keeper-outfit outfit-body-medium",
+              },
+              "rendered": [
+                "Need Help?",
+              ],
+              "type": "div",
+            },
+            {
+              "instance": null,
+              "nodeType": "component",
+              "props": {
+                "svgColorName": "#ffc700",
+              },
+              "rendered": {
+                "instance": null,
+                "nodeType": "host",
+                "props": {
+                  "children": [
+                    <path
+                      d="M7.5 10L12.5 15L17.5 10H7.5Z"
+                      fill="#ffc700"
+                    />,
+                    <g
+                      mask="url(#mask0_310_5174)"
+                    >
+                      <rect
+                        height="24"
+                        width="24"
+                        x="0.5"
+                      />
+                    </g>,
+                  ],
+                  "fill": "none",
+                  "height": "24",
+                  "viewBox": "0 0 25 24",
+                  "width": "25",
+                  "xmlns": "http://www.w3.org/2000/svg",
+                },
+                "rendered": [
+                  {
+                    "instance": null,
+                    "nodeType": "host",
+                    "props": {
+                      "d": "M7.5 10L12.5 15L17.5 10H7.5Z",
+                      "fill": "#ffc700",
+                    },
+                    "rendered": [],
+                    "type": "path",
+                  },
+                  {
+                    "instance": null,
+                    "nodeType": "host",
+                    "props": {
+                      "children": <rect
+                        height="24"
+                        width="24"
+                        x="0.5"
+                      />,
+                      "mask": "url(#mask0_310_5174)",
+                    },
+                    "rendered": [
+                      {
+                        "instance": null,
+                        "nodeType": "host",
+                        "props": {
+                          "height": "24",
+                          "width": "24",
+                          "x": "0.5",
+                        },
+                        "rendered": [],
+                        "type": "rect",
+                      },
+                    ],
+                    "type": "g",
+                  },
+                ],
+                "type": "svg",
+              },
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        {
+          "instance": null,
+          "nodeType": "host",
+          "props": {
+            "children": [
+              <div
+                className="keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible"
+                onClick={[Function]}
+                role="link"
+                tabIndex={-1}
+              >
+                Forgot Password
+              </div>,
+              <div
+                className="keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible"
+                onClick={[Function]}
+                role="link"
+                tabIndex={-1}
+              >
+                Get Help
+              </div>,
+            ],
+            "className": "need-help-items hidden",
+            "onKeyDown": [Function],
+          },
+          "rendered": [
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Forgot Password",
+                "className": "keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible",
+                "onClick": [Function],
+                "role": "link",
+                "tabIndex": -1,
+              },
+              "rendered": [
+                "Forgot Password",
+              ],
+              "type": "div",
+            },
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Get Help",
+                "className": "keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible",
+                "onClick": [Function],
+                "role": "link",
+                "tabIndex": -1,
+              },
+              "rendered": [
+                "Get Help",
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+    "type": [Function],
+  },
+  "type": [Function],
+}
+`;
+
+exports[`toggles open and closed 2`] = `
+{
+  "instance": null,
+  "nodeType": "component",
+  "props": {
+    "children": <NeedHelp
+      modalOpen={false}
+      setModalOpen={
+        [MockFunction] {
+          "calls": [
+            [
+              true,
+            ],
+          ],
+          "results": [
+            {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+    />,
+    "store": {
+      "dispatch": [Function],
+      "getState": [Function],
+      "subscribe": [Function],
+    },
+  },
+  "rendered": {
+    "instance": null,
+    "nodeType": "component",
+    "props": {
+      "modalOpen": false,
+      "setModalOpen": [MockFunction] {
+        "calls": [
+          [
+            true,
+          ],
+        ],
+        "results": [
+          {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      },
+    },
+    "rendered": {
+      "instance": null,
+      "nodeType": "host",
+      "props": {
+        "children": [
+          <div
+            aria-label="Help"
+            className="need-help-container row center-just center-align focus-visible"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="combobox"
+            tabIndex={0}
+          >
+            <div
+              className="gold keeper-outfit outfit-body-medium"
+            >
+              Need Help?
+            </div>
+            <CaretDown
+              svgColorName="#ffc700"
+            />
+          </div>,
+          <div
+            className="need-help-items hidden"
+            onKeyDown={[Function]}
+          >
+            <div
+              className="keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible"
+              onClick={[Function]}
+              role="link"
+              tabIndex={-1}
+            >
+              Forgot Password
+            </div>
+            <div
+              className="keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible"
+              onClick={[Function]}
+              role="link"
+              tabIndex={-1}
+            >
+              Get Help
+            </div>
+          </div>,
+        ],
+      },
+      "rendered": [
+        {
+          "instance": null,
+          "nodeType": "host",
+          "props": {
+            "aria-label": "Help",
+            "children": [
+              <div
+                className="gold keeper-outfit outfit-body-medium"
+              >
+                Need Help?
+              </div>,
+              <CaretDown
+                svgColorName="#ffc700"
+              />,
+            ],
+            "className": "need-help-container row center-just center-align focus-visible",
+            "onClick": [Function],
+            "onKeyDown": [Function],
+            "role": "combobox",
+            "tabIndex": 0,
+          },
+          "rendered": [
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Need Help?",
+                "className": "gold keeper-outfit outfit-body-medium",
+              },
+              "rendered": [
+                "Need Help?",
+              ],
+              "type": "div",
+            },
+            {
+              "instance": null,
+              "nodeType": "component",
+              "props": {
+                "svgColorName": "#ffc700",
+              },
+              "rendered": {
+                "instance": null,
+                "nodeType": "host",
+                "props": {
+                  "children": [
+                    <path
+                      d="M7.5 10L12.5 15L17.5 10H7.5Z"
+                      fill="#ffc700"
+                    />,
+                    <g
+                      mask="url(#mask0_310_5174)"
+                    >
+                      <rect
+                        height="24"
+                        width="24"
+                        x="0.5"
+                      />
+                    </g>,
+                  ],
+                  "fill": "none",
+                  "height": "24",
+                  "viewBox": "0 0 25 24",
+                  "width": "25",
+                  "xmlns": "http://www.w3.org/2000/svg",
+                },
+                "rendered": [
+                  {
+                    "instance": null,
+                    "nodeType": "host",
+                    "props": {
+                      "d": "M7.5 10L12.5 15L17.5 10H7.5Z",
+                      "fill": "#ffc700",
+                    },
+                    "rendered": [],
+                    "type": "path",
+                  },
+                  {
+                    "instance": null,
+                    "nodeType": "host",
+                    "props": {
+                      "children": <rect
+                        height="24"
+                        width="24"
+                        x="0.5"
+                      />,
+                      "mask": "url(#mask0_310_5174)",
+                    },
+                    "rendered": [
+                      {
+                        "instance": null,
+                        "nodeType": "host",
+                        "props": {
+                          "height": "24",
+                          "width": "24",
+                          "x": "0.5",
+                        },
+                        "rendered": [],
+                        "type": "rect",
+                      },
+                    ],
+                    "type": "g",
+                  },
+                ],
+                "type": "svg",
+              },
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        {
+          "instance": null,
+          "nodeType": "host",
+          "props": {
+            "children": [
+              <div
+                className="keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible"
+                onClick={[Function]}
+                role="link"
+                tabIndex={-1}
+              >
+                Forgot Password
+              </div>,
+              <div
+                className="keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible"
+                onClick={[Function]}
+                role="link"
+                tabIndex={-1}
+              >
+                Get Help
+              </div>,
+            ],
+            "className": "need-help-items hidden",
+            "onKeyDown": [Function],
+          },
+          "rendered": [
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Forgot Password",
+                "className": "keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible",
+                "onClick": [Function],
+                "role": "link",
+                "tabIndex": -1,
+              },
+              "rendered": [
+                "Forgot Password",
+              ],
+              "type": "div",
+            },
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Get Help",
+                "className": "keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible",
+                "onClick": [Function],
+                "role": "link",
+                "tabIndex": -1,
+              },
+              "rendered": [
+                "Get Help",
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+    "type": [Function],
+  },
+  "type": [Function],
+}
+`;
+
+exports[`toggles open and closed 3`] = `
+{
+  "instance": null,
+  "nodeType": "component",
+  "props": {
+    "children": <NeedHelp
+      modalOpen={false}
+      setModalOpen={
+        [MockFunction] {
+          "calls": [
+            [
+              true,
+            ],
+            [
+              false,
+            ],
+          ],
+          "results": [
+            {
+              "type": "return",
+              "value": undefined,
+            },
+            {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+    />,
+    "store": {
+      "dispatch": [Function],
+      "getState": [Function],
+      "subscribe": [Function],
+    },
+  },
+  "rendered": {
+    "instance": null,
+    "nodeType": "component",
+    "props": {
+      "modalOpen": false,
+      "setModalOpen": [MockFunction] {
+        "calls": [
+          [
+            true,
+          ],
+          [
+            false,
+          ],
+        ],
+        "results": [
+          {
+            "type": "return",
+            "value": undefined,
+          },
+          {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      },
+    },
+    "rendered": {
+      "instance": null,
+      "nodeType": "host",
+      "props": {
+        "children": [
+          <div
+            aria-label="Help"
+            className="need-help-container row center-just center-align focus-visible"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="combobox"
+            tabIndex={0}
+          >
+            <div
+              className="gold keeper-outfit outfit-body-medium"
+            >
+              Need Help?
+            </div>
+            <CaretDown
+              svgColorName="#ffc700"
+            />
+          </div>,
+          <div
+            className="need-help-items hidden"
+            onKeyDown={[Function]}
+          >
+            <div
+              className="keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible"
+              onClick={[Function]}
+              role="link"
+              tabIndex={-1}
+            >
+              Forgot Password
+            </div>
+            <div
+              className="keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible"
+              onClick={[Function]}
+              role="link"
+              tabIndex={-1}
+            >
+              Get Help
+            </div>
+          </div>,
+        ],
+      },
+      "rendered": [
+        {
+          "instance": null,
+          "nodeType": "host",
+          "props": {
+            "aria-label": "Help",
+            "children": [
+              <div
+                className="gold keeper-outfit outfit-body-medium"
+              >
+                Need Help?
+              </div>,
+              <CaretDown
+                svgColorName="#ffc700"
+              />,
+            ],
+            "className": "need-help-container row center-just center-align focus-visible",
+            "onClick": [Function],
+            "onKeyDown": [Function],
+            "role": "combobox",
+            "tabIndex": 0,
+          },
+          "rendered": [
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Need Help?",
+                "className": "gold keeper-outfit outfit-body-medium",
+              },
+              "rendered": [
+                "Need Help?",
+              ],
+              "type": "div",
+            },
+            {
+              "instance": null,
+              "nodeType": "component",
+              "props": {
+                "svgColorName": "#ffc700",
+              },
+              "rendered": {
+                "instance": null,
+                "nodeType": "host",
+                "props": {
+                  "children": [
+                    <path
+                      d="M7.5 10L12.5 15L17.5 10H7.5Z"
+                      fill="#ffc700"
+                    />,
+                    <g
+                      mask="url(#mask0_310_5174)"
+                    >
+                      <rect
+                        height="24"
+                        width="24"
+                        x="0.5"
+                      />
+                    </g>,
+                  ],
+                  "fill": "none",
+                  "height": "24",
+                  "viewBox": "0 0 25 24",
+                  "width": "25",
+                  "xmlns": "http://www.w3.org/2000/svg",
+                },
+                "rendered": [
+                  {
+                    "instance": null,
+                    "nodeType": "host",
+                    "props": {
+                      "d": "M7.5 10L12.5 15L17.5 10H7.5Z",
+                      "fill": "#ffc700",
+                    },
+                    "rendered": [],
+                    "type": "path",
+                  },
+                  {
+                    "instance": null,
+                    "nodeType": "host",
+                    "props": {
+                      "children": <rect
+                        height="24"
+                        width="24"
+                        x="0.5"
+                      />,
+                      "mask": "url(#mask0_310_5174)",
+                    },
+                    "rendered": [
+                      {
+                        "instance": null,
+                        "nodeType": "host",
+                        "props": {
+                          "height": "24",
+                          "width": "24",
+                          "x": "0.5",
+                        },
+                        "rendered": [],
+                        "type": "rect",
+                      },
+                    ],
+                    "type": "g",
+                  },
+                ],
+                "type": "svg",
+              },
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        {
+          "instance": null,
+          "nodeType": "host",
+          "props": {
+            "children": [
+              <div
+                className="keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible"
+                onClick={[Function]}
+                role="link"
+                tabIndex={-1}
+              >
+                Forgot Password
+              </div>,
+              <div
+                className="keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible"
+                onClick={[Function]}
+                role="link"
+                tabIndex={-1}
+              >
+                Get Help
+              </div>,
+            ],
+            "className": "need-help-items hidden",
+            "onKeyDown": [Function],
+          },
+          "rendered": [
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Forgot Password",
+                "className": "keeper-outfit outfit-body-medium highlighted need-help-item forgot-master-password-container focus-visible",
+                "onClick": [Function],
+                "role": "link",
+                "tabIndex": -1,
+              },
+              "rendered": [
+                "Forgot Password",
+              ],
+              "type": "div",
+            },
+            {
+              "instance": null,
+              "nodeType": "host",
+              "props": {
+                "children": "Get Help",
+                "className": "keeper-outfit outfit-body-medium need-help-item get-help-container focus-visible",
+                "onClick": [Function],
+                "role": "link",
+                "tabIndex": -1,
+              },
+              "rendered": [
+                "Get Help",
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+    "type": [Function],
+  },
+  "type": [Function],
+}
+`;

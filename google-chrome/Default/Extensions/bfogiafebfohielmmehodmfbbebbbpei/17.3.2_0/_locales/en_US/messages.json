@@ -1,0 +1,3929 @@
+{
+   "508_record_menu": {
+      "message": "Record Options Menu"
+   },
+   "About": {
+      "message": "About"
+   },
+   "Accept": {
+      "message": "Accept"
+   },
+   "Account": {
+      "message": "Account"
+   },
+   "Action_delete": {
+      "message": "Delete"
+   },
+   "Action_edit": {
+      "message": "Edit"
+   },
+   "Add_Account": {
+      "message": "Add Account"
+   },
+   "Add_to_Existing": {
+      "message": "Add to Existing Record"
+   },
+   "Addresses": {
+      "message": "Addresses"
+   },
+   "AllRecords": {
+      "message": "All Records"
+   },
+   "Appearance": {
+      "message": "Appearance"
+   },
+   "AutoFill": {
+      "message": "Autofill"
+   },
+   "Back": {
+      "message": "Back"
+   },
+   "Cancel": {
+      "message": "Cancel"
+   },
+   "ChatAuthenticationRequired": {
+      "message": "Authentication Required"
+   },
+   "ChatEnterCode": {
+      "message": "Enter Code"
+   },
+   "ChatSaveCodeForever": {
+      "message": "Don't ask again on this device"
+   },
+   "Close": {
+      "message": "Close"
+   },
+   "Continue": {
+      "message": "Continue"
+   },
+   "Copy": {
+      "message": "Copy"
+   },
+   "CreateNew": {
+      "message": "Create New Record"
+   },
+   "Data_Vault": {
+      "message": "Vault"
+   },
+   "Delete": {
+      "message": "Delete"
+   },
+   "Disable": {
+      "message": "Disable"
+   },
+   "Dont_show_again": {
+      "message": "Don't show again."
+   },
+   "Edit": {
+      "message": "Edit"
+   },
+   "Edit_Record": {
+      "message": "Edit Record"
+   },
+   "Email": {
+      "message": "Email"
+   },
+   "Email_Address": {
+      "message": "Email Address"
+   },
+   "Email_not_valid": {
+      "message": "Email address does not appear to be valid."
+   },
+   "Enable": {
+      "message": "Enable"
+   },
+   "Enter_master_password": {
+      "message": "Enter Master Password"
+   },
+   "Error": {
+      "message": "Error"
+   },
+   "Exit": {
+      "message": "Exit"
+   },
+   "Fill": {
+      "message": "Fill"
+   },
+   "Fill_Password": {
+      "message": "Fill Password"
+   },
+   "Fill_and_Save_Caps": {
+      "message": "Fill and Save"
+   },
+   "Fill_and_save": {
+      "message": "Fill and save"
+   },
+   "FolderName": {
+      "message": "Folder Name"
+   },
+   "Generate_passphrase": {
+      "message": "Generate Passphrase"
+   },
+   "Generate_password": {
+      "message": "Generate Password"
+   },
+   "Help": {
+      "message": "Help"
+   },
+   "Hide": {
+      "message": "Hide"
+   },
+   "History": {
+      "message": "history"
+   },
+   "InvalidEmailOrPassword": {
+      "message": "Invalid email or password combination, please re-enter."
+   },
+   "KeeperAskLoginIntervalQuestion": {
+      "message": "Automatically logout of Keeper in:"
+   },
+   "KeeperProfile_new": {
+      "message": "Create an Account"
+   },
+   "Launch": {
+      "message": "Launch"
+   },
+   "Login": {
+      "message": "Login"
+   },
+   "Login_Link": {
+      "message": "Website Address"
+   },
+   "Logout": {
+      "message": "Logout"
+   },
+   "LogoutOfKeeper": {
+      "message": "Logout of Keeper"
+   },
+   "LogoutTimer": {
+      "message": "Logout Timer"
+   },
+   "Menu_options": {
+      "message": "Options"
+   },
+   "Minutes": {
+      "message": "Minutes"
+   },
+   "Network_error": {
+      "message": "Unable to connect.  Please check your network connection."
+   },
+   "New_Record": {
+      "message": "New Record"
+   },
+   "Next": {
+      "message": "Next"
+   },
+   "No": {
+      "message": "No"
+   },
+   "Number": {
+      "message": "Number"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "Okay": {
+      "message": "Okay"
+   },
+   "Options": {
+      "message": "Options"
+   },
+   "PasswordGenerator": {
+      "message": "Password Generator"
+   },
+   "Passwords": {
+      "message": "Passwords"
+   },
+   "Please_fill_out_restore_fields_code": {
+      "message": "Please enter the verification code sent to your email."
+   },
+   "QuickStartGuide": {
+      "message": "User Guide"
+   },
+   "Remove": {
+      "message": "Remove"
+   },
+   "Require_every_12_hours": {
+      "message": "Require 2FA every 12 hours"
+   },
+   "Require_every_24_hours": {
+      "message": "Require 2FA every 24 hours"
+   },
+   "Require_every_30_days": {
+      "message": "Require 2FA every 30 days"
+   },
+   "Require_every_login": {
+      "message": "Require 2FA every login"
+   },
+   "SSO_connection_failure": {
+      "message": "Unable to connect to SSO provider. Please try again later."
+   },
+   "Save": {
+      "message": "Save"
+   },
+   "Save_code__forever": {
+      "message": "Don't ask again on this device"
+   },
+   "Save_passphrase": {
+      "message": "Save Passphrase"
+   },
+   "Save_password": {
+      "message": "Save Password"
+   },
+   "Search": {
+      "message": "Search"
+   },
+   "SearchKeeper": {
+      "message": "Search Keeper"
+   },
+   "SendEmail": {
+      "message": "Send Email"
+   },
+   "Separator": {
+      "message": "Separator"
+   },
+   "Settings": {
+      "message": "Settings"
+   },
+   "Share": {
+      "message": "Share"
+   },
+   "Show": {
+      "message": "Show"
+   },
+   "Success": {
+      "message": "Success"
+   },
+   "Theme": {
+      "message": "Theme"
+   },
+   "ThemeColorAluminum": {
+      "message": "Aluminum"
+   },
+   "ThemeColorBlueGreen": {
+      "message": "Overpass Blue"
+   },
+   "ThemeColorBurgundy": {
+      "message": "Burgundy"
+   },
+   "ThemeColorClassic": {
+      "message": "Classic"
+   },
+   "ThemeColorDeepOcean": {
+      "message": "Deep Ocean"
+   },
+   "ThemeColorFlame": {
+      "message": "Flame"
+   },
+   "ThemeColorGlam": {
+      "message": "Glam"
+   },
+   "ThemeColorGreen": {
+      "message": "Green"
+   },
+   "ThemeColorPhoenix": {
+      "message": "Phoenix"
+   },
+   "ThemeColorRedBlue": {
+      "message": "Red and Blue"
+   },
+   "Themes": {
+      "message": "Themes"
+   },
+   "Title_required": {
+      "message": "Title is a Required Field."
+   },
+   "Uppercase": {
+      "message": "Uppercase"
+   },
+   "Username": {
+      "message": "Username"
+   },
+   "VaultLoginTerms": {
+      "message": "By using Keeper, you agree to our \u003Ca class=\"highlight\" href=\"https://keepersecurity.com/termsofuse.html\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Use\u003C/a>."
+   },
+   "Version": {
+      "message": "Version"
+   },
+   "View": {
+      "message": "View"
+   },
+   "Yes": {
+      "message": "Yes"
+   },
+   "access_denied": {
+      "message": "You do not have the required privilege to perform this operation."
+   },
+   "access_denied_v3": {
+      "message": "Access Denied"
+   },
+   "account_deletion_confirmation": {
+      "message": "Delete Account"
+   },
+   "account_locked": {
+      "message": "This account has been locked. Please contact your Keeper Administrator for assistance."
+   },
+   "account_transfer_popup_message": {
+      "message": "Your Keeper vault has the 'Account Transfer' policy enabled which permits a designated Keeper Administrator role to transfer your vault records at a later date, in accordance with your organization's operating procedures and policies. Please acknowledge this policy by clicking 'Accept'."
+   },
+   "action_collapse": {
+      "message": "Collapse"
+   },
+   "action_expand": {
+      "message": "Expand"
+   },
+   "action_select": {
+      "message": "Select"
+   },
+   "add_address": {
+      "message": "Add Address"
+   },
+   "add_login": {
+      "message": "Add Login"
+   },
+   "add_passkey": {
+      "message": "Add Passkey"
+   },
+   "add_passkey_to_login": {
+      "message": "Add Passkey to Login"
+   },
+   "add_payment_card": {
+      "message": "Add Payment Card"
+   },
+   "add_to_favs": {
+      "message": "Add to Favorites"
+   },
+   "add_website_address": {
+      "message": "Add Website Address"
+   },
+   "address_field": {
+      "message": "Address Field"
+   },
+   "address_saved": {
+      "message": "Address Saved!"
+   },
+   "address_updated": {
+      "message": "Address Updated!"
+   },
+   "adjusted": {
+      "message": "adjusted"
+   },
+   "admin_qsg_297": {
+      "message": "Two-Factor Authentication"
+   },
+   "admin_reauthenticate": {
+      "message": "Your admin requires you to re-authenticate in order to proceed."
+   },
+   "advanced_settings": {
+      "message": "Advanced Settings"
+   },
+   "all_categories": {
+      "message": "All Categories"
+   },
+   "all_storage_cleared": {
+      "message": "All Storage Cleared"
+   },
+   "always_show": {
+      "message": "Always Show"
+   },
+   "animation": {
+      "message": "Animation"
+   },
+   "approve_this_device_by_method_below": {
+      "message": "Approve this device by selecting a method below:"
+   },
+   "approved": {
+      "message": "Approved"
+   },
+   "are_you_sure": {
+      "message": "Are you sure?"
+   },
+   "are_you_sure_title": {
+      "message": "Are You Sure?"
+   },
+   "artwork_appname": {
+      "message": "Keeper® Password Manager & Digital Vault"
+   },
+   "artwork_appname_safari": {
+      "message": "Keeper® Password Manager & Digital Vault"
+   },
+   "auto_logout_extension_help": {
+      "message": "Auto-Logout timer setting is managed by your Keeper Browser Extension."
+   },
+   "auto_submit": {
+      "message": "Auto Submit"
+   },
+   "auto_submit_desc": {
+      "message": "After autofilling your login, Keeper will automatically submit the website form and login to the website."
+   },
+   "auto_submit_desc3": {
+      "message": "Control whether forms are automatically submitted once Username and Password are entered."
+   },
+   "auto_submit_desc_2": {
+      "message": "After autofilling your username and password, Keeper will automatically submit the form and log in to the website."
+   },
+   "autofill2_": {
+      "message": "Autofill on page load"
+   },
+   "autofill_cleared": {
+      "message": "Autofill Field Fixes Cleared!"
+   },
+   "autofill_desc_2": {
+      "message": "For records with autofill on page load enabled, ask before autofilling on page load."
+   },
+   "autofill_fill_http": {
+      "message": "Keeper has detected that the website domain XXX is using an insecure http connection and any submitted information will be exposed unencrypted on your network. Click OK to fill the credentials or click Cancel to abort."
+   },
+   "autofill_fills_wrong_field": {
+      "message": "Autofill fills wrong field"
+   },
+   "autofill_issue_notes_label": {
+      "message": "Add more details to help us understand the issue."
+   },
+   "autofill_issue_notes_label_optional": {
+      "message": "Add more details to help us understand the issue. (Optional)"
+   },
+   "autofill_issue_notes_placeholder": {
+      "message": "Example: Skipped password field"
+   },
+   "autofill_issue_reported": {
+      "message": "Autofill Issue Reported"
+   },
+   "autofill_issues_message": {
+      "message": "Autofill issues can be fixed by right clicking into the field to fix the issue"
+   },
+   "autofill_only_fills_part_of_the_field": {
+      "message": "Autofill only fills part of the field"
+   },
+   "autofill_prompt_desc": {
+      "message": "Get a prompt to autofill when visiting a website you have at least one record for."
+   },
+   "autofill_restored": {
+      "message": "Autofill Settings Restored!"
+   },
+   "autofill_suggest": {
+      "message": "Autofill Suggestions"
+   },
+   "autofill_suggestions": {
+      "message": "Autofill Suggestions"
+   },
+   "autofill_suggestions_desc": {
+      "message": "Suggest Keeper-stored emails and strong password when creating or registering a new login."
+   },
+   "autofill_title_2": {
+      "message": "Autofill Prompt"
+   },
+   "autosubmit2": {
+      "message": "Autosubmit after autofill"
+   },
+   "back_to_login": {
+      "message": "Back to Login"
+   },
+   "bad_client_time": {
+      "message": "Please check the date and time settings of your device."
+   },
+   "be_header_store_text": {
+      "message": "Generate strong passwords, autofill and protect your confidential info with zero-knowledge encryption."
+   },
+   "be_header_store_text_safari": {
+      "message": "Generate strong passwords, autofill and protect your confidential info with zero-knowledge encryption."
+   },
+   "be_install_title": {
+      "message": "Add Keeper to your Browser"
+   },
+   "be_security_keys_not_supported_desc": {
+      "message": "Security keys are not supported with SSO Connect On-Prem. Please use the Web Vault to login."
+   },
+   "be_updated_error": {
+      "message": "Updated. Please restart your browser."
+   },
+   "billing_address": {
+      "message": "Billing Address"
+   },
+   "biometric_login": {
+      "message": "Biometric Login"
+   },
+   "biometric_login_disabled": {
+      "message": "Biometric Login Disabled"
+   },
+   "biometric_login_enabled": {
+      "message": "Biometric Login Enabled"
+   },
+   "bottom_left": {
+      "message": "Bottom Left"
+   },
+   "bottom_right": {
+      "message": "Bottom Right"
+   },
+   "buy_city": {
+      "message": "City"
+   },
+   "buy_country_title": {
+      "message": "Country"
+   },
+   "buy_security_code_placeholder": {
+      "message": "CVC"
+   },
+   "buy_state": {
+      "message": "State"
+   },
+   "call_sent": {
+      "message": "We are calling you now, please wait"
+   },
+   "card_number": {
+      "message": "Card Number"
+   },
+   "cardname_ending_in_cardnumber": {
+      "message": "XXX ending in YYY"
+   },
+   "cardnumber_required": {
+      "message": "Card number is required."
+   },
+   "ccc_AD": {
+      "message": "Andorra"
+   },
+   "ccc_AE": {
+      "message": "United Arab Emirates"
+   },
+   "ccc_AF": {
+      "message": "Afghanistan"
+   },
+   "ccc_AG": {
+      "message": "Antigua and Barbuda"
+   },
+   "ccc_AI": {
+      "message": "Anguilla"
+   },
+   "ccc_AL": {
+      "message": "Albania"
+   },
+   "ccc_AM": {
+      "message": "Armenia"
+   },
+   "ccc_AN": {
+      "message": "Netherlands Antilles"
+   },
+   "ccc_AO": {
+      "message": "Angola"
+   },
+   "ccc_AR": {
+      "message": "Argentina"
+   },
+   "ccc_AS": {
+      "message": "Samoa, American (U.S. Possession)"
+   },
+   "ccc_AT": {
+      "message": "Austria"
+   },
+   "ccc_AU": {
+      "message": "Australia"
+   },
+   "ccc_AW": {
+      "message": "Aruba"
+   },
+   "ccc_AZ": {
+      "message": "Azerbaijan"
+   },
+   "ccc_BA": {
+      "message": "Bosnia and Herzegovina"
+   },
+   "ccc_BB": {
+      "message": "Barbados"
+   },
+   "ccc_BD": {
+      "message": "Bangladesh"
+   },
+   "ccc_BE": {
+      "message": "Belgium"
+   },
+   "ccc_BF": {
+      "message": "Burkina Faso"
+   },
+   "ccc_BG": {
+      "message": "Bulgaria"
+   },
+   "ccc_BH": {
+      "message": "Bahrain"
+   },
+   "ccc_BI": {
+      "message": "Burundi"
+   },
+   "ccc_BJ": {
+      "message": "Benin"
+   },
+   "ccc_BM": {
+      "message": "Bermuda"
+   },
+   "ccc_BN": {
+      "message": "Brunei Darussalam"
+   },
+   "ccc_BO": {
+      "message": "Bolivia"
+   },
+   "ccc_BR": {
+      "message": "Brazil"
+   },
+   "ccc_BS": {
+      "message": "Bahamas"
+   },
+   "ccc_BT": {
+      "message": "Bhutan"
+   },
+   "ccc_BW": {
+      "message": "Botswana"
+   },
+   "ccc_BY": {
+      "message": "Belarus"
+   },
+   "ccc_BZ": {
+      "message": "Belize"
+   },
+   "ccc_CA": {
+      "message": "Canada"
+   },
+   "ccc_CC": {
+      "message": "Cocos Island (Australia)"
+   },
+   "ccc_CD": {
+      "message": "Democratic Republic of Congo"
+   },
+   "ccc_CF": {
+      "message": "Central African Rep."
+   },
+   "ccc_CG": {
+      "message": "Republic of Congo"
+   },
+   "ccc_CH": {
+      "message": "Switzerland"
+   },
+   "ccc_CI": {
+      "message": "Côte d'Ivoire"
+   },
+   "ccc_CK": {
+      "message": "Cook Islands (New Zealand)"
+   },
+   "ccc_CL": {
+      "message": "Chile"
+   },
+   "ccc_CM": {
+      "message": "Cameroon"
+   },
+   "ccc_CN": {
+      "message": "China"
+   },
+   "ccc_CO": {
+      "message": "Colombia"
+   },
+   "ccc_CR": {
+      "message": "Costa Rica"
+   },
+   "ccc_CS": {
+      "message": "Serbia, Republic of"
+   },
+   "ccc_CU": {
+      "message": "Cuba"
+   },
+   "ccc_CV": {
+      "message": "Cape Verde"
+   },
+   "ccc_CY": {
+      "message": "Cyprus"
+   },
+   "ccc_CZ": {
+      "message": "Czechia"
+   },
+   "ccc_DE": {
+      "message": "Germany"
+   },
+   "ccc_DJ": {
+      "message": "Djibouti"
+   },
+   "ccc_DK": {
+      "message": "Denmark"
+   },
+   "ccc_DM": {
+      "message": "Dominica"
+   },
+   "ccc_DO": {
+      "message": "Dominican Republic"
+   },
+   "ccc_DZ": {
+      "message": "Algeria"
+   },
+   "ccc_EC": {
+      "message": "Ecuador"
+   },
+   "ccc_EE": {
+      "message": "Estonia"
+   },
+   "ccc_EG": {
+      "message": "Egypt"
+   },
+   "ccc_ER": {
+      "message": "Eritrea"
+   },
+   "ccc_ES": {
+      "message": "Spain"
+   },
+   "ccc_ET": {
+      "message": "Ethiopia"
+   },
+   "ccc_FI": {
+      "message": "Finland"
+   },
+   "ccc_FJ": {
+      "message": "Fiji"
+   },
+   "ccc_FK": {
+      "message": "Falkland Islands"
+   },
+   "ccc_FM": {
+      "message": "Micronesia, Federated States of"
+   },
+   "ccc_FO": {
+      "message": "Faroe Islands"
+   },
+   "ccc_FR": {
+      "message": "France"
+   },
+   "ccc_GA": {
+      "message": "Gabon"
+   },
+   "ccc_GB": {
+      "message": "United Kingdom (Great Britain)"
+   },
+   "ccc_GD": {
+      "message": "Grenada"
+   },
+   "ccc_GE": {
+      "message": "Georgia, Republic of"
+   },
+   "ccc_GF": {
+      "message": "French Guiana"
+   },
+   "ccc_GH": {
+      "message": "Ghana"
+   },
+   "ccc_GI": {
+      "message": "Gibraltar"
+   },
+   "ccc_GL": {
+      "message": "Greenland"
+   },
+   "ccc_GM": {
+      "message": "Gambia"
+   },
+   "ccc_GN": {
+      "message": "Guinea"
+   },
+   "ccc_GP": {
+      "message": "Guadeloupe"
+   },
+   "ccc_GQ": {
+      "message": "Equatorial Guinea"
+   },
+   "ccc_GR": {
+      "message": "Greece"
+   },
+   "ccc_GS": {
+      "message": "South Georgia (Falkland Islands)"
+   },
+   "ccc_GT": {
+      "message": "Guatemala"
+   },
+   "ccc_GU": {
+      "message": "Guam (U.S. Possession)"
+   },
+   "ccc_GW": {
+      "message": "Guineae-Bissau"
+   },
+   "ccc_GY": {
+      "message": "Guyana"
+   },
+   "ccc_HK": {
+      "message": "Hong Kong"
+   },
+   "ccc_HN": {
+      "message": "Honduras"
+   },
+   "ccc_HR": {
+      "message": "Croatia"
+   },
+   "ccc_HT": {
+      "message": "Haiti"
+   },
+   "ccc_HU": {
+      "message": "Hungary"
+   },
+   "ccc_ID": {
+      "message": "Indonesia"
+   },
+   "ccc_IE": {
+      "message": "Ireland (Eire)"
+   },
+   "ccc_IL": {
+      "message": "Israel"
+   },
+   "ccc_IN": {
+      "message": "India"
+   },
+   "ccc_IQ": {
+      "message": "Iraq"
+   },
+   "ccc_IR": {
+      "message": "Iran"
+   },
+   "ccc_IS": {
+      "message": "Iceland"
+   },
+   "ccc_IT": {
+      "message": "Italy"
+   },
+   "ccc_JM": {
+      "message": "Jamaica"
+   },
+   "ccc_JO": {
+      "message": "Jordan"
+   },
+   "ccc_JP": {
+      "message": "Japan"
+   },
+   "ccc_KE": {
+      "message": "Kenya"
+   },
+   "ccc_KG": {
+      "message": "Kyrgyzstan"
+   },
+   "ccc_KH": {
+      "message": "Cambodia"
+   },
+   "ccc_KI": {
+      "message": "Kiribati"
+   },
+   "ccc_KM": {
+      "message": "Comoros"
+   },
+   "ccc_KN": {
+      "message": "Saint Kitts (St. Christopher and Nevis)"
+   },
+   "ccc_KR": {
+      "message": "Korea, Republic of"
+   },
+   "ccc_KW": {
+      "message": "Kuwait"
+   },
+   "ccc_KY": {
+      "message": "Cayman Islands"
+   },
+   "ccc_KZ": {
+      "message": "Kazakhstan"
+   },
+   "ccc_LA": {
+      "message": "Laos"
+   },
+   "ccc_LB": {
+      "message": "Lebanon"
+   },
+   "ccc_LC": {
+      "message": "Saint Lucia"
+   },
+   "ccc_LI": {
+      "message": "Liechtenstein"
+   },
+   "ccc_LK": {
+      "message": "Sri Lanka"
+   },
+   "ccc_LR": {
+      "message": "Liberia"
+   },
+   "ccc_LS": {
+      "message": "Lesotho"
+   },
+   "ccc_LT": {
+      "message": "Lithuania"
+   },
+   "ccc_LU": {
+      "message": "Luxembourg"
+   },
+   "ccc_LV": {
+      "message": "Latvia"
+   },
+   "ccc_MA": {
+      "message": "Morocco"
+   },
+   "ccc_MC": {
+      "message": "Monaco (France)"
+   },
+   "ccc_MD": {
+      "message": "Moldova"
+   },
+   "ccc_MG": {
+      "message": "Madagascar"
+   },
+   "ccc_MH": {
+      "message": "Marshall Islands, Republic of the"
+   },
+   "ccc_MK": {
+      "message": "Macedonia"
+   },
+   "ccc_ML": {
+      "message": "Mali"
+   },
+   "ccc_MM": {
+      "message": "Myanmar"
+   },
+   "ccc_MN": {
+      "message": "Mongolia"
+   },
+   "ccc_MO": {
+      "message": "Macao"
+   },
+   "ccc_MP": {
+      "message": "Northern Mariana Islands, Commonwealth of"
+   },
+   "ccc_MQ": {
+      "message": "Martinique"
+   },
+   "ccc_MR": {
+      "message": "Mauritania"
+   },
+   "ccc_MS": {
+      "message": "Montserrat"
+   },
+   "ccc_MT": {
+      "message": "Malta"
+   },
+   "ccc_MU": {
+      "message": "Mauritius"
+   },
+   "ccc_MV": {
+      "message": "Maldives"
+   },
+   "ccc_MW": {
+      "message": "Malawi"
+   },
+   "ccc_MX": {
+      "message": "Mexico"
+   },
+   "ccc_MY": {
+      "message": "Malaysia"
+   },
+   "ccc_MZ": {
+      "message": "Mozambique"
+   },
+   "ccc_NA": {
+      "message": "Namibia"
+   },
+   "ccc_NC": {
+      "message": "New Caledonia"
+   },
+   "ccc_NE": {
+      "message": "Niger"
+   },
+   "ccc_NF": {
+      "message": "Norfolk Island (Australia)"
+   },
+   "ccc_NG": {
+      "message": "Nigeria"
+   },
+   "ccc_NI": {
+      "message": "Nicaragua"
+   },
+   "ccc_NL": {
+      "message": "Netherlands"
+   },
+   "ccc_NO": {
+      "message": "Norway"
+   },
+   "ccc_NP": {
+      "message": "Nepal"
+   },
+   "ccc_NR": {
+      "message": "Nauru"
+   },
+   "ccc_NU": {
+      "message": "Niue (New Zealand)"
+   },
+   "ccc_NZ": {
+      "message": "New Zealand"
+   },
+   "ccc_OM": {
+      "message": "Oman"
+   },
+   "ccc_PA": {
+      "message": "Panama"
+   },
+   "ccc_PE": {
+      "message": "Peru"
+   },
+   "ccc_PF": {
+      "message": "French Polynesia"
+   },
+   "ccc_PG": {
+      "message": "Papua New Guinea"
+   },
+   "ccc_PH": {
+      "message": "Philippines"
+   },
+   "ccc_PK": {
+      "message": "Pakistan"
+   },
+   "ccc_PL": {
+      "message": "Poland"
+   },
+   "ccc_PM": {
+      "message": "Saint Pierre and Miquelon"
+   },
+   "ccc_PN": {
+      "message": "Pitcairn Island"
+   },
+   "ccc_PR": {
+      "message": "Puerto Rico"
+   },
+   "ccc_PT": {
+      "message": "Portugal"
+   },
+   "ccc_PW": {
+      "message": "Palau"
+   },
+   "ccc_PY": {
+      "message": "Paraguay"
+   },
+   "ccc_QA": {
+      "message": "Qatar"
+   },
+   "ccc_RE": {
+      "message": "Reunion"
+   },
+   "ccc_RO": {
+      "message": "Romania"
+   },
+   "ccc_RU": {
+      "message": "Russia"
+   },
+   "ccc_RW": {
+      "message": "Rwanda"
+   },
+   "ccc_SA": {
+      "message": "Saudi Arabia"
+   },
+   "ccc_SB": {
+      "message": "Solomon Islands"
+   },
+   "ccc_SC": {
+      "message": "Seychelles"
+   },
+   "ccc_SD": {
+      "message": "Sudan"
+   },
+   "ccc_SE": {
+      "message": "Sweden"
+   },
+   "ccc_SG": {
+      "message": "Singapore"
+   },
+   "ccc_SH": {
+      "message": "Saint Helena"
+   },
+   "ccc_SI": {
+      "message": "Slovenia"
+   },
+   "ccc_SK": {
+      "message": "Slovak Republic (Slovakia)"
+   },
+   "ccc_SL": {
+      "message": "Sierra Leone"
+   },
+   "ccc_SM": {
+      "message": "San Marino"
+   },
+   "ccc_SN": {
+      "message": "Senegal"
+   },
+   "ccc_SO": {
+      "message": "Somalia"
+   },
+   "ccc_SR": {
+      "message": "Suriname"
+   },
+   "ccc_ST": {
+      "message": "Sao Tome and Principe"
+   },
+   "ccc_SV": {
+      "message": "El Salvador"
+   },
+   "ccc_SY": {
+      "message": "Syrian Arab Republic (Syria)"
+   },
+   "ccc_SZ": {
+      "message": "Swaziland"
+   },
+   "ccc_TC": {
+      "message": "Turks and Caicos Islands"
+   },
+   "ccc_TD": {
+      "message": "Chad"
+   },
+   "ccc_TG": {
+      "message": "Togo"
+   },
+   "ccc_TH": {
+      "message": "Thailand"
+   },
+   "ccc_TJ": {
+      "message": "Tajikistan"
+   },
+   "ccc_TK": {
+      "message": "Tokelau (Union) Group (Western Samoa)"
+   },
+   "ccc_TL": {
+      "message": "Timor (Indonesia)"
+   },
+   "ccc_TM": {
+      "message": "Turkmenistan"
+   },
+   "ccc_TN": {
+      "message": "Tunisia"
+   },
+   "ccc_TO": {
+      "message": "Tonga"
+   },
+   "ccc_TR": {
+      "message": "Turkey"
+   },
+   "ccc_TT": {
+      "message": "Trinidad and Tobago"
+   },
+   "ccc_TV": {
+      "message": "Tuvalu"
+   },
+   "ccc_TW": {
+      "message": "Taiwan"
+   },
+   "ccc_TZ": {
+      "message": "Tanzania"
+   },
+   "ccc_UA": {
+      "message": "Ukraine"
+   },
+   "ccc_UG": {
+      "message": "Uganda"
+   },
+   "ccc_UM": {
+      "message": "United States Minor Outlying Islands"
+   },
+   "ccc_US": {
+      "message": "United States"
+   },
+   "ccc_UY": {
+      "message": "Uruguay"
+   },
+   "ccc_UZ": {
+      "message": "Uzbekistan"
+   },
+   "ccc_VA": {
+      "message": "Vatican City"
+   },
+   "ccc_VC": {
+      "message": "Saint Vincent and the Grenadines"
+   },
+   "ccc_VE": {
+      "message": "Venezuela"
+   },
+   "ccc_VG": {
+      "message": "British Virgin Islands"
+   },
+   "ccc_VI": {
+      "message": "Virgin Islands U.S."
+   },
+   "ccc_VN": {
+      "message": "Vietnam"
+   },
+   "ccc_VU": {
+      "message": "Vanuatu"
+   },
+   "ccc_WF": {
+      "message": "Wallis and Futuna Islands"
+   },
+   "ccc_WS": {
+      "message": "Samoa, American (U.S. Possession)"
+   },
+   "ccc_YE": {
+      "message": "Yemen"
+   },
+   "ccc_YT": {
+      "message": "Mayotte (France)"
+   },
+   "ccc_ZA": {
+      "message": "South Africa"
+   },
+   "ccc_ZM": {
+      "message": "Zambia"
+   },
+   "ccc_ZW": {
+      "message": "Zimbabwe"
+   },
+   "change_password": {
+      "message": "Change Password"
+   },
+   "change_password_complete": {
+      "message": "The password has been changed in your vault. Please submit the change on the website."
+   },
+   "change_pw_prompt": {
+      "message": "Change Password Prompt"
+   },
+   "change_pw_prompt_desc": {
+      "message": "Get a prompt that offers assistance with changing your password."
+   },
+   "change_your_password": {
+      "message": "Would you like to change and save your password?"
+   },
+   "change_your_password2": {
+      "message": "Would you like Keeper to help you change your password?"
+   },
+   "character_count": {
+      "message": "XXX Characters"
+   },
+   "character_length": {
+      "message": "Character Length: XXX"
+   },
+   "check_spam_folder_reminder": {
+      "message": "Please check your spam or junk folder for an email from keepersecurity.com. You can add keepersecurity.com to your safe list."
+   },
+   "city": {
+      "message": "City"
+   },
+   "clear_all_storage": {
+      "message": "Clear All Storage"
+   },
+   "clear_field_fixes_for_this_site": {
+      "message": "Clear Field Fixes For This Site"
+   },
+   "clear_generatory_history": {
+      "message": "Clear Password Generator History"
+   },
+   "clear_hist": {
+      "message": "Clear History"
+   },
+   "clear_hist_warning": {
+      "message": "You are about to permanently clear the password generator history."
+   },
+   "clear_idb_storage": {
+      "message": "Clear IndexedDB Storage"
+   },
+   "clear_local_storage": {
+      "message": "Clear Local Storage"
+   },
+   "clear_search": {
+      "message": "Clear Search"
+   },
+   "click_to_fill": {
+      "message": "Click to Fill"
+   },
+   "clipboard_expiration": {
+      "message": "Clipboard Expiration"
+   },
+   "clipboard_expiration_description": {
+      "message": "Automatically clear your clipboard shortly after copying any values from the browser extension."
+   },
+   "code_invalid": {
+      "message": "Invalid Code"
+   },
+   "commerce_popup_final_notice": {
+      "message": "FINAL NOTICE"
+   },
+   "commerce_popup_final_notice_message": {
+      "message": "Your Keeper trial expires in 24 hours. Access to premium features will be disabled. Please upgrade now to retain full access."
+   },
+   "confirm_new_password": {
+      "message": "Confirm New Password"
+   },
+   "confirm_password": {
+      "message": "Confirm Password"
+   },
+   "confirm_password_view": {
+      "message": "Click lock in confirm password field to fill updated password and click next."
+   },
+   "confirm_screenshot": {
+      "message": "Confirm Screenshot"
+   },
+   "connection_port": {
+      "message": "Connection Port"
+   },
+   "console_loading": {
+      "message": "Loading..."
+   },
+   "consumer_auto_backup_option3": {
+      "message": "Every 30 Days"
+   },
+   "contact_address": {
+      "message": "Address"
+   },
+   "contact_firstname": {
+      "message": "First Name"
+   },
+   "contact_lastname": {
+      "message": "Last Name"
+   },
+   "contact_phonenumber": {
+      "message": "Phone Number"
+   },
+   "copy_passphrase": {
+      "message": "Copy Passphrase"
+   },
+   "copy_password": {
+      "message": "Copy Password"
+   },
+   "copy_pin_code": {
+      "message": "Copy PIN Code"
+   },
+   "copy_two_factor_code": {
+      "message": "Copy Two-Factor Code"
+   },
+   "couldnt_complete_snapshot": {
+      "message": "We couldn’t complete the snapshot."
+   },
+   "country": {
+      "message": "Country"
+   },
+   "create_a_record": {
+      "message": "Create a Record"
+   },
+   "create_account": {
+      "message": "Create Account"
+   },
+   "create_login_with_passkey": {
+      "message": "Create Login with Passkey"
+   },
+   "create_new": {
+      "message": "Create New"
+   },
+   "create_passkey": {
+      "message": "Create Passkey"
+   },
+   "create_record": {
+      "message": "Create Record"
+   },
+   "created_date_xxx": {
+      "message": "Created XXX"
+   },
+   "creating_preview": {
+      "message": "Creating Preview"
+   },
+   "current_password": {
+      "message": "Current Password"
+   },
+   "cvv": {
+      "message": "CVV"
+   },
+   "date_modified": {
+      "message": "Date Modified"
+   },
+   "day_ago": {
+      "message": "1 day ago"
+   },
+   "days_ago": {
+      "message": "XXX days ago"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete_passkey": {
+      "message": "Delete Passkey"
+   },
+   "delete_this_passkey_question": {
+      "message": "Delete this passkey?"
+   },
+   "desktop_installer_language": {
+      "message": "Keeper is free to use for local password management on native desktop and mobile apps. Premium features such as Cloud Storage, Backup, Sharing, Web App, Browser Extensions and Sync are free for 30-days and require a paid annual subscription thereafter. Cloud features require an internet connection."
+   },
+   "device_approval": {
+      "message": "Device Approval"
+   },
+   "did_this_fix_issue": {
+      "message": "Did this fix your issue?"
+   },
+   "disable_snapshot_tool": {
+      "message": "Disable Snapshot Tool"
+   },
+   "disabled_prompt": {
+      "message": "KeeperFill Disabled Prompt"
+   },
+   "disabled_prompt_desc": {
+      "message": "Get a prompt when Keeper stops processing fields on a webpage due to potential performance issues."
+   },
+   "dismiss": {
+      "message": "Dismiss"
+   },
+   "display_locks": {
+      "message": "Display Locks"
+   },
+   "dna_options_title": {
+      "message": "Keeper DNA"
+   },
+   "dna_waiting_watch": {
+      "message": "Waiting for Watch Verification..."
+   },
+   "domain_matching": {
+      "message": "Domain Matching"
+   },
+   "domain_specific_password_title": {
+      "message": "Your Keeper administrator requires that your password must follow these rules:"
+   },
+   "dont_show": {
+      "message": "Don’t Show Again"
+   },
+   "duo_instructions": {
+      "message": "We'll send you a push, text or call with a passcode to XXX."
+   },
+   "duo_push": {
+      "message": "Duo Push"
+   },
+   "duo_push_description": {
+      "message": "We'll send you a push, text or call with a passcode to your device."
+   },
+   "duo_push_was_denied": {
+      "message": "Duo Push was denied."
+   },
+   "duo_sent": {
+      "message": "Duo push notification has already been sent, please wait."
+   },
+   "duo_text_desc": {
+      "message": "Send a text message with the passcode"
+   },
+   "duo_text_message": {
+      "message": "Text Message"
+   },
+   "duo_voice_call": {
+      "message": "Voice Call"
+   },
+   "duo_voice_desc": {
+      "message": "Get the passcode through a voice call"
+   },
+   "edit_address": {
+      "message": "Edit Address"
+   },
+   "edit_card": {
+      "message": "Edit Card"
+   },
+   "edit_field_label": {
+      "message": "Edit Field Label"
+   },
+   "effortless_login": {
+      "message": "Effortless Login"
+   },
+   "email_or_username": {
+      "message": "Email or Username"
+   },
+   "email_verification_message": {
+      "message": "An email has been sent to XXX with instructions. If a verification code is provided, you may enter it below."
+   },
+   "enable_keeperfill": {
+      "message": "Enable KeeperFill"
+   },
+   "enable_snapshot_tool": {
+      "message": "Show Snapshot Tool"
+   },
+   "enable_verify_fill_mode": {
+      "message": "Enable Verify Fill Mode"
+   },
+   "encryption_error": {
+      "message": "There was a problem decrypting your vault. If you need assistance please visit keepersecurity.com/support."
+   },
+   "enter_a_password": {
+      "message": "Enter a password"
+   },
+   "enter_a_username": {
+      "message": "Enter a username"
+   },
+   "enter_city": {
+      "message": "Please enter city"
+   },
+   "enter_country": {
+      "message": "Please enter country"
+   },
+   "enter_cvv_number": {
+      "message": "Please enter CVV"
+   },
+   "enter_email": {
+      "message": "Enter email address"
+   },
+   "enter_exp_date": {
+      "message": "Please enter expiration date"
+   },
+   "enter_first_name": {
+      "message": "Please enter your first name"
+   },
+   "enter_last_name": {
+      "message": "Please enter your last name"
+   },
+   "enter_name_on_card": {
+      "message": "Please enter name on card"
+   },
+   "enter_rsa_passcode": {
+      "message": "Enter RSA Passcode"
+   },
+   "enter_street_address": {
+      "message": "Please enter a street address"
+   },
+   "enter_valid_phone": {
+      "message": "Please enter a valid phone number."
+   },
+   "enter_verification_code": {
+      "message": "Enter Verification Code"
+   },
+   "enter_verification_code2": {
+      "message": "Enter Two-Factor Code"
+   },
+   "enterprise_sso_connect_button": {
+      "message": "Connect"
+   },
+   "enterprise_sso_login": {
+      "message": "Enterprise SSO Login"
+   },
+   "enterprise_sso_login_domain_desc": {
+      "message": "SSO User with an Enterprise Domain"
+   },
+   "enterprise_sso_login_domain_title": {
+      "message": "Enterprise Domain"
+   },
+   "enterprise_sso_login_mp_desc": {
+      "message": "SSO User with a Master Password"
+   },
+   "enterprise_sso_login_mp_title": {
+      "message": "Master Password"
+   },
+   "every_24_hours": {
+      "message": "Every 24 hours"
+   },
+   "every_30_days": {
+      "message": "Every 30 days"
+   },
+   "every_login": {
+      "message": "Every Login"
+   },
+   "every_login_lowercase": {
+      "message": "Every login"
+   },
+   "every_twelve_hours": {
+      "message": "Every 12 hours"
+   },
+   "existing_passkey_detected": {
+      "message": "Existing Passkey Detected"
+   },
+   "exp": {
+      "message": "Exp"
+   },
+   "expiration": {
+      "message": "Expiration"
+   },
+   "expired_master_password_description": {
+      "message": "Your Master Password has expired. You are required to change it before you can login."
+   },
+   "expired_please_purchase": {
+      "message": "Your subscription has expired. Please purchase a subscription now."
+   },
+   "ext_2FACopied": {
+      "message": "2FA Code Copied!"
+   },
+   "ext_AccessibilityDesc": {
+      "message": "Focus on Keeper form field icons when tabbing with keyboard controls."
+   },
+   "ext_AddCountry": {
+      "message": "Add Country"
+   },
+   "ext_AddFolder": {
+      "message": "Add Folder"
+   },
+   "ext_AddressLineOnePlaceholder": {
+      "message": "1234 S. Holland Dr."
+   },
+   "ext_AddressLineTwoPlaceholder": {
+      "message": "Apt. #2"
+   },
+   "ext_AddressSaved": {
+      "message": "Address saved!"
+   },
+   "ext_AddressTitlePlaceholder": {
+      "message": "e.g. My Work Address"
+   },
+   "ext_AllowQRCodeDesc": {
+      "message": "Allow others to join this network by scanning the QR code."
+   },
+   "ext_AltMPError": {
+      "message": "This login page is for Enterprise SSO customers who use an alternate Master Password. Please start over and login from the Keeper Browser Extension screen by typing your email and clicking \"Next\"."
+   },
+   "ext_AutofillEnable": {
+      "message": "Autofill Enable"
+   },
+   "ext_AutofillPrefs": {
+      "message": "Autofill Preferences"
+   },
+   "ext_AutofillPrefsDesc": {
+      "message": "Which record would you like Keeper to autofill for this site?"
+   },
+   "ext_AutofillTitle": {
+      "message": "Autofill on this site"
+   },
+   "ext_BrowserPrompts": {
+      "message": "Browser Prompts"
+   },
+   "ext_BrowserPromptsDesc": {
+      "message": "Choose which prompts you want Keeper to display in your browser."
+   },
+   "ext_CCNCopied": {
+      "message": "Card Number Copied!"
+   },
+   "ext_CVVCopied": {
+      "message": "CVV Copied!"
+   },
+   "ext_Capitals": {
+      "message": "Capitals"
+   },
+   "ext_CardCVVExample": {
+      "message": "123"
+   },
+   "ext_CardExpDateExample": {
+      "message": "12/22"
+   },
+   "ext_CardNumber": {
+      "message": "Card Number"
+   },
+   "ext_CardSaved": {
+      "message": "Card saved!"
+   },
+   "ext_CardTitlePlaceholder": {
+      "message": "My Mastercard"
+   },
+   "ext_CharacterCount": {
+      "message": "XXX Characters"
+   },
+   "ext_ChooseARecordType": {
+      "message": "Choose a record type:"
+   },
+   "ext_ChooseRecordToChangePW": {
+      "message": "Which record would you like Keeper to change the password for?"
+   },
+   "ext_CityPlaceholder": {
+      "message": "Charlottesville"
+   },
+   "ext_Copy2FACode": {
+      "message": "Copy 2FA Code"
+   },
+   "ext_CopyCCN": {
+      "message": "Copy Card Number"
+   },
+   "ext_CopyCVV": {
+      "message": "Copy CVV"
+   },
+   "ext_CopyLoginID": {
+      "message": "Copy Login ID"
+   },
+   "ext_CopyPIN": {
+      "message": "Copy PIN Code"
+   },
+   "ext_CopyPassphrase": {
+      "message": "Copy Passphrase"
+   },
+   "ext_CopyPassword": {
+      "message": "Copy Password"
+   },
+   "ext_CopyUsername": {
+      "message": "Copy Username"
+   },
+   "ext_DarkMode": {
+      "message": "Dark Mode"
+   },
+   "ext_Date": {
+      "message": "Date"
+   },
+   "ext_Encryption": {
+      "message": "Encryption"
+   },
+   "ext_ExpiredMasterPasswordDesc": {
+      "message": "You are required to change your Master Password before you can login again."
+   },
+   "ext_ExpiredMasterPasswordTitle": {
+      "message": "Your Master Password has expired."
+   },
+   "ext_ExpiresMMYY": {
+      "message": "Expires (mm/yy)"
+   },
+   "ext_FirstNamePlaceholder": {
+      "message": "John"
+   },
+   "ext_FontSize": {
+      "message": "Font Size"
+   },
+   "ext_FontSizeDescription": {
+      "message": "Drag the slider below to change the font size of text in the extension."
+   },
+   "ext_FormFieldIcons": {
+      "message": "Form Field Icons"
+   },
+   "ext_FormFieldIconsDesc": {
+      "message": "Keeper icons appear inside fillable form fields and can be clicked to bring up suggestions and additional options."
+   },
+   "ext_FullNamePlaceholder": {
+      "message": "John Appleton"
+   },
+   "ext_Hidden": {
+      "message": "Hidden"
+   },
+   "ext_HideQRCode": {
+      "message": "Hide QR Code"
+   },
+   "ext_KeeperAskLoginIntervalQuestion": {
+      "message": "Automatically logout of Keeper after:"
+   },
+   "ext_LastNamePlaceholder": {
+      "message": "Appleton"
+   },
+   "ext_LightMode": {
+      "message": "Light Mode"
+   },
+   "ext_LoginIDCopied": {
+      "message": "Login ID Copied!"
+   },
+   "ext_Logout": {
+      "message": "Log Out"
+   },
+   "ext_LogoutOfUsername": {
+      "message": "Logout of XXX"
+   },
+   "ext_LogoutTimer": {
+      "message": "Inactivity Logout Timer"
+   },
+   "ext_Lowercase": {
+      "message": "Lowercase"
+   },
+   "ext_MatchingCount": {
+      "message": "XXX Matching"
+   },
+   "ext_MatchingRecordCount": {
+      "message": "XXX Matching Record"
+   },
+   "ext_MatchingRecords": {
+      "message": "Matching Records"
+   },
+   "ext_MatchingRecordsCount": {
+      "message": "XXX Matching Records"
+   },
+   "ext_MatchingSites": {
+      "message": "Matching Sites"
+   },
+   "ext_Matching_records_amount_plural": {
+      "message": "XXX Matching Logins"
+   },
+   "ext_Matching_records_amount_singular": {
+      "message": "XXX Matching Login"
+   },
+   "ext_MyGoogleLogin": {
+      "message": "My Google Login"
+   },
+   "ext_MyVault": {
+      "message": "My Vault"
+   },
+   "ext_Name": {
+      "message": "Name"
+   },
+   "ext_NetworkName": {
+      "message": "Network Name"
+   },
+   "ext_NetworkVisibility": {
+      "message": "Network Visibility"
+   },
+   "ext_NoMatchingAddresses": {
+      "message": "There are no addresses in your vault. Want to create one?"
+   },
+   "ext_NoMatchingPaymentCards": {
+      "message": "There are no payment cards in your vault. Want to create one?"
+   },
+   "ext_NoMatchingRecords": {
+      "message": "There are no records in your vault that match this website. Want to create one?"
+   },
+   "ext_NoRecordsMessage": {
+      "message": "You have no records."
+   },
+   "ext_NoResultsFound": {
+      "message": "No Results Found"
+   },
+   "ext_NotesCopied": {
+      "message": "Notes Copied!"
+   },
+   "ext_Number": {
+      "message": "Number"
+   },
+   "ext_Numbers": {
+      "message": "Numbers"
+   },
+   "ext_OfflineUnavailable": {
+      "message": "Offline Vault is not available on this device until you have logged in at least one time while online. Note that Offline Vault is only available to Keeper Business and Enterprise customers with approval of the Keeper Administrator."
+   },
+   "ext_OneResult": {
+      "message": "1 Result for \"XXX\""
+   },
+   "ext_OpenInVault": {
+      "message": "Open in Vault"
+   },
+   "ext_PINCopied": {
+      "message": "PIN Code Copied!"
+   },
+   "ext_PaymentCard": {
+      "message": "Payment Card"
+   },
+   "ext_PhoneNumberPlaceholder": {
+      "message": "419-843-2744"
+   },
+   "ext_PopupFinalNotice": {
+      "message": "FINAL NOTICE"
+   },
+   "ext_PopupFinalNoticeMessage": {
+      "message": "Your Keeper trial expires in 24 hours. Access to premium features will be disabled. Please upgrade now to retain full access."
+   },
+   "ext_PromptAppearanceDesc": {
+      "message": "Customize how you want prompts to display on your screen."
+   },
+   "ext_RecordSaved": {
+      "message": "Record Saved"
+   },
+   "ext_RemoveAccountDescription": {
+      "message": "XXX will be removed from the login list."
+   },
+   "ext_RemoveAccountTitle": {
+      "message": "Remove Account from List"
+   },
+   "ext_ResendCode": {
+      "message": "Resend Code"
+   },
+   "ext_ResetPassword": {
+      "message": "Reset Password"
+   },
+   "ext_ResultsCount": {
+      "message": "XXX Results"
+   },
+   "ext_ResultsCountFor": {
+      "message": "XXX Results for \"YYY\""
+   },
+   "ext_ResultsCountNone": {
+      "message": "No Results for \"YYY\""
+   },
+   "ext_ResultsFound": {
+      "message": "XXX Result(s) Found"
+   },
+   "ext_Revert": {
+      "message": "No, Revert"
+   },
+   "ext_SSOMessage": {
+      "message": "The Enterprise Domain is provided by your Keeper Administrator."
+   },
+   "ext_SaveToVault": {
+      "message": "Save to Vault"
+   },
+   "ext_SearchFavorites": {
+      "message": "Search Favorites"
+   },
+   "ext_SearchVault": {
+      "message": "Search Vault"
+   },
+   "ext_ShowQRCodeScan": {
+      "message": "Allow others to join this network by scanning a \u003Ckeepertag>QR code\u003C/keepertag>."
+   },
+   "ext_SortBy": {
+      "message": "Sort by"
+   },
+   "ext_StatePlaceholder": {
+      "message": "California"
+   },
+   "ext_Symbols": {
+      "message": "Symbols"
+   },
+   "ext_TermsPrivacy": {
+      "message": "I accept Keeper’s \u003Ckeepertag>Terms of Use\u003C/keepertag> and \u003Ckeepertag>Privacy Policy\u003C/keepertag>"
+   },
+   "ext_TimerSaved": {
+      "message": "Timer Saved!"
+   },
+   "ext_TitleRequired": {
+      "message": "Title (Required)"
+   },
+   "ext_TwoFactorCopied": {
+      "message": "Two-Factor Code Copied!"
+   },
+   "ext_Type": {
+      "message": "Type"
+   },
+   "ext_UnableToLoginTitle": {
+      "message": "Unable to Login to Keeper"
+   },
+   "ext_UnsavedPrompt": {
+      "message": "There are unsaved changes, are you sure you want to cancel?"
+   },
+   "ext_UpdateRecord": {
+      "message": "Do you want to update this record?"
+   },
+   "ext_Uppercase": {
+      "message": "Uppercase"
+   },
+   "ext_Use": {
+      "message": "Use"
+   },
+   "ext_UseAsDefaultSettings": {
+      "message": "Use as default settings"
+   },
+   "ext_UsePassphrase": {
+      "message": "Use Passphrase"
+   },
+   "ext_UsePassword": {
+      "message": "Use Password"
+   },
+   "ext_UsernameCopied": {
+      "message": "Username Copied!"
+   },
+   "ext_Verify": {
+      "message": "Verify"
+   },
+   "ext_Visible": {
+      "message": "Visible"
+   },
+   "ext_ZipCodePlaceholder": {
+      "message": "12345"
+   },
+   "ext_accessibility": {
+      "message": "Accessibility"
+   },
+   "ext_account_number": {
+      "message": "Account Number"
+   },
+   "ext_account_type": {
+      "message": "Account Type"
+   },
+   "ext_action_requires_authentication": {
+      "message": "Action Requires Authentication"
+   },
+   "ext_add_new_record": {
+      "message": "Add New Record"
+   },
+   "ext_add_record_text": {
+      "message": "Add a record title."
+   },
+   "ext_add_to_keeper": {
+      "message": "Add to Keeper"
+   },
+   "ext_autofill_desc": {
+      "message": "If there are no matching records for the site, suggest my stored logins and strong generated passwords when typing in a field."
+   },
+   "ext_autofill_desc_2": {
+      "message": "If there are no matching records for the site, suggest my stored usernames and strong generated passwords when typing in fields."
+   },
+   "ext_biometric_login_canceled": {
+      "message": "The operation was either canceled or timed out. Please try again."
+   },
+   "ext_biometric_login_desc": {
+      "message": "Enable biometric login with a passkey for faster, secure access. Your encrypted passkey is securely stored in the device’s enclave, thereby replacing the need for passwords and MFA. Keeper never has access to your biometric data."
+   },
+   "ext_biometric_login_feature_desc": {
+      "message": "Set up Biometric Login with a passkey for fast, secure access—no password needed. Update anytime in settings."
+   },
+   "ext_biometric_login_restricted_desc": {
+      "message": "Biometric Login with a passkey has been restricted by your administrator."
+   },
+   "ext_biometric_login_restricted_header": {
+      "message": "Biometric Login is Restricted"
+   },
+   "ext_confirm_screenshot_desc": {
+      "message": "Check your capture. Retake if needed, or continue to review detected info and add notes."
+   },
+   "ext_create_address_restricted_message_2": {
+      "message": "Creating addresses has been restricted by your administrator."
+   },
+   "ext_create_card_restricted_message_2": {
+      "message": "Creating payment cards has been restricted by your administrator."
+   },
+   "ext_create_passkey_desc": {
+      "message": "Create a passkey to enable using biometric scanners to log in, if your device supports this."
+   },
+   "ext_create_record_in_shared_folders_only_message": {
+      "message": "Records can only be created inside shared folders. This restriction has been set by your administrator."
+   },
+   "ext_create_record_in_shared_folders_only_message_2": {
+      "message": "Your administrator set a restriction where records can only be created inside shared folders."
+   },
+   "ext_create_record_restricted_header": {
+      "message": "Creating Records is Restricted"
+   },
+   "ext_create_record_restricted_header_2": {
+      "message": "Creating is Restricted"
+   },
+   "ext_create_record_restricted_message": {
+      "message": "Creating records has been restricted by your administrator."
+   },
+   "ext_create_record_restricted_message_2": {
+      "message": "Creating login records has been restricted by your administrator."
+   },
+   "ext_date_of_birth": {
+      "message": "Date of Birth"
+   },
+   "ext_days_maximum": {
+      "message": "XXX days maximum"
+   },
+   "ext_default": {
+      "message": "Default"
+   },
+   "ext_default_card": {
+      "message": "Default Card"
+   },
+   "ext_delete_passkey_desc": {
+      "message": "Deleting this passkey will remove it from your account. This may impact your ability to sign in on devices where this passkey is required. If you proceed, ensure you have access to your Master Password or SSO to avoid being locked out."
+   },
+   "ext_dna_code_prompt": {
+      "message": "Enter code from your smart watch."
+   },
+   "ext_driver_license": {
+      "message": "Driver's License Number"
+   },
+   "ext_email_prompt": {
+      "message": "Create a login using an email below"
+   },
+   "ext_enter_secret_key": {
+      "message": "Enter Secret Key"
+   },
+   "ext_enter_text_code": {
+      "message": "Enter code sent via text message."
+   },
+   "ext_enter_totp": {
+      "message": "Enter the code from your Authenticator/TOTP app."
+   },
+   "ext_existing_passkey_detected_desc": {
+      "message": "Looks like you already have a passkey for this account on your device."
+   },
+   "ext_history": {
+      "message": "History"
+   },
+   "ext_hostname": {
+      "message": "Hostname or IP Address"
+   },
+   "ext_hours_maximum": {
+      "message": "XXX hours maximum"
+   },
+   "ext_http_fill_warning_desc": {
+      "message": "Issue warning when using KeeperFill on websites without an HTTPS encrypted connection."
+   },
+   "ext_iframe_err": {
+      "message": "Please click the Keeper icon on your browser toolbar to login."
+   },
+   "ext_incorrect_totp_code": {
+      "message": "Your code was invalid or expired.\\nClick Resend code to receive a new one."
+   },
+   "ext_install_instruction_click": {
+      "message": "Click XXX and YYY next to Keeper."
+   },
+   "ext_install_instruction_header": {
+      "message": "Add Keeper to your toolbar for easy access"
+   },
+   "ext_install_instructions_pin": {
+      "message": "Pin Keeper to your toolbar for easy access"
+   },
+   "ext_install_instructions_select": {
+      "message": "Select your browser for instructions"
+   },
+   "ext_launch_site": {
+      "message": "Launch Website"
+   },
+   "ext_log_in_to_keeper": {
+      "message": "Log in to Keeper"
+   },
+   "ext_minutes_maximum": {
+      "message": "XXX minutes maximum"
+   },
+   "ext_mob_banner_day_left_in_trial": {
+      "message": "1 Day Left in Trial"
+   },
+   "ext_mob_banner_days_left_in_trial": {
+      "message": "XXX Days Left In Trial"
+   },
+   "ext_mob_turn_on_now": {
+      "message": "Turn On Now"
+   },
+   "ext_mp_reentry_modal_message": {
+      "message": "Your admin requires you to re-authenticate."
+   },
+   "ext_mp_reentry_overlay_alert_message": {
+      "message": "Your administrator requires you to re-authenticate. Open Keeper in the browser toolbar to continue."
+   },
+   "ext_new_login_creation_screen_description": {
+      "message": "For improved security, creating a record from a website will now open in a separate tab."
+   },
+   "ext_new_login_creation_screen_header": {
+      "message": "New Login Creation Screen"
+   },
+   "ext_no_matching_addresses_create_restricted": {
+      "message": "There are no addresses in your vault. Creating addresses has been restricted by your administrator."
+   },
+   "ext_no_matching_cards_create_restricted": {
+      "message": "There are no payment cards in your vault. Creating payment cards have been restricted by your administrator."
+   },
+   "ext_no_matching_records_create_restricted": {
+      "message": "No matching records. Creating records has been restricted by your administrator."
+   },
+   "ext_open_admin_console": {
+      "message": "Open Admin Console"
+   },
+   "ext_open_vault": {
+      "message": "Open in Web Vault"
+   },
+   "ext_overwrite_field_content": {
+      "message": "Overwrite Field Content"
+   },
+   "ext_overwrite_field_content_desc": {
+      "message": "Turn on to allow Keeper to overwrite existing field content with this record’s custom fields."
+   },
+   "ext_passport_number": {
+      "message": "Passport Number"
+   },
+   "ext_password_prompt": {
+      "message": "Let Keeper create a strong password."
+   },
+   "ext_password_rules_unmet_warning": {
+      "message": "Your administrator requires that your password must following these rules:"
+   },
+   "ext_pin_code": {
+      "message": "PIN Code"
+   },
+   "ext_prevent_lockout_desc": {
+      "message": "Make sure you're still able to log in via Master Password or SSO before disabling Biometric Login to avoid being locked out of your account."
+   },
+   "ext_private_key": {
+      "message": "Private Key"
+   },
+   "ext_prompt_to_login_subtext": {
+      "message": "Where's this?"
+   },
+   "ext_public_key": {
+      "message": "Public Key"
+   },
+   "ext_push_notif": {
+      "message": "Push notification sent to approved device."
+   },
+   "ext_quick_sync_your_data": {
+      "message": "Quick Sync Your Data"
+   },
+   "ext_report_autofill_prompt_desc": {
+      "message": "Take a quick screen capture—Keeper uses the data to find the issue. Only takes a few seconds!"
+   },
+   "ext_routing_number": {
+      "message": "Routing Number"
+   },
+   "ext_save_to_keeper": {
+      "message": "Save password to Keeper?"
+   },
+   "ext_scan_2fa_code": {
+      "message": "Scan 2FA Code"
+   },
+   "ext_scan_failed": {
+      "message": "Scan failed"
+   },
+   "ext_scan_failed_warning": {
+      "message": "TOTP code not detected. Please enter your secret key manually."
+   },
+   "ext_security_code": {
+      "message": "Security Code"
+   },
+   "ext_security_title": {
+      "message": "Security"
+   },
+   "ext_select_a_location": {
+      "message": "Select a Location"
+   },
+   "ext_session_persistence_setting_desc": {
+      "message": "Stay logged into Keeper when you close your browser or restart your computer."
+   },
+   "ext_session_persistence_setting_prompt": {
+      "message": "We recommend you turn on Auto-Logout in case you walk away from your device while you are logged into Keeper."
+   },
+   "ext_session_persistence_setting_title": {
+      "message": "Stay Logged In"
+   },
+   "ext_sharing_restricted_file_with_attachment_message": {
+      "message": "Your administrator has restricted you from sharing records that contain file attachments."
+   },
+   "ext_sharing_restricted_header": {
+      "message": "Sharing is Restricted"
+   },
+   "ext_sharing_restricted_indirect_sharing_message": {
+      "message": "Your administrator has restricted you from adding records to shared folders."
+   },
+   "ext_sharing_restricted_message": {
+      "message": "Your administrator has restricted you from sharing records."
+   },
+   "ext_sharing_through_shared_folders_only_message": {
+      "message": "Per your administrator you are only allowed to share records by adding them to shared folders."
+   },
+   "ext_single_suggested": {
+      "message": "1 Suggested Record"
+   },
+   "ext_social_security_number": {
+      "message": "Social Security Number"
+   },
+   "ext_software_license_number": {
+      "message": "Software License Key"
+   },
+   "ext_sso_pw": {
+      "message": "SSO Master Password Login"
+   },
+   "ext_stay_logged": {
+      "message": "Stay Logged In Between Sessions"
+   },
+   "ext_stay_logged_desc": {
+      "message": "Do not require login when closing and reopening app or restarting your device except if logged out manually or automatically with Inactivity Logout."
+   },
+   "ext_stay_logged_desc_2": {
+      "message": "Do not require login when closing and reopening Keeper or restarting your device except if logged out manually or automatically with Inactivity Logout."
+   },
+   "ext_subsequent_fill": {
+      "message": "Autofill on Subsequent Pages"
+   },
+   "ext_subsequent_fill_desc": {
+      "message": "Turn off to prevent Keeper from autofilling across multiple pages during multi-step login flows."
+   },
+   "ext_sync_complete": {
+      "message": "Sync Complete"
+   },
+   "ext_sync_setting_desc": {
+      "message": "Use the options below to manually confirm that your vault is up to date."
+   },
+   "ext_totp_delete_warning_2": {
+      "message": "You can retrieve deleted two factor codes by restoring previous versions of this record in your Vault."
+   },
+   "ext_totp_delete_warning_3": {
+      "message": "Disable MFA on this service or website before deleting it from this record. This will prevent losing access to this service."
+   },
+   "ext_totp_restricted_message": {
+      "message": "Your administrator has restricted the ability to add two-factor codes to records."
+   },
+   "ext_two_factor_channel_rsa": {
+      "message": "Enter your RSA passcode."
+   },
+   "ext_two_factor_field_tooltip_message": {
+      "message": "Use Keeper to store and autofill two-factor codes on any device."
+   },
+   "ext_two_factor_generic_code_prompt": {
+      "message": "Enter the code from your two-factor method."
+   },
+   "ext_type_or_generate": {
+      "message": "Type or Generate"
+   },
+   "ext_website": {
+      "message": "Website"
+   },
+   "ext_zip_code": {
+      "message": "Zip Code"
+   },
+   "extension_DetailView_itemCopied": {
+      "message": "Copied To Clipboard"
+   },
+   "extension_phonetype_home": {
+      "message": "Home"
+   },
+   "extension_phonetype_mobile": {
+      "message": "Mobile"
+   },
+   "extension_phonetype_work": {
+      "message": "Work"
+   },
+   "extension_prompt_to_disable": {
+      "message": "The browser extension may reduce performance for this website. Please click the Keeper icon in the toolbar to re-enable Keeper on this website."
+   },
+   "extension_prompt_to_disable_header": {
+      "message": "Keeper has been disabled on the current website."
+   },
+   "extension_prompt_to_fill": {
+      "message": "Would you like Keeper to auto-fill your login?"
+   },
+   "extension_prompt_to_login": {
+      "message": "Please click the Keeper icon on your browser toolbar to login."
+   },
+   "fade_in": {
+      "message": "Fade in"
+   },
+   "fastfill_RecordSaved": {
+      "message": "Record Saved!"
+   },
+   "fastfill_less": {
+      "message": "Less"
+   },
+   "fastfill_more": {
+      "message": "More"
+   },
+   "featureRestricted": {
+      "message": "Feature Restricted"
+   },
+   "feature_restricted_by_admin": {
+      "message": "Feature Restricted by Keeper Admin"
+   },
+   "ff_private_window_error": {
+      "message": "Please use the Web Vault to login to Keeper when using Firefox Private Window mode. Keeper will autofill sites, but the toolbar will not be available."
+   },
+   "field_icon": {
+      "message": "Input Fields Icon"
+   },
+   "field_icons": {
+      "message": "Field Icons"
+   },
+   "field_icons_desc": {
+      "message": "Choose when and whether the Keeper icons appear in fields."
+   },
+   "field_text": {
+      "message": "Text"
+   },
+   "files_learnmorepage_description": {
+      "message": "Keeper is a secure and easy-to-use password manager and digital vault."
+   },
+   "files_sorry_later": {
+      "message": "Later"
+   },
+   "files_upload_create_new_dontask": {
+      "message": "Don't ask again"
+   },
+   "fill_address": {
+      "message": "Fill Address"
+   },
+   "fill_and_save_password": {
+      "message": "Fill and Save Password"
+   },
+   "fill_card": {
+      "message": "Fill Card"
+   },
+   "fill_card_number": {
+      "message": "Fill Card Number"
+   },
+   "fill_city": {
+      "message": "Fill City"
+   },
+   "fill_cvv": {
+      "message": "Fill CVV"
+   },
+   "fill_email_address": {
+      "message": "Fill Email Address"
+   },
+   "fill_emailusername": {
+      "message": "Fill Email/Username"
+   },
+   "fill_expiration_date": {
+      "message": "Fill Expiration Date"
+   },
+   "fill_first_name": {
+      "message": "Fill First Name"
+   },
+   "fill_icon_is_missing": {
+      "message": "Fill icon is missing"
+   },
+   "fill_last_name": {
+      "message": "Fill Last Name"
+   },
+   "fill_name_on_card": {
+      "message": "Fill Name On Card"
+   },
+   "fill_phone_number": {
+      "message": "Fill Phone Number"
+   },
+   "fill_prompt": {
+      "message": "Fill Prompt"
+   },
+   "fill_record": {
+      "message": "Fill Record"
+   },
+   "fill_state": {
+      "message": "Fill State"
+   },
+   "fill_street_address_line_one": {
+      "message": "Fill Street Address Line 1"
+   },
+   "fill_street_address_line_two": {
+      "message": "Fill Street Address Line 2"
+   },
+   "fill_tool": {
+      "message": "KeeperFill Tool"
+   },
+   "fill_tool_desc": {
+      "message": "Displays Keeper icons in form fields so you can click on them to autofill your login credentials on websites and forms."
+   },
+   "fill_zip_postal_code": {
+      "message": "Fill Zip/Postal Code"
+   },
+   "filled": {
+      "message": "Filled"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "fix_autofill_fields": {
+      "message": "Fix Autofill Fields"
+   },
+   "fix_webpage": {
+      "message": "Fix Webpage"
+   },
+   "footer_new_security": {
+      "message": "Security"
+   },
+   "forgot_master_password": {
+      "message": "Forgot Master Password"
+   },
+   "free_trial_expired_please_purchase": {
+      "message": "Your free trial has expired.  Please purchase a subscription."
+   },
+   "full_name": {
+      "message": "Full Name"
+   },
+   "full_sync": {
+      "message": "Full Sync"
+   },
+   "full_sync_desc": {
+      "message": "Syncs all data which may take a few minutes."
+   },
+   "generator_history": {
+      "message": "Generator History"
+   },
+   "generic_restriction": {
+      "message": "Performing this action is restricted by your Keeper administrator."
+   },
+   "get_help": {
+      "message": "Get Help"
+   },
+   "got_it": {
+      "message": "Got It"
+   },
+   "greater_than_zero": {
+      "message": "Value must be greater than 0."
+   },
+   "groups_invalid_code2": {
+      "message": "The code you entered is invalid"
+   },
+   "groups_invalid_validation_code": {
+      "message": "The validation code you provided is incorrect."
+   },
+   "header_admin": {
+      "message": "Admin Console"
+   },
+   "hidden_field": {
+      "message": "Hidden Field"
+   },
+   "hide_contents": {
+      "message": "Hide Contents"
+   },
+   "hide_password": {
+      "message": "Hide Password"
+   },
+   "hover_locks": {
+      "message": "Hover Locks"
+   },
+   "http_basic_auth_description": {
+      "message": "This website (XXX) is requesting to login with HTTP Basic Auth. If you trust this site, and you would like to login with the matching Keeper record (YYY) from your vault, click OK or click Cancel to abort."
+   },
+   "http_basic_auth_title": {
+      "message": "Request to Autofill with HTTP Basic Auth"
+   },
+   "http_fill_warning_prompt_desc": {
+      "message": "Get a prompt notifying you of security risks when attempting to autofill on websites that don’t have an HTTPS encrypted connection."
+   },
+   "http_fill_warning_promt": {
+      "message": "HTTP Fill Warning Prompt"
+   },
+   "idb_storage_cleared": {
+      "message": "IndexedDB Storage Cleared"
+   },
+   "idb_storage_visible": {
+      "message": "IDB Storage Visible"
+   },
+   "in120seconds": {
+      "message": "120 seconds"
+   },
+   "in30seconds": {
+      "message": "30 seconds"
+   },
+   "in45seconds": {
+      "message": "45 seconds"
+   },
+   "in60seconds": {
+      "message": "60 seconds"
+   },
+   "in90seconds": {
+      "message": "90 seconds"
+   },
+   "inactivity_logout_timer_desc": {
+      "message": "Set the amount of time you can be inactive before you are automatically logged out."
+   },
+   "individual_fill_cross_domain": {
+      "message": "Keeper has detected that the site XXX has an embedded login form using the domain YYY.  If you trust this site, click OK to fill the credentials or click Cancel to abort."
+   },
+   "input_fields_desc": {
+      "message": "Icons appear inside fillable input fields and can be clicked to bring up Keeper suggestions and other options."
+   },
+   "insert_security_key": {
+      "message": "Insert your security key"
+   },
+   "introducing_clipboard_expiration": {
+      "message": "Introducing Clipboard Expiration"
+   },
+   "introducing_clipboard_expiration_desc": {
+      "message": "Set how long copied credentials stay in your clipboard. Access this in your settings."
+   },
+   "introducing_passkeys": {
+      "message": "Introducing Keeper Passkeys"
+   },
+   "introducing_passkeys_content": {
+      "message": "Use Keeper’s Browser Extension to create passkeys and log into supported websites. Securely manage and share your passkeys using your Keeper Vault on all your devices."
+   },
+   "invalid_email_or_password": {
+      "message": "Invalid email or password"
+   },
+   "invalid_two_factor_data": {
+      "message": "Invalid two-factor data"
+   },
+   "json_code_snippet": {
+      "message": "JSON Code Snippet"
+   },
+   "keeper_login": {
+      "message": "Log in to Keeper to fill credentials."
+   },
+   "keeper_passkey_created": {
+      "message": "Keeper Passkey Created"
+   },
+   "keeper_push": {
+      "message": "Keeper Push"
+   },
+   "keeper_push_description": {
+      "message": "Keeper Push is a simple account security method that uses one-touch instead of codes. When you log into Keeper on a new device, you will receive a one-touch prompt on your other device."
+   },
+   "keeper_push_description_short": {
+      "message": "Keeper Push is an easy, secure authentication notification sent to one of your approved devices."
+   },
+   "keeper_push_not_approved": {
+      "message": "The push notification has not been approved."
+   },
+   "keeper_push_sent": {
+      "message": "Keeper Push Sent"
+   },
+   "keeper_push_sent_to_device": {
+      "message": "Login to the Keeper vault on any previously approved device to approve this new device."
+   },
+   "keeper_sso_not_permitted": {
+      "message": "Your account is not permitted to login to Keeper using SSO. Please ensure that this account is assigned to a node within the Keeper Admin Console that is provisioned through Single Sign-On."
+   },
+   "keeperfill_insecure_field": {
+      "message": "Keeper is not able to fill a password into the input field. Please click the lock icon of the form field and try again."
+   },
+   "kfg_enter_password": {
+      "message": "Enter Password"
+   },
+   "kfg_expire": {
+      "message": "Expiration Date"
+   },
+   "kfg_password_rule_prompt": {
+      "message": "Your Keeper administrator requires that your Master Password must follow these rules:"
+   },
+   "kg_fair": {
+      "message": "Fair"
+   },
+   "kg_medium": {
+      "message": "Medium"
+   },
+   "kg_off": {
+      "message": "Off"
+   },
+   "kg_on": {
+      "message": "On"
+   },
+   "kg_strong": {
+      "message": "Strong"
+   },
+   "kg_two_factor_authentication": {
+      "message": "Two Factor Authentication"
+   },
+   "kg_weak": {
+      "message": "Weak"
+   },
+   "landscape_mode": {
+      "message": "Landscape Mode"
+   },
+   "last_synced_phrase": {
+      "message": "Last synced XXX"
+   },
+   "last_used_date": {
+      "message": "Last Used: XXX"
+   },
+   "launch_and_autofill": {
+      "message": "Launch and Autofill"
+   },
+   "launch_vault": {
+      "message": "Launch Vault"
+   },
+   "learnmo": {
+      "message": "Learn More"
+   },
+   "local_storage_cleared": {
+      "message": "Local Storage Cleared"
+   },
+   "local_storage_visible": {
+      "message": "Local Storage Visible"
+   },
+   "location": {
+      "message": "Location"
+   },
+   "lockout_minute": {
+      "message": "Due to repeated attempts, your request has been throttled. Try again in 1 minute."
+   },
+   "log_in": {
+      "message": "Log In"
+   },
+   "log_in_successful": {
+      "message": "Log In Successful"
+   },
+   "log_in_with_passkey": {
+      "message": "Log in with Passkey"
+   },
+   "login_button_disabled": {
+      "message": "Login Button Disabled"
+   },
+   "login_different_account": {
+      "message": "Log in with a Different Account"
+   },
+   "login_field": {
+      "message": "Login Field"
+   },
+   "login_id": {
+      "message": "Login ID"
+   },
+   "login_reminder": {
+      "message": "Login Reminder"
+   },
+   "login_updated": {
+      "message": "Login Updated!"
+   },
+   "logout_of_username": {
+      "message": "Logout of XXX"
+   },
+   "logout_timer_value_invalid": {
+      "message": "Invalid value for logout timer setting"
+   },
+   "manage_passkeys": {
+      "message": "Manage Passkeys"
+   },
+   "master_password": {
+      "message": "Master Password"
+   },
+   "match_on_subdomain": {
+      "message": "Match on Subdomain"
+   },
+   "match_on_subdomain_desc": {
+      "message": "Display records to autofill based on strict subdomain matching."
+   },
+   "match_on_subdomain_desc2": {
+      "message": "Control whether records are suggested based on strict subdomain matching."
+   },
+   "match_only_subdomains": {
+      "message": "Match Only Subdomains"
+   },
+   "match_system": {
+      "message": "Match System"
+   },
+   "max_characters_xxx": {
+      "message": "Max Characters XXX"
+   },
+   "maybe_later": {
+      "message": "Maybe Later"
+   },
+   "mob_banner_days_left_desc": {
+      "message": "Turn on Keeper Unlimited now for full protection."
+   },
+   "multi_line_text": {
+      "message": "Multi-line Text"
+   },
+   "multiple_folders": {
+      "message": "Multiple Folders"
+   },
+   "multiple_folders_prompt_desc": {
+      "message": "This record is in multiple folders and cannot be edited here. Please go to the web vault or desktop app to make changes."
+   },
+   "multiple_folders_prompt_title": {
+      "message": "Record in Multiple Folders"
+   },
+   "name_on_card": {
+      "message": "Name on Card"
+   },
+   "need_help_question": {
+      "message": "Need Help?"
+   },
+   "need_vault_settings_update": {
+      "message": "Please log into the Web Vault to update your account settings."
+   },
+   "network_encryption_none": {
+      "message": "No Encryption"
+   },
+   "network_encryption_wep": {
+      "message": "WEP"
+   },
+   "network_encryption_wpa": {
+      "message": "WPA"
+   },
+   "network_hidden": {
+      "message": "Hidden"
+   },
+   "network_visible": {
+      "message": "Visible"
+   },
+   "never_show": {
+      "message": "Never Show"
+   },
+   "new_password": {
+      "message": "New Password"
+   },
+   "new_password_alert": {
+      "message": "Please fill new password fields before continuing."
+   },
+   "new_password_view": {
+      "message": "Now, click on the lock icon within every form field that is asking for your new password. Then click \"Next\"."
+   },
+   "new_password_view2": {
+      "message": "Now select the Keeper icon in the new password form field to fill your new password."
+   },
+   "newfreetrial_popup_buy": {
+      "message": "Upgrade Now"
+   },
+   "next_button_disabled": {
+      "message": "Next Button Disabled"
+   },
+   "next_step_colon_preview": {
+      "message": "Next Step: Preview"
+   },
+   "no_animation": {
+      "message": "No animation"
+   },
+   "no_edit_permissions2": {
+      "message": "You do not have edit permissions on this record."
+   },
+   "no_email_entered": {
+      "message": "Next button disabled because no valid email has been entered"
+   },
+   "no_hist": {
+      "message": "No Password History"
+   },
+   "no_records": {
+      "message": "No Records in Vault"
+   },
+   "no_records_match_domain": {
+      "message": "No records in your vault have a website address matching this site.  Please check your vault or create a new record."
+   },
+   "no_suggest_recs": {
+      "message": "No Suggested Records"
+   },
+   "no_thanks": {
+      "message": "No Thanks"
+   },
+   "non_login_field_does_not_autofill": {
+      "message": "Non-login fields (e.g. payment or billing) do not autofill"
+   },
+   "not_approved_by_account_owner": {
+      "message": "This device is not approved by account owner. Please contact account owner or Keeper Support."
+   },
+   "not_yet_used": {
+      "message": "Not yet used"
+   },
+   "note": {
+      "message": "Note"
+   },
+   "notes_header": {
+      "message": "Notes"
+   },
+   "notifications_enabled_reminder": {
+      "message": "Make sure you have notifications enabled on your device to receive Keeper Push notifications or open the app on your approved device."
+   },
+   "ob2020_getstarted_1": {
+      "message": "Keeper is the most secure way to store and protect your passwords and private information from cybercriminals."
+   },
+   "ob2020_getstarted_2": {
+      "message": "Keeper protects and auto-fills your passwords on all your mobile and desktop devices."
+   },
+   "ob2020_getstarted_3": {
+      "message": "Keeper uses end-to-end encryption with a proprietary Zero-Knowledge Security Architecture so you are in complete control over the access to your information."
+   },
+   "ob2020_welcome": {
+      "message": "Welcome to Your Keeper Vault!"
+   },
+   "old_password_view": {
+      "message": "Please click on the lock icon within the form field for the \"old\" or \"current\" password, if any. Then click \"Next\" to continue."
+   },
+   "old_password_view2": {
+      "message": "Select the Keeper icon in the current or old password form field to fill your current password."
+   },
+   "once_snapshot_shared_message": {
+      "message": "Once shared, we’ll review your snapshot and notify you when updates are made."
+   },
+   "one_time_passcode": {
+      "message": "One-Time Passcode"
+   },
+   "open_extension": {
+      "message": "Open Extension"
+   },
+   "open_my_vault": {
+      "message": "Open My Web Vault"
+   },
+   "open_safari_settings": {
+      "message": "Quit and Open Safari Settings…"
+   },
+   "other_accounts": {
+      "message": "Other Accounts"
+   },
+   "other_login_methods": {
+      "message": "Other Login Methods"
+   },
+   "other_please_describe": {
+      "message": "Other (Please Describe)"
+   },
+   "page_info": {
+      "message": "Page Info"
+   },
+   "pass_gen_history": {
+      "message": "Password Generator History"
+   },
+   "passkey": {
+      "message": "Passkey"
+   },
+   "passkey_already_registered": {
+      "message": "Passkey Already Registered"
+   },
+   "passkey_already_registered_desc": {
+      "message": "A passkey for this account is already registered with Keeper."
+   },
+   "passkey_count_plural": {
+      "message": "XXX Passkeys"
+   },
+   "passkey_count_single": {
+      "message": "1 Passkey"
+   },
+   "passphrase_cannot_meet_criteria": {
+      "message": "Passphrase cannot meet the criteria set by the specified domains on the record."
+   },
+   "passphrase_copied": {
+      "message": "Passphrase Copied"
+   },
+   "passphrase_must_caps": {
+      "message": "The first letter of each word must be capitalized"
+   },
+   "passphrase_must_contain": {
+      "message": "Your passphrase must contain:"
+   },
+   "passphrase_must_number": {
+      "message": "1 number"
+   },
+   "passphrase_must_separator": {
+      "message": "A separator: XXX"
+   },
+   "passphrase_must_words": {
+      "message": "At least XXX words"
+   },
+   "password_alert": {
+      "message": "Password Alert"
+   },
+   "password_cannot_meet_criteria": {
+      "message": "Password cannot meet the criteria set by the specified domains on the record."
+   },
+   "password_cannot_meet_criteria__gen": {
+      "message": "Cannot generate a password that meets the criteria set by the specified domains on the record."
+   },
+   "password_does_not_autofill": {
+      "message": "Password does not autofill"
+   },
+   "password_generator": {
+      "message": "Password Generator"
+   },
+   "password_must_caps": {
+      "message": "The first letter of each word must be capitalized"
+   },
+   "password_must_char": {
+      "message": "At least XXX characters"
+   },
+   "password_must_char__solo": {
+      "message": "Your password must contain at least XXX characters."
+   },
+   "password_must_contain": {
+      "message": "Your password must contain:"
+   },
+   "password_must_lowercase": {
+      "message": "At least XXX lowercase letter"
+   },
+   "password_must_lowercase__solo": {
+      "message": "Your password must contain at least XXX lowercase letter."
+   },
+   "password_must_lowercase_p": {
+      "message": "At least XXX lowercase letters"
+   },
+   "password_must_lowercase_p__solo": {
+      "message": "Your password must contain at least XXX lowercase letters."
+   },
+   "password_must_not_contain_these_symbols": {
+      "message": "Your password must not contain: XXX"
+   },
+   "password_must_number": {
+      "message": "At least XXX number"
+   },
+   "password_must_number__solo": {
+      "message": "Your password must contain at least XXX number."
+   },
+   "password_must_number_p": {
+      "message": "At least XXX numbers"
+   },
+   "password_must_number_p__solo": {
+      "message": "Your password must contain at least XXX numbers."
+   },
+   "password_must_number_singluar": {
+      "message": "At least 1 number"
+   },
+   "password_must_separator": {
+      "message": "A separator:"
+   },
+   "password_must_symbol": {
+      "message": "At least XXX symbol: YYY"
+   },
+   "password_must_symbol__solo": {
+      "message": "Your password must contain at least XXX symbol: YYY"
+   },
+   "password_must_symbol_p": {
+      "message": "At least XXX symbols: YYY"
+   },
+   "password_must_symbol_p__solo": {
+      "message": "Your password must contain at least XXX symbols: YYY"
+   },
+   "password_must_uppercase": {
+      "message": "At least XXX uppercase letter"
+   },
+   "password_must_uppercase__solo": {
+      "message": "Your password must contain at least XXX uppercase letter."
+   },
+   "password_must_uppercase_p": {
+      "message": "At least XXX uppercase letters"
+   },
+   "password_must_uppercase_p__solo": {
+      "message": "Your password must contain at least XXX uppercase letters."
+   },
+   "password_passphrase_alert": {
+      "message": "Password and Passphrase Alert"
+   },
+   "password_reset_email_tip": {
+      "message": "Enter your email address to begin the account recovery process. You may need to check your spam folder or unblock emails coming from keepersecurity.com."
+   },
+   "password_strength": {
+      "message": "Password Strength"
+   },
+   "password_suggestions": {
+      "message": "Password Suggestions"
+   },
+   "password_suggestions_desc": {
+      "message": "Control whether strong generated passwords are suggested when clicking the Password field on a Registration Page."
+   },
+   "password_updated": {
+      "message": "Password Updated!"
+   },
+   "payment_card": {
+      "message": "Payment Card"
+   },
+   "payment_card_saved": {
+      "message": "Payment Card Saved!"
+   },
+   "payment_cards": {
+      "message": "Payment Cards"
+   },
+   "payment_field": {
+      "message": "Payment Field"
+   },
+   "payment_updated": {
+      "message": "Payment Updated!"
+   },
+   "phone_call": {
+      "message": "Phone Call"
+   },
+   "phone_number": {
+      "message": "Phone Number"
+   },
+   "phone_type": {
+      "message": "Phone Type"
+   },
+   "pin_generator": {
+      "message": "PIN Generator"
+   },
+   "port": {
+      "message": "Port"
+   },
+   "portrait_mode": {
+      "message": "Portrait Mode"
+   },
+   "prevent_lockout": {
+      "message": "Prevent Lockout"
+   },
+   "preview": {
+      "message": "Preview"
+   },
+   "preview_snapshot_desc": {
+      "message": "Preview your full snapshot before downloading and sharing it with Keeper."
+   },
+   "primary_website_address": {
+      "message": "Primary Website Address"
+   },
+   "privacy": {
+      "message": "Privacy Policy"
+   },
+   "privacy_reminder": {
+      "message": "For privacy reasons, we're not displaying the Two-Factor Method you are using. Check SMS, email, security key or TOTP authenticator app for your code."
+   },
+   "privacy_screen_is_enabled_by_admin": {
+      "message": "Privacy Screen is enabled by the admin"
+   },
+   "privacy_screen_prevents_hint": {
+      "message": "Privacy Screen prevents both the viewing \\nof a password and the modification of a \\nwebsite URL after the record has been saved"
+   },
+   "prompt_appearance": {
+      "message": "Prompt Appearance"
+   },
+   "prompt_appearance_desc": {
+      "message": "Customize how you want prompts to display on your screen"
+   },
+   "prompt_appearance_desc_2": {
+      "message": "Customize how you want prompts to display in your browser window."
+   },
+   "prompt_location": {
+      "message": "Prompt Location"
+   },
+   "prompt_to_autofill_desc": {
+      "message": "Automatically fill form fields when visiting a website login page. Visit the Autofill Preferences screen to control the behavior of individual websites."
+   },
+   "prompt_to_change_desc": {
+      "message": "On \"Change password\" web pages, Keeper will automatically generate a new password and fill old and new password fields."
+   },
+   "prompt_to_create": {
+      "message": "Prompt to Create"
+   },
+   "prompt_to_create_desc": {
+      "message": "While typing in a password, if no existing record is found for a website, Keeper will ask you to save your password to your vault."
+   },
+   "prompt_to_disable": {
+      "message": "Prompt to Disable"
+   },
+   "prompt_to_disable_desc": {
+      "message": "This will remind you that KeeperFill is disabled because it could possibly slow down that page."
+   },
+   "prompt_to_fill": {
+      "message": "Prompt to Fill"
+   },
+   "prompt_to_fill_desc": {
+      "message": "When visiting a website login screen, Keeper will ask you to automatically login with your saved password."
+   },
+   "prompt_to_hover_locks_desc": {
+      "message": "Only show Keeper icons when hovering your mouse over the field."
+   },
+   "prompt_to_login": {
+      "message": "Prompt to Login"
+   },
+   "prompt_to_login_desc": {
+      "message": "If you're logged out of Keeper, you'll be reminded to sign in to Keeper when visiting a website login screen."
+   },
+   "prompt_to_save": {
+      "message": "Prompt to Save"
+   },
+   "prompt_to_save_desc": {
+      "message": "After logging in to a website with no matching record, Keeper will ask you to save your password to your vault."
+   },
+   "prompt_to_update": {
+      "message": "Do you want to update your Keeper record for this site?"
+   },
+   "promtp_to_change": {
+      "message": "Prompt to Change"
+   },
+   "protip": {
+      "message": "Pro Tip"
+   },
+   "pull_addresses": {
+      "message": "Would you like to fill addresses on this website?"
+   },
+   "pull_information_from_extensions": {
+      "message": "Would you like Keeper to fill XXX on the website YYY?"
+   },
+   "pull_payment_cards": {
+      "message": "Would you like to fill payment cards on this website?"
+   },
+   "quick_sync": {
+      "message": "Quick Sync"
+   },
+   "quick_sync_desc": {
+      "message": "Syncs new data only."
+   },
+   "ready_to_share_question": {
+      "message": "Ready to Share?"
+   },
+   "recents_translated": {
+      "message": "Recents"
+   },
+   "record_add": {
+      "message": "Add Record"
+   },
+   "record_deleted": {
+      "message": "Record Deleted"
+   },
+   "record_details": {
+      "message": "Record Details"
+   },
+   "record_header": {
+      "message": "Record"
+   },
+   "recovery_account_recovery": {
+      "message": "Account Recovery"
+   },
+   "recovery_email_verification": {
+      "message": "Email Verification"
+   },
+   "recovery_forgot_pass": {
+      "message": "Forgot Password?"
+   },
+   "recovery_forgotpass": {
+      "message": "Forgot Password"
+   },
+   "recovery_resend_code": {
+      "message": "Resend Code"
+   },
+   "recovery_title": {
+      "message": "Forgot Your Master Password"
+   },
+   "referral_v4_cancel": {
+      "message": "No Thanks"
+   },
+   "region_selector_title": {
+      "message": "Data Center Location"
+   },
+   "registration_field": {
+      "message": "Registration Field"
+   },
+   "registration_updated": {
+      "message": "Registration Updated!"
+   },
+   "relying_party": {
+      "message": "Relying Party"
+   },
+   "remember_email": {
+      "message": "Remember Email"
+   },
+   "remove_from_favs": {
+      "message": "Remove from Favorites"
+   },
+   "remove_from_login_list": {
+      "message": "XXX will be removed from the login list."
+   },
+   "remove_user": {
+      "message": "Remove user?"
+   },
+   "report_an_autofill_issue": {
+      "message": "Report an Autofill Issue"
+   },
+   "report_autofill_issue": {
+      "message": "Report Autofill Issue"
+   },
+   "report_issue": {
+      "message": "Report Issue"
+   },
+   "report_sent": {
+      "message": "Report Sent!"
+   },
+   "report_to_keeper": {
+      "message": "Would you like to report this to Keeper to improve the extension?"
+   },
+   "req_timeout": {
+      "message": "Request Timed Out"
+   },
+   "request_admin_approval": {
+      "message": "Request Admin Approval"
+   },
+   "require_two_factor": {
+      "message": "Require Two-Factor:"
+   },
+   "require_two_factor_no_colon": {
+      "message": "Require Two-Factor"
+   },
+   "required": {
+      "message": "Required"
+   },
+   "required_custom_field": {
+      "message": "Required Custom Field"
+   },
+   "resend_email": {
+      "message": "Resend Email"
+   },
+   "restore_defalt_settings": {
+      "message": "Restore Default Settings"
+   },
+   "restore_default_autofill_settings": {
+      "message": "Restore Default Autofill Settings"
+   },
+   "restrictedByAdmin": {
+      "message": "This feature is restricted by your Keeper Administrator."
+   },
+   "restricted_totp": {
+      "message": "Your Keeper administrator has restricted the ability to add Two-Factor Codes to records."
+   },
+   "retake": {
+      "message": "Retake"
+   },
+   "revert_change": {
+      "message": "Revert Change"
+   },
+   "role_enf_restriction": {
+      "message": "You are restricted from performing this operation. Please contact your Keeper administrator for assistance."
+   },
+   "rotation_port": {
+      "message": "Rotation Port"
+   },
+   "rsa_passcode": {
+      "message": "RSA Passcode"
+   },
+   "rt_label_address": {
+      "message": "Address"
+   },
+   "rt_label_bankAccount": {
+      "message": "Bank Account"
+   },
+   "rt_label_bankCard": {
+      "message": "Payment Card"
+   },
+   "rt_label_birthCertificate": {
+      "message": "Birth Certificate"
+   },
+   "rt_label_contact": {
+      "message": "Contact"
+   },
+   "rt_label_databaseCredentials": {
+      "message": "Database"
+   },
+   "rt_label_driverLicense": {
+      "message": "Driver's License"
+   },
+   "rt_label_encryptedNotes": {
+      "message": "Secure Note"
+   },
+   "rt_label_file": {
+      "message": "File Attachment"
+   },
+   "rt_label_general": {
+      "message": "General"
+   },
+   "rt_label_healthInsurance": {
+      "message": "Health Insurance"
+   },
+   "rt_label_login": {
+      "message": "Login"
+   },
+   "rt_label_membership": {
+      "message": "Membership"
+   },
+   "rt_label_pamAwsConfiguration": {
+      "message": "PAM AWS Configuration"
+   },
+   "rt_label_pamAzureConfiguration": {
+      "message": "PAM Entra ID (Azure) Configuration"
+   },
+   "rt_label_pamDatabase": {
+      "message": "PAM Database"
+   },
+   "rt_label_pamDirectory": {
+      "message": "PAM Directory"
+   },
+   "rt_label_pamLocalConfiguration": {
+      "message": "PAM Local Configuration"
+   },
+   "rt_label_pamMachine": {
+      "message": "PAM Machine"
+   },
+   "rt_label_pamNetworkConfiguration": {
+      "message": "PAM Network Configuration"
+   },
+   "rt_label_pamRemoteBrowser": {
+      "message": "PAM Remote Browser"
+   },
+   "rt_label_pamUser": {
+      "message": "PAM User"
+   },
+   "rt_label_passport": {
+      "message": "Passport"
+   },
+   "rt_label_photo": {
+      "message": "Photo"
+   },
+   "rt_label_pl_address": {
+      "message": "Addresses"
+   },
+   "rt_label_pl_bankAccount": {
+      "message": "Bank Accounts"
+   },
+   "rt_label_pl_bankCard": {
+      "message": "Payment Cards"
+   },
+   "rt_label_pl_birthCertificate": {
+      "message": "Birth Certificates"
+   },
+   "rt_label_pl_contact": {
+      "message": "Contacts"
+   },
+   "rt_label_pl_databaseCredentials": {
+      "message": "Databases"
+   },
+   "rt_label_pl_encryptedNotes": {
+      "message": "Secure Notes"
+   },
+   "rt_label_pl_file": {
+      "message": "Files"
+   },
+   "rt_label_pl_login": {
+      "message": "Logins"
+   },
+   "rt_label_pl_membership": {
+      "message": "Memberships"
+   },
+   "rt_label_pl_passport": {
+      "message": "Passports"
+   },
+   "rt_label_pl_photo": {
+      "message": "Photos"
+   },
+   "rt_label_pl_serverCredentials": {
+      "message": "Servers"
+   },
+   "rt_label_pl_softwareLicense": {
+      "message": "Software Licenses"
+   },
+   "rt_label_pl_sshKeys": {
+      "message": "SSH Keys"
+   },
+   "rt_label_pl_ssnCard": {
+      "message": "Identity Cards"
+   },
+   "rt_label_serverCredentials": {
+      "message": "Server"
+   },
+   "rt_label_softwareLicense": {
+      "message": "Software License"
+   },
+   "rt_label_sshKeys": {
+      "message": "SSH Key"
+   },
+   "rt_label_ssnCard": {
+      "message": "Identity Card"
+   },
+   "rt_label_wifi_login": {
+      "message": "WiFi Login"
+   },
+   "rule_contains": {
+      "message": "Contains at least XXX character(s) in the values: YYY"
+   },
+   "rule_contains_range_digit": {
+      "message": "Contains at least XXX digit(s)"
+   },
+   "rule_contains_range_lowercase": {
+      "message": "Contains at least XXX lowercase character(s)"
+   },
+   "rule_contains_range_uppercase": {
+      "message": "Contains at least XXX uppercase character(s)"
+   },
+   "rule_size_min": {
+      "message": "At least XXX character(s)"
+   },
+   "safari_ext_off": {
+      "message": "Keeper for Safari extension is currently off. You can turn it on in the Extensions section of Safari Settings."
+   },
+   "safari_ext_on": {
+      "message": "Keeper for Safari extension is currently on. You can turn it off in the Extensions section of Safari Settings."
+   },
+   "safari_ext_unknown": {
+      "message": "You can turn on Keeper for Safari’s extension in the Extensions section of Safari Settings."
+   },
+   "safari_upgrade_13": {
+      "message": "KeeperFill for Safari is only available on macOS High Sierra (10.13.6) and newer, running Safari 13 and newer."
+   },
+   "save_password_not_logged_in": {
+      "message": "You are currently logged out of Keeper. Please sign in using the Keeper icon located on your browser."
+   },
+   "save_password_prompt": {
+      "message": "Would you like to save this password?"
+   },
+   "save_password_setting_prompt": {
+      "message": "Save Password Prompt"
+   },
+   "save_password_setting_prompt_desc": {
+      "message": "Get a prompt to create a new record after logging into a website with new credentials."
+   },
+   "save_password_view": {
+      "message": "Save changes to your vault? Don't worry, you can always revert your password using the \"Record History\" screen."
+   },
+   "save_password_view2": {
+      "message": "Save changes to your vault?"
+   },
+   "save_prompt": {
+      "message": "Save Prompt"
+   },
+   "save_prompt2": {
+      "message": "Ask to Save Passwords"
+   },
+   "scanning_for_key": {
+      "message": "Scanning for security key..."
+   },
+   "screen_capture": {
+      "message": "Screen Capture"
+   },
+   "secret1_header": {
+      "message": "Login"
+   },
+   "secret2_header": {
+      "message": "Password"
+   },
+   "secret_key": {
+      "message": "Secret Key"
+   },
+   "secured_note": {
+      "message": "Secured Note"
+   },
+   "security_key_generic_error": {
+      "message": "Something went wrong with your Security Key, please try again."
+   },
+   "security_key_not_associated": {
+      "message": "To login with this Security Key, you must first register it to your account."
+   },
+   "security_key_timeout": {
+      "message": "We are unable to find your security key, please try again."
+   },
+   "security_two_factor_title": {
+      "message": "Two-Factor Authentication"
+   },
+   "security_twofactor_3": {
+      "message": "Authenticate"
+   },
+   "see_data": {
+      "message": "See what data will be sent."
+   },
+   "select_an_issue": {
+      "message": "Select an issue"
+   },
+   "send_keeper_push": {
+      "message": "Send Keeper Push"
+   },
+   "sending_pause": {
+      "message": "Sending..."
+   },
+   "server_connection_timeout_try_later": {
+      "message": "Server connection time out. Please try again later."
+   },
+   "set_as_primary_website": {
+      "message": "Set as Primary Website"
+   },
+   "set_to_default": {
+      "message": "Set to Default"
+   },
+   "set_up_biometric_login": {
+      "message": "Set up Biometric Login"
+   },
+   "setup": {
+      "message": "Setup"
+   },
+   "setup_record_url": {
+      "message": "Enter the website address"
+   },
+   "sf_records": {
+      "message": "Records"
+   },
+   "share_snapshot": {
+      "message": "Share Snapshot"
+   },
+   "share_snapshot_desc": {
+      "message": "After ensuring there is no confidential information included in this snapshot, use the Share Snapshot button to send this information to Keeper's Autofill Improvements team."
+   },
+   "short_record_removed_ressage": {
+      "message": "This record will be removed from your vault."
+   },
+   "short_shared_record_removed_message": {
+      "message": "This record will be removed from shared folders. Access will no longer be available to members of these shared folders."
+   },
+   "show_addresses": {
+      "message": "Show Addresses"
+   },
+   "show_all_passkeys": {
+      "message": "Show All Passkeys"
+   },
+   "show_always": {
+      "message": "Show Always"
+   },
+   "show_idb_storage": {
+      "message": "Show IDB Storage"
+   },
+   "show_less": {
+      "message": "Show Less"
+   },
+   "show_local_storage": {
+      "message": "Show Local Storage"
+   },
+   "show_locks": {
+      "message": "Show Locks"
+   },
+   "show_more": {
+      "message": "Show More"
+   },
+   "show_on_hover": {
+      "message": "Show on Hover Only"
+   },
+   "show_payment_cards": {
+      "message": "Show Payment Cards"
+   },
+   "show_snapshot_tool": {
+      "message": "Show Snapshot Tool"
+   },
+   "showhide": {
+      "message": "Show/Hide"
+   },
+   "sidebar_shortcut_favorites": {
+      "message": "Favorites"
+   },
+   "sign_in": {
+      "message": "Sign In"
+   },
+   "single_click_filling_no_iframe": {
+      "message": "For security reasons, single click filling is not supported on this site (cross-domain iFrame).  Please contact Keeper Support for assistance."
+   },
+   "slide_in": {
+      "message": "Slide in"
+   },
+   "snapshot_shared": {
+      "message": "Snapshot Shared"
+   },
+   "snapshot_tool": {
+      "message": "Snapshot Tool"
+   },
+   "snapshot_tool_disabled": {
+      "message": "Snapshot Tool Disabled"
+   },
+   "snapshot_tool_enabled": {
+      "message": "Snapshot Tool Enabled"
+   },
+   "something_went_wrong": {
+      "message": "Something went wrong"
+   },
+   "something_went_wrong_caps": {
+      "message": "Something Went Wrong"
+   },
+   "sso_enterprise_domain": {
+      "message": "Enterprise Domain"
+   },
+   "state": {
+      "message": "State"
+   },
+   "state_province": {
+      "message": "State/Province"
+   },
+   "stay_logged_in": {
+      "message": "Stay Logged in"
+   },
+   "stay_logged_in_desc2": {
+      "message": "Turn on to stay logged in when closing & reopening Keeper or restarting your device. Excludes logouts completed manually or by the Inactivity Logout Timer."
+   },
+   "stf_SSID": {
+      "message": "Network Name (SSID)"
+   },
+   "stf_alternativeIPs": {
+      "message": "Alternative IPs"
+   },
+   "stf_cardholderName": {
+      "message": "Cardholder Name"
+   },
+   "stf_company": {
+      "message": "Company"
+   },
+   "stf_databaseId": {
+      "message": "Database ID"
+   },
+   "stf_dateActive": {
+      "message": "Date Active"
+   },
+   "stf_dateIssued": {
+      "message": "Date Issued"
+   },
+   "stf_directoryId": {
+      "message": "Directory ID"
+   },
+   "stf_dlNumber": {
+      "message": "Driver's License Number"
+   },
+   "stf_domainName": {
+      "message": "Domain Name"
+   },
+   "stf_identificationNumber": {
+      "message": "Identification Number"
+   },
+   "stf_identityNumber": {
+      "message": "Identity Number"
+   },
+   "stf_insuredsName": {
+      "message": "Insured's Name"
+   },
+   "stf_passphrase": {
+      "message": "Passphrase"
+   },
+   "stf_passportNumber": {
+      "message": "Passport Number"
+   },
+   "stf_ssnNumber": {
+      "message": "Social Security Number"
+   },
+   "stf_type": {
+      "message": "Type"
+   },
+   "street_address_one": {
+      "message": "Street Address Line 1"
+   },
+   "street_address_two": {
+      "message": "Street Address Line 2"
+   },
+   "submit_button": {
+      "message": "Submit Button"
+   },
+   "suggest_recs_count": {
+      "message": "XXX Suggested Records"
+   },
+   "sync_data": {
+      "message": "Sync Data"
+   },
+   "take_a_screenshot": {
+      "message": "Take a screenshot"
+   },
+   "take_snapshot": {
+      "message": "Take Snapshot"
+   },
+   "take_snapshot_desc": {
+      "message": "Take a snapshot of this webpage to share it with Keeper's Autofill Improvement team."
+   },
+   "tap_to_fill": {
+      "message": "Tap to Fill"
+   },
+   "tell_us_what_went_wrong": {
+      "message": "Tell Us What Went Wrong"
+   },
+   "terms": {
+      "message": "Terms of Use"
+   },
+   "text_sent": {
+      "message": "Text message has already been sent, please wait."
+   },
+   "time_ago_1_month": {
+      "message": "1 month ago"
+   },
+   "time_ago_1_week": {
+      "message": "1 week ago"
+   },
+   "time_ago_1_year": {
+      "message": "1 year ago"
+   },
+   "time_ago_months": {
+      "message": "XXX months ago"
+   },
+   "time_ago_weeks": {
+      "message": "XXX weeks ago"
+   },
+   "time_ago_years": {
+      "message": "XXX years ago"
+   },
+   "title_address_title_placeholder": {
+      "message": "Title (e.g. Home, Work)"
+   },
+   "title_header": {
+      "message": "Title"
+   },
+   "today": {
+      "message": "Today"
+   },
+   "top_left": {
+      "message": "Top Left"
+   },
+   "top_right": {
+      "message": "Top Right"
+   },
+   "totp_code_does_not_autofill": {
+      "message": "TOTP code does not autofill"
+   },
+   "tour_continue": {
+      "message": "Continue"
+   },
+   "try_again": {
+      "message": "Try Again"
+   },
+   "try_another_method": {
+      "message": "Try Another Method"
+   },
+   "tunnel_port": {
+      "message": "Tunnel Port"
+   },
+   "turn_off_verify_fill_mode": {
+      "message": "Turn Off Verify Fill Mode"
+   },
+   "turn_on_anyway": {
+      "message": "Turn On Anyway"
+   },
+   "turn_on_verify_fill_mode": {
+      "message": "Turn On Verify Fill Mode"
+   },
+   "two_fac_req": {
+      "message": "Two-Factor Requirement"
+   },
+   "two_fact_rsa_success": {
+      "message": "Successful Authentication"
+   },
+   "two_factor_channel_google": {
+      "message": "Please enter the code in your Authenticator (TOTP) app."
+   },
+   "two_factor_channel_push": {
+      "message": "Please enter the verification code on your DNA device."
+   },
+   "two_factor_channel_rsa": {
+      "message": "Please enter your RSA passcode."
+   },
+   "two_factor_channel_sms": {
+      "message": "Please enter the code sent via text message."
+   },
+   "two_factor_code": {
+      "message": "Two-Factor Code"
+   },
+   "two_factor_code_duration": {
+      "message": "Two-Factor Code Duration"
+   },
+   "two_factor_frequency_explanation": {
+      "message": "Choose how often you are prompted to sign in on this device with your Two-Factor Authentication method."
+   },
+   "two_factor_generic_code_prompt": {
+      "message": "Enter the code from your two-factor method."
+   },
+   "two_factor_invalid_totp": {
+      "message": "The Two-Factor code provided is invalid or expired."
+   },
+   "two_factor_method_title": {
+      "message": "Two-Factor Method"
+   },
+   "two_factor_need_totp": {
+      "message": "Please enter your code"
+   },
+   "two_factor_required": {
+      "message": "Two-Factor Authentication is enforced by your Keeper administrator."
+   },
+   "two_factor_send_new_code": {
+      "message": "Send a new code"
+   },
+   "type_title": {
+      "message": "Type"
+   },
+   "u2f_login_instruction": {
+      "message": "Insert your security key into a USB port. If your security key has a button or gold disc, tap it."
+   },
+   "unable_to_generate": {
+      "message": "Unable to Generate"
+   },
+   "unable_to_save": {
+      "message": "Unable to Save"
+   },
+   "unexpected_error": {
+      "message": "An unexpected error occurred. Please reboot your device and if the issue persists, visit keepersecurity.com/support for assistance."
+   },
+   "unexpected_error_with_code": {
+      "message": "An unexpected error occurred.  Please reboot your device and if the issue persists, visit keepersecurity.com/support for assistance. (Error code XXX)."
+   },
+   "update_existing_passkey": {
+      "message": "Update Existing Passkey"
+   },
+   "update_passkey": {
+      "message": "Update Passkey"
+   },
+   "update_xxx": {
+      "message": "Update XXX"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "use_another_method": {
+      "message": "Use Another Method"
+   },
+   "use_as_default_settings": {
+      "message": "Use as default settings"
+   },
+   "use_backup_2fa": {
+      "message": "Use Backup Two-Factor Method"
+   },
+   "use_passkey": {
+      "message": "Use Passkey"
+   },
+   "use_passphrase": {
+      "message": "Use Passphrase"
+   },
+   "use_password": {
+      "message": "Use Password"
+   },
+   "use_pin_code": {
+      "message": "Use PIN Code"
+   },
+   "use_two_factor_method": {
+      "message": "Use Two-Factor Method"
+   },
+   "username_and_password_do_not_autofill": {
+      "message": "Username and password do not autofill"
+   },
+   "username_does_not_autofill": {
+      "message": "Username does not autofill"
+   },
+   "vault_login": {
+      "message": "Vault Login"
+   },
+   "verification_code": {
+      "message": "Verification Code"
+   },
+   "verification_code_text": {
+      "message": "Verification Code"
+   },
+   "verified_fill_mode_off": {
+      "message": "Verified Fill Mode Off"
+   },
+   "verified_fill_mode_on": {
+      "message": "Verified Fill Mode On"
+   },
+   "verify": {
+      "message": "Verify"
+   },
+   "verify_fill_mode_warning": {
+      "message": "Verify Fill Mode will prompt you to confirm every time before autofill occurs. This added protection can interrupt your flow and may feel disruptive on sites you use often."
+   },
+   "view_all_methods": {
+      "message": "View All Methods"
+   },
+   "view_contents": {
+      "message": "View Contents"
+   },
+   "view_gen_history": {
+      "message": "View Generator History"
+   },
+   "view_password": {
+      "message": "View Password"
+   },
+   "view_password_restriction": {
+      "message": "Viewing this password is restricted by your Keeper administrator"
+   },
+   "view_qr_code": {
+      "message": "View QR Code"
+   },
+   "view_record_in_vault": {
+      "message": "Record saved. Would you like to view?"
+   },
+   "waiting": {
+      "message": "Waiting..."
+   },
+   "warning_alert": {
+      "message": "Alert"
+   },
+   "was_change_successful": {
+      "message": "Was this change successful?"
+   },
+   "website_days": {
+      "message": "Days"
+   },
+   "website_hours": {
+      "message": "Hours"
+   },
+   "website_partners_64": {
+      "message": "Country Code"
+   },
+   "website_success": {
+      "message": "Success!"
+   },
+   "website_support_22": {
+      "message": "Web Vault"
+   },
+   "website_support_rev_02": {
+      "message": "Need Help?"
+   },
+   "website_support_rev_32": {
+      "message": "Two-Factor Codes"
+   },
+   "word_count": {
+      "message": "XXX Words"
+   },
+   "xxx_numbers": {
+      "message": "XXX Numbers"
+   },
+   "year": {
+      "message": "Year"
+   },
+   "yesterday": {
+      "message": "Yesterday"
+   },
+   "your_request_timed_out": {
+      "message": "Your Request Timed Out"
+   },
+   "zip_postal_code": {
+      "message": "Zip/Postal Code"
+   }
+}

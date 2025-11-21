@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  className="storage-removal focus-visible"
+>
+  <button
+    className="storage-removal-button"
+    onClick={[Function]}
+    tabIndex={0}
+  >
+    Clear Storage
+  </button>
+</div>
+`;

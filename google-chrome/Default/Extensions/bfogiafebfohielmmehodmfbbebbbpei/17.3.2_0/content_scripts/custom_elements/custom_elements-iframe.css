@@ -1,0 +1,2753 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.field {
+  position: relative;
+  display: -moz-box;
+  display: flex;
+  margin-top: 10px;
+  white-space: pre-wrap;
+  width: 100%;
+  -moz-box-align: center;
+       align-items: center;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 7px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 20px;
+}
+.field .value {
+  overflow-wrap: break-word;
+  word-break: break-all;
+  word-wrap: break-word;
+  line-height: 16px;
+  margin-right: 8px;
+  width: 100%;
+  color: #000;
+}
+.field .value.themed-text {
+  font-size: 13px;
+  color: #1b74da;
+  margin-bottom: -5px;
+  -moz-box-align: center;
+       align-items: center;
+}
+.field .value.themed-text svg {
+  bottom: 4px;
+  position: relative;
+}
+.field .label:not(.cvv) {
+  margin-bottom: 2px !important;
+}
+
+keeper-extension,
+keeper-extension-prompt,
+keeper-extension-simple,
+keeper-extension-simple-disabled,
+#keeper-extension {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2), inset 0 -1px 0 #b4b4b5, inset 1px 0 0 #b4b4b5, inset -1px 0 0 #b4b4b5;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  display: inline-block;
+  -webkit-filter: none;
+          filter: none;
+  font-family: Outfit, sans-serif;
+  font-size: 12px;
+  line-height: normal !important;
+  text-align: left;
+  text-transform: initial;
+  word-wrap: break-word;
+  height: auto !important;
+  width: 310px;
+  position: relative;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+keeper-extension input::-ms-clear, keeper-extension input::-ms-reveal,
+keeper-extension-prompt input::-ms-clear,
+keeper-extension-prompt input::-ms-reveal,
+keeper-extension-simple input::-ms-clear,
+keeper-extension-simple input::-ms-reveal,
+keeper-extension-simple-disabled input::-ms-clear,
+keeper-extension-simple-disabled input::-ms-reveal,
+#keeper-extension input::-ms-clear,
+#keeper-extension input::-ms-reveal {
+  display: none;
+}
+keeper-extension *::-webkit-scrollbar,
+keeper-extension-prompt *::-webkit-scrollbar,
+keeper-extension-simple *::-webkit-scrollbar,
+keeper-extension-simple-disabled *::-webkit-scrollbar,
+#keeper-extension *::-webkit-scrollbar {
+  width: 10px;
+}
+keeper-extension *::-webkit-scrollbar-thumb,
+keeper-extension-prompt *::-webkit-scrollbar-thumb,
+keeper-extension-simple *::-webkit-scrollbar-thumb,
+keeper-extension-simple-disabled *::-webkit-scrollbar-thumb,
+#keeper-extension *::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 8px;
+  border: 2px solid rgba(0, 0, 0, 0);
+  background-clip: padding-box;
+  min-height: 13%;
+}
+keeper-extension .keeper-header,
+keeper-extension keeper-header,
+keeper-extension-prompt .keeper-header,
+keeper-extension-prompt keeper-header,
+keeper-extension-simple .keeper-header,
+keeper-extension-simple keeper-header,
+keeper-extension-simple-disabled .keeper-header,
+keeper-extension-simple-disabled keeper-header,
+#keeper-extension .keeper-header,
+#keeper-extension keeper-header {
+  -moz-box-align: center;
+       align-items: center;
+  z-index: 3;
+  /* "Default" theme is "classic" */
+  background-image: -moz-linear-gradient(135deg, #02719d 0, #004762 100%);
+  background-image: linear-gradient(-45deg, #02719d 0, #004762 100%);
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  display: -moz-box;
+  display: flex;
+  padding: 12px 16px !important;
+  height: 40px;
+  -moz-box-sizing: border-box !important;
+       box-sizing: border-box !important;
+  position: relative;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+keeper-extension .keeper-header .keeper-logo,
+keeper-extension .keeper-header keeper-logo,
+keeper-extension keeper-header .keeper-logo,
+keeper-extension keeper-header keeper-logo,
+keeper-extension-prompt .keeper-header .keeper-logo,
+keeper-extension-prompt .keeper-header keeper-logo,
+keeper-extension-prompt keeper-header .keeper-logo,
+keeper-extension-prompt keeper-header keeper-logo,
+keeper-extension-simple .keeper-header .keeper-logo,
+keeper-extension-simple .keeper-header keeper-logo,
+keeper-extension-simple keeper-header .keeper-logo,
+keeper-extension-simple keeper-header keeper-logo,
+keeper-extension-simple-disabled .keeper-header .keeper-logo,
+keeper-extension-simple-disabled .keeper-header keeper-logo,
+keeper-extension-simple-disabled keeper-header .keeper-logo,
+keeper-extension-simple-disabled keeper-header keeper-logo,
+#keeper-extension .keeper-header .keeper-logo,
+#keeper-extension .keeper-header keeper-logo,
+#keeper-extension keeper-header .keeper-logo,
+#keeper-extension keeper-header keeper-logo {
+  height: 20px;
+  width: 78px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-flex: 2;
+       flex-grow: 2;
+}
+keeper-extension .keeper-header > keeper-div,
+keeper-extension keeper-header > keeper-div,
+keeper-extension-prompt .keeper-header > keeper-div,
+keeper-extension-prompt keeper-header > keeper-div,
+keeper-extension-simple .keeper-header > keeper-div,
+keeper-extension-simple keeper-header > keeper-div,
+keeper-extension-simple-disabled .keeper-header > keeper-div,
+keeper-extension-simple-disabled keeper-header > keeper-div,
+#keeper-extension .keeper-header > keeper-div,
+#keeper-extension keeper-header > keeper-div {
+  display: -moz-box;
+  display: flex;
+  font-family: Outfit, sans-serif;
+  font-size: 12px;
+  line-height: normal !important;
+  height: 24px;
+  cursor: pointer;
+}
+keeper-extension .keeper-header > keeper-div > *,
+keeper-extension keeper-header > keeper-div > *,
+keeper-extension-prompt .keeper-header > keeper-div > *,
+keeper-extension-prompt keeper-header > keeper-div > *,
+keeper-extension-simple .keeper-header > keeper-div > *,
+keeper-extension-simple keeper-header > keeper-div > *,
+keeper-extension-simple-disabled .keeper-header > keeper-div > *,
+keeper-extension-simple-disabled keeper-header > keeper-div > *,
+#keeper-extension .keeper-header > keeper-div > *,
+#keeper-extension keeper-header > keeper-div > * {
+  /* icon buttons */
+  margin: 0 8px !important;
+}
+keeper-extension .keeper-header > #menubutton,
+keeper-extension keeper-header > #menubutton,
+keeper-extension-prompt .keeper-header > #menubutton,
+keeper-extension-prompt keeper-header > #menubutton,
+keeper-extension-simple .keeper-header > #menubutton,
+keeper-extension-simple keeper-header > #menubutton,
+keeper-extension-simple-disabled .keeper-header > #menubutton,
+keeper-extension-simple-disabled keeper-header > #menubutton,
+#keeper-extension .keeper-header > #menubutton,
+#keeper-extension keeper-header > #menubutton {
+  color: white;
+}
+keeper-extension .keeper-header > keeper-iconbutton-close,
+keeper-extension keeper-header > keeper-iconbutton-close,
+keeper-extension-prompt .keeper-header > keeper-iconbutton-close,
+keeper-extension-prompt keeper-header > keeper-iconbutton-close,
+keeper-extension-simple .keeper-header > keeper-iconbutton-close,
+keeper-extension-simple keeper-header > keeper-iconbutton-close,
+keeper-extension-simple-disabled .keeper-header > keeper-iconbutton-close,
+keeper-extension-simple-disabled keeper-header > keeper-iconbutton-close,
+#keeper-extension .keeper-header > keeper-iconbutton-close,
+#keeper-extension keeper-header > keeper-iconbutton-close {
+  margin: 0;
+  cursor: pointer;
+  color: white;
+}
+keeper-extension .keeper-header > keeper-iconbutton-close path,
+keeper-extension keeper-header > keeper-iconbutton-close path,
+keeper-extension-prompt .keeper-header > keeper-iconbutton-close path,
+keeper-extension-prompt keeper-header > keeper-iconbutton-close path,
+keeper-extension-simple .keeper-header > keeper-iconbutton-close path,
+keeper-extension-simple keeper-header > keeper-iconbutton-close path,
+keeper-extension-simple-disabled .keeper-header > keeper-iconbutton-close path,
+keeper-extension-simple-disabled keeper-header > keeper-iconbutton-close path,
+#keeper-extension .keeper-header > keeper-iconbutton-close path,
+#keeper-extension keeper-header > keeper-iconbutton-close path {
+  fill: white;
+}
+keeper-extension .keeper-header #save-icon-root .save,
+keeper-extension keeper-header #save-icon-root .save,
+keeper-extension-prompt .keeper-header #save-icon-root .save,
+keeper-extension-prompt keeper-header #save-icon-root .save,
+keeper-extension-simple .keeper-header #save-icon-root .save,
+keeper-extension-simple keeper-header #save-icon-root .save,
+keeper-extension-simple-disabled .keeper-header #save-icon-root .save,
+keeper-extension-simple-disabled keeper-header #save-icon-root .save,
+#keeper-extension .keeper-header #save-icon-root .save,
+#keeper-extension keeper-header #save-icon-root .save {
+  color: white;
+  height: 24px;
+}
+keeper-extension.large,
+keeper-extension-prompt.large,
+keeper-extension-simple.large,
+keeper-extension-simple-disabled.large,
+#keeper-extension.large {
+  border-radius: 8px;
+}
+keeper-extension.large .keeper-header,
+keeper-extension.large keeper-header,
+keeper-extension-prompt.large .keeper-header,
+keeper-extension-prompt.large keeper-header,
+keeper-extension-simple.large .keeper-header,
+keeper-extension-simple.large keeper-header,
+keeper-extension-simple-disabled.large .keeper-header,
+keeper-extension-simple-disabled.large keeper-header,
+#keeper-extension.large .keeper-header,
+#keeper-extension.large keeper-header {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  height: 48px;
+}
+keeper-extension.large .keeper-header .keeper-logo,
+keeper-extension.large .keeper-header keeper-logo,
+keeper-extension.large keeper-header .keeper-logo,
+keeper-extension.large keeper-header keeper-logo,
+keeper-extension-prompt.large .keeper-header .keeper-logo,
+keeper-extension-prompt.large .keeper-header keeper-logo,
+keeper-extension-prompt.large keeper-header .keeper-logo,
+keeper-extension-prompt.large keeper-header keeper-logo,
+keeper-extension-simple.large .keeper-header .keeper-logo,
+keeper-extension-simple.large .keeper-header keeper-logo,
+keeper-extension-simple.large keeper-header .keeper-logo,
+keeper-extension-simple.large keeper-header keeper-logo,
+keeper-extension-simple-disabled.large .keeper-header .keeper-logo,
+keeper-extension-simple-disabled.large .keeper-header keeper-logo,
+keeper-extension-simple-disabled.large keeper-header .keeper-logo,
+keeper-extension-simple-disabled.large keeper-header keeper-logo,
+#keeper-extension.large .keeper-header .keeper-logo,
+#keeper-extension.large .keeper-header keeper-logo,
+#keeper-extension.large keeper-header .keeper-logo,
+#keeper-extension.large keeper-header keeper-logo {
+  height: 24px;
+  width: 103px;
+  background-size: 103px 24px;
+}
+
+keeper-extension-simple,
+keeper-extension-simple-disabled {
+  position: fixed;
+  background: #fff !important;
+}
+keeper-extension-simple keeper-extension-content,
+keeper-extension-simple-disabled keeper-extension-content {
+  padding: 20px !important;
+}
+keeper-extension-simple .logged-out-text,
+keeper-extension-simple-disabled .logged-out-text {
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Outfit, sans-serif;
+  margin-bottom: 10px;
+}
+keeper-extension-simple .logged-out-options,
+keeper-extension-simple-disabled .logged-out-options {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+keeper-extension-simple .logged-out-options .open-vault,
+keeper-extension-simple-disabled .logged-out-options .open-vault {
+  width: 100%;
+  background-color: #ffc700 !important;
+}
+keeper-extension-simple .logged-out-options .dont-show-again,
+keeper-extension-simple-disabled .logged-out-options .dont-show-again {
+  width: 100%;
+  background: transparent !important;
+  margin-top: 6px;
+  color: #1b74da !important;
+}
+
+.password-editor .password-editor-options .password-editor-length input[type=range].high-contrast {
+  -webkit-appearance: auto;
+     -moz-appearance: auto;
+          appearance: auto;
+}
+
+.high-contrast-border-bottom {
+  border-bottom: 1px solid CanvasText;
+}
+
+.copy.high-contrast-border-fill-white path,
+.keeper-dropdown-toggle.high-contrast-border-fill-white path,
+keeper-record-fields.high-contrast-border-fill-white path,
+#autofill_container.high-contrast-border-fill-white path,
+#autosubmit_container.high-contrast-border-fill-white path,
+keeper-iconbutton-lock.high-contrast-border-fill-white path,
+keeper-iconbutton-cc.high-contrast-border-fill-white path,
+keeper-iconbutton-location.high-contrast-border-fill-white path,
+keeper-iconbutton-more.high-contrast-border-fill-white path,
+keeper-iconbutton-done.high-contrast-border-fill-white path,
+keeper-iconbutton-close.high-contrast-border-fill-white path,
+#popup-back-button-arrow.high-contrast-border-fill-white path,
+.fill-record-button-icon.high-contrast-border-fill-white path {
+  fill: CanvasText !important;
+}
+
+keeper-pulldown-toggle.high-contrast-border-fill-linktext path {
+  fill: LinkText !important;
+}
+
+keeper-show-more.high-contrast-text-linktext,
+keeper-show-more.high-contrast-text-linktext keeper-div {
+  color: LinkText !important;
+}
+
+#keeper-extension.loginHelper .password-input-helper button.high-contrast-border,
+#keeper-extension.passwordHelper .password-input-helper button.high-contrast-border,
+#keeper-extension div.keeper-button.high-contrast-border,
+keeper-button:not(.login).high-contrast-border,
+keeper-button.high-contrast-border,
+#decline.high-contrast-border,
+#confirm.high-contrast-border,
+.high-contrast-border {
+  border: 1px solid black !important;
+}
+
+.high-contrast-border-header {
+  border: 0 solid black;
+  border-bottom: 1px solid black;
+}
+
+.high-contrast-border-rounded,
+.prompttoggle .md-toggle.high-contrast-border-rounded-highlight,
+.prompttoggle .md-toggle.high-contrast-border-rounded {
+  border: 1px solid ButtonText;
+  border-radius: 10px;
+}
+
+.high-contrast-border-rounded-highlight,
+.prompttoggle .md-toggle-checked.high-contrast-border-rounded,
+.prompttoggle .md-toggle-checked.high-contrast-border-rounded-highlight {
+  border: 1px solid ButtonText;
+  border-radius: 10px;
+}
+
+keeper-extension::before,
+keeper-extension-prompt::before,
+keeper-extension-simple::before,
+keeper-extension-simple-disabled::before {
+  content: "";
+  position: absolute;
+  border-bottom: 8px solid white;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  top: -8px;
+  display: none;
+}
+
+keeper-extension.keeper-float::before,
+keeper-extension-prompt.keeper-float::before,
+keeper-extension-simple.keeper-float::before,
+keeper-extension-simple-disabled.keeper-float::before {
+  display: none;
+}
+
+keeper-error-message {
+  color: #e0090c;
+  padding: 4px 0 0;
+  white-space: pre-line;
+  -moz-transform: translateZ(0);
+       transform: translateZ(0);
+}
+
+keeper-extension #svg-override {
+  fill: none;
+}
+
+keeper-extension-simple path,
+keeper-extension-simple-disabled path {
+  fill: #000;
+}
+
+keeper-extension-simple > keeper-extension-content,
+keeper-extension-simple keeper-extension-no-record {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+keeper-extension-simple > keeper-extension-content keeper-div,
+keeper-extension-simple keeper-extension-no-record keeper-div {
+  color: #000 !important;
+}
+
+keeper-extension-simple-disabled > keeper-extension-content,
+keeper-extension-simple-disabled keeper-extension-no-record {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+keeper-extension-simple-disabled > keeper-extension-content keeper-div,
+keeper-extension-simple-disabled keeper-extension-no-record keeper-div {
+  color: #000 !important;
+  margin-top: 13px;
+}
+
+keeper-extension-simple > keeper-extension-content > keeper-div:nth-child(2),
+keeper-extension-simple > keeper-extension-no-record > keeper-div:nth-child(2) {
+  margin: 10px 0 !important;
+}
+
+keeper-extension-simple-disabled > keeper-extension-content > keeper-div:nth-child(2),
+keeper-extension-simple-disabled > keeper-extension-no-record > keeper-div:nth-child(2) {
+  margin: 10px 0 !important;
+}
+
+keeper-extension-prompt keeper-extension-content,
+keeper-extension-prompt keeper-extension-no-record {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div,
+keeper-extension-prompt keeper-extension-no-record > keeper-div {
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+keeper-extension-prompt keeper-extension-content > keeper-message {
+  font-size: 15px;
+  margin: 13px 0;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div > .keeper-button,
+keeper-extension-prompt keeper-extension-content > keeper-div > keeper-button {
+  margin-bottom: 16px !important;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div.inputs,
+keeper-extension-prompt keeper-extension-no-record > keeper-div.inputs {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div.inputs > keeper-div:first-child,
+keeper-extension-prompt keeper-extension-no-record > keeper-div.inputs > keeper-div:first-child {
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div.inputs keeper-input,
+keeper-extension-prompt keeper-extension-no-record > keeper-div.inputs keeper-input {
+  font-size: 13px;
+  margin-bottom: 16px !important;
+  width: 272px;
+  min-height: 32px;
+  padding: 7px 0 5px !important;
+  max-height: 100px;
+  white-space: inherit;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.6);
+}
+keeper-extension-prompt keeper-extension-content > keeper-div.buttons:last-child,
+keeper-extension-prompt keeper-extension-no-record > keeper-div.buttons:last-child {
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div:nth-child(2),
+keeper-extension-prompt keeper-extension-no-record > keeper-div:nth-child(2) {
+  -moz-box-pack: end;
+       justify-content: flex-end;
+}
+keeper-extension-prompt > keeper-favicon, keeper-extension-prompt > .keeper-favicon {
+  margin: 16px;
+}
+keeper-extension-prompt > keeper-favicon > keeper-div, keeper-extension-prompt > .keeper-favicon > keeper-div {
+  display: inherit;
+}
+keeper-extension-prompt.savePrompt keeper-extension-content, keeper-extension-prompt.fillPrompt keeper-extension-content {
+  padding: 0 20px !important;
+}
+keeper-extension-prompt.savePrompt keeper-favicon, keeper-extension-prompt.fillPrompt keeper-favicon {
+  margin: 20px;
+  margin-bottom: 16px;
+  font-size: 15px;
+}
+keeper-extension-prompt.savePrompt keeper-record, keeper-extension-prompt.fillPrompt keeper-record {
+  display: none;
+}
+keeper-extension-prompt.savePrompt keeper-message, keeper-extension-prompt.fillPrompt keeper-message {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+keeper-extension-prompt.savePrompt keeper-button {
+  width: 127px;
+}
+keeper-extension-prompt.savePrompt .keeper-button#confirm,
+keeper-extension-prompt.savePrompt keeper-button#confirm {
+  font-family: Outfit, sans-serif;
+}
+keeper-extension-prompt.changePrompt {
+  width: 304px;
+}
+keeper-extension-prompt.changePrompt .keeper-record-field .keeper-password-strength {
+  margin-top: 0 !important;
+}
+keeper-extension-prompt.changePrompt keeper-record {
+  margin: 0;
+}
+keeper-extension-prompt.changePrompt .keeper-record-field-password {
+  margin: 14px 0 !important;
+}
+keeper-extension-prompt.changePrompt.newPasswordView .login-details, keeper-extension-prompt.changePrompt.oldPasswordView .login-details, keeper-extension-prompt.changePrompt.checkChangePassword .login-details {
+  margin: 0 0 16px;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-message, keeper-extension-prompt.changePrompt.oldPasswordView keeper-message {
+  margin: 8px 0 20px;
+}
+keeper-extension-prompt.changePrompt.oldPasswordView .keeper-password-privacy-screen, keeper-extension-prompt.changePrompt.savePasswordView .keeper-password-privacy-screen {
+  position: relative;
+  top: 30px;
+}
+keeper-extension-prompt.changePrompt.oldPasswordView keeper-message, keeper-extension-prompt.changePrompt.savePasswordView keeper-message {
+  margin: 30px 0 20px;
+}
+keeper-extension-prompt.changePrompt.oldPasswordView .keeper-password-strength, keeper-extension-prompt.changePrompt.savePasswordView .keeper-password-strength {
+  top: 10px;
+  width: 100%;
+}
+keeper-extension-prompt.changePrompt.oldPasswordView .keeper-input, keeper-extension-prompt.changePrompt.savePasswordView .keeper-input {
+  position: absolute;
+  top: 4px;
+}
+keeper-extension-prompt.changePrompt.passwordChangedView .keeper-record-field-password, keeper-extension-prompt.changePrompt.newPasswordView .keeper-record-field-password {
+  display: none;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-record-editor {
+  margin: 0;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-record-editor keeper-password-label {
+  margin-bottom: 0 !important;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-record-editor keeper-password-label keeper-password {
+  width: 100%;
+  border-bottom: none;
+  margin-bottom: -5px !important;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-record-editor keeper-password-label keeper-password keeper-input {
+  border-bottom: 1px solid #b4b4b5 !important;
+  width: 206px;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-record-editor keeper-password-label keeper-password keeper-iconbutton-dice {
+  right: 0 !important;
+}
+keeper-extension-prompt.changePrompt.newPasswordView keeper-record-editor keeper-password-label keeper-password keeper-iconbutton-eyeball {
+  right: 33px !important;
+}
+keeper-extension-prompt.changePrompt.savePasswordView {
+  position: static !important;
+}
+keeper-extension-prompt.changePrompt.savePasswordView keeper-favicon,
+keeper-extension-prompt.changePrompt.savePasswordView .keeper-favicon {
+  display: none;
+}
+keeper-extension-prompt.changePrompt.savePasswordView .login-details {
+  display: none;
+}
+keeper-extension-prompt.changePrompt.savePasswordView keeper-record .keeper-password-strength {
+  top: 30px;
+}
+keeper-extension-prompt.changePrompt.savePasswordView .keeper-record-field-password {
+  margin: 20px 0 !important;
+}
+keeper-extension-prompt.changePrompt.savePasswordView keeper-record-field-password {
+  margin-bottom: 24px !important;
+}
+keeper-extension-prompt.changePrompt.savePasswordView keeper-record-field-password .keeper-record-label {
+  padding: 0 0 6px;
+}
+keeper-extension-prompt.changePrompt.savePasswordView keeper-record-field-password:first-of-type {
+  margin-top: 16px !important;
+}
+keeper-extension-prompt.changePrompt.savePasswordView keeper-message {
+  margin: 15px 0;
+}
+keeper-extension-prompt.changePrompt.passwordChangedView keeper-favicon,
+keeper-extension-prompt.changePrompt.passwordChangedView .keeper-favicon {
+  display: none;
+}
+keeper-extension-prompt.changePrompt.passwordChangedView .login-details {
+  display: none;
+}
+keeper-extension-prompt.changePrompt.passwordChangedView keeper-message {
+  margin: 13px 0 30px;
+}
+keeper-extension-prompt.changePrompt.checkChangePassword .login-details {
+  margin: 0;
+}
+keeper-extension-prompt.changePrompt.checkChangePassword keeper-message {
+  margin: 15px 0;
+}
+keeper-extension-prompt.changePrompt.checkChangePassword > keeper-extension-content > keeper-div > .keeper-button, keeper-extension-prompt.changePrompt.checkChangePassword > keeper-extension-content > keeper-div > keeper-button {
+  margin-bottom: 24px !important;
+}
+keeper-extension-prompt.changePrompt.checkChangePassword > keeper-extension-content > keeper-div > keeper-div.themed-text {
+  margin: 0 0 7px !important;
+}
+keeper-extension-prompt.fillPrompt keeper-button {
+  width: 123px;
+}
+keeper-extension-prompt.fillPrompt keeper-div:nth-child(2) {
+  -moz-box-pack: center;
+       justify-content: center;
+}
+keeper-extension-prompt keeper-extension-content > keeper-div:last-child,
+keeper-extension-prompt keeper-extension-no-record > keeper-div:last-child {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+keeper-extension-prompt keeper-record-field-password keeper-password,
+keeper-extension-prompt keeper-record-field-password .keeper-password,
+keeper-extension-prompt .keeper-record-field-password keeper-password,
+keeper-extension-prompt .keeper-record-field-password .keeper-password {
+  min-height: 24px;
+  margin-bottom: 3px !important;
+}
+keeper-extension-prompt keeper-record-field-password keeper-password keeper-iconbutton-eyeball,
+keeper-extension-prompt keeper-record-field-password keeper-password .keeper-iconbutton-eyeball,
+keeper-extension-prompt keeper-record-field-password .keeper-password keeper-iconbutton-eyeball,
+keeper-extension-prompt keeper-record-field-password .keeper-password .keeper-iconbutton-eyeball,
+keeper-extension-prompt .keeper-record-field-password keeper-password keeper-iconbutton-eyeball,
+keeper-extension-prompt .keeper-record-field-password keeper-password .keeper-iconbutton-eyeball,
+keeper-extension-prompt .keeper-record-field-password .keeper-password keeper-iconbutton-eyeball,
+keeper-extension-prompt .keeper-record-field-password .keeper-password .keeper-iconbutton-eyeball {
+  left: 246px;
+}
+keeper-extension-prompt keeper-record-field-password keeper-iconbutton-fill,
+keeper-extension-prompt keeper-record-field-password .keeper-iconbutton-fill,
+keeper-extension-prompt .keeper-record-field-password keeper-iconbutton-fill,
+keeper-extension-prompt .keeper-record-field-password .keeper-iconbutton-fill {
+  display: none;
+}
+keeper-extension-prompt .login-details {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  position: relative;
+}
+keeper-extension-prompt .login-details :nth-child(1) {
+  font-size: 13px;
+}
+keeper-extension-prompt .login-details :nth-child(2) {
+  font-size: 12px;
+}
+
+keeper-header-placeholder {
+  background-color: #fff;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  display: -moz-box;
+  display: flex;
+  height: 44px;
+}
+
+#popup-back-button-container {
+  color: white;
+}
+#popup-back-button-container #popup-back-button-arrow {
+  margin: 0 !important;
+}
+#popup-back-button-container #popup-back-button {
+  margin: 0 !important;
+  margin-left: 2px !important;
+}
+
+#keeper-extension-popup .keeper-header keeper-iconbutton-edit svg,
+#keeper-extension-popup keeper-header keeper-iconbutton-edit svg {
+  height: 20px !important;
+  margin: 2px !important;
+  width: 20px !important;
+}
+
+.keeper-button,
+keeper-button {
+  background-color: #ffc700;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 20px !important;
+  margin: 0 10px;
+  min-width: 70px;
+  padding: 0 10px !important;
+  text-align: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.keeper-button.keeper-button-transparent,
+keeper-button.keeper-button-transparent {
+  background-color: transparent;
+  border: 0;
+}
+.keeper-button.keeper-button-inactive-full-width,
+keeper-button.keeper-button-inactive-full-width {
+  background-color: #ebebeb;
+  color: #333;
+  margin: 16px !important;
+  width: 352px !important;
+  font-size: 15px;
+  border-radius: 2px;
+  border: 1px solid #797979 !important;
+}
+.keeper-button.keeper-button-inactive-full-width.dark,
+keeper-button.keeper-button-inactive-full-width.dark {
+  background-color: #404040;
+  color: white !important;
+}
+.keeper-button.keeper-button-active-full-width,
+keeper-button.keeper-button-active-full-width {
+  background-color: #ffc700;
+  color: #333;
+  margin: 16px !important;
+  width: 352px !important;
+  font-size: 15px;
+  border-radius: 2px;
+  font-weight: 600;
+}
+.keeper-button.keeper-button-active,
+keeper-button.keeper-button-active {
+  background-color: #ffc700;
+  color: #333;
+}
+.keeper-button:not(.login),
+keeper-button:not(.login) {
+  margin: 0;
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: center;
+       justify-content: center;
+  -moz-box-align: center;
+       align-items: center;
+  border: none;
+  border-radius: 8px;
+  padding: 2px 16px;
+  width: 131px;
+  height: 40px;
+  font-size: 15px;
+}
+.keeper-button:not(.login):nth-child(1),
+keeper-button:not(.login):nth-child(1) {
+  background: #f0f0f0;
+}
+.keeper-button:not(.login):nth-child(2),
+keeper-button:not(.login):nth-child(2) {
+  background: #ffc700;
+}
+.keeper-button:not(.login).pretty,
+keeper-button:not(.login).pretty {
+  background: #ffc700;
+}
+.keeper-button.keeper-button-transparent.keeper-button-active,
+keeper-button.keeper-button-transparent.keeper-button-active {
+  background-color: transparent;
+  opacity: 1;
+}
+.keeper-button.keeper-button-disabled,
+keeper-button.keeper-button-disabled {
+  cursor: default;
+  background-color: #f0f0f0 !important;
+  opacity: 0.5;
+}
+.keeper-button:last-child,
+keeper-button:last-child {
+  margin-right: 0;
+}
+
+keeper-checkbox {
+  cursor: pointer;
+  height: 18px;
+  margin-left: -2px !important;
+  width: 18px;
+}
+keeper-checkbox svg {
+  position: relative;
+}
+
+keeper-checkbox-set {
+  -moz-box-align: center;
+       align-items: center;
+  cursor: pointer;
+  display: -moz-box;
+  display: flex;
+  height: 18px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+keeper-checkbox-set keeper-div {
+  margin: 0 4px !important;
+}
+
+.keeper-close,
+keeper-close {
+  cursor: pointer;
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+#keeper-extension-popup .keeper-close path,
+#keeper-extension-popup keeper-close path {
+  fill: #333;
+}
+
+keeper-div {
+  color: #333;
+  display: -moz-box;
+  display: flex;
+  line-height: normal;
+}
+
+keeper-edit-button {
+  border-radius: 14px;
+  cursor: pointer;
+  float: right;
+  height: 28px;
+  vertical-align: -5px;
+  width: 28px;
+}
+keeper-edit-button:active {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+keeper-edit-button svg {
+  margin: 2px !important;
+}
+
+keeper-error {
+  background-color: #fcc;
+  border-radius: 3px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.7);
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  color: #d00;
+  left: 10px;
+  padding: 30px 15px 20px !important;
+  position: absolute;
+  right: 10px;
+  top: 180px;
+  z-index: 1;
+}
+keeper-error keeper-iconbutton-close {
+  position: absolute !important;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
+
+keeper-iconbutton-done {
+  height: 24px;
+  width: 24px;
+}
+keeper-iconbutton-done path {
+  fill: white;
+}
+
+keeper-iconbutton-close {
+  cursor: pointer;
+  height: 24px;
+  width: 24px;
+}
+
+keeper-favicon,
+.keeper-favicon {
+  -moz-box-align: center;
+       align-items: center;
+  color: #333;
+  display: -moz-box;
+  display: flex;
+  font-size: 13px;
+  font-family: Outfit-SemiBold, sans-serif;
+  padding: 0 10px 0 0;
+  margin-bottom: 4px;
+}
+.keeper-rtl keeper-favicon,
+.keeper-rtl .keeper-favicon {
+  padding: 0 0 0 10px;
+}
+keeper-favicon img,
+keeper-favicon svg,
+keeper-favicon keeper-favicon-placeholder,
+.keeper-favicon img,
+.keeper-favicon svg,
+.keeper-favicon keeper-favicon-placeholder {
+  height: 20px !important;
+  margin: 0 !important;
+  width: 20px !important;
+}
+keeper-favicon keeper-div,
+.keeper-favicon keeper-div {
+  margin: 0 8px !important;
+  overflow: hidden;
+}
+
+keeper-help-button {
+  cursor: pointer;
+}
+
+keeper-input,
+.keeper-input {
+  background-color: transparent;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  cursor: default;
+  display: block;
+  font-family: Outfit, sans-serif;
+  font-weight: 400 !important;
+  height: 24px;
+  line-height: 24px !important;
+  margin: 0 !important;
+  overflow: hidden;
+  padding: 0 !important;
+  white-space: nowrap;
+  width: 100%;
+  -webkit-user-select: text;
+     -moz-user-select: text;
+      -ms-user-select: text;
+          user-select: text;
+}
+keeper-input span,
+.keeper-input span {
+  font-family: inherit !important;
+}
+keeper-input:focus,
+.keeper-input:focus {
+  outline: none;
+}
+keeper-input[contentEditable=true],
+.keeper-input[contentEditable=true] {
+  cursor: text;
+  width: 80%;
+}
+
+#info-icon {
+  background-image: url(/images/info-24px.svg);
+}
+
+.keeper-logo,
+keeper-logo {
+  background-repeat: no-repeat;
+  background-size: 78px 20px;
+  display: block;
+  height: 20px;
+  width: 78px;
+}
+
+keeper-extension-content,
+keeper-extension-no-record {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  display: -moz-box;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 16px;
+  position: relative;
+}
+
+keeper-content-options {
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  width: 100%;
+}
+keeper-content-options > keeper-div {
+  -moz-box-align: center;
+       align-items: center;
+  display: -moz-box;
+  display: flex;
+  margin: 6px 12px 16px 0;
+  font-size: 13px;
+}
+keeper-content-options > keeper-div.disable {
+  -moz-box-pack: end;
+       justify-content: flex-end;
+}
+keeper-content-options > keeper-div keeper-iconbutton-find svg {
+  height: 20px !important;
+  margin: 2px !important;
+  width: 20px !important;
+}
+keeper-content-options > keeper-div > keeper-div {
+  margin-left: 5px !important;
+}
+
+keeper-mode-selector svg {
+  height: 20px !important;
+  width: 20px !important;
+}
+keeper-mode-selector path {
+  fill: #666;
+}
+keeper-mode-selector .keeper-active path {
+  fill: #111;
+}
+keeper-mode-selector > keeper-div:nth-child(1) {
+  background: none;
+  display: -moz-box;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+  -moz-box-flex: 1;
+       flex-grow: 1;
+  text-align: center !important;
+}
+keeper-mode-selector > keeper-div:nth-child(1) > * {
+  margin: 1px 0 0;
+  width: 100% !important;
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
+keeper-mode-selector > keeper-div:nth-child(2) {
+  padding: 6px 16px 0;
+  font-size: 13px;
+  font-family: Outfit-SemiBold, sans-serif;
+}
+
+.md-toggle-checked label::after,
+.md-toggle label::after {
+  top: -5px;
+}
+
+.md-toggle label::after {
+  left: -5px;
+}
+
+.keeper-record-field-card keeper-iconbutton-eyeball,
+.keeper-record-field-card .keeper-iconbutton-eyeball,
+keeper-record-field keeper-iconbutton-eyeball,
+keeper-record-field .keeper-iconbutton-eyeball,
+keeper-record-field-cvv keeper-iconbutton-eyeball,
+keeper-record-field-cvv .keeper-iconbutton-eyeball,
+.keeper-record-field-extra keeper-iconbutton-eyeball,
+.keeper-record-field-extra .keeper-iconbutton-eyeball,
+keeper-record-field-totp keeper-iconbutton-eyeball,
+keeper-record-field-totp .keeper-iconbutton-eyeball,
+.keeper-record-field-totp keeper-iconbutton-eyeball,
+.keeper-record-field-totp .keeper-iconbutton-eyeball,
+keeper-record-field-ref keeper-iconbutton-eyeball,
+keeper-record-field-ref .keeper-iconbutton-eyeball {
+  align-self: center;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  display: block;
+}
+
+.keeper-rtl keeper-iconbutton-eyeball,
+.keeper-rtl .keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record-field keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record-field .keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record-field-cvv keeper-iconbutton-eyeball {
+  right: initial;
+  left: 0;
+}
+
+.changePrompt.keeper-rtl keeper-favicon,
+.changePrompt.keeper-rtl .keeper-favicon {
+  padding-left: 8px;
+  padding-right: 0;
+}
+.changePrompt.keeper-rtl keeper-password-strength {
+  width: 221px;
+}
+.changePrompt.keeper-rtl keeper-password keeper-iconbutton-dice {
+  left: 0 !important;
+  right: 254px !important;
+  top: -2px;
+}
+
+.keeper-rtl {
+  text-align: right !important;
+}
+.keeper-rtl .keeper-record .keeper-record-field-password .keeper-iconbutton-eyeball {
+  right: unset;
+  left: 30px;
+}
+.keeper-rtl .keeper-record .keeper-record-field-password .keeper-iconbutton-fill {
+  right: unset;
+  top: 1px;
+  left: 0;
+}
+.keeper-rtl .keeper-record .keeper-record-field-address .keeper-iconbutton-address {
+  padding-left: 8px;
+}
+.keeper-rtl .keeper-record .field .value {
+  margin-right: 0;
+}
+.keeper-rtl .keeper-record-field-card .keeper-iconbutton-eyeball,
+.keeper-rtl .keeper-record-field-extra .keeper-iconbutton-eyeball,
+.keeper-rtl .keeper-record-field-totp .keeper-iconbutton-eyeball {
+  right: initial;
+  left: 0;
+}
+.keeper-rtl #search {
+  padding: 10px 4px 0;
+}
+.keeper-rtl #search svg {
+  fill: #565656;
+}
+.keeper-rtl #search input {
+  padding-right: 10px !important;
+  font-family: Outfit, sans-serif;
+  width: 336px;
+  height: 40px;
+  color: #565656;
+  background: #f0f0f0;
+  border-radius: 8px;
+}
+.keeper-rtl .fill-record-button .fill-record-button-text {
+  padding-right: 8px;
+}
+.keeper-rtl keeper-record keeper-record-field-password,
+.keeper-rtl keeper-record .keeper-record-field-password {
+  width: 100%;
+}
+.keeper-rtl keeper-record keeper-record-field-password keeper-iconbutton-fill,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-iconbutton-fill,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-iconbutton-fill,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-iconbutton-fill {
+  right: 249px;
+  top: 21px;
+}
+.keeper-rtl keeper-record keeper-record-field-password keeper-password-strength,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password-strength,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password-strength,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password-strength {
+  width: 230px;
+}
+.keeper-rtl keeper-record keeper-record-field-password keeper-password keeper-input,
+.keeper-rtl keeper-record keeper-record-field-password keeper-password .keeper-input,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password keeper-input,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password .keeper-input,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password keeper-input,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password .keeper-input,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password keeper-input,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password .keeper-input {
+  text-align: right;
+  height: 29px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+.keeper-rtl keeper-record keeper-record-field-password keeper-password keeper-iconbutton-dice,
+.keeper-rtl keeper-record keeper-record-field-password keeper-password .keeper-iconbutton-dice,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password keeper-iconbutton-dice,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password .keeper-iconbutton-dice,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password keeper-iconbutton-dice,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password .keeper-iconbutton-dice,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password keeper-iconbutton-dice,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password .keeper-iconbutton-dice {
+  right: initial;
+  left: 18px !important;
+}
+.keeper-rtl keeper-record keeper-record-field-password keeper-password keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record keeper-record-field-password keeper-password .keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record keeper-record-field-password .keeper-password .keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record .keeper-record-field-password keeper-password .keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password keeper-iconbutton-eyeball,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-password .keeper-iconbutton-eyeball {
+  right: 222px !important;
+  top: -3px;
+}
+.keeper-rtl keeper-record keeper-record-field-password .keeper-record-field-card .favicon-record-icon-for-keeper-list,
+.keeper-rtl keeper-record .keeper-record-field-password .keeper-record-field-card .favicon-record-icon-for-keeper-list {
+  text-align: right;
+  right: inherit;
+}
+.keeper-rtl .keeper-record-field-login,
+.keeper-rtl .keeper-record-field-card,
+.keeper-rtl .keeper-record-field-address {
+  padding-right: 8px;
+}
+.keeper-rtl .keeper-record-field-login .keeper-listitem .title-for-keeper-list,
+.keeper-rtl .keeper-record-field-login .keeper-listitem .username-for-keeper-list,
+.keeper-rtl .keeper-record-field-card .keeper-listitem .title-for-keeper-list,
+.keeper-rtl .keeper-record-field-card .keeper-listitem .username-for-keeper-list,
+.keeper-rtl .keeper-record-field-address .keeper-listitem .title-for-keeper-list,
+.keeper-rtl .keeper-record-field-address .keeper-listitem .username-for-keeper-list {
+  margin-right: 32px !important;
+}
+.keeper-rtl .keeper-record-field-login .keeper-listitem .favicon-record-icon-for-keeper-list,
+.keeper-rtl .keeper-record-field-card .keeper-listitem .favicon-record-icon-for-keeper-list,
+.keeper-rtl .keeper-record-field-address .keeper-listitem .favicon-record-icon-for-keeper-list {
+  width: 150px;
+  left: unset;
+}
+.keeper-rtl .keeper-record-field-login .keeper-listitem .title-for-keeper-list,
+.keeper-rtl .keeper-record-field-card .keeper-listitem .title-for-keeper-list,
+.keeper-rtl .keeper-record-field-address .keeper-listitem .title-for-keeper-list {
+  left: inherit;
+}
+.keeper-rtl .keeper-record-field-login .keeper-listitem #done-container,
+.keeper-rtl .keeper-record-field-card .keeper-listitem #done-container,
+.keeper-rtl .keeper-record-field-address .keeper-listitem #done-container {
+  left: -16px !important;
+}
+.keeper-rtl .keeper-record-field-login .keeper-favicon,
+.keeper-rtl .keeper-record-field-card .keeper-favicon,
+.keeper-rtl .keeper-record-field-address .keeper-favicon {
+  padding-left: 8px;
+}
+.keeper-rtl keeper-record .keeper-password-strength {
+  top: 10px;
+}
+.keeper-rtl keeper-record .keeper-record-field-address keeper-div,
+.keeper-rtl keeper-record keeper-record-field-cvv keeper-div,
+.keeper-rtl keeper-record .keeper-record-field-login keeper-div,
+.keeper-rtl keeper-record keeper-record-field-password keeper-div,
+.keeper-rtl keeper-record .keeper-record-field-extra keeper-div,
+.keeper-rtl keeper-record keeper-record-field-ref keeper-div,
+.keeper-rtl keeper-record keeper-record-field-totp keeper-div {
+  -moz-box-align: start;
+       align-items: flex-start;
+}
+.keeper-rtl keeper-record-field-cvv keeper-iconbutton-eyeball {
+  right: -4px;
+}
+.keeper-rtl .keeper-record-field-login .keeper-listitem-new,
+.keeper-rtl .keeper-record-field-card .keeper-listitem-new,
+.keeper-rtl .keeper-record-field-address .keeper-listitem-new {
+  padding-right: 8px !important;
+}
+.keeper-rtl .keeper-record-field-login .keeper-listitem-new div,
+.keeper-rtl .keeper-record-field-card .keeper-listitem-new div,
+.keeper-rtl .keeper-record-field-address .keeper-listitem-new div {
+  margin-right: 8px;
+}
+.keeper-rtl .keeper-record-field-card .keeper-record-field,
+.keeper-rtl .keeper-record-field-card .keeper-record-label {
+  margin-right: 36px;
+  margin-left: 0;
+  left: unset !important;
+}
+.keeper-rtl .keeper-record-field-card keeper-listitem keeper-card-image,
+.keeper-rtl .keeper-record-field-card keeper-listitem .keeper-card-image,
+.keeper-rtl .keeper-record-field-card .keeper-listitem keeper-card-image,
+.keeper-rtl .keeper-record-field-card .keeper-listitem .keeper-card-image {
+  right: 8px;
+  left: inherit;
+}
+.keeper-rtl keeper-record .keeper-record-field-address keeper-listitem #done-container,
+.keeper-rtl keeper-record .keeper-record-field-address .keeper-listitem #done-container {
+  top: 45% !important;
+}
+.keeper-rtl keeper-record .keeper-record-field-address keeper-div {
+  padding-right: 5px;
+}
+.keeper-rtl keeper-iconbutton-more > keeper-div {
+  right: 6px;
+  position: relative;
+  top: -14px;
+}
+.keeper-rtl .keeper-header #save-icon-root,
+.keeper-rtl keeper-header #save-icon-root {
+  left: 8px;
+  position: relative;
+}
+.keeper-rtl .keeper-header .keeper-logo,
+.keeper-rtl .keeper-header keeper-logo,
+.keeper-rtl keeper-header .keeper-logo,
+.keeper-rtl keeper-header keeper-logo {
+  background-position: 97%;
+}
+.keeper-rtl .keeper-header keeper-iconbutton-more,
+.keeper-rtl keeper-header keeper-iconbutton-more {
+  position: absolute;
+  left: 32px;
+}
+.keeper-rtl .keeper-header keeper-iconbutton-close,
+.keeper-rtl keeper-header keeper-iconbutton-close {
+  cursor: pointer;
+  position: relative;
+}
+
+keeper-password,
+.keeper-password {
+  position: relative;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  border-bottom: 1px solid #e5e5e5;
+}
+keeper-password keeper-input,
+keeper-password .keeper-input,
+.keeper-password keeper-input,
+.keeper-password .keeper-input {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  font-weight: 400 !important;
+  font-size: 14px;
+  border: none !important;
+  width: 205px;
+  white-space: normal;
+  word-wrap: break-word;
+}
+keeper-password.rtl,
+.keeper-password.rtl {
+  text-align: right;
+}
+keeper-password keeper-iconbutton-eyeball,
+keeper-password keeper-iconbutton-dice,
+.keeper-password keeper-iconbutton-eyeball,
+.keeper-password keeper-iconbutton-dice {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  display: block;
+}
+keeper-password keeper-password-restriction,
+.keeper-password keeper-password-restriction {
+  color: #000;
+  display: none;
+  font-size: 9px;
+}
+keeper-password .keeper-iconbutton-fill.force-right,
+.keeper-password .keeper-iconbutton-fill.force-right {
+  left: 258px;
+}
+keeper-password .keeper-password-privacy-screen,
+.keeper-password .keeper-password-privacy-screen {
+  padding: 4px 0;
+}
+keeper-password keeper-password-privacy-screen,
+keeper-password .keeper-password-privacy-screen,
+.keeper-password keeper-password-privacy-screen,
+.keeper-password .keeper-password-privacy-screen {
+  color: #000;
+  font-size: 9px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-align: center;
+       align-items: center;
+}
+keeper-password keeper-password-privacy-screen p,
+keeper-password .keeper-password-privacy-screen p,
+.keeper-password keeper-password-privacy-screen p,
+.keeper-password .keeper-password-privacy-screen p {
+  font-size: 11px;
+  padding: 0 4px;
+  margin: 2px 0;
+  width: 251px;
+}
+keeper-password keeper-password-privacy-screen,
+.keeper-password keeper-password-privacy-screen {
+  display: none;
+}
+keeper-password keeper-record-field-cvv keeper-iconbutton-eyeball,
+.keeper-password keeper-record-field-cvv keeper-iconbutton-eyeball {
+  right: 0;
+}
+
+.website-link {
+  font-size: 13px;
+  color: #1b74da;
+}
+
+.dark-mode .website-link {
+  color: #48b6ff;
+}
+
+.high-contrast-mode .website-link {
+  color: LinkText;
+}
+
+.keeper-record-fields .keeper-record-label {
+  margin-bottom: 2px;
+}
+.keeper-record-fields keeper-iconbutton-eyeball,
+.keeper-record-fields .keeper-iconbutton-eyeball,
+.keeper-record-fields .keeper-iconbutton-dice,
+.keeper-record-fields keeper-iconbutton-dice {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  display: block;
+  position: absolute !important;
+  top: 1px;
+  right: 31px;
+}
+.keeper-record-fields .keeper-record-field {
+  padding-bottom: 8px;
+}
+
+keeper-record-fields .keeper-record-label {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 16px;
+}
+
+keeper-record-editor keeper-password-label keeper-div {
+  font-size: 13px !important;
+  color: black;
+  opacity: 1;
+}
+
+keeper-password-strength,
+.keeper-password-strength {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  display: block;
+  height: 4px;
+  position: relative;
+  top: 8px;
+  width: 165px;
+}
+keeper-password-strength keeper-div,
+keeper-password-strength div,
+.keeper-password-strength keeper-div,
+.keeper-password-strength div {
+  border-radius: 2px;
+  height: 100%;
+  position: absolute;
+  -moz-transition: width 1s, background-color 1s;
+  transition: width 1s, background-color 1s;
+  width: 0;
+}
+
+keeper-password-options > keeper-div:first-child {
+  margin: 0;
+}
+keeper-password-options > keeper-div:last-child {
+  -moz-box-align: center;
+       align-items: center;
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+keeper-password-options keeper-input {
+  height: 26px;
+  line-height: 18px;
+  margin: 0;
+  width: 50px;
+}
+
+.keeper-record-field keeper-password-strength,
+.keeper-record-label keeper-password-strength {
+  top: 10px !important;
+}
+
+keeper-record,
+.keeper-record {
+  display: inline-block;
+  width: 100%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  margin: 7px 0 0;
+}
+keeper-record .matching-logins,
+.keeper-record .matching-logins {
+  color: #606060;
+  margin-bottom: 5px;
+}
+keeper-record .keeper-record-field-totp .icons,
+.keeper-record .keeper-record-field-totp .icons {
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  gap: 12px;
+}
+keeper-record .keeper-record-field-totp .icons .keeper-iconbutton-eyeball,
+.keeper-record .keeper-record-field-totp .icons .keeper-iconbutton-eyeball {
+  margin: 0;
+}
+keeper-record .keeper-record-field-totp .icons .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-totp .icons .keeper-iconbutton-fill {
+  top: 0;
+}
+keeper-record .keeper-record-field-extra,
+.keeper-record .keeper-record-field-extra {
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+keeper-record .keeper-record-field-extra .icons,
+.keeper-record .keeper-record-field-extra .icons {
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  gap: 12px;
+}
+keeper-record .keeper-record-field-extra .icons .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-extra .icons .keeper-iconbutton-fill {
+  top: 4px;
+}
+keeper-record .field .icons,
+.keeper-record .field .icons {
+  gap: 12px;
+}
+keeper-record .keeper-record-field-address,
+keeper-record keeper-record-field-cvv,
+keeper-record keeper-record-field-login,
+keeper-record .keeper-record-field-login,
+keeper-record .keeper-record-field-extra,
+keeper-record keeper-record-field-totp,
+keeper-record .keeper-record-field-totp,
+keeper-record keeper-record-field,
+keeper-record keeper-record-field-ref,
+.keeper-record .keeper-record-field-address,
+.keeper-record keeper-record-field-cvv,
+.keeper-record keeper-record-field-login,
+.keeper-record .keeper-record-field-login,
+.keeper-record .keeper-record-field-extra,
+.keeper-record keeper-record-field-totp,
+.keeper-record .keeper-record-field-totp,
+.keeper-record keeper-record-field,
+.keeper-record keeper-record-field-ref {
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 4px;
+}
+keeper-record .keeper-record-field-address keeper-iconbutton-fill,
+keeper-record .keeper-record-field-address .keeper-iconbutton-fill,
+keeper-record keeper-record-field-cvv keeper-iconbutton-fill,
+keeper-record keeper-record-field-cvv .keeper-iconbutton-fill,
+keeper-record keeper-record-field-login keeper-iconbutton-fill,
+keeper-record keeper-record-field-login .keeper-iconbutton-fill,
+keeper-record .keeper-record-field-login keeper-iconbutton-fill,
+keeper-record .keeper-record-field-login .keeper-iconbutton-fill,
+keeper-record .keeper-record-field-extra keeper-iconbutton-fill,
+keeper-record .keeper-record-field-extra .keeper-iconbutton-fill,
+keeper-record keeper-record-field-totp keeper-iconbutton-fill,
+keeper-record keeper-record-field-totp .keeper-iconbutton-fill,
+keeper-record .keeper-record-field-totp keeper-iconbutton-fill,
+keeper-record .keeper-record-field-totp .keeper-iconbutton-fill,
+keeper-record keeper-record-field keeper-iconbutton-fill,
+keeper-record keeper-record-field .keeper-iconbutton-fill,
+keeper-record keeper-record-field-ref keeper-iconbutton-fill,
+keeper-record keeper-record-field-ref .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-address keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-address .keeper-iconbutton-fill,
+.keeper-record keeper-record-field-cvv keeper-iconbutton-fill,
+.keeper-record keeper-record-field-cvv .keeper-iconbutton-fill,
+.keeper-record keeper-record-field-login keeper-iconbutton-fill,
+.keeper-record keeper-record-field-login .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-login keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-login .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-extra keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-extra .keeper-iconbutton-fill,
+.keeper-record keeper-record-field-totp keeper-iconbutton-fill,
+.keeper-record keeper-record-field-totp .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-totp keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-totp .keeper-iconbutton-fill,
+.keeper-record keeper-record-field keeper-iconbutton-fill,
+.keeper-record keeper-record-field .keeper-iconbutton-fill,
+.keeper-record keeper-record-field-ref keeper-iconbutton-fill,
+.keeper-record keeper-record-field-ref .keeper-iconbutton-fill {
+  top: 8px;
+}
+keeper-record .keeper-record-field-address,
+keeper-record keeper-record-field-cvv,
+keeper-record keeper-record-field-login,
+keeper-record .keeper-record-field-login,
+keeper-record keeper-record-field-password,
+keeper-record .keeper-record-field-extra,
+keeper-record .keeper-record-field-totp,
+keeper-record keeper-record-field,
+keeper-record keeper-record-field-ref,
+.keeper-record .keeper-record-field-address,
+.keeper-record keeper-record-field-cvv,
+.keeper-record keeper-record-field-login,
+.keeper-record .keeper-record-field-login,
+.keeper-record keeper-record-field-password,
+.keeper-record .keeper-record-field-extra,
+.keeper-record .keeper-record-field-totp,
+.keeper-record keeper-record-field,
+.keeper-record keeper-record-field-ref {
+  position: relative;
+  display: -moz-box;
+  display: flex;
+  margin-top: 10px;
+  padding-top: 6px;
+  white-space: pre-wrap;
+  width: 100%;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+keeper-record .keeper-record-field-address,
+keeper-record keeper-record-field-login,
+keeper-record .keeper-record-field-login,
+keeper-record .keeper-record-field-card,
+.keeper-record .keeper-record-field-address,
+.keeper-record keeper-record-field-login,
+.keeper-record .keeper-record-field-login,
+.keeper-record .keeper-record-field-card {
+  position: relative;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 0 !important;
+  padding: 6px 8px 4px;
+  -moz-box-align: center;
+       align-items: center;
+}
+keeper-record .keeper-record-field-address keeper-favicon > keeper-div,
+keeper-record keeper-record-field-login keeper-favicon > keeper-div,
+keeper-record .keeper-record-field-login keeper-favicon > keeper-div,
+keeper-record .keeper-record-field-card keeper-favicon > keeper-div,
+.keeper-record .keeper-record-field-address keeper-favicon > keeper-div,
+.keeper-record keeper-record-field-login keeper-favicon > keeper-div,
+.keeper-record .keeper-record-field-login keeper-favicon > keeper-div,
+.keeper-record .keeper-record-field-card keeper-favicon > keeper-div {
+  display: none;
+}
+keeper-record .keeper-record-field-address > keeper-div,
+keeper-record keeper-record-field-cvv > keeper-div,
+keeper-record .keeper-record-field-card > keeper-div,
+keeper-record .keeper-record-field-login > keeper-div,
+keeper-record keeper-record-field-password > keeper-div,
+keeper-record .keeper-record-field-extra > keeper-div,
+keeper-record keeper-record-field > keeper-div,
+keeper-record keeper-record-field-ref > keeper-div,
+.keeper-record .keeper-record-field-address > keeper-div,
+.keeper-record keeper-record-field-cvv > keeper-div,
+.keeper-record .keeper-record-field-card > keeper-div,
+.keeper-record .keeper-record-field-login > keeper-div,
+.keeper-record keeper-record-field-password > keeper-div,
+.keeper-record .keeper-record-field-extra > keeper-div,
+.keeper-record keeper-record-field > keeper-div,
+.keeper-record keeper-record-field-ref > keeper-div {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  width: 100%;
+}
+keeper-record > keeper-div > .keeper-record-field-address > keeper-div > keeper-div:nth-child(1), keeper-record > keeper-div > .keeper-record-field-login > keeper-div > keeper-div:nth-child(1), keeper-record > keeper-div > .keeper-record-field-card > keeper-div > keeper-div:nth-child(1),
+.keeper-record > keeper-div > .keeper-record-field-address > keeper-div > keeper-div:nth-child(1),
+.keeper-record > keeper-div > .keeper-record-field-login > keeper-div > keeper-div:nth-child(1),
+.keeper-record > keeper-div > .keeper-record-field-card > keeper-div > keeper-div:nth-child(1) {
+  display: block;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 13px;
+}
+keeper-record .keeper-record-field-card,
+.keeper-record .keeper-record-field-card {
+  position: relative;
+  width: 100%;
+  display: -moz-box;
+  display: flex;
+}
+keeper-record .keeper-record-field-card keeper-div keeper-div,
+.keeper-record .keeper-record-field-card keeper-div keeper-div {
+  margin-left: 38px;
+}
+keeper-record .keeper-record-field-card .keeper-record-label,
+keeper-record .keeper-record-field-card .keeper-record-field,
+.keeper-record .keeper-record-field-card .keeper-record-label,
+.keeper-record .keeper-record-field-card .keeper-record-field {
+  left: 40px;
+  width: 232px;
+  position: relative;
+}
+keeper-record keeper-record-fields .keeper-record-field-totp .keeper-record-label,
+.keeper-record keeper-record-fields .keeper-record-field-totp .keeper-record-label {
+  margin-bottom: 2px !important;
+}
+keeper-record keeper-record-fields keeper-record-field > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields .keeper-record-field-address > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields keeper-record-field-cvv > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields .keeper-record-field-login > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields .keeper-record-field-card > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields keeper-record-field-password > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields .keeper-record-field-extra > keeper-div > keeper-div:nth-child(1),
+keeper-record keeper-record-fields keeper-record-field-ref > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields keeper-record-field > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields .keeper-record-field-address > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields keeper-record-field-cvv > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields .keeper-record-field-login > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields .keeper-record-field-card > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields keeper-record-field-password > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields .keeper-record-field-extra > keeper-div > keeper-div:nth-child(1),
+.keeper-record keeper-record-fields keeper-record-field-ref > keeper-div > keeper-div:nth-child(1) {
+  margin-bottom: 2px !important;
+}
+keeper-record keeper-record-field-ref > keeper-div > keeper-div:nth-child(3),
+.keeper-record keeper-record-field-ref > keeper-div > keeper-div:nth-child(3) {
+  max-height: 100px;
+  overflow: auto;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: 12px;
+}
+keeper-record keeper-record-field > keeper-div > keeper-div:nth-child(2),
+.keeper-record keeper-record-field > keeper-div > keeper-div:nth-child(2) {
+  max-height: 100px;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: 13px;
+  line-height: 16px;
+  margin-right: 8px;
+}
+keeper-record .keeper-record-field-extra .keeper-record-field,
+.keeper-record .keeper-record-field-extra .keeper-record-field {
+  max-height: 100px;
+  overflow: auto;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: 13px;
+  /* Edge */
+}
+keeper-record keeper-record-field-totp > keeper-div > keeper-div:nth-child(2),
+keeper-record .keeper-record-field-totp .keeper-record-field,
+.keeper-record keeper-record-field-totp > keeper-div > keeper-div:nth-child(2),
+.keeper-record .keeper-record-field-totp .keeper-record-field {
+  max-height: 100px;
+  overflow: auto;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  word-wrap: break-word;
+  /* Edge */
+  font-size: large;
+}
+keeper-record .keeper-record-field-address .keeper-record-label,
+keeper-record .keeper-record-field-address .keeper-record-field,
+keeper-record .keeper-record-field-login .keeper-record-label,
+keeper-record .keeper-record-field-login .keeper-record-field,
+keeper-record .keeper-record-field-card .keeper-record-label,
+keeper-record .keeper-record-field-card .keeper-record-field,
+.keeper-record .keeper-record-field-address .keeper-record-label,
+.keeper-record .keeper-record-field-address .keeper-record-field,
+.keeper-record .keeper-record-field-login .keeper-record-label,
+.keeper-record .keeper-record-field-login .keeper-record-field,
+.keeper-record .keeper-record-field-card .keeper-record-label,
+.keeper-record .keeper-record-field-card .keeper-record-field {
+  display: block;
+  max-width: 232px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 13px;
+}
+keeper-record .keeper-record-field-address > keeper-div > keeper-div:nth-child(2) > keeper-div:nth-child(1),
+keeper-record keeper-record-field-login > keeper-div > keeper-div:nth-child(2) > keeper-div:nth-child(1),
+.keeper-record .keeper-record-field-address > keeper-div > keeper-div:nth-child(2) > keeper-div:nth-child(1),
+.keeper-record keeper-record-field-login > keeper-div > keeper-div:nth-child(2) > keeper-div:nth-child(1) {
+  font-size: 13px;
+}
+keeper-record .keeper-record-field-password,
+.keeper-record .keeper-record-field-password {
+  margin: 14px 0;
+}
+keeper-record .keeper-record-field-password .keeper-password,
+.keeper-record .keeper-record-field-password .keeper-password {
+  margin: 4px 0;
+}
+keeper-record .keeper-record-field-password .keeper-password .keeper-record-label,
+.keeper-record .keeper-record-field-password .keeper-password .keeper-record-label {
+  margin-bottom: 2px;
+}
+keeper-record .keeper-record-field-password keeper-password-strength,
+keeper-record .keeper-record-field-password .keeper-password-strength,
+.keeper-record .keeper-record-field-password keeper-password-strength,
+.keeper-record .keeper-record-field-password .keeper-password-strength {
+  width: 278px;
+}
+keeper-record .keeper-record-field-password keeper-input,
+keeper-record .keeper-record-field-password .keeper-input,
+.keeper-record .keeper-record-field-password keeper-input,
+.keeper-record .keeper-record-field-password .keeper-input {
+  min-height: 24px;
+}
+keeper-record .keeper-record-field-password keeper-iconbutton-eyeball,
+keeper-record .keeper-record-field-password .keeper-iconbutton-eyeball,
+.keeper-record .keeper-record-field-password keeper-iconbutton-eyeball,
+.keeper-record .keeper-record-field-password .keeper-iconbutton-eyeball {
+  right: 28px;
+  top: 0;
+  position: absolute !important;
+}
+keeper-record .keeper-record-field-password keeper-iconbutton-fill,
+keeper-record .keeper-record-field-password .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-password keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-password .keeper-iconbutton-fill {
+  top: 1px;
+  right: 0;
+  position: absolute !important;
+  align-self: center;
+}
+keeper-record .keeper-record-field-password keeper-record-field keeper-password keeper-input,
+keeper-record .keeper-record-field-password .keeper-record-field .keeper-password .keeper-input,
+.keeper-record .keeper-record-field-password keeper-record-field keeper-password keeper-input,
+.keeper-record .keeper-record-field-password .keeper-record-field .keeper-password .keeper-input {
+  border-bottom: #e5e5e5;
+  width: 205px;
+}
+keeper-record .keeper-record-field-password.minimal,
+.keeper-record .keeper-record-field-password.minimal {
+  margin-bottom: 16px !important;
+}
+keeper-record .keeper-record-field-password.minimal keeper-iconbutton-fill,
+keeper-record .keeper-record-field-password.minimal .keeper-iconbutton-fill,
+keeper-record .keeper-record-field-password.minimal keeper-show-more,
+keeper-record .keeper-record-field-password.minimal keeper-listitem-new,
+.keeper-record .keeper-record-field-password.minimal keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-password.minimal .keeper-iconbutton-fill,
+.keeper-record .keeper-record-field-password.minimal keeper-show-more,
+.keeper-record .keeper-record-field-password.minimal keeper-listitem-new {
+  display: none;
+}
+keeper-record .text-switch,
+.keeper-record .text-switch {
+  display: block;
+}
+
+keeper-record-autocomplete {
+  display: -moz-box;
+  display: flex;
+  position: relative;
+  margin-bottom: 10px !important;
+  width: 100%;
+}
+keeper-record-autocomplete keeper-list,
+keeper-record-autocomplete .keeper-list {
+  top: 28px;
+}
+
+keeper-record-chooser,
+.keeper-record-chooser {
+  height: 24px;
+  width: 24px;
+  margin-left: unset !important;
+}
+
+keeper-list,
+.keeper-list {
+  background-color: #fff;
+  display: block;
+  position: absolute;
+  left: -1px;
+  right: -1px;
+  border: 1px solid #717171;
+  border-top: none;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+keeper-list .keeper-record-field,
+keeper-list .keeper-record-label,
+.keeper-list .keeper-record-field,
+.keeper-list .keeper-record-label {
+  display: block;
+  max-width: 232px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+}
+keeper-list keeper-list-container,
+keeper-list .keeper-list-container,
+.keeper-list keeper-list-container,
+.keeper-list .keeper-list-container {
+  display: block;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.keeper-rtl keeper-listitem keeper-div {
+  margin-right: unset !important;
+  margin-left: 55px !important;
+}
+
+keeper-listitem,
+.keeper-listitem {
+  cursor: pointer;
+  display: block;
+  padding: 12px 20px !important;
+  position: relative;
+}
+keeper-listitem #done-container,
+.keeper-listitem #done-container {
+  position: absolute;
+  margin-top: -12px;
+  top: 50%;
+  left: 204px;
+}
+keeper-listitem keeper-div, keeper-listitem > div,
+.keeper-listitem keeper-div,
+.keeper-listitem > div {
+  color: #000 !important;
+  margin-right: 55px !important;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  display: block;
+  margin-left: 32px;
+}
+keeper-listitem keeper-div:nth-child(1),
+keeper-listitem keeper-div .title-for-keeper-list, keeper-listitem > div:nth-child(1),
+keeper-listitem > div .title-for-keeper-list,
+.keeper-listitem keeper-div:nth-child(1),
+.keeper-listitem keeper-div .title-for-keeper-list,
+.keeper-listitem > div:nth-child(1),
+.keeper-listitem > div .title-for-keeper-list {
+  font-size: 13px;
+}
+keeper-listitem keeper-div:nth-child(2),
+keeper-listitem keeper-div .username-for-keeper-list, keeper-listitem > div:nth-child(2),
+keeper-listitem > div .username-for-keeper-list,
+.keeper-listitem keeper-div:nth-child(2),
+.keeper-listitem keeper-div .username-for-keeper-list,
+.keeper-listitem > div:nth-child(2),
+.keeper-listitem > div .username-for-keeper-list {
+  font-size: 12px;
+}
+keeper-listitem keeper-div:nth-child(3),
+keeper-listitem keeper-div .favicon-record-icon-for-keeper-list, keeper-listitem > div:nth-child(3),
+keeper-listitem > div .favicon-record-icon-for-keeper-list,
+.keeper-listitem keeper-div:nth-child(3),
+.keeper-listitem keeper-div .favicon-record-icon-for-keeper-list,
+.keeper-listitem > div:nth-child(3),
+.keeper-listitem > div .favicon-record-icon-for-keeper-list {
+  font-size: 10px;
+  margin: 0 !important;
+  position: absolute !important;
+  top: 20px;
+  left: 12px;
+}
+keeper-listitem keeper-div:nth-child(3):empty,
+keeper-listitem keeper-div .favicon-record-icon-for-keeper-list:empty, keeper-listitem > div:nth-child(3):empty,
+keeper-listitem > div .favicon-record-icon-for-keeper-list:empty,
+.keeper-listitem keeper-div:nth-child(3):empty,
+.keeper-listitem keeper-div .favicon-record-icon-for-keeper-list:empty,
+.keeper-listitem > div:nth-child(3):empty,
+.keeper-listitem > div .favicon-record-icon-for-keeper-list:empty {
+  margin-top: 0 !important;
+}
+keeper-listitem keeper-div .card-hidden-number, keeper-listitem > div .card-hidden-number,
+.keeper-listitem keeper-div .card-hidden-number,
+.keeper-listitem > div .card-hidden-number {
+  margin-left: 0 !important;
+  opacity: 0.7;
+}
+keeper-listitem keeper-iconbutton-person,
+.keeper-listitem keeper-iconbutton-person {
+  position: absolute !important;
+  margin-top: -12px !important;
+  top: 50%;
+  right: 45px;
+}
+keeper-listitem keeper-iconbutton-person path,
+.keeper-listitem keeper-iconbutton-person path {
+  fill: #666 !important;
+}
+keeper-listitem keeper-iconbutton-fill,
+keeper-listitem .keeper-iconbutton-fill,
+.keeper-listitem keeper-iconbutton-fill,
+.keeper-listitem .keeper-iconbutton-fill {
+  position: absolute !important;
+  margin-top: -12px !important;
+  top: 50%;
+  right: 17px;
+}
+keeper-listitem keeper-iconbutton-fill path,
+keeper-listitem .keeper-iconbutton-fill path,
+.keeper-listitem keeper-iconbutton-fill path,
+.keeper-listitem .keeper-iconbutton-fill path {
+  fill: #333 !important;
+}
+
+keeper-iconbutton-fill,
+.keeper-iconbutton-fill,
+keeper-iconbutton-fill svg,
+.keeper-iconbutton-fill svg {
+  height: 20px;
+  width: 20px;
+}
+
+.keeper-rtl keeper-listitem keeper-record-field-login keeper-favicon,
+.keeper-rtl keeper-listitem .keeper-record-field-login .keeper-favicon,
+.keeper-rtl .keeper-listitem keeper-record-field-login keeper-favicon,
+.keeper-rtl .keeper-listitem .keeper-record-field-login .keeper-favicon {
+  padding-left: 4px !important;
+}
+.keeper-rtl keeper-listitem keeper-iconbutton-person,
+.keeper-rtl .keeper-listitem keeper-iconbutton-person {
+  right: unset;
+  left: 45px;
+}
+.keeper-rtl keeper-listitem #done-container,
+.keeper-rtl .keeper-listitem #done-container {
+  right: unset;
+  left: 36px;
+  top: 42%;
+}
+
+keeper-listitem-new,
+.keeper-listitem-new {
+  -moz-box-align: center;
+       align-items: center;
+  cursor: pointer;
+  display: -moz-box;
+  display: flex;
+  padding: 10px 22px 10px 10px !important;
+}
+keeper-listitem-new path,
+.keeper-listitem-new path {
+  fill: #333 !important;
+}
+keeper-listitem-new keeper-div,
+keeper-listitem-new div,
+.keeper-listitem-new keeper-div,
+.keeper-listitem-new div {
+  color: #333 !important;
+  font-size: 14px;
+  height: 24px;
+  line-height: 24px;
+  margin-left: 8px;
+}
+
+.keeper-rtl keeper-listitem-new keeper-div {
+  margin-left: unset;
+  margin-right: 8px;
+}
+
+keeper-listitem-new keeper-iconbutton-add {
+  height: 24px;
+  width: 24px;
+}
+
+keeper-listitem:hover,
+keeper-listitem-new:hover,
+.keeper-listitem:hover,
+.keeper-listitem-new:hover {
+  background-color: #e9eff6;
+}
+
+keeper-listitem keeper-div.username-wrap,
+.keeper-listitem .username-wrap {
+  word-break: break-all;
+}
+
+.keeper-record-field-card .keeper-listitem {
+  padding: 10px 8px 6px 18px !important;
+}
+
+keeper-record-field-login keeper-listitem,
+keeper-record-field-login .keeper-listitem,
+.keeper-record-field-login keeper-listitem,
+.keeper-record-field-login .keeper-listitem,
+.keeper-record-field-address keeper-listitem,
+.keeper-record-field-address .keeper-listitem {
+  padding: 10px 8px 6px !important;
+}
+
+keeper-record .keeper-record-field-address .keeper-listitem .keeper-iconbutton-address {
+  position: absolute !important;
+  top: 15px;
+}
+
+.keeper-record-field-login .keeper-listitem-new,
+.keeper-record-field-card .keeper-listitem-new,
+.keeper-record-field-address .keeper-listitem-new {
+  padding-bottom: 10px !important;
+}
+.keeper-record-field-login .keeper-listitem .keeper-card-image,
+.keeper-record-field-card .keeper-listitem .keeper-card-image,
+.keeper-record-field-address .keeper-listitem .keeper-card-image {
+  margin: 0 !important;
+  position: absolute;
+  top: 17px;
+  left: 12px;
+  opacity: 1;
+}
+.keeper-record-field-login .keeper-listitem .title-for-keeper-list,
+.keeper-record-field-card .keeper-listitem .title-for-keeper-list,
+.keeper-record-field-address .keeper-listitem .title-for-keeper-list {
+  font-size: 13px;
+}
+.keeper-record-field-login .keeper-listitem .username-for-keeper-list,
+.keeper-record-field-card .keeper-listitem .username-for-keeper-list,
+.keeper-record-field-address .keeper-listitem .username-for-keeper-list {
+  font-size: 12px;
+  color: black !important;
+}
+.keeper-record-field-login .keeper-listitem .favicon-record-icon-for-keeper-list,
+.keeper-record-field-card .keeper-listitem .favicon-record-icon-for-keeper-list,
+.keeper-record-field-address .keeper-listitem .favicon-record-icon-for-keeper-list {
+  position: absolute;
+  left: 10px;
+  top: 15px;
+}
+
+.record-editor-margin-unset {
+  margin: unset;
+}
+
+keeper-div#record-edit-root {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  display: block;
+  width: 100%;
+}
+
+keeper-record-editor {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  display: block;
+  margin: 20px 0;
+  padding: 0 8px;
+  width: 100%;
+}
+keeper-record-editor input,
+keeper-record-editor keeper-input {
+  overflow-x: hidden;
+  white-space: inherit;
+  text-align: start;
+  border: none;
+  border-bottom: 1px solid black;
+  padding-left: 0;
+  font-size: 13px;
+}
+.changePrompt keeper-record-editor input,
+.changePrompt keeper-record-editor keeper-input {
+  border-bottom: none;
+}
+.changePrompt keeper-record-editor {
+  border-bottom: none;
+}
+keeper-record-editor .text-switch {
+  display: block;
+}
+keeper-record-editor keeper-eye-input-label,
+keeper-record-editor keeper-fill-input-label {
+  min-height: 45px;
+  margin-bottom: 19px !important;
+  border-radius: 3px;
+  display: -moz-box;
+  display: flex;
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 13px;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+  -moz-box-align: center;
+       align-items: center;
+}
+keeper-record-editor keeper-eye-input-label :nth-child(1),
+keeper-record-editor keeper-fill-input-label :nth-child(1) {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  width: 85%;
+  font-size: 12px;
+}
+keeper-record-editor keeper-eye-input-label :nth-child(1) input,
+keeper-record-editor keeper-fill-input-label :nth-child(1) input {
+  font-size: 13px;
+  -moz-transition: height 0.3s ease;
+  transition: height 0.3s ease;
+  min-height: 25px;
+  max-height: 100px;
+}
+keeper-record-editor keeper-eye-input-label keeper-iconbutton-eyeball,
+keeper-record-editor keeper-fill-input-label keeper-iconbutton-eyeball {
+  top: 10px;
+}
+keeper-record-editor keeper-input-label,
+keeper-record-editor keeper-password-label {
+  border-radius: 3px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  -moz-box-pack: end;
+       justify-content: flex-end;
+  font-size: 13px;
+  min-height: 45px;
+  margin-bottom: 19px !important;
+}
+keeper-record-editor keeper-password-strength {
+  width: 206px;
+  margin-top: 6px;
+  top: 1px;
+}
+keeper-record-editor keeper-password-options {
+  margin-top: 10px;
+  width: 100%;
+}
+keeper-record-editor keeper-input-label > keeper-div,
+keeper-record-editor keeper-password-label > keeper-div {
+  /* the label */
+  font-size: 12px !important;
+  margin-bottom: 2px;
+}
+keeper-record-editor keeper-input-label input {
+  font-size: 14px;
+  -moz-transition: height 0.3s ease;
+  transition: height 0.3s ease;
+  min-height: 25px;
+  max-height: 100px;
+}
+keeper-record-editor keeper-input-label:focus {
+  outline: none;
+}
+keeper-record-editor keeper-input-label:focus input,
+keeper-record-editor keeper-input-label input:focus {
+  min-height: 25px !important;
+}
+keeper-record-editor keeper-password-label:focus,
+keeper-record-editor keeper-password-label keeper-password:focus {
+  outline: none;
+}
+keeper-record-editor keeper-password-label:focus input,
+keeper-record-editor keeper-password-label input:focus {
+  min-height: 25px !important;
+}
+keeper-record-editor keeper-password-label keeper-iconbutton-eyeball {
+  position: absolute !important;
+  right: -30px !important;
+}
+keeper-record-editor keeper-password-label keeper-iconbutton-dice {
+  position: absolute !important;
+  right: -66px !important;
+  width: 24px;
+  height: 24px;
+}
+
+keeper-record-field-login keeper-div,
+.keeper-record-field-login {
+  text-align: start;
+}
+
+keeper-show-more {
+  -moz-box-align: center;
+       align-items: center;
+  cursor: pointer;
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: center;
+       justify-content: center;
+  margin: 8px 0 !important;
+  font-size: 13px;
+}
+
+keeper-slider {
+  height: 16px;
+  margin: 4px 0 6px !important;
+  position: relative;
+  width: 100%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+keeper-slider .slider-background {
+  content: "";
+  display: block;
+  height: 4px;
+  border-radius: 0;
+  width: 100%;
+}
+keeper-slider keeper-div {
+  background: white;
+  border: 0 solid #e3e3e3;
+  box-shadow: 0 1px 2px 0;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+keeper-icon-offline-bolt {
+  background: url(/images/baseline-offline_bolt-24px.svg) no-repeat;
+  height: 24px;
+  width: 24px;
+}
+
+#keeper-extension-popup keeper-iconbutton-more {
+  height: 24px;
+  width: 24px;
+}
+#keeper-extension-popup keeper-iconbutton-more svg {
+  margin: 0;
+  cursor: pointer;
+  fill: white;
+}
+
+keeper-iconbutton-more {
+  color: white;
+}
+keeper-iconbutton-more path {
+  fill: white;
+}
+keeper-iconbutton-more > keeper-div {
+  background-color: white;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  top: 24px;
+  right: 2px;
+  z-index: 1;
+  cursor: pointer;
+  font-size: 13px;
+  color: black;
+  border-radius: 2px;
+}
+keeper-iconbutton-more > keeper-div.rtl {
+  left: 2px;
+  right: initial;
+}
+keeper-iconbutton-more > keeper-div keeper-div {
+  white-space: nowrap;
+  padding: 8px 16px !important;
+}
+keeper-iconbutton-more > keeper-div keeper-div:hover {
+  background-color: #ccc;
+}
+keeper-iconbutton-more > keeper-div keeper-div:first-child {
+  margin-top: 4px !important;
+}
+keeper-iconbutton-more > keeper-div keeper-div:last-child {
+  margin-bottom: 4px !important;
+}
+
+#keeper-extension *:focus-visible.focus-visible {
+  outline: auto 2px Highlight;
+  outline: auto 5px -webkit-focus-ring-color;
+}
+#keeper-extension .vo-only {
+  position: absolute !important;
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.safari #keeper-extension *:focus:not(.safari-focus-visible) {
+  outline: none !important;
+}
+
+.keeper-spin3 {
+  -moz-animation: keeper-tumble-die 0.25s linear;
+       animation: keeper-tumble-die 0.25s linear;
+  -moz-animation-iteration-count: 3;
+       animation-iteration-count: 3;
+}
+
+@-moz-keyframes keeper-tumble-die {
+  100% {
+    -moz-transform: rotate(360deg);
+         transform: rotate(360deg);
+  }
+}
+
+@keyframes keeper-tumble-die {
+  100% {
+    -moz-transform: rotate(360deg);
+         transform: rotate(360deg);
+  }
+}
+keeper-phone-select {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  margin-bottom: 19px !important;
+}
+keeper-phone-select keeper-div {
+  opacity: 0.8;
+}
+keeper-phone-select keeper-input-group {
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+keeper-phone-select keeper-input:first-child {
+  flex-basis: 25%;
+  min-height: 25px;
+  max-height: 100px;
+}
+keeper-phone-select keeper-input:last-child {
+  flex-basis: 70%;
+  min-height: 25px;
+  max-height: 100px;
+}
+
+keeper-row {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+}
+
+keeper-column {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+
+keeper-card-image,
+.keeper-card-image {
+  position: absolute;
+  top: 13px;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  margin-right: 8px !important;
+  opacity: 1;
+}
+
+.overlayalert {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 3px;
+  color: #ffc700;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+       transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+  z-index: 2147483647;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  padding: 16px;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  min-width: 100px;
+  max-width: 200px;
+  /** Not sure why the above isnt considered, but adding this to fix overlayalert being there forever */
+}
+.overlayalert.fade {
+  opacity: 0;
+  -moz-transition: opacity 1s;
+  transition: opacity 1s;
+}
+.overlayalert.overlayalertfade {
+  opacity: 0;
+  -moz-transition: opacity 1s;
+  transition: opacity 1s;
+}
+.overlayalert .text {
+  text-align: center;
+  font-size: 14px;
+  font-family: Outfit, sans-serif;
+  color: white;
+  white-space: pre-wrap;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.overlayalert .icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 12px;
+}
+.overlayalert .icon path {
+  fill: #ffc700;
+}
+
+.overlayalert-enforcePasswordComplexity {
+  background-color: rgba(0, 0, 0, 0.9);
+  top: 30%;
+  left: 5%;
+  border-radius: 3px;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  color: #ffc700;
+  position: absolute;
+  width: 245px;
+  height: 200px;
+}
+.overlayalert-enforcePasswordComplexity .text {
+  margin-top: 5px;
+  padding: 0 10px;
+  font-family: Outfit, sans-serif;
+  font-size: 14px;
+  white-space: pre-wrap;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.overlayalert-enforcePasswordComplexity.overlayalertfade {
+  opacity: 0;
+  -moz-transition: opacity 1s;
+  transition: opacity 1s;
+}
+
+.overlayalert-enforceMPReentry {
+  background-color: rgba(0, 0, 0, 0.9);
+  top: 22%;
+  left: 10%;
+  border-radius: 3px;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  color: #ffc700;
+  position: absolute;
+  width: 250px;
+  height: auto;
+}
+.overlayalert-enforceMPReentry span {
+  color: #ffc700 !important;
+}
+.overlayalert-enforceMPReentry.overlayalertfade {
+  opacity: 0;
+  -moz-transition: opacity 1s;
+  transition: opacity 1s;
+}
+
+#keeper-hidden-input:focus {
+  outline: none;
+}
+
+#keeper-create-new-entry keeper-iconbutton-add {
+  display: -moz-box;
+  display: flex;
+}
+
+#pull-information-button {
+  width: 100%;
+  margin-bottom: 16px !important;
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: center;
+       justify-content: center;
+  -moz-box-align: center;
+       align-items: center;
+  font-size: 13px;
+}
+
+#keeper-copy-options-root {
+  position: relative;
+  margin-left: 16px;
+}
+#keeper-copy-options-root path {
+  fill: black !important;
+}
+.rtl #keeper-copy-options-root {
+  margin-left: unset;
+  margin-right: 16px;
+}
+#keeper-copy-options-root #copy-list {
+  z-index: 1;
+  position: absolute;
+  right: 0;
+  background: white;
+  box-shadow: 2px 2px 7px 0 rgba(0, 0, 0, 0.5);
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+#keeper-copy-options-root #copy-list.rtl {
+  right: auto;
+  left: 0;
+}
+
+.rtl #keeper-copy-options-root #copy-list {
+  right: unset;
+}
+
+#keeper-copy-options-root #copy-list .copy-option {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  cursor: pointer;
+  padding: 12px 8px;
+  border-bottom: 1px solid #aaa;
+  font-size: 14px;
+  color: black;
+}
+
+.fill-record-button {
+  background: #f0f0f0;
+  -moz-box-align: center;
+       align-items: center;
+  height: 30px;
+  -moz-box-pack: center;
+       justify-content: center;
+  margin-top: 8px;
+  border-radius: 3px;
+  cursor: pointer;
+  display: -moz-box;
+  display: flex;
+  font-size: 13px;
+}
+.fill-record-button .fill-record-button-text {
+  padding-left: 8px;
+}
+
+keeper-extension-no-record {
+  display: none;
+}
+
+.row {
+  display: -moz-box;
+  display: flex;
+}
+.row.align-center {
+  -moz-box-align: center;
+       align-items: center;
+}
+
+.column {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+
+.justify-between {
+  display: -moz-box;
+  display: flex;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+
+#proTip {
+  padding-bottom: 5px;
+}
+
+#protipContainer {
+  height: 20px;
+}
+
+#proTip p {
+  font-weight: 600;
+  font-size: 12px;
+  color: #4f86b8;
+}
+
+#fixinatorMessage {
+  background-color: transparent;
+  border: none;
+  color: grey;
+  cursor: pointer;
+  text-align: left;
+  margin-left: -5px;
+  margin-top: 10px;
+}
+
+.align-center {
+  -moz-box-align: center;
+       align-items: center;
+}
+
+#protipP1 {
+  font-size: 14px;
+  font-weight: 900;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+#protipContainer2 {
+  margin-top: 15px;
+  width: 250px;
+  margin-left: 28px;
+}
+
+#lightbulb {
+  width: 10px;
+  height: 14px;
+  display: inline-block;
+  margin-left: 15px;
+  margin-top: 15px;
+}

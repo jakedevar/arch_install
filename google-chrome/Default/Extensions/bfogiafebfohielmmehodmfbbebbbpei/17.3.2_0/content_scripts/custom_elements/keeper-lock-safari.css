@@ -1,0 +1,3 @@
+keeper-lock:focus:not(.safari-focus-visible) {
+  outline: none !important;
+}

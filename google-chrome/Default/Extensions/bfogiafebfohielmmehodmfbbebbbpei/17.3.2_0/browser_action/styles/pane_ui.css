@@ -1,0 +1,794 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.focus-none:focus, .focus-none:focus-visible {
+  outline: none;
+}
+
+.row-dice-eyeball-icon {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+
+#record-edit-root {
+  overflow: hidden scroll;
+}
+#record-edit-root .edit-pane-header button.save.disabled {
+  cursor: not-allowed;
+  background-color: #f0f0f0;
+  color: #888;
+}
+.dark-mode #record-edit-root .edit-pane-header button.save.disabled {
+  background-color: #f0f0f0;
+}
+.dark-mode #record-edit-root .edit-pane-header button.save.disabled {
+  color: #888;
+}
+.high-contrast-mode #record-edit-root .edit-pane-header button.save.disabled {
+  color: GrayText;
+}
+.high-contrast-mode #record-edit-root .edit-pane-header button.save.disabled {
+  border-color: GrayText !important;
+}
+#record-edit-root .edit-pane-header button.save.disabled:hover {
+  background-color: #f0f0f0;
+}
+.dark-mode #record-edit-root .edit-pane-header button.save.disabled:hover {
+  background-color: #f0f0f0;
+}
+#record-edit-root .edit-pane-header button:focus-visible {
+  outline-offset: 2px;
+}
+.dark-mode #record-edit-root .edit-pane-header button:focus-visible {
+  outline: 2px solid #48b6ff;
+}
+.high-contrast-mode #record-edit-root .edit-pane-header button:focus-visible {
+  outline: 2px solid CanvasText;
+}
+.landscape #record-edit-root {
+  position: relative;
+}
+.landscape #record-edit-root .record-edit-container .record-edit:has(.folder-dropdown-field .dropdown-container) {
+  overflow: visible !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .record-edit-field {
+  position: relative;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .record-edit-field .eyeball {
+  right: -36px;
+  top: 20px;
+  position: absolute;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 {
+  margin-bottom: 24px;
+  width: 320px;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 {
+  width: 280px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container {
+  width: 100%;
+  -moz-box-align: start;
+       align-items: flex-start;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container {
+  width: 100%;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container {
+  position: static;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt {
+  width: 100%;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  position: absolute;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  top: 20px;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  right: 20px;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  width: -moz-calc(100% - 40px);
+  width: calc(100% - 40px);
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  height: -moz-calc(100% - 40px);
+  height: calc(100% - 40px);
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header {
+  width: 100%;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item {
+  width: 100%;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container {
+  width: 100%;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .password-editor {
+  margin-bottom: 24px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .totp-edit-field {
+  width: 320px;
+  margin-bottom: 16px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field {
+  width: 320px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  gap: 8px;
+  border: none !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .selected-item-and-dropdown-arrow {
+  border: 1px solid #d8d8d8;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error {
+  margin-bottom: 12px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error .record-edit-field-content span > div {
+  border: 2px solid #ce021b;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error .record-edit-field-content span > div {
+  border: #ff7361;
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error .record-edit-field-content span > div {
+  border: 2px solid LinkText !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: start;
+       justify-content: flex-start;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container .keeper-iconbutton-error {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  fill: #ce021b;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container .keeper-iconbutton-error {
+  fill: #ff7361;
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container .keeper-iconbutton-error {
+  fill: LinkText !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container span.text {
+  color: #ce021b;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container span.text {
+  color: #ff7361;
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container span.text {
+  color: LinkText !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .record-edit-field-content {
+  display: -moz-box;
+  display: flex;
+  width: 100%;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  gap: 8px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .record-edit-field-content .keeper-select-field-container [class^=keeper-select].keeper-select-disabled {
+  cursor: pointer;
+  opacity: 1;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .record-edit-field-content .keeper-select-field-container [class^=keeper-select].keeper-select-disabled ~ div svg path {
+  fill-opacity: 1;
+}
+
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu {
+  top: 108px !important;
+  padding: 4px !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu.useLandscape {
+  right: 12px !important;
+  left: unset !important;
+  top: 165px !important;
+  width: 50% !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu.useLandscape .keeper-select-scrollbar-tracker {
+  width: 100% !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu .keeper-select-menu-item {
+  padding: 4px 16px !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu .keeper-select-menu-item .menu-item-description > div {
+  padding: 0 !important;
+}
+
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu {
+  background-color: #282828;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item:hover,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-item-title,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-item-title {
+  color: white;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .keeper-iconbutton-vault path,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .keeper-iconbutton-vault path {
+  fill: white;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-desc-label,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-desc-label {
+  color: white;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .keeper-iconbutton-check path,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .keeper-iconbutton-check path {
+  fill: white;
+}
+
+#data-body-paneui {
+  width: 360px;
+  height: 580px;
+}
+#data-body-paneui #generate-pin-root {
+  height: 100%;
+}
+#data-body-paneui.relB #settings-root #header {
+  width: 360px;
+}
+#data-body-paneui.relB #settings-root #settings {
+  margin: 8px 4px 8px 12px;
+}
+#data-body-paneui.relB #settings-root #settings #restore-default {
+  margin-top: 0;
+  height: 40px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+#data-body-paneui.relB #settings-root #settings hr {
+  width: 320px;
+}
+#data-body-paneui.relB #settings-root .prompttoggle.version {
+  -moz-box-pack: end;
+       justify-content: end;
+  background-color: transparent !important;
+}
+#data-body-paneui.relB #settings-root .input-fields .toggle-row {
+  padding: 0 8px;
+}
+#data-body-paneui.relB #settings-root .settings-pane {
+  margin: 4px 12px 12px;
+}
+#data-body-paneui.relB #settings-root .settings-pane .prompttoggle {
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+#data-body-paneui.relB #settings-root .settings-pane .prompttoggle .md-toggle,
+#data-body-paneui.relB #settings-root .settings-pane .prompttoggle .md-toggle-checked {
+  top: 0px;
+}
+#data-body-paneui.relB #settings-root .settings-pane .prompttoggle,
+#data-body-paneui.relB #settings-root .settings-pane .description {
+  padding: 12px 8px !important;
+}
+#data-body-paneui.relB #settings-root #themes .title,
+#data-body-paneui.relB #settings-root #themes .toggle-row label,
+#data-body-paneui.relB #settings-root #themes .preview .row {
+  padding: 0 8px !important;
+}
+#data-body-paneui.relB #settings-root #themes .preview {
+  margin-top: 0;
+}
+#data-body-paneui.relB #settings-root #themes .title {
+  height: 48px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+}
+#data-body-paneui.relB #settings-root #security-settings {
+  margin: 4px 12px;
+  padding: 0;
+}
+#data-body-paneui.relB #settings-root #security-settings .settings-pane {
+  margin: 0;
+}
+#data-body-paneui.relB #settings-root #security-settings .title .icon,
+#data-body-paneui.relB #settings-root #security-settings form,
+#data-body-paneui.relB #settings-root #security-settings .setting,
+#data-body-paneui.relB #settings-root #security-settings .description {
+  padding: 0 8px !important;
+}
+#data-body-paneui.relB #settings-root #security-settings .description,
+#data-body-paneui.relB #settings-root #security-settings .timer-toggle-row span {
+  padding-left: 0;
+}
+#data-body-paneui.relB #search-root {
+  margin-bottom: 0;
+  position: relative;
+  width: 100%;
+}
+#data-body-paneui.relB .generate-password {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+#data-body-paneui.relB .generate-password #header .history:hover.tooltip-fullleft::after {
+  right: 50px;
+}
+#data-body-paneui.relB .generate-password #header .closeX:hover.tooltip-fullleft::after {
+  right: 32px;
+}
+#data-body-paneui.relB .generate-password .generate-password-content {
+  margin: 20px;
+  margin-top: 8px;
+}
+#data-body-paneui.relB .generate-password .generate-password-content-password-controls {
+  -moz-box-flex: 1;
+       flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#data-body-paneui.relB .generate-password .generate-password-buttons {
+  padding: 14px;
+  width: auto;
+  flex-shrink: 0;
+}
+#data-body-paneui.relB .generate-password .generate-password-buttons.portrait-mode-buttons {
+  padding: 20px;
+}
+#data-body-paneui #settings {
+  padding-bottom: 40px;
+}
+#data-body-paneui.landscape .pane-2.logged-in-page {
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.2);
+}
+#data-body-paneui.landscape #generate-pin-root .generate-password-content-password-controls {
+  width: auto;
+}
+#data-body-paneui.landscape .generate-password .password-editor-checkboxes {
+  -moz-box-pack: start;
+       justify-content: flex-start;
+}
+#data-body-paneui.landscape .generate-password .generate-password-content-password-controls {
+  padding: 8px 12px 20px;
+}
+#data-body-paneui.landscape .generate-password .div-passphrases {
+  margin-right: 16px;
+}
+#data-body-paneui.landscape .record-results {
+  margin-top: 6px;
+}
+#data-body-paneui.landscape .record-results .record-wrapper .record-item-divider {
+  width: 240px !important;
+}
+#data-body-paneui.landscape .no-records.full-width {
+  width: 600px;
+  position: absolute;
+}
+#data-body-paneui.landscape #settings-root {
+  position: relative;
+}
+#data-body-paneui.landscape #settings-root.feature-scroll {
+  overflow-y: hidden;
+}
+#data-body-paneui.landscape #settings-root:not(.feature-scroll) {
+  height: 480px;
+}
+#data-body-paneui.landscape #settings-root #header {
+  width: 320px;
+}
+#data-body-paneui.landscape #settings-root #settings .setting {
+  width: 294px;
+}
+#data-body-paneui.landscape .cs-select .cs-options {
+  bottom: 46px;
+}
+#data-body-paneui.landscape .ba-edit {
+  height: 351px !important;
+}
+#data-body-paneui.landscape .ba-edit .prompttoggle {
+  width: 280px !important;
+}
+#data-body-paneui.landscape .record-details-pane {
+  height: 344px;
+}
+#data-body-paneui.landscape .record-details-pane.feature-scroll {
+  height: 332px;
+  position: absolute;
+}
+#data-body-paneui.landscape .record-details-pane .title {
+  max-width: 232px;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+#data-body-paneui.landscape .record-details-pane .prompttoggle {
+  width: 286px;
+}
+#data-body-paneui.landscape #records .record {
+  width: 264px;
+}
+#data-body-paneui.landscape #records .add-record-btn {
+  width: 240px;
+}
+#data-body-paneui.landscape #search-root {
+  background: #191919;
+  margin-top: 0;
+  margin-right: 16px;
+  margin-left: 16px;
+  height: 32px;
+}
+#data-body-paneui.landscape #search-root #search {
+  height: 32px;
+  padding: 0;
+}
+#data-body-paneui.landscape #search-root #search .search-input-icon.close {
+  right: 8px;
+}
+#data-body-paneui.landscape #search-root #search input {
+  width: 245px;
+  outline: none;
+  height: 32px;
+  background: rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #search-root #search input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #search-root #search input::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #search-root #search input:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #search-root #search input::-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #search-root #search input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #search-root #search input:focus {
+  border: none !important;
+}
+#data-body-paneui.landscape #search-root #search svg path {
+  fill: rgba(255, 255, 255, 0.6);
+}
+#data-body-paneui.landscape #generate-password-history-root #header {
+  height: 80px;
+}
+#data-body-paneui.landscape #generate-password-history-root #header .title {
+  text-align: center;
+}
+#data-body-paneui #header .new-ui-opts #landscape-select {
+  border: 1px solid transparent;
+  border-radius: 50%;
+}
+#data-body-paneui #header .new-ui-opts *:focus-visible,
+#data-body-paneui #header #search-root #search input:focus-visible {
+  outline: 2px solid white !important;
+  border: 1px solid black;
+}
+#data-body-paneui #header #search-root #search .close .focus-visible:focus-visible {
+  outline: 2px solid white !important;
+}
+#data-body-paneui #header.light-mode .user-menu *:focus-visible, #data-body-paneui #header.light-mode .toolbar-menu *:focus-visible {
+  outline: 2px solid #054b91 !important;
+  border: none;
+}
+#data-body-paneui #header.dark-mode .user-menu *:focus-visible, #data-body-paneui #header.dark-mode .toolbar-menu *:focus-visible {
+  outline: 2px solid #48b6ff !important;
+  border: none;
+}
+#data-body-paneui #header.red_and_blue .new-ui-opts *:focus-visible,
+#data-body-paneui #header.red_and_blue #search-root #search *:focus-visible {
+  border-color: #ad1539;
+}
+#data-body-paneui #header.phoenix .new-ui-opts *:focus-visible,
+#data-body-paneui #header.phoenix #search-root #search *:focus-visible {
+  border-color: #973900;
+}
+#data-body-paneui #header.aluminum .new-ui-opts *:focus-visible,
+#data-body-paneui #header.aluminum #search-root #search *:focus-visible {
+  border-color: #2f2f2f;
+}
+#data-body-paneui #header.deep_ocean .new-ui-opts *:focus-visible,
+#data-body-paneui #header.deep_ocean #search-root #search *:focus-visible {
+  border-color: #285290;
+}
+#data-body-paneui #header.flame .new-ui-opts *:focus-visible,
+#data-body-paneui #header.flame #search-root #search *:focus-visible {
+  border-color: #894252;
+}
+#data-body-paneui #header.blue_and_green .new-ui-opts *:focus-visible,
+#data-body-paneui #header.blue_and_green #search-root #search *:focus-visible {
+  border-color: #006a65;
+}
+#data-body-paneui #header.glam .new-ui-opts *:focus-visible,
+#data-body-paneui #header.glam #search-root #search *:focus-visible {
+  border-color: #684872;
+}
+#data-body-paneui #header.green .new-ui-opts *:focus-visible,
+#data-body-paneui #header.green #search-root #search *:focus-visible {
+  border-color: #43752b;
+}
+#data-body-paneui #header.burgundy .new-ui-opts *:focus-visible,
+#data-body-paneui #header.burgundy #search-root #search *:focus-visible {
+  border-color: #422858;
+}
+#data-body-paneui *::-webkit-scrollbar {
+  width: 12px;
+}
+#data-body-paneui .ba-edit textarea::-webkit-input-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#data-body-paneui .ba-edit textarea::-moz-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#data-body-paneui .ba-edit textarea:-ms-input-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#data-body-paneui .ba-edit textarea::-ms-input-placeholder {
+  font-family: Outfit, sans-serif;
+}
+#data-body-paneui .ba-edit textarea::placeholder {
+  font-family: Outfit, sans-serif;
+}
+#data-body-paneui .generated-password-history {
+  padding: 12px 12px 20px;
+  width: 100%;
+}
+#data-body-paneui #login {
+  height: 500px;
+}
+#data-body-paneui #login #the-multi-login-dropdown {
+  width: 312px;
+}
+#data-body-paneui.landscape {
+  width: 600px;
+  height: 480px;
+}
+#data-body-paneui.landscape #header {
+  z-index: 1;
+}
+#data-body-paneui.landscape .loggedin-body {
+  width: 280px;
+  max-height: 424px;
+}
+#data-body-paneui.landscape .user-menu,
+#data-body-paneui.landscape .toolbar-menu {
+  right: 20px;
+  left: unset;
+}
+#data-body-paneui.landscape .record-details-pane .field {
+  width: 280px;
+}
+#data-body-paneui.landscape .record-details-pane .field .password-strength {
+  width: 209px;
+}
+#data-body-paneui.landscape .record-details-pane .field .password-strength.qol {
+  width: 244px;
+}
+#data-body-paneui.landscape .edit-pane-header {
+  width: 100%;
+}
+#data-body-paneui.landscape .record-edit .password-editor {
+  width: 280px !important;
+}
+#data-body-paneui.landscape .record-edit .record-edit-content .record-edit-field,
+#data-body-paneui.landscape .record-edit .record-edit-field-usability {
+  max-width: 280px;
+}
+#data-body-paneui.portrait .loggedin-body {
+  height: 580px;
+}
+#data-body-paneui.portrait .main-scrollbar-view {
+  height: 100% !important;
+}
+#data-body-paneui.portrait #settings-root {
+  height: 100%;
+  overflow-y: auto !important;
+  overflow-x: hidden;
+}
+#data-body-paneui.portrait #settings-root:hover {
+  overflow: hidden auto;
+  margin-right: 0;
+}
+#data-body-paneui #login {
+  max-height: 528px;
+}
+#data-body-paneui .history-results .history-item {
+  width: 336px !important;
+}
+#data-body-paneui .pane-overlay {
+  background: rgba(0, 0, 0, 0.2);
+  top: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 40;
+}
+#data-body-paneui .keeper-input[name=cardSecurityCode] ~ .eyeball {
+  right: -36px;
+}
+#data-body-paneui .pane-2 {
+  width: 320px;
+  height: 424px;
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+#data-body-paneui .pane-2.high-contrast {
+  box-shadow: none;
+  border: solid 1px CanvasText;
+}
+#data-body-paneui .pane-2.slide-left {
+  -moz-animation: slide-in 0.3s forwards;
+       animation: slide-in 0.3s forwards;
+}
+#data-body-paneui .pane-2 #record-edit-root .record-edit .totp-edit-field {
+  width: 280px;
+}
+#data-body-paneui .pane-2.logged-in-page {
+  box-shadow: none;
+}
+#data-body-paneui .pane-2.overlayed {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 50;
+  background: white;
+  max-height: 480px;
+  height: 480px;
+}
+#data-body-paneui .pane-2.overlayed .generate-password {
+  margin: 0;
+  height: 480px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+#data-body-paneui .pane-2.overlayed .generate-password .generate-password-content-password-controls {
+  -moz-box-flex: 1;
+       flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#data-body-paneui .pane-2.overlayed .generate-password .generate-password-buttons {
+  width: auto;
+  padding: 14px;
+  flex-shrink: 0;
+}
+#data-body-paneui .pane-2.overlayed .generated-password-history .history-item {
+  width: 296px !important;
+}
+#data-body-paneui .pane-2.overlayed .generated-password-history .history-item:hover .details .password, #data-body-paneui .pane-2.overlayed .generated-password-history .history-item:focus-within .details .password {
+  width: 212px;
+}
+@-moz-keyframes slide-in {
+  0% {
+    right: -100%;
+  }
+  100% {
+    right: 0;
+  }
+}
+@keyframes slide-in {
+  0% {
+    right: -100%;
+  }
+  100% {
+    right: 0;
+  }
+}

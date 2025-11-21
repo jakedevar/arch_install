@@ -1,0 +1,130 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.mp-reentry-alert .body-container .pwd-container {
+  gap: 4px;
+}
+.mp-reentry-alert .body-container .pwd-container label {
+  color: #565656;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container label {
+  color: #fff;
+}
+.mp-reentry-alert .body-container .pwd-container input {
+  color: #565656;
+  font-family: KeeperSecret, monospace;
+  border-radius: 8px;
+  border: 1px solid #888;
+  flex-basis: 40px;
+  width: 100%;
+  padding: 0 8px 0 16px;
+  background-color: transparent;
+}
+.mp-reentry-alert .body-container .pwd-container input::-webkit-input-placeholder {
+  font-family: Outfit, sans-serif;
+  color: #565656;
+}
+.mp-reentry-alert .body-container .pwd-container input::-moz-placeholder {
+  font-family: Outfit, sans-serif;
+  color: #565656;
+}
+.mp-reentry-alert .body-container .pwd-container input:-ms-input-placeholder {
+  font-family: Outfit, sans-serif;
+  color: #565656;
+}
+.mp-reentry-alert .body-container .pwd-container input::-ms-input-placeholder {
+  font-family: Outfit, sans-serif;
+  color: #565656;
+}
+.mp-reentry-alert .body-container .pwd-container input::placeholder {
+  font-family: Outfit, sans-serif;
+  color: #565656;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input::-webkit-input-placeholder {
+  color: #fff;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input::-moz-placeholder {
+  color: #fff;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input:-ms-input-placeholder {
+  color: #fff;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input::-ms-input-placeholder {
+  color: #fff;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input::placeholder {
+  color: #fff;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input {
+  color: #fff;
+}
+.mp-reentry-alert .body-container .pwd-container input:focus-visible {
+  outline: 1px solid #054b91;
+}
+.dark-mode .mp-reentry-alert .body-container .pwd-container input:focus-visible {
+  outline: 2px solid rgb(72, 182, 255);
+}
+.mp-reentry-alert .body-container .error-container {
+  gap: 8px;
+}
+.mp-reentry-alert .body-container .error-container .keeper-iconbutton-triangle-warning {
+  width: 24px;
+  height: 24px;
+}
+.mp-reentry-alert .body-container .error-container .keeper-iconbutton-triangle-warning path {
+  fill: #ce021b;
+}
+.dark-mode .mp-reentry-alert .body-container .error-container .keeper-iconbutton-triangle-warning path {
+  fill: #ff7361;
+}
+.high-contrast-mode .mp-reentry-alert .body-container .error-container .keeper-iconbutton-triangle-warning path {
+  fill: Highlight;
+}
+.mp-reentry-alert .body-container .error-container .error-message {
+  color: #ce021b;
+  line-height: 20px; /* 142.857% */
+}
+.dark-mode .mp-reentry-alert .body-container .error-container .error-message {
+  color: #ff7361;
+}
+.high-contrast-mode .mp-reentry-alert .body-container .error-container .error-message {
+  color: Highlight;
+}
+.mp-reentry-alert .body-container .button-container {
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+.mp-reentry-alert .body-container .button-container .keeper-button {
+  width: 100%;
+  flex-basis: 40px;
+}
+.mp-reentry-alert .body-container .button-container .keeper-button:nth-child(2) {
+  background-color: transparent;
+  color: #1b74da;
+}
+.dark-mode .mp-reentry-alert .body-container .button-container .keeper-button:nth-child(2) {
+  color: #48b6ff;
+}
+.high-contrast-mode .mp-reentry-alert .body-container .button-container .keeper-button:nth-child(2) {
+  color: ButtonText;
+}
+.mp-reentry-alert .body-container .button-container .keeper-button:nth-child(2):hover {
+  background-color: #f0f0f0;
+  text-decoration: underline;
+}
+.dark-mode .mp-reentry-alert .body-container .button-container .keeper-button:nth-child(2):hover {
+  background-color: #565656;
+}

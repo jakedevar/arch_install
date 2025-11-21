@@ -1,0 +1,75 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/128-inactive.png",
+         "16": "icons/16-inactive.png",
+         "19": "icons/19-inactive.png",
+         "32": "icons/32-inactive.png",
+         "48": "icons/48-inactive.png"
+      },
+      "default_popup": "browser_action/browser_action.html",
+      "default_title": "Keeper"
+   },
+   "author": "Keeper Security, Inc.",
+   "background": {
+      "service_worker": "javascript/BG.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "chromeos": "Alt+K",
+            "linux": "Alt+K",
+            "mac": "Command+Shift+K",
+            "windows": "Alt+K"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "https://keepersecurity.com/vault/*", "https://keepersecurity.eu/vault/*", "https://keepersecurity.com.au/vault/*", "https://keepersecurity.ca/vault/*", "https://keepersecurity.jp/vault/*", "https://govcloud.keepersecurity.us/vault/*", "https://keepersecurity.com/*console/*", "https://keepersecurity.eu/*console/*", "https://keepersecurity.com.au/*console/*", "https://keepersecurity.ca/*console/*", "https://keepersecurity.jp/*console/*", "https://govcloud.keepersecurity.us/*console/*" ],
+      "js": [ "content_scripts/webauthn/webauthn.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "js": [ "content_scripts/vault-start.js", "content_scripts/vault.js" ],
+      "matches": [ "https://keepersecurity.com/vault/*", "https://keepersecurity.eu/vault/*", "https://keepersecurity.com.au/vault/*", "https://keepersecurity.ca/vault/*", "https://keepersecurity.jp/vault/*", "https://govcloud.keepersecurity.us/vault/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "connect-src": "'self' *; ",
+      "default-src": "'self'; ",
+      "img-src": "'self' https: data:; ",
+      "object-src": "'none'; ",
+      "script-src": "'self'; ",
+      "style-src": "'self' 'unsafe-inline'; "
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_be_header_store_text__",
+   "externally_connectable": {
+      "matches": [ "https://keepersecurity.com/vault/*", "https://keepersecurity.eu/vault/*", "https://keepersecurity.com.au/vault/*", "https://keepersecurity.ca/vault/*", "https://keepersecurity.jp/vault/*", "https://govcloud.keepersecurity.us/vault/*", "https://fixinator.keeperpamlab.com/*" ]
+   },
+   "homepage_url": "https://keepersecurity.com",
+   "host_permissions": [ "http://*/*", "https://*/*", "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/128x128.png",
+      "16": "icons/16x16.png",
+      "32": "icons/32x32.png",
+      "48": "icons/48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcsKXuyjiNrW/Cm2c6MS+aydp48dQwIwQxV7dbXt8Cki9myzEjnJTPis+TdnUdXaTF7NZXQo58CIMoP0YP8JenCMMlJB0A20iaRNmJui14eGjtJyusQluEFI6U/WNnMGr/INoklwJl2fje++Rpx2pAjtB0oUKTxLFfx5eIozR3fwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_artwork_appname__",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "extension_pages/options.html"
+   },
+   "permissions": [ "contextMenus", "tabs", "alarms", "idle", "storage", "browsingData", "webNavigation", "scripting", "clipboardWrite", "offscreen", "webRequest", "webRequestAuthProvider" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "17.3.2",
+   "version_name": "17.3.2",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "images/*", "fonts/*", "content_scripts/prompt/prompt.html", "content_scripts/contextMenuConfirmation/contextMenuConfirmation.html", "content_scripts/custom_elements/*", "content_scripts/hover_data/hover_data.html", "content_scripts/confirm/confirm.js", "content_scripts/*.js", "worker/*.js", "javascript/*.js", "extension_loaded.json" ]
+   } ]
+}

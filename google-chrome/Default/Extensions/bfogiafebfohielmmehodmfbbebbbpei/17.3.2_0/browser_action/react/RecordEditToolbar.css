@@ -1,0 +1,330 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.focus-none:focus, .focus-none:focus-visible {
+  outline: none;
+}
+
+.row-dice-eyeball-icon {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+}
+
+#record-edit-root {
+  overflow: hidden scroll;
+}
+#record-edit-root .edit-pane-header button.save.disabled {
+  cursor: not-allowed;
+  background-color: #f0f0f0;
+  color: #888;
+}
+.dark-mode #record-edit-root .edit-pane-header button.save.disabled {
+  background-color: #f0f0f0;
+}
+.dark-mode #record-edit-root .edit-pane-header button.save.disabled {
+  color: #888;
+}
+.high-contrast-mode #record-edit-root .edit-pane-header button.save.disabled {
+  color: GrayText;
+}
+.high-contrast-mode #record-edit-root .edit-pane-header button.save.disabled {
+  border-color: GrayText !important;
+}
+#record-edit-root .edit-pane-header button.save.disabled:hover {
+  background-color: #f0f0f0;
+}
+.dark-mode #record-edit-root .edit-pane-header button.save.disabled:hover {
+  background-color: #f0f0f0;
+}
+#record-edit-root .edit-pane-header button:focus-visible {
+  outline-offset: 2px;
+}
+.dark-mode #record-edit-root .edit-pane-header button:focus-visible {
+  outline: 2px solid #48b6ff;
+}
+.high-contrast-mode #record-edit-root .edit-pane-header button:focus-visible {
+  outline: 2px solid CanvasText;
+}
+.landscape #record-edit-root {
+  position: relative;
+}
+.landscape #record-edit-root .record-edit-container .record-edit:has(.folder-dropdown-field .dropdown-container) {
+  overflow: visible !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .record-edit-field {
+  position: relative;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .record-edit-field .eyeball {
+  right: -36px;
+  top: 20px;
+  position: absolute;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 {
+  margin-bottom: 24px;
+  width: 320px;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 {
+  width: 280px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container {
+  width: 100%;
+  -moz-box-align: start;
+       align-items: flex-start;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container {
+  width: 100%;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container {
+  position: static;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt {
+  width: 100%;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  position: absolute;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  top: 20px;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  right: 20px;
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  width: -moz-calc(100% - 40px);
+  width: calc(100% - 40px);
+}
+.landscape #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container {
+  height: -moz-calc(100% - 40px);
+  height: calc(100% - 40px);
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header {
+  width: 100%;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .dropdown-item-container-header .keeper-iconbutton-chevron-left:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item {
+  width: 100%;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-item-container .folder-item .keeper-iconbutton-chevron-right:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container {
+  width: 100%;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-dropdown-field-container.v2 .dropdown-field-container .dropdown-field-options-container .dropdown-field-alt .dropdown-container .dropdown-button-container button:focus-visible {
+  outline-color: Highlight;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .password-editor {
+  margin-bottom: 24px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .totp-edit-field {
+  width: 320px;
+  margin-bottom: 16px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field {
+  width: 320px;
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  gap: 8px;
+  border: none !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .selected-item-and-dropdown-arrow {
+  border: 1px solid #d8d8d8;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error {
+  margin-bottom: 12px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error .record-edit-field-content span > div {
+  border: 2px solid #ce021b;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error .record-edit-field-content span > div {
+  border: #ff7361;
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field.error .record-edit-field-content span > div {
+  border: 2px solid LinkText !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: start;
+       justify-content: flex-start;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container .keeper-iconbutton-error {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  fill: #ce021b;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container .keeper-iconbutton-error {
+  fill: #ff7361;
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container .keeper-iconbutton-error {
+  fill: LinkText !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container span.text {
+  color: #ce021b;
+}
+.dark-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container span.text {
+  color: #ff7361;
+}
+.high-contrast-mode #record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field + .error-container span.text {
+  color: LinkText !important;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .record-edit-field-content {
+  display: -moz-box;
+  display: flex;
+  width: 100%;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+  gap: 8px;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .record-edit-field-content .keeper-select-field-container [class^=keeper-select].keeper-select-disabled {
+  cursor: pointer;
+  opacity: 1;
+}
+#record-edit-root .record-edit-container .record-edit .record-edit-content .folder-selector-field .record-edit-field-content .keeper-select-field-container [class^=keeper-select].keeper-select-disabled ~ div svg path {
+  fill-opacity: 1;
+}
+
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu {
+  top: 108px !important;
+  padding: 4px !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu.useLandscape {
+  right: 12px !important;
+  left: unset !important;
+  top: 165px !important;
+  width: 50% !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu.useLandscape .keeper-select-scrollbar-tracker {
+  width: 100% !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu .keeper-select-menu-item {
+  padding: 4px 16px !important;
+}
+.keeper-select-overlay.folder-selector-field-overlay .keeper-select-menu .keeper-select-menu-item .menu-item-description > div {
+  padding: 0 !important;
+}
+
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu {
+  background-color: #282828;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item:hover,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-item-title,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-item-title {
+  color: white;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .keeper-iconbutton-vault path,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .keeper-iconbutton-vault path {
+  fill: white;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-desc-label,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .menu-item-description .menu-desc-label {
+  color: white;
+}
+.keeper-select-overlay.folder-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .keeper-iconbutton-check path,
+.keeper-select-overlay.account-selector-field-overlay.dark-mode .keeper-select-menu .keeper-select-menu-item .keeper-iconbutton-check path {
+  fill: white;
+}

@@ -1,0 +1,50 @@
+keeper-positionable-popup {
+  -webkit-user-select: none !important;
+     -moz-user-select: none !important;
+      -ms-user-select: none !important;
+          user-select: none !important;
+}
+keeper-positionable-popup[popover] {
+  inset: initial;
+}
+keeper-positionable-popup[popover]::-ms-backdrop {
+  background-color: transparent !important;
+}
+keeper-positionable-popup[popover]::backdrop {
+  background-color: transparent !important;
+}
+keeper-positionable-popup.repositioning {
+  -moz-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+keeper-positionable-popup iframe {
+  border: none;
+  pointer-events: auto !important;
+}
+
+.keeper-rtl keeper-draggable-element {
+  left: 72px;
+}
+
+keeper-lock {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/ico-field-fill-lock.svg");
+  background-size: 24px 24px !important;
+  cursor: pointer !important;
+  height: 24px !important;
+  width: 24px !important;
+  position: absolute !important;
+  opacity: 0;
+  margin-top: auto !important;
+  padding: 0;
+  z-index: 2147483647 !important;
+  background-repeat: no-repeat !important;
+}
+keeper-lock.keeper-loading {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/images/lock-loading.gif");
+  background-size: 22px 16px !important;
+  height: 16px !important;
+  width: 22px !important;
+}
+keeper-lock:hover {
+  opacity: 1 !important;
+}

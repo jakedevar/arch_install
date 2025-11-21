@@ -1,0 +1,66 @@
+.disclaimer-buttons button#disclaimer-primary.high-contrast-border,
+.disclaimer-buttons button#disclaimer-secondary.high-contrast-border,
+.warning-buttons button#warning-primary.high-contrast-border,
+.announcement-buttons button#announcement-primary.high-contrast-border,
+.announcement-buttons button#announcement-secondary.high-contrast-border,
+.alert-buttons button#alert-primary.high-contrast-border,
+.alert-buttons button#alert-secondary.high-contrast-border,
+.record-menu.dark-mode.high-contrast-border,
+#duo .duobuttons button.high-contrast-border,
+#welcome-screen .create.pretty.high-contrast-border,
+.generate-password .generate-password-buttons button.create-new.high-contrast-border,
+.menu-divider-border.high-contrast-border,
+#data-body.high-contrast-border,
+#data-body-paneui.high-contrast-border,
+.cs-select.cs-active .cs-options.high-contrast-border,
+#login .email-address-input-group.arrow-showing.high-contrast-border,
+button.pretty.gold.high-contrast-border,
+button.pretty.transparent.high-contrast-border,
+.high-contrast-border {
+  border: 1px solid black;
+}
+
+.high-contrast-border-gray-text {
+  border: 1px solid GrayText !important;
+}
+
+.high-contrast-link-text {
+  color: LinkText !important;
+}
+
+.high-contrast-gray-text {
+  color: GrayText !important;
+}
+
+.high-contrast-highlight-text {
+  color: HighlightText !important;
+}
+
+.high-contrast-highlight {
+  color: Highlight !important;
+}
+
+.high-contrast-button-text {
+  color: ButtonText !important;
+}
+
+.high-contrast-button-face {
+  color: ButtonFace !important;
+}
+
+.high-contrast-canvas {
+  color: Canvas !important;
+}
+
+.high-contrast-canvas-text {
+  color: CanvasText !important;
+}
+
+.menu-divider-border {
+  border-top: 1px solid #d8d8d8;
+  margin: 8px;
+}
+
+.menu-divider-border.dark {
+  border-top: 1px solid #565656;
+}

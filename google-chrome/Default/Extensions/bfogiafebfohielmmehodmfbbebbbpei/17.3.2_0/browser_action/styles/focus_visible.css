@@ -1,0 +1,121 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+#login *:focus-visible.focus-visible {
+  border-radius: 4px;
+  outline: 2px solid #48b6ff !important;
+}
+
+.light-mode *:focus {
+  outline: none;
+}
+.light-mode *:focus-visible.focus-visible {
+  border-radius: 4px;
+  outline: 2px solid #054b91 !important;
+}
+.light-mode #remember-me-container:focus-visible,
+.light-mode .account_upsell:focus-visible,
+.light-mode .expiration-dropdown-container:focus-visible,
+.light-mode #cancelSSO:focus-visible,
+.light-mode #login-with-a-different-account:focus-visible,
+.light-mode .need-help-container:focus-visible {
+  outline: 2px solid #48b6ff !important;
+}
+.light-mode button.create-new:focus-visible,
+.light-mode .cs-select:focus-visible,
+.light-mode .swatch:focus-visible {
+  border: 2px solid white;
+  border-radius: 8px;
+}
+.light-mode .loggedout-body #login .dropdown-button.highlighted, .light-mode .loggedout-body #login .dropdown-button:focus-visible,
+.light-mode .loggedout-body #login #sso-choice-dropdown .sso-choice-item.highlighted,
+.light-mode .loggedout-body #login #sso-choice-dropdown .sso-choice-item:focus-visible,
+.light-mode .loggedout-body #login #the-multi-login-dropdown .the-entries.highlighted,
+.light-mode .loggedout-body #login #the-multi-login-dropdown .the-entries:focus-visible,
+.light-mode .loggedout-body #login .close-icon.highlighted,
+.light-mode .loggedout-body #login .close-icon:focus-visible,
+.light-mode .loggedout-body #login #twofactorcode .expiration-dropdown-container-root .expiration-selector-items .expiration-selector-item.highlighted,
+.light-mode .loggedout-body #login #twofactorcode .expiration-dropdown-container-root .expiration-selector-items .expiration-selector-item:focus-visible,
+.light-mode .loggedout-body #login .need-help-items .need-help-item.highlighted,
+.light-mode .loggedout-body #login .need-help-items .need-help-item:focus-visible {
+  border-radius: 4px;
+  outline: 2px solid #48b6ff !important;
+}
+.light-mode .sort-wrap:not(.multi-selected).selected {
+  outline: 2px solid #054b91;
+}
+.light-mode .sort-wrap:not(.multi-selected) .sort-trigger:focus-visible,
+.light-mode .sort-wrap:not(.multi-selected) .cancel:focus-visible {
+  border: 2px solid transparent !important;
+}
+
+.dark-mode *:focus-visible.focus-visible {
+  outline: 2px solid #48b6ff;
+  border-radius: 4px;
+}
+.dark-mode .sort-wrap:not(.multi-selected).selected {
+  outline: 2px solid #48b6ff;
+}
+.dark-mode .sort-wrap:not(.multi-selected) .sort-trigger:focus-visible,
+.dark-mode .sort-wrap:not(.multi-selected) .cancel:focus-visible {
+  border: 2px solid transparent !important;
+}
+.dark-mode #login *:focus-visible.focus-visible {
+  border-radius: 4px;
+  outline: 2px solid #48b6ff;
+}
+.dark-mode #login button.gold:focus-visible,
+.dark-mode .start_sso:focus-visible,
+.dark-mode #device-approval button.gold:focus-visible {
+  border: 2px solid #191919 !important;
+  outline: 2px solid #48b6ff !important;
+  border-radius: 8px;
+}
+.dark-mode button.create-new:focus-visible,
+.dark-mode .cs-select:focus-visible,
+.dark-mode .swatch:focus-visible {
+  border: 2px solid #191919 !important;
+  outline: 2px solid #48b6ff !important;
+  border-radius: 8px;
+}
+.dark-mode #welcome-screen #welcome-screen-carousel-buttons:focus-visible {
+  border-radius: 8px;
+  outline: 2px solid #48b6ff !important;
+}
+
+.cs-select:focus-visible {
+  margin: -2px;
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+  margin-bottom: 14px !important;
+}
+
+.swatch:focus-visible {
+  margin: -2px !important;
+  border-radius: 10px !important;
+}
+
+.start_sso:focus-visible,
+.cs-select:focus-visible {
+  border-radius: 10px !important;
+}
+
+#login .start_sso.focus-visible:focus-visible,
+.expiration-dropdown-container:focus-visible,
+button.login:focus-visible,
+#welcome-screen button:focus-visible,
+#connectSSO:focus-visible,
+#data-body #login button.gold.focus-visible:focus-visible,
+#device-approval button.gold.focus-visible:focus-visible {
+  border: #191919 2px solid !important;
+  border-radius: 8px !important;
+  outline: 2px solid #48b6ff !important;
+}

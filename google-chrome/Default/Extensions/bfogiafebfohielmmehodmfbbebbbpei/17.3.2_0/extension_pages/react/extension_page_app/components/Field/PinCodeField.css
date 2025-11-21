@@ -1,0 +1,47 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.focus-none:focus, .focus-none:focus-visible {
+  outline: none;
+}
+
+.input-field-container.pin-code .pin-code-field-dice-container {
+  gap: 12px;
+}
+.input-field-container.pin-code .pin-code-field-dice-container .keeper-iconbutton-dice {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  border-radius: 4px;
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+}
+.input-field-container.pin-code .pin-code-field-dice-container .keeper-iconbutton-dice:focus-visible {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: #054b91;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: 2px;
+  outline-color: #054b91;
+}
+.dark-mode .input-field-container.pin-code .pin-code-field-dice-container .keeper-iconbutton-dice:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode .input-field-container.pin-code .pin-code-field-dice-container .keeper-iconbutton-dice:focus-visible {
+  outline-color: Highlight;
+}
+.dark-mode .input-field-container.pin-code .pin-code-field-dice-container .keeper-iconbutton-dice:focus-visible {
+  outline-color: rgb(72, 182, 255);
+}
+.high-contrast-mode .input-field-container.pin-code .pin-code-field-dice-container .keeper-iconbutton-dice:focus-visible {
+  outline-color: Highlight;
+}

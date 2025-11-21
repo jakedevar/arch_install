@@ -1,0 +1,45 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.dark-mode #timer .dropdown-field-container.closed {
+  border: 1px solid black;
+}
+.dark-mode #timer .dropdown-field-container .dropdown-container {
+  border: 1px solid black;
+}
+
+#timer .logout-timer-error-message {
+  display: -moz-box;
+  display: flex;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+       flex-direction: row;
+  -moz-box-pack: start;
+       justify-content: flex-start;
+  -moz-box-align: center;
+       align-items: center;
+  margin-top: 6px;
+  gap: 4px;
+}
+#timer .logout-timer-error-message .text {
+  margin: 0;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 160% */
+}
+#timer .logout-timer-error-message .keeper-iconbutton-iconi {
+  width: 24px;
+  height: 24px;
+}
+#timer .logout-timer-error-message .keeper-iconbutton-iconi path {
+  fill: #1b74da;
+}

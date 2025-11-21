@@ -1,0 +1,209 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.high-contrast-mode .input-field-container.error .input-field {
+  border: 2px solid Highlight !important;
+}
+.high-contrast-mode .input-field-container.error .input-field input::-webkit-input-placeholder {
+  color: Highlight;
+}
+.high-contrast-mode .input-field-container.error .input-field input::-moz-placeholder {
+  color: Highlight;
+}
+.high-contrast-mode .input-field-container.error .input-field input:-ms-input-placeholder {
+  color: Highlight;
+}
+.high-contrast-mode .input-field-container.error .input-field input::-ms-input-placeholder {
+  color: Highlight;
+}
+.high-contrast-mode .input-field-container.error .input-field input::placeholder {
+  color: Highlight;
+}
+.high-contrast-mode .input-field-container .input-field-label {
+  color: GrayText;
+}
+.high-contrast-mode .input-field-container .input-field:has(input:focus-visible) {
+  border: 2px solid Highlight;
+}
+.high-contrast-mode .input-field-container .input-field .input-field-icon-container .keeper-iconbutton-content-copy:focus-visible {
+  border: 2px solid Highlight;
+}
+.high-contrast-mode .input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility:focus-visible,
+.high-contrast-mode .input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility-off:focus-visible {
+  border: 2px solid Highlight;
+}
+.high-contrast-mode .input-field-container .input-field-error-container .keeper-iconbutton-triangle-warning path {
+  fill: Highlight;
+}
+.high-contrast-mode .input-field-container .input-field-error-container p {
+  color: Highlight;
+}
+
+.dark-mode .input-field-container .input-field-label {
+  color: #b3b3b3;
+}
+.dark-mode .input-field-container .input-field {
+  background-color: #191919;
+  border: 1px solid #565656;
+}
+.dark-mode .input-field-container .input-field:has(input:focus-visible) {
+  border: 2px solid rgb(72, 182, 255);
+}
+.dark-mode .input-field-container .input-field input {
+  background-color: #191919;
+  color: white;
+}
+.dark-mode .input-field-container .input-field input::-webkit-input-placeholder {
+  color: #b3b3b3;
+}
+.dark-mode .input-field-container .input-field input::-moz-placeholder {
+  color: #b3b3b3;
+}
+.dark-mode .input-field-container .input-field input:-ms-input-placeholder {
+  color: #b3b3b3;
+}
+.dark-mode .input-field-container .input-field input::-ms-input-placeholder {
+  color: #b3b3b3;
+}
+.dark-mode .input-field-container .input-field input::placeholder {
+  color: #b3b3b3;
+}
+.dark-mode .input-field-container .input-field .input-field-icon-container .keeper-iconbutton-content-copy:focus-visible {
+  border: 2px solid rgb(72, 182, 255);
+}
+.dark-mode .input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility:focus-visible,
+.dark-mode .input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility-off:focus-visible {
+  border: 2px solid rgb(72, 182, 255);
+}
+
+.input-field-container {
+  gap: 4px;
+}
+.input-field-container:hover .input-field .input-field-icon-container .keeper-iconbutton-content-copy {
+  display: initial;
+}
+.input-field-container.error .input-field {
+  border: 2px solid #ce021b !important;
+}
+.input-field-container.error .input-field input::-webkit-input-placeholder {
+  color: #ce021b;
+}
+.input-field-container.error .input-field input::-moz-placeholder {
+  color: #ce021b;
+}
+.input-field-container.error .input-field input:-ms-input-placeholder {
+  color: #ce021b;
+}
+.input-field-container.error .input-field input::-ms-input-placeholder {
+  color: #ce021b;
+}
+.input-field-container.error .input-field input::placeholder {
+  color: #ce021b;
+}
+.input-field-container .input-field-label {
+  color: #565656;
+  font-family: Outfit, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+.input-field-container .input-field {
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #d8d8d8;
+  height: 40px;
+  padding: 0 16px;
+  font-size: 17px;
+  -moz-box-flex: 1;
+       flex-grow: 1;
+  color: #000;
+}
+.input-field-container .input-field:has(input:focus-visible) {
+  border: 2px solid #054b91;
+}
+.input-field-container .input-field input {
+  font-size: 15px;
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding: 0;
+  font-family: Outfit, sans-serif;
+}
+.input-field-container .input-field input:focus-visible {
+  outline: none;
+}
+.input-field-container .input-field input::-webkit-input-placeholder {
+  color: #565656;
+  opacity: 1;
+}
+.input-field-container .input-field input::-moz-placeholder {
+  color: #565656;
+  opacity: 1;
+}
+.input-field-container .input-field input:-ms-input-placeholder {
+  color: #565656;
+  opacity: 1;
+}
+.input-field-container .input-field input::-ms-input-placeholder {
+  color: #565656;
+  opacity: 1;
+}
+.input-field-container .input-field input::placeholder {
+  color: #565656;
+  opacity: 1;
+}
+.input-field-container .input-field .input-field-icon-container {
+  gap: 8px;
+}
+.input-field-container .input-field .input-field-icon-container svg {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}
+.input-field-container .input-field .input-field-icon-container .keeper-iconbutton-content-copy {
+  display: none;
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+  border-radius: 4px;
+}
+.input-field-container .input-field .input-field-icon-container .keeper-iconbutton-content-copy:focus-visible {
+  outline: none;
+  border: 2px solid #054b91;
+}
+.input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility,
+.input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility-off {
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+  border-radius: 4px;
+}
+.input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility:focus-visible,
+.input-field-container .input-field .input-field-icon-container .keeper-iconbutton-visibility-off:focus-visible {
+  outline: none;
+  border: 2px solid #054b91;
+}
+.input-field-container .input-field-error-container {
+  gap: 8px;
+}
+.input-field-container .input-field-error-container .keeper-iconbutton-triangle-warning {
+  width: 24px;
+  height: 24px;
+}
+.input-field-container .input-field-error-container .keeper-iconbutton-triangle-warning path {
+  fill: #ce021b;
+}
+.input-field-container .input-field-error-container p {
+  color: #ce021b;
+  font-size: 14px;
+  line-height: 20px;
+  width: -moz-calc(100% - 8px - 24px);
+  width: calc(100% - 8px - 24px);
+  overflow-wrap: anywhere;
+}

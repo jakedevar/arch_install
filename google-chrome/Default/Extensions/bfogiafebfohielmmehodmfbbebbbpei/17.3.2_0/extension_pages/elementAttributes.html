@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>DevTools Extension Element Attributes</title>
+    <link rel="stylesheet" href="./styles/element_attributes.css" />
+    <script src="./elementAttributes.js"></script>
+  </head>
+  <body>
+    <form novalidate>
+      <div>
+        <select name="frame-url" required="false">
+          <!-- populated by JS -->
+        </select>
+      </div>
+      <div>
+        <pre>
+          <code><br><span id="attributes"></span></code>
+        </pre>
+      </div>
+      <div>
+        <select name="field-type">
+          <!-- populated by JS -->
+        </select>
+      </div>
+      <div>
+        <button type="submit">Update Detection Tests</button>
+      </div>
+    </form>
+    <div id="result"></div>
+  </body>
+</html>

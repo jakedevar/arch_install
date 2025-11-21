@@ -1,0 +1,10 @@
+/*! asn1hex-1.1.js (c) 2012 Kenji Urushima | kjur.github.com/jsrsasign/license
+ */
+
+/**
+ * @fileOverview
+ * @name asn1hex-1.1.js
+ * @author Kenji Urushima 
+ * @version 1.1
+ * @license <a href="http://kjur.github.io/jsrsasign/license/">MIT License</a>
+ */

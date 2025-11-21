@@ -1,0 +1,53 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.totp-delete-warning-alert .keeper-iconbutton-error-outline path {
+  fill: #ce021b;
+}
+.dark-mode .totp-delete-warning-alert .keeper-iconbutton-error-outline path {
+  fill: #ff7361;
+}
+.totp-delete-warning-alert .body-container .messages-container .text-container {
+  gap: 20px;
+}
+.totp-delete-warning-alert .body-container .button-container {
+  gap: 8px;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+       flex-direction: column;
+}
+.totp-delete-warning-alert .body-container .button-container .keeper-button {
+  width: 100%;
+  flex-basis: 40px;
+}
+.totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(1) {
+  background-color: #ffc700;
+}
+.dark-mode .totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(1) {
+  background-color: #ff7361;
+}
+.totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(2) {
+  background-color: transparent;
+  color: #1b74da;
+}
+.dark-mode .totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(2) {
+  color: #48b6ff;
+}
+.high-contrast-mode .totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(2) {
+  color: ButtonText;
+}
+.totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(2):hover {
+  background-color: #f0f0f0;
+  text-decoration: underline;
+}
+.dark-mode .totp-delete-warning-alert .body-container .button-container .keeper-button:nth-child(2):hover {
+  background-color: #565656;
+}

@@ -1,0 +1,159 @@
+.keeper-card-image {
+  height: 24px;
+  width: 24px;
+  margin-right: 4px;
+  display: -moz-box !important;
+  display: flex !important;
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-pack: center;
+       justify-content: center;
+}
+.rtl .keeper-card-image {
+  margin-right: unset;
+  margin-left: 4px;
+}
+
+.keeper-card-image .card-icon {
+  background-color: #999;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 2.5px;
+  height: 16px;
+  width: 20px;
+  background-size: 20px 16px;
+}
+.keeper-card-image .card-icon.american-express {
+  background-image: url(/images/card-icons/light/american-express.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.keeper-card-image .card-icon.diners-club {
+  background-image: url(/images/card-icons/light/diners-club.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.keeper-card-image .card-icon.discover {
+  background-image: url(/images/card-icons/light/discover.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.keeper-card-image .card-icon.jcb {
+  background-image: url(/images/card-icons/light/jcb.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.keeper-card-image .card-icon.mastercard {
+  background-image: url(/images/card-icons/light/mastercard.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.keeper-card-image .card-icon.visa {
+  background-image: url(/images/card-icons/light/visa.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.keeper-card-image .card-icon.maestro {
+  background-image: url(/images/card-icons/light/maestro.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.keeper-card-image .card-icon.uatp {
+  background-image: url(/images/card-icons/light/uatp.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.keeper-card-image .card-icon.visa-electron {
+  background-image: url(/images/card-icons/light/visa-electron.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.keeper-card-image .card-icon.western-union {
+  background-image: url(/images/card-icons/light/western-union.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.keeper-card-image .card-icon.world-pay {
+  background-image: url(/images/card-icons/light/world-pay.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.dark-mode .keeper-card-image .card-icon.american-express {
+  background-image: url(/images/card-icons/dark/american-express.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.dark-mode .keeper-card-image .card-icon.diners-club {
+  background-image: url(/images/card-icons/dark/diners-club.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.dark-mode .keeper-card-image .card-icon.discover {
+  background-image: url(/images/card-icons/dark/discover.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.dark-mode .keeper-card-image .card-icon.jcb {
+  background-image: url(/images/card-icons/dark/jcb.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.dark-mode .keeper-card-image .card-icon.mastercard {
+  background-image: url(/images/card-icons/dark/mastercard.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.dark-mode .keeper-card-image .card-icon.visa {
+  background-image: url(/images/card-icons/dark/visa.svg);
+  background-color: unset;
+  background-size: 24px 24px;
+  height: 24px;
+  width: 24px;
+}
+.dark-mode .keeper-card-image .card-icon.maestro {
+  background-image: url(/images/card-icons/dark/maestro.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.dark-mode .keeper-card-image .card-icon.uatp {
+  background-image: url(/images/card-icons/dark/uatp.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.dark-mode .keeper-card-image .card-icon.visa-electron {
+  background-image: url(/images/card-icons/dark/visa-electron.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.dark-mode .keeper-card-image .card-icon.western-union {
+  background-image: url(/images/card-icons/dark/western-union.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}
+.dark-mode .keeper-card-image .card-icon.world-pay {
+  background-image: url(/images/card-icons/dark/world-pay.png);
+  background-color: unset;
+  background-size: 20px 16px;
+}

@@ -1,0 +1,90 @@
+body {
+  overflow: hidden;
+}
+
+#main {
+  padding: 16px;
+  margin: 0;
+  background-color: #323232;
+}
+
+#content {
+  display: -moz-box;
+  display: flex;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+#svg {
+  margin: 19px;
+}
+
+#title_span {
+  font-family: Outfit-SemiBold, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.41px;
+  color: #fff;
+}
+
+#message {
+  font-family: Outfit, sans-serif;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: -0.41px;
+  color: #fff;
+  overflow-wrap: anywhere;
+}
+
+#button-container {
+  display: -moz-box;
+  display: flex;
+  margin-top: 19px;
+}
+
+#dummy-space {
+  -moz-box-flex: 1;
+       flex-grow: 1;
+}
+
+#cancel {
+  width: 72px;
+  font-size: 14px;
+  line-height: 18px;
+  font-family: Outfit, sans-serif;
+  color: #e1eaf8;
+  background: #6e6d70;
+  box-shadow:
+    0 0.5px 1px rgb(0 0 0 / 50%),
+    inset 0 0.5px 0 rgb(255 255 255 / 25%);
+  border-radius: 6px;
+  border: transparent;
+  height: 26px;
+}
+
+#ok {
+  width: 72px;
+  height: 26px;
+  font-size: 14px;
+  line-height: 18px;
+  font-family: Outfit, sans-serif;
+  background: -moz-linear-gradient(top, #1568e5 0%, #155ccc 100%);
+  background: linear-gradient(180deg, #1568e5 0%, #155ccc 100%);
+  box-shadow:
+    0 0.5px 1px rgb(0 0 0 / 50%),
+    inset 0 0.5px 0 rgb(255 255 255 / 25%);
+  border-radius: 6px;
+  border: 0.5px solid rgb(0 0 0 / 12%);
+  color: #dfdedf;
+}
+
+.space-between-elements {
+  width: 8px;
+  display: -moz-inline-box;
+  display: inline-flex;
+}
+
+
+

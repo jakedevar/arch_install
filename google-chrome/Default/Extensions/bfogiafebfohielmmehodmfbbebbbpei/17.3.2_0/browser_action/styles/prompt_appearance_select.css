@@ -1,0 +1,364 @@
+@charset "UTF-8";
+.cs-select {
+  background: transparent;
+  font-size: 1.5em;
+  font-weight: 400;
+  color: #5b8583;
+  text-transform: capitalize;
+}
+
+div.cs-select {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  text-align: left;
+  background: #fff;
+  width: 100%;
+  max-width: 500px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+@-moz-keyframes bounce {
+  0% {
+    -moz-transform: translate3d(0, -25px, 0);
+         transform: translate3d(0, -25px, 0);
+    opacity: 0;
+  }
+  25% {
+    -moz-transform: translate3d(0, 10px, 0);
+         transform: translate3d(0, 10px, 0);
+  }
+  50% {
+    -moz-transform: translate3d(0, -6px, 0);
+         transform: translate3d(0, -6px, 0);
+  }
+  75% {
+    -moz-transform: translate3d(0, 2px, 0);
+         transform: translate3d(0, 2px, 0);
+  }
+  100% {
+    -moz-transform: translate3d(0, 0, 0);
+         transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes bounce {
+  0% {
+    -moz-transform: translate3d(0, -25px, 0);
+         transform: translate3d(0, -25px, 0);
+    opacity: 0;
+  }
+  25% {
+    -moz-transform: translate3d(0, 10px, 0);
+         transform: translate3d(0, 10px, 0);
+  }
+  50% {
+    -moz-transform: translate3d(0, -6px, 0);
+         transform: translate3d(0, -6px, 0);
+  }
+  75% {
+    -moz-transform: translate3d(0, 2px, 0);
+         transform: translate3d(0, 2px, 0);
+  }
+  100% {
+    -moz-transform: translate3d(0, 0, 0);
+         transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+.cs-skin-elastic .cs-options .cs-selected span::after {
+  content: "";
+}
+
+.cs-select .cs-placeholder::after,
+.cs-select .cs-selected span::after {
+  speak: none;
+  position: absolute;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+   -ms-transform: translateY(-50%);
+       transform: translateY(-50%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::after,
+*::before {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+}
+
+.cs-skin-elastic.cs-active .cs-options {
+  pointer-events: auto;
+}
+
+.cs-select.cs-active .cs-options {
+  visibility: visible;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  border: none;
+  z-index: 2;
+}
+
+.cs-select li:hover {
+  background-color: #f0f0f0;
+}
+
+.cs-skin-elastic.cs-active .cs-options ul li {
+  -moz-transform: translate3d(0, 0, 0);
+       transform: translate3d(0, 0, 0);
+  opacity: 1;
+  -moz-transition: none;
+  transition: none;
+  -moz-animation: bounce 0.6s ease-out;
+       animation: bounce 0.6s ease-out;
+}
+
+.cs-skin-elastic .cs-placeholder::after {
+  font-family: icomoon, sans-serif;
+  content: "\e005";
+  -webkit-backface-visibility: hidden;
+     -moz-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.cs-select .cs-placeholder::after {
+  content: "▾";
+  right: 1em;
+}
+
+.cs-skin-elastic.cs-active .cs-options > ul::before {
+  -moz-transform: scale3d(1, 1, 1);
+       transform: scale3d(1, 1, 1);
+  -moz-transition: none;
+  transition: none;
+  -moz-animation: expand 0.6s ease-out;
+       animation: expand 0.6s ease-out;
+}
+
+.cs-skin-elastic .cs-options > ul::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  -moz-transform: scale3d(1, 0, 1);
+       transform: scale3d(1, 0, 1);
+  background: #fff;
+  -moz-transform-origin: 50% 0%;
+   -ms-transform-origin: 50% 0%;
+       transform-origin: 50% 0%;
+  -moz-transition: transform 0.3s, -moz-transform 0.3s;
+  transition: transform 0.3s;
+  transition: transform 0.3s, -moz-transform 0.3s;
+}
+
+.cs-skin-elastic {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  text-align: left;
+  background: #fff;
+  width: 100%;
+  max-width: 500px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.cs-select .cs-placeholder {
+  padding-right: 3em;
+}
+
+.cs-skin-elastic .border {
+  border: 1px solid #888;
+  border-radius: 8px;
+}
+
+.cs-select span {
+  position: relative;
+  cursor: pointer;
+  padding: 0.8em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -moz-box;
+  display: flex;
+  -moz-box-align: center;
+       align-items: center;
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  border-radius: 8px;
+  height: 40px;
+}
+
+div.cs-skin-elastic {
+  background: transparent;
+  font-size: 1em;
+  font-weight: 400;
+  color: #000;
+}
+
+.cs-placeholder {
+  border-radius: 5px;
+}
+
+#header-for-dropdown-prompt-appearance {
+  font-family: Outfit, sans-serif;
+  font-size: 14px;
+  margin-bottom: 4px;
+  color: #565656;
+}
+
+#header-for-checkbox-prompt-appearance {
+  margin-top: 16px;
+  font-family: Outfit-SemiBold, sans-serif;
+  font-size: 13px;
+}
+
+#header-for-checkbox-append-to-lock {
+  margin-top: 0;
+}
+
+.cs-skin-elastic .cs-options {
+  overflow: visible;
+  background: transparent;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: none;
+  margin-top: 4px;
+  border-radius: 5px;
+}
+
+.cs-select .cs-options {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  background: #fff;
+  visibility: hidden;
+}
+
+.cs-select button,
+select {
+  text-transform: none;
+}
+
+.cs-select button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+}
+
+.cs-select select:not(:-internal-list-box) {
+  overflow: visible !important;
+}
+
+.cs-select select {
+  border-radius: 0;
+  -webkit-appearance: menulist;
+     -moz-appearance: menulist;
+          appearance: menulist;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  -moz-box-align: center;
+       align-items: center;
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: initial;
+  -moz-border-image: initial;
+    -o-border-image: initial;
+       border-image: initial;
+  text-rendering: auto;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  margin: 0;
+  font: 400 13.3333px Arial, sans-serif;
+  white-space: pre;
+  -webkit-rtl-ordering: logical;
+  color: black;
+  cursor: default;
+  -webkit-writing-mode: horizontal-tb !important;
+      -ms-writing-mode: lr-tb !important;
+          writing-mode: horizontal-tb !important;
+}
+
+.cs-select option:disabled {
+  color: graytext;
+}
+
+.cs-select option {
+  font-weight: normal;
+  display: block;
+  white-space: pre;
+  min-height: 1.2em;
+  padding: 0 2px 1px;
+}
+
+.cs-select ul {
+  list-style: none;
+  margin: 0;
+  padding: 8px;
+  width: 100%;
+}
+
+.cs-skin-elastic .cs-options ul li {
+  opacity: 0;
+  -moz-transform: translate3d(0, -25px, 0);
+       transform: translate3d(0, -25px, 0);
+  -moz-transition: opacity 0.15s, transform 0.15s, -moz-transform 0.15s;
+  transition: opacity 0.15s, transform 0.15s;
+  transition: opacity 0.15s, transform 0.15s, -moz-transform 0.15s;
+}
+
+.cs-select li.high-contrast-border {
+  border: 0;
+  border-bottom: 1px solid;
+  border-radius: 0;
+}
+
+.cs-select li {
+  -moz-box-align: center;
+       align-items: center;
+  -moz-box-pack: justify;
+       justify-content: space-between;
+  display: -moz-box;
+  display: flex;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: -webkit-match-parent;
+}
+
+.cs-select li svg {
+  margin-right: 8px;
+}
+
+.cs-skin-elastic .cs-options span:hover,
+.cs-skin-elastic .cs-options li.cs-focus span,
+.cs-skin-elastic .cs-options .cs-selected span {
+  color: #000;
+}
+
+.cs-skin-elastic .cs-options span {
+  background-repeat: no-repeat;
+  background-position: 1.5em 50%;
+  background-size: 2em auto;
+  padding: 0.6em 1em 0.6em 2em;
+}

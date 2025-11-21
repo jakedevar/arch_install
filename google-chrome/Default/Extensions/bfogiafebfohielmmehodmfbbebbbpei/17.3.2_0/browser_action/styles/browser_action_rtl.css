@@ -1,0 +1,158 @@
+body.rtl {
+  direction: rtl;
+}
+body.rtl .pane-2 {
+  left: 0;
+  right: unset;
+  position: relative !important;
+}
+body.rtl .pane-2.overlayed {
+  top: -56px !important;
+}
+body.rtl .scrollbar .scrollbar-view {
+  position: absolute;
+  right: 0;
+}
+body.rtl .scrollbar .trackY {
+  left: 4px;
+  right: unset;
+}
+body.rtl #login #sso-choice-dropdown .sso-choice-item {
+  padding: 12px 12px 12px 0;
+}
+body.rtl #login .email-container .dropdown-button {
+  left: 40px;
+  right: unset;
+}
+body.rtl #login .checkbox {
+  margin-left: 10px;
+  margin-right: 0;
+}
+body.rtl .sort-wrap {
+  margin-right: 20px;
+}
+body.rtl .sort-menu .sort-item .selected {
+  left: 20px;
+  right: unset;
+}
+body.rtl .record-details-pane {
+  padding-right: 20px;
+}
+body.rtl .record-header {
+  padding-right: 20px;
+}
+body.rtl #header .close {
+  padding-right: 0;
+}
+body.rtl #header .icon.help {
+  margin-right: 0;
+  margin-left: 2px;
+}
+body.rtl #header .keeperlogo {
+  margin-left: 0;
+  margin-right: 8px;
+  background-position-x: "right";
+}
+body.rtl #header #save-icon-root {
+  margin: 0 auto 0 0;
+}
+body.rtl #header .new-ui-opts .toolbar-menu {
+  right: unset;
+  left: 0;
+}
+body.rtl #header .new-ui-opts .toolbar-menu .item svg {
+  margin-left: 8px;
+  margin-right: 0;
+}
+body.rtl .record-data {
+  margin-right: 10px !important;
+  margin-left: unset !important;
+}
+body.rtl #search-root #search .search-input-icon.search {
+  margin-right: 5px;
+}
+body.rtl #search-root #search .close {
+  right: unset !important;
+  left: 42px;
+  padding-left: 0;
+}
+body.rtl #search-root #search input {
+  max-width: 95% !important;
+}
+body.rtl .history-results .icon-controls {
+  left: 2px;
+  right: unset !important;
+}
+body.rtl .generate-password {
+  overflow-x: hidden;
+}
+body.rtl .generate-password .password-editor .password-editor-field > div:nth-child(1) {
+  margin-right: 0;
+}
+body.rtl .generate-password .password-editor .eyeball {
+  margin: 0;
+  margin-left: 12px;
+}
+body.rtl .website-launch-icon {
+  margin-left: 0 !important;
+  margin-right: 8px;
+}
+body.rtl .choose-transition-effect-checkbox-container input {
+  margin-left: 12px !important;
+}
+body.rtl .choose-transition-effect-checkbox-container input::before {
+  right: -6px !important;
+}
+body.rtl .choose-transition-effect-checkbox-container input::after {
+  left: -4px !important;
+}
+body.rtl #settings-root #settings {
+  margin: 24px 16px 24px 5px;
+}
+body.rtl #settings-root #settings #change-location-prompt-settings .title span {
+  margin-right: 8px;
+}
+body.rtl #settings-root #settings .cs-select > span::after {
+  left: 1em;
+  right: unset;
+}
+body.rtl #settings-root #settings #themes {
+  padding: 24px;
+}
+body.rtl #settings-root #settings #themes .themes-header {
+  padding-left: 0;
+  padding-right: 8px;
+}
+body.rtl #settings-root #settings #themes .preview label span {
+  margin-right: 12px;
+}
+body.rtl #settings-root .setting {
+  padding: 14px 12px 14px 7px;
+}
+body.rtl #settings-root .settings-arrow {
+  left: 0;
+  right: 5px;
+}
+body.rtl #keeper-push-sent #keeper-push-loading-icon .dot {
+  margin-right: 0;
+  margin-left: 10px;
+}
+body.rtl #keeper-push-sent #keeper-push-sent-title-message {
+  margin-right: 0;
+  margin-left: 8px;
+}
+body.rtl .expiration-dropdown-container-root .expiration-selector-items .expiration-selector-item {
+  padding: 1px 12px 1px 16px;
+}
+body.rtl #records .record-count {
+  width: 300px;
+}
+body.rtl #records .record {
+  padding-right: 12px !important;
+}
+body.rtl #records .record .copy,
+body.rtl #records .record .show,
+body.rtl #records .record .dice {
+  margin-left: 0 !important;
+  margin-right: 12px;
+}

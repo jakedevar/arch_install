@@ -1,0 +1,71 @@
+.label-d8 {
+  color: #d8d8d8;
+}
+
+.subtext {
+  color: #888888;
+}
+.dark-mode .subtext {
+  color: #b3b3b3;
+}
+
+.high-contrast-mode .feature-callout-banner {
+  border: 1px solid CanvasText;
+}
+.high-contrast-mode .feature-callout-banner div.messages-container h1.header {
+  color: Highlight;
+}
+.high-contrast-mode .feature-callout-banner div.button-container button {
+  border: none !important;
+}
+
+.dark-mode .feature-callout-banner {
+  background: #08355a;
+}
+.dark-mode .feature-callout-banner div.messages-container h1.header {
+  color: #48b6ff;
+}
+.dark-mode .feature-callout-banner div.messages-container p.text {
+  color: #fff;
+}
+.dark-mode .feature-callout-banner div.button-container button {
+  color: #48b6ff;
+}
+
+.feature-callout-banner {
+  display: -moz-box;
+  display: flex;
+  width: 360px;
+  padding: 20px;
+  gap: 16px;
+  border-radius: 8px;
+  background: #e8f2fc;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.3);
+  font-family: Outfit, sans-serif;
+  flex-shrink: 0;
+  min-height: 152px;
+}
+.feature-callout-banner div.messages-container h1.header {
+  color: #054b91;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 160% */
+}
+.feature-callout-banner div.messages-container p.text {
+  color: #000;
+  font-size: 14px;
+  line-height: 20px; /* 142.857% */
+}
+.feature-callout-banner div.button-container {
+  width: 100%;
+}
+.feature-callout-banner div.button-container button {
+  border: none;
+  background: none;
+  color: #054b91;
+  text-align: center;
+  font-family: Outfit, sans-serif;
+  font-size: 15px;
+  line-height: 24px; /* 160% */
+}

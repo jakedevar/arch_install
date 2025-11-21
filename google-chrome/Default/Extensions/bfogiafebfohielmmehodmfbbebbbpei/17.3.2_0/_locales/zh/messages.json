@@ -1,0 +1,3929 @@
+{
+   "508_record_menu": {
+      "message": "记录选项菜单"
+   },
+   "About": {
+      "message": "关于"
+   },
+   "Accept": {
+      "message": "接受"
+   },
+   "Account": {
+      "message": "帐户"
+   },
+   "Action_delete": {
+      "message": "删除"
+   },
+   "Action_edit": {
+      "message": "编辑"
+   },
+   "Add_Account": {
+      "message": "添加帐户"
+   },
+   "Add_to_Existing": {
+      "message": "添加至现有记录"
+   },
+   "Addresses": {
+      "message": "地址"
+   },
+   "AllRecords": {
+      "message": "所有记录"
+   },
+   "Appearance": {
+      "message": "外观"
+   },
+   "AutoFill": {
+      "message": "自动填写"
+   },
+   "Back": {
+      "message": "后退"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "ChatAuthenticationRequired": {
+      "message": "需要身份验证"
+   },
+   "ChatEnterCode": {
+      "message": "输入代码"
+   },
+   "ChatSaveCodeForever": {
+      "message": "此设备不再询问"
+   },
+   "Close": {
+      "message": "关闭"
+   },
+   "Continue": {
+      "message": "继续"
+   },
+   "Copy": {
+      "message": "复制"
+   },
+   "CreateNew": {
+      "message": "新建"
+   },
+   "Data_Vault": {
+      "message": "数据库"
+   },
+   "Delete": {
+      "message": "删除"
+   },
+   "Disable": {
+      "message": "忽略"
+   },
+   "Dont_show_again": {
+      "message": "不再显示。"
+   },
+   "Edit": {
+      "message": "编辑"
+   },
+   "Edit_Record": {
+      "message": "编辑记录"
+   },
+   "Email": {
+      "message": "电子邮箱"
+   },
+   "Email_Address": {
+      "message": "电子邮件地址"
+   },
+   "Email_not_valid": {
+      "message": "电子邮件地址无效"
+   },
+   "Enable": {
+      "message": "启用"
+   },
+   "Enter_master_password": {
+      "message": "输入主密码"
+   },
+   "Error": {
+      "message": "错误"
+   },
+   "Exit": {
+      "message": "退出"
+   },
+   "Fill": {
+      "message": "填写"
+   },
+   "Fill_Password": {
+      "message": "填充密码"
+   },
+   "Fill_and_Save_Caps": {
+      "message": "输入并保存"
+   },
+   "Fill_and_save": {
+      "message": "输入并保存"
+   },
+   "FolderName": {
+      "message": "文件夹名"
+   },
+   "Generate_passphrase": {
+      "message": "Generate Passphrase"
+   },
+   "Generate_password": {
+      "message": "生成密码"
+   },
+   "Help": {
+      "message": "帮助"
+   },
+   "Hide": {
+      "message": "隐藏"
+   },
+   "History": {
+      "message": "历史记录"
+   },
+   "InvalidEmailOrPassword": {
+      "message": "无效的电子邮件或密码，请重新输入。"
+   },
+   "KeeperAskLoginIntervalQuestion": {
+      "message": "自动退出 Keeper 时间："
+   },
+   "KeeperProfile_new": {
+      "message": "创建账户"
+   },
+   "Launch": {
+      "message": "启动"
+   },
+   "Login": {
+      "message": "登录"
+   },
+   "Login_Link": {
+      "message": "登录网址"
+   },
+   "Logout": {
+      "message": "登出"
+   },
+   "LogoutOfKeeper": {
+      "message": "登出Keeper"
+   },
+   "LogoutTimer": {
+      "message": "注销计时器"
+   },
+   "Menu_options": {
+      "message": "设置"
+   },
+   "Minutes": {
+      "message": "分钟"
+   },
+   "Network_error": {
+      "message": "无法连接。请检查您的网络连接。"
+   },
+   "New_Record": {
+      "message": "新记录"
+   },
+   "Next": {
+      "message": "继续"
+   },
+   "No": {
+      "message": "否"
+   },
+   "Number": {
+      "message": "号码"
+   },
+   "OK": {
+      "message": "好"
+   },
+   "Okay": {
+      "message": "好"
+   },
+   "Options": {
+      "message": "选项"
+   },
+   "PasswordGenerator": {
+      "message": "密码生成器"
+   },
+   "Passwords": {
+      "message": "密码"
+   },
+   "Please_fill_out_restore_fields_code": {
+      "message": "请输入送到您电子邮箱的验证码。"
+   },
+   "QuickStartGuide": {
+      "message": "快速入门指南"
+   },
+   "Remove": {
+      "message": "消除"
+   },
+   "Require_every_12_hours": {
+      "message": "每 12 小时需要两步验证"
+   },
+   "Require_every_24_hours": {
+      "message": "每 24 小时需要两步验证"
+   },
+   "Require_every_30_days": {
+      "message": "每 30 天需要两步验证"
+   },
+   "Require_every_login": {
+      "message": "每次登录需要两步验证"
+   },
+   "SSO_connection_failure": {
+      "message": "无法连接至 SSO 提供商。请稍后再试一次。"
+   },
+   "Save": {
+      "message": "保存"
+   },
+   "Save_code__forever": {
+      "message": "此设备不再询问"
+   },
+   "Save_passphrase": {
+      "message": "保存密码短语"
+   },
+   "Save_password": {
+      "message": "保存密码"
+   },
+   "Search": {
+      "message": "搜索"
+   },
+   "SearchKeeper": {
+      "message": "Keeper内检索"
+   },
+   "SendEmail": {
+      "message": "发送电子邮件"
+   },
+   "Separator": {
+      "message": "分隔符"
+   },
+   "Settings": {
+      "message": "设置"
+   },
+   "Share": {
+      "message": "共享"
+   },
+   "Show": {
+      "message": "显示"
+   },
+   "Success": {
+      "message": "成功"
+   },
+   "Theme": {
+      "message": "主题"
+   },
+   "ThemeColorAluminum": {
+      "message": "铝质"
+   },
+   "ThemeColorBlueGreen": {
+      "message": "Overpass 蓝"
+   },
+   "ThemeColorBurgundy": {
+      "message": "勃艮第"
+   },
+   "ThemeColorClassic": {
+      "message": "经典"
+   },
+   "ThemeColorDeepOcean": {
+      "message": "深海"
+   },
+   "ThemeColorFlame": {
+      "message": "火焰"
+   },
+   "ThemeColorGlam": {
+      "message": "魅力"
+   },
+   "ThemeColorGreen": {
+      "message": "绿色"
+   },
+   "ThemeColorPhoenix": {
+      "message": "凤凰"
+   },
+   "ThemeColorRedBlue": {
+      "message": "红蓝"
+   },
+   "Themes": {
+      "message": "主题"
+   },
+   "Title_required": {
+      "message": "标题是必填字段。"
+   },
+   "Uppercase": {
+      "message": "大写"
+   },
+   "Username": {
+      "message": "用户名"
+   },
+   "VaultLoginTerms": {
+      "message": "使用 Keeper 您即同意遵守我们的\u003Ca class=\"highlight\" href=\"https://keepersecurity.com/zh_CN/termsofuse.html\" target=\"_blank\" rel=\"noopener noreferrer\">使用条款\u003C/a>。"
+   },
+   "Version": {
+      "message": "版本"
+   },
+   "View": {
+      "message": "视图"
+   },
+   "Yes": {
+      "message": "是"
+   },
+   "access_denied": {
+      "message": "您没有执行该操作的权限。"
+   },
+   "access_denied_v3": {
+      "message": "拒绝访问"
+   },
+   "account_deletion_confirmation": {
+      "message": "删除帐户"
+   },
+   "account_locked": {
+      "message": "此帐户已被锁定。请联系您的 Keeper 管理员获取帮助。"
+   },
+   "account_transfer_popup_message": {
+      "message": "您的 Keeper 保险库启用了“帐户转移”策略，允许指定的 Keeper 管理员角色根据您组织的运营流程和策略在以后转移您的保险库记录。请点击“接受”以确认此政策。"
+   },
+   "action_collapse": {
+      "message": "折叠"
+   },
+   "action_expand": {
+      "message": "展开"
+   },
+   "action_select": {
+      "message": "选择"
+   },
+   "add_address": {
+      "message": "添加地址"
+   },
+   "add_login": {
+      "message": "添加登录信息"
+   },
+   "add_passkey": {
+      "message": "添加密钥"
+   },
+   "add_passkey_to_login": {
+      "message": "添加登录密钥"
+   },
+   "add_payment_card": {
+      "message": "添加支付卡"
+   },
+   "add_to_favs": {
+      "message": "添加至个人收藏"
+   },
+   "add_website_address": {
+      "message": "添加网站地址"
+   },
+   "address_field": {
+      "message": "地址字段"
+   },
+   "address_saved": {
+      "message": "地址已保存！"
+   },
+   "address_updated": {
+      "message": "地址字段已更新！"
+   },
+   "adjusted": {
+      "message": "已调整"
+   },
+   "admin_qsg_297": {
+      "message": "Two-Factor Authentication"
+   },
+   "admin_reauthenticate": {
+      "message": "您的管理员要求您重新进行身份验证才能继续。"
+   },
+   "advanced_settings": {
+      "message": "高级设置"
+   },
+   "all_categories": {
+      "message": "所有类别"
+   },
+   "all_storage_cleared": {
+      "message": "所有存储已清除"
+   },
+   "always_show": {
+      "message": "始终显示"
+   },
+   "animation": {
+      "message": "动画"
+   },
+   "approve_this_device_by_method_below": {
+      "message": "通过选择以下方法批准此设备："
+   },
+   "approved": {
+      "message": "已批准"
+   },
+   "are_you_sure": {
+      "message": "您确定吗?"
+   },
+   "are_you_sure_title": {
+      "message": "是否确定？"
+   },
+   "artwork_appname": {
+      "message": "Keeper® 密码管理器 & 电子数据库"
+   },
+   "artwork_appname_safari": {
+      "message": "Keeper® 密码管理器 & 电子数据库"
+   },
+   "auto_logout_extension_help": {
+      "message": "自动退出计时器设置由 Keeper 浏览器扩展管理。"
+   },
+   "auto_submit": {
+      "message": "自动提交"
+   },
+   "auto_submit_desc": {
+      "message": "自动填充您的登录信息后，Keeper 将自动提交网站表单并登录到网站。"
+   },
+   "auto_submit_desc3": {
+      "message": "控制在输入用户名和密码后是否自动提交表单。"
+   },
+   "auto_submit_desc_2": {
+      "message": "自动填充您的用户名和密码后，Keeper 将自动提交表单并登录到网站。"
+   },
+   "autofill2_": {
+      "message": "页面加载时自动填充"
+   },
+   "autofill_cleared": {
+      "message": "自动填充字段修复已清除！"
+   },
+   "autofill_desc_2": {
+      "message": "对于启用了页面加载时自动填充功能的记录，在页面加载时自动填充之前请先询问。"
+   },
+   "autofill_fill_http": {
+      "message": "Keeper 检测到域名为 XXX 的网站正在使用不安全的 http 连接，并且所有提交的信息都将以未加密的方式暴露在网络上。 点击“确定”以填充帐密，或点击“取消”以中止。"
+   },
+   "autofill_fills_wrong_field": {
+      "message": "自动填充填充了错误字段"
+   },
+   "autofill_issue_notes_label": {
+      "message": "添加更多详细信息以帮助我们了解问题。"
+   },
+   "autofill_issue_notes_label_optional": {
+      "message": "添加更多详细信息以帮助我们了解问题。（可选）"
+   },
+   "autofill_issue_notes_placeholder": {
+      "message": "示例：跳过密码字段"
+   },
+   "autofill_issue_reported": {
+      "message": "已报告自动填充问题"
+   },
+   "autofill_issues_message": {
+      "message": "自动填充问题可以通过右键点击字段来解决"
+   },
+   "autofill_only_fills_part_of_the_field": {
+      "message": "自动填充仅填充部分字段"
+   },
+   "autofill_prompt_desc": {
+      "message": "访问至少有一条记录的网站时，系统会提示进行自动填充。"
+   },
+   "autofill_restored": {
+      "message": "自动填充设置已还原！"
+   },
+   "autofill_suggest": {
+      "message": "自动填充建议"
+   },
+   "autofill_suggestions": {
+      "message": "自动填充建议"
+   },
+   "autofill_suggestions_desc": {
+      "message": "创建或注册新登录帐户时，建议使用 Keeper 存储的电子邮箱和高强度密码。"
+   },
+   "autofill_title_2": {
+      "message": "自动填充提示"
+   },
+   "autosubmit2": {
+      "message": "自动填充后自动提交"
+   },
+   "back_to_login": {
+      "message": "返回登录"
+   },
+   "bad_client_time": {
+      "message": "请检查您设备上的时间和日期设置。"
+   },
+   "be_header_store_text": {
+      "message": "生成高强度密码，自动填充并通过零知识加密保护您的机密信息。"
+   },
+   "be_header_store_text_safari": {
+      "message": "生成高强度密码，自动填充并通过零知识加密保护您的机密信息。"
+   },
+   "be_install_title": {
+      "message": "将 Keeper 添加到您的浏览器"
+   },
+   "be_security_keys_not_supported_desc": {
+      "message": "SSO Connect On-Prem 不支持安全密钥。请使用 Web 保管库登录。"
+   },
+   "be_updated_error": {
+      "message": "已更新。 请重启浏览器。"
+   },
+   "billing_address": {
+      "message": "账单地址"
+   },
+   "biometric_login": {
+      "message": "生物识别登录"
+   },
+   "biometric_login_disabled": {
+      "message": "禁用生物识别登录"
+   },
+   "biometric_login_enabled": {
+      "message": "启用生物识别登录"
+   },
+   "bottom_left": {
+      "message": "左下方"
+   },
+   "bottom_right": {
+      "message": "右下方"
+   },
+   "buy_city": {
+      "message": "城市"
+   },
+   "buy_country_title": {
+      "message": "国家"
+   },
+   "buy_security_code_placeholder": {
+      "message": "CVC"
+   },
+   "buy_state": {
+      "message": "省市"
+   },
+   "call_sent": {
+      "message": "我们正在呼叫您，请稍候。"
+   },
+   "card_number": {
+      "message": "卡号"
+   },
+   "cardname_ending_in_cardnumber": {
+      "message": "XXX，尾号 YYY"
+   },
+   "cardnumber_required": {
+      "message": "卡号为必填项。"
+   },
+   "ccc_AD": {
+      "message": "安道尔"
+   },
+   "ccc_AE": {
+      "message": "阿拉伯联合酋长国"
+   },
+   "ccc_AF": {
+      "message": "阿富汗"
+   },
+   "ccc_AG": {
+      "message": "安提瓜和巴布达"
+   },
+   "ccc_AI": {
+      "message": "安圭拉"
+   },
+   "ccc_AL": {
+      "message": "阿尔巴尼亚"
+   },
+   "ccc_AM": {
+      "message": "亚美尼亚"
+   },
+   "ccc_AN": {
+      "message": "荷属安的列斯"
+   },
+   "ccc_AO": {
+      "message": "安哥拉"
+   },
+   "ccc_AR": {
+      "message": "阿根廷"
+   },
+   "ccc_AS": {
+      "message": "美属萨摩亚（美国领土）"
+   },
+   "ccc_AT": {
+      "message": "奥地利"
+   },
+   "ccc_AU": {
+      "message": "澳大利亚"
+   },
+   "ccc_AW": {
+      "message": "阿鲁巴"
+   },
+   "ccc_AZ": {
+      "message": "阿塞拜疆"
+   },
+   "ccc_BA": {
+      "message": "波斯尼亚和黑塞哥维那"
+   },
+   "ccc_BB": {
+      "message": "巴巴多斯"
+   },
+   "ccc_BD": {
+      "message": "孟加拉国"
+   },
+   "ccc_BE": {
+      "message": "比利时"
+   },
+   "ccc_BF": {
+      "message": "布基纳法索"
+   },
+   "ccc_BG": {
+      "message": "保加利亚"
+   },
+   "ccc_BH": {
+      "message": "巴林"
+   },
+   "ccc_BI": {
+      "message": "布隆迪"
+   },
+   "ccc_BJ": {
+      "message": "贝宁"
+   },
+   "ccc_BM": {
+      "message": "百慕大"
+   },
+   "ccc_BN": {
+      "message": "文莱达鲁萨兰国"
+   },
+   "ccc_BO": {
+      "message": "玻利维亚"
+   },
+   "ccc_BR": {
+      "message": "巴西"
+   },
+   "ccc_BS": {
+      "message": "巴哈马"
+   },
+   "ccc_BT": {
+      "message": "不丹"
+   },
+   "ccc_BW": {
+      "message": "博茨瓦纳"
+   },
+   "ccc_BY": {
+      "message": "白俄罗斯"
+   },
+   "ccc_BZ": {
+      "message": "伯利兹"
+   },
+   "ccc_CA": {
+      "message": "加拿大"
+   },
+   "ccc_CC": {
+      "message": "科科斯岛（澳大利亚）"
+   },
+   "ccc_CD": {
+      "message": "刚果民主共和国"
+   },
+   "ccc_CF": {
+      "message": "中非共和国"
+   },
+   "ccc_CG": {
+      "message": "刚果共和国"
+   },
+   "ccc_CH": {
+      "message": "瑞士"
+   },
+   "ccc_CI": {
+      "message": "科特迪瓦"
+   },
+   "ccc_CK": {
+      "message": "库克群岛（新西兰）"
+   },
+   "ccc_CL": {
+      "message": "智利"
+   },
+   "ccc_CM": {
+      "message": "喀麦隆"
+   },
+   "ccc_CN": {
+      "message": "中国"
+   },
+   "ccc_CO": {
+      "message": "哥伦比亚"
+   },
+   "ccc_CR": {
+      "message": "哥斯达黎加"
+   },
+   "ccc_CS": {
+      "message": "塞尔维亚共和国"
+   },
+   "ccc_CU": {
+      "message": "古巴"
+   },
+   "ccc_CV": {
+      "message": "佛得角"
+   },
+   "ccc_CY": {
+      "message": "塞浦路斯"
+   },
+   "ccc_CZ": {
+      "message": "捷克"
+   },
+   "ccc_DE": {
+      "message": "德国"
+   },
+   "ccc_DJ": {
+      "message": "吉布提"
+   },
+   "ccc_DK": {
+      "message": "丹麦"
+   },
+   "ccc_DM": {
+      "message": "多米尼加"
+   },
+   "ccc_DO": {
+      "message": "多明尼加共和国"
+   },
+   "ccc_DZ": {
+      "message": "阿尔及利亚"
+   },
+   "ccc_EC": {
+      "message": "厄瓜多尔"
+   },
+   "ccc_EE": {
+      "message": "爱沙尼亚"
+   },
+   "ccc_EG": {
+      "message": "埃及"
+   },
+   "ccc_ER": {
+      "message": "厄立特里亚"
+   },
+   "ccc_ES": {
+      "message": "西班牙"
+   },
+   "ccc_ET": {
+      "message": "埃塞俄比亚"
+   },
+   "ccc_FI": {
+      "message": "芬兰"
+   },
+   "ccc_FJ": {
+      "message": "斐济"
+   },
+   "ccc_FK": {
+      "message": "福克兰群岛"
+   },
+   "ccc_FM": {
+      "message": "密克罗尼西亚联邦"
+   },
+   "ccc_FO": {
+      "message": "法罗群岛"
+   },
+   "ccc_FR": {
+      "message": "法国"
+   },
+   "ccc_GA": {
+      "message": "加蓬"
+   },
+   "ccc_GB": {
+      "message": "英国（大不列颠）"
+   },
+   "ccc_GD": {
+      "message": "格林纳达"
+   },
+   "ccc_GE": {
+      "message": "格鲁吉亚共和国"
+   },
+   "ccc_GF": {
+      "message": "法属圭亚那"
+   },
+   "ccc_GH": {
+      "message": "加纳"
+   },
+   "ccc_GI": {
+      "message": "直布罗陀"
+   },
+   "ccc_GL": {
+      "message": "格陵兰"
+   },
+   "ccc_GM": {
+      "message": "冈比亚"
+   },
+   "ccc_GN": {
+      "message": "几内亚"
+   },
+   "ccc_GP": {
+      "message": "瓜德罗普"
+   },
+   "ccc_GQ": {
+      "message": "赤道几内亚"
+   },
+   "ccc_GR": {
+      "message": "希腊"
+   },
+   "ccc_GS": {
+      "message": "南乔治亚（福克兰群岛）"
+   },
+   "ccc_GT": {
+      "message": "危地马拉"
+   },
+   "ccc_GU": {
+      "message": "关岛（美国领土）"
+   },
+   "ccc_GW": {
+      "message": "几内亚比绍"
+   },
+   "ccc_GY": {
+      "message": "圭亚那"
+   },
+   "ccc_HK": {
+      "message": "中国香港"
+   },
+   "ccc_HN": {
+      "message": "洪都拉斯"
+   },
+   "ccc_HR": {
+      "message": "克罗地亚"
+   },
+   "ccc_HT": {
+      "message": "海地"
+   },
+   "ccc_HU": {
+      "message": "匈牙利"
+   },
+   "ccc_ID": {
+      "message": "印度尼西亚"
+   },
+   "ccc_IE": {
+      "message": "爱尔兰"
+   },
+   "ccc_IL": {
+      "message": "以色列"
+   },
+   "ccc_IN": {
+      "message": "印度"
+   },
+   "ccc_IQ": {
+      "message": "伊拉克"
+   },
+   "ccc_IR": {
+      "message": "伊朗"
+   },
+   "ccc_IS": {
+      "message": "冰岛"
+   },
+   "ccc_IT": {
+      "message": "意大利"
+   },
+   "ccc_JM": {
+      "message": "牙买加"
+   },
+   "ccc_JO": {
+      "message": "约旦"
+   },
+   "ccc_JP": {
+      "message": "日本"
+   },
+   "ccc_KE": {
+      "message": "肯尼亚"
+   },
+   "ccc_KG": {
+      "message": "吉尔吉斯斯坦"
+   },
+   "ccc_KH": {
+      "message": "柬埔寨"
+   },
+   "ccc_KI": {
+      "message": "基里巴斯"
+   },
+   "ccc_KM": {
+      "message": "科摩罗"
+   },
+   "ccc_KN": {
+      "message": "圣基茨（圣克里斯托弗和尼维斯）"
+   },
+   "ccc_KR": {
+      "message": "大韩民国"
+   },
+   "ccc_KW": {
+      "message": "科威特"
+   },
+   "ccc_KY": {
+      "message": "开曼群岛"
+   },
+   "ccc_KZ": {
+      "message": "哈萨克斯坦"
+   },
+   "ccc_LA": {
+      "message": "老挝"
+   },
+   "ccc_LB": {
+      "message": "黎巴嫩"
+   },
+   "ccc_LC": {
+      "message": "圣卢西亚"
+   },
+   "ccc_LI": {
+      "message": "列支敦士登"
+   },
+   "ccc_LK": {
+      "message": "斯里兰卡"
+   },
+   "ccc_LR": {
+      "message": "利比里亚"
+   },
+   "ccc_LS": {
+      "message": "莱索托"
+   },
+   "ccc_LT": {
+      "message": "立陶宛"
+   },
+   "ccc_LU": {
+      "message": "卢森堡"
+   },
+   "ccc_LV": {
+      "message": "拉脱维亚"
+   },
+   "ccc_MA": {
+      "message": "摩洛哥"
+   },
+   "ccc_MC": {
+      "message": "摩纳哥（法国）"
+   },
+   "ccc_MD": {
+      "message": "摩尔多瓦"
+   },
+   "ccc_MG": {
+      "message": "马达加斯加"
+   },
+   "ccc_MH": {
+      "message": "马绍尔群岛共和国"
+   },
+   "ccc_MK": {
+      "message": "马其顿"
+   },
+   "ccc_ML": {
+      "message": "马里"
+   },
+   "ccc_MM": {
+      "message": "缅甸"
+   },
+   "ccc_MN": {
+      "message": "蒙古国"
+   },
+   "ccc_MO": {
+      "message": "中国澳门"
+   },
+   "ccc_MP": {
+      "message": "北马里亚纳群岛自由邦"
+   },
+   "ccc_MQ": {
+      "message": "马提尼克"
+   },
+   "ccc_MR": {
+      "message": "毛里塔尼亚"
+   },
+   "ccc_MS": {
+      "message": "蒙特塞拉特"
+   },
+   "ccc_MT": {
+      "message": "马耳他"
+   },
+   "ccc_MU": {
+      "message": "毛里求斯"
+   },
+   "ccc_MV": {
+      "message": "马尔代夫"
+   },
+   "ccc_MW": {
+      "message": "马拉维"
+   },
+   "ccc_MX": {
+      "message": "墨西哥"
+   },
+   "ccc_MY": {
+      "message": "马来西亚"
+   },
+   "ccc_MZ": {
+      "message": "莫桑比克"
+   },
+   "ccc_NA": {
+      "message": "纳米比亚"
+   },
+   "ccc_NC": {
+      "message": "新喀里多尼亚"
+   },
+   "ccc_NE": {
+      "message": "尼日尔"
+   },
+   "ccc_NF": {
+      "message": "诺福克岛（澳大利亚）"
+   },
+   "ccc_NG": {
+      "message": "尼日利亚"
+   },
+   "ccc_NI": {
+      "message": "尼加拉瓜"
+   },
+   "ccc_NL": {
+      "message": "荷兰"
+   },
+   "ccc_NO": {
+      "message": "挪威"
+   },
+   "ccc_NP": {
+      "message": "尼泊尔"
+   },
+   "ccc_NR": {
+      "message": "瑙鲁"
+   },
+   "ccc_NU": {
+      "message": "纽埃（新西兰）"
+   },
+   "ccc_NZ": {
+      "message": "新西兰"
+   },
+   "ccc_OM": {
+      "message": "阿曼"
+   },
+   "ccc_PA": {
+      "message": "巴拿马"
+   },
+   "ccc_PE": {
+      "message": "秘鲁"
+   },
+   "ccc_PF": {
+      "message": "法属波利尼西亚"
+   },
+   "ccc_PG": {
+      "message": "巴布亚新几内亚"
+   },
+   "ccc_PH": {
+      "message": "菲律宾"
+   },
+   "ccc_PK": {
+      "message": "巴基斯坦"
+   },
+   "ccc_PL": {
+      "message": "波兰"
+   },
+   "ccc_PM": {
+      "message": "圣皮埃尔和密克隆"
+   },
+   "ccc_PN": {
+      "message": "皮特凯恩群岛"
+   },
+   "ccc_PR": {
+      "message": "波多黎各"
+   },
+   "ccc_PT": {
+      "message": "葡萄牙"
+   },
+   "ccc_PW": {
+      "message": "帕劳"
+   },
+   "ccc_PY": {
+      "message": "巴拉圭"
+   },
+   "ccc_QA": {
+      "message": "卡塔尔"
+   },
+   "ccc_RE": {
+      "message": "留尼汪"
+   },
+   "ccc_RO": {
+      "message": "罗马尼亚"
+   },
+   "ccc_RU": {
+      "message": "俄罗斯"
+   },
+   "ccc_RW": {
+      "message": "卢旺达"
+   },
+   "ccc_SA": {
+      "message": "沙特阿拉伯"
+   },
+   "ccc_SB": {
+      "message": "所罗门群岛"
+   },
+   "ccc_SC": {
+      "message": "塞舌尔"
+   },
+   "ccc_SD": {
+      "message": "苏丹"
+   },
+   "ccc_SE": {
+      "message": "瑞典"
+   },
+   "ccc_SG": {
+      "message": "新加坡"
+   },
+   "ccc_SH": {
+      "message": "圣赫勒拿"
+   },
+   "ccc_SI": {
+      "message": "斯洛文尼亚"
+   },
+   "ccc_SK": {
+      "message": "斯洛伐克共和国"
+   },
+   "ccc_SL": {
+      "message": "塞拉利昂"
+   },
+   "ccc_SM": {
+      "message": "圣马力诺"
+   },
+   "ccc_SN": {
+      "message": "塞内加尔"
+   },
+   "ccc_SO": {
+      "message": "索马里"
+   },
+   "ccc_SR": {
+      "message": "苏里南"
+   },
+   "ccc_ST": {
+      "message": "圣多美和普林西比"
+   },
+   "ccc_SV": {
+      "message": "萨尔瓦多"
+   },
+   "ccc_SY": {
+      "message": "阿拉伯叙利亚共和国（叙利亚）"
+   },
+   "ccc_SZ": {
+      "message": "斯威士兰"
+   },
+   "ccc_TC": {
+      "message": "特克斯和凯科斯群岛"
+   },
+   "ccc_TD": {
+      "message": "乍得"
+   },
+   "ccc_TG": {
+      "message": "多哥"
+   },
+   "ccc_TH": {
+      "message": "泰国"
+   },
+   "ccc_TJ": {
+      "message": "塔吉克斯坦"
+   },
+   "ccc_TK": {
+      "message": "托克劳（联合）群岛（西萨摩亚）"
+   },
+   "ccc_TL": {
+      "message": "帝汶（印度尼西亚）"
+   },
+   "ccc_TM": {
+      "message": "土库曼斯坦"
+   },
+   "ccc_TN": {
+      "message": "突尼斯"
+   },
+   "ccc_TO": {
+      "message": "汤加"
+   },
+   "ccc_TR": {
+      "message": "土耳其"
+   },
+   "ccc_TT": {
+      "message": "特立尼达和多巴哥"
+   },
+   "ccc_TV": {
+      "message": "图瓦卢"
+   },
+   "ccc_TW": {
+      "message": "中国台湾"
+   },
+   "ccc_TZ": {
+      "message": "坦桑尼亚"
+   },
+   "ccc_UA": {
+      "message": "乌克兰"
+   },
+   "ccc_UG": {
+      "message": "乌干达"
+   },
+   "ccc_UM": {
+      "message": "美国本土外小岛屿"
+   },
+   "ccc_US": {
+      "message": "美国"
+   },
+   "ccc_UY": {
+      "message": "乌拉圭"
+   },
+   "ccc_UZ": {
+      "message": "乌兹别克斯坦"
+   },
+   "ccc_VA": {
+      "message": "梵蒂冈城"
+   },
+   "ccc_VC": {
+      "message": "圣文森特和格林纳丁斯"
+   },
+   "ccc_VE": {
+      "message": "委内瑞拉"
+   },
+   "ccc_VG": {
+      "message": "英属维尔京群岛"
+   },
+   "ccc_VI": {
+      "message": "美属维尔京群岛"
+   },
+   "ccc_VN": {
+      "message": "越南"
+   },
+   "ccc_VU": {
+      "message": "瓦努阿图"
+   },
+   "ccc_WF": {
+      "message": "瓦利斯和富图纳群岛"
+   },
+   "ccc_WS": {
+      "message": "美属萨摩亚（美国领土）"
+   },
+   "ccc_YE": {
+      "message": "也门"
+   },
+   "ccc_YT": {
+      "message": "马约特岛（法国）"
+   },
+   "ccc_ZA": {
+      "message": "南非"
+   },
+   "ccc_ZM": {
+      "message": "赞比亚"
+   },
+   "ccc_ZW": {
+      "message": "津巴布韦"
+   },
+   "change_password": {
+      "message": "更改密码"
+   },
+   "change_password_complete": {
+      "message": "您保管库中的密码已更改。请将更改提交至网站。"
+   },
+   "change_pw_prompt": {
+      "message": "更改密码提示"
+   },
+   "change_pw_prompt_desc": {
+      "message": "系统会提示可帮助您更改密码。"
+   },
+   "change_your_password": {
+      "message": "是否要更改并保存您的密码？"
+   },
+   "change_your_password2": {
+      "message": "是否希望 Keeper 帮您更改密码？"
+   },
+   "character_count": {
+      "message": "XXX 个字符"
+   },
+   "character_length": {
+      "message": "字符长度： XXX"
+   },
+   "check_spam_folder_reminder": {
+      "message": "请检查您的垃圾邮件文件夹中是否有来自 keepersecurity.com 的电子邮件。您可以将 keepersecurity.com 添加到安全列表中。"
+   },
+   "city": {
+      "message": "城市"
+   },
+   "clear_all_storage": {
+      "message": "清除所有存储"
+   },
+   "clear_field_fixes_for_this_site": {
+      "message": "清除此站点的字段修复"
+   },
+   "clear_generatory_history": {
+      "message": "清除密码生成器历史记录"
+   },
+   "clear_hist": {
+      "message": "清除历史记录"
+   },
+   "clear_hist_warning": {
+      "message": "您将永久清除密码生成器历史记录。"
+   },
+   "clear_idb_storage": {
+      "message": "清除索引数据库存储"
+   },
+   "clear_local_storage": {
+      "message": "清除本地存储"
+   },
+   "clear_search": {
+      "message": "清除搜索"
+   },
+   "click_to_fill": {
+      "message": "点击进行填充"
+   },
+   "clipboard_expiration": {
+      "message": "剪贴板过期"
+   },
+   "clipboard_expiration_description": {
+      "message": "从浏览器扩展中复制任何值后，会在短时间内自动清除剪贴板。"
+   },
+   "code_invalid": {
+      "message": "代码无效"
+   },
+   "commerce_popup_final_notice": {
+      "message": "最后通知"
+   },
+   "commerce_popup_final_notice_message": {
+      "message": "您的 Keeper 试用期将在 24 小时后过期。高级功能访问权限将被禁用。请立即升级以保留完全访问权限。"
+   },
+   "confirm_new_password": {
+      "message": "确认新密码"
+   },
+   "confirm_password": {
+      "message": "确认密码"
+   },
+   "confirm_password_view": {
+      "message": "点击确认密码字段中的锁图标以填充更新的密码，然后点击下一步。"
+   },
+   "confirm_screenshot": {
+      "message": "确认截图"
+   },
+   "connection_port": {
+      "message": "连接端口"
+   },
+   "console_loading": {
+      "message": "Loading..."
+   },
+   "consumer_auto_backup_option3": {
+      "message": "每 30 天"
+   },
+   "contact_address": {
+      "message": "地址"
+   },
+   "contact_firstname": {
+      "message": "名"
+   },
+   "contact_lastname": {
+      "message": "姓"
+   },
+   "contact_phonenumber": {
+      "message": "手机号码"
+   },
+   "copy_passphrase": {
+      "message": "拷贝密码短语"
+   },
+   "copy_password": {
+      "message": "拷贝密码"
+   },
+   "copy_pin_code": {
+      "message": "拷贝 PIN 码"
+   },
+   "copy_two_factor_code": {
+      "message": "复制两步验证码"
+   },
+   "couldnt_complete_snapshot": {
+      "message": "我们无法截取快照。"
+   },
+   "country": {
+      "message": "国家"
+   },
+   "create_a_record": {
+      "message": "创建记录"
+   },
+   "create_account": {
+      "message": "创建账号"
+   },
+   "create_login_with_passkey": {
+      "message": "创建密钥登录"
+   },
+   "create_new": {
+      "message": "新建"
+   },
+   "create_passkey": {
+      "message": "创建密钥"
+   },
+   "create_record": {
+      "message": "创建记录"
+   },
+   "created_date_xxx": {
+      "message": "创建日期 XXX"
+   },
+   "creating_preview": {
+      "message": "创建预览"
+   },
+   "current_password": {
+      "message": "当前密码"
+   },
+   "cvv": {
+      "message": "CVV"
+   },
+   "date_modified": {
+      "message": "修改日期"
+   },
+   "day_ago": {
+      "message": "1 天之前"
+   },
+   "days_ago": {
+      "message": "XXX 天前"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "delete_passkey": {
+      "message": "删除密钥"
+   },
+   "delete_this_passkey_question": {
+      "message": "删除此密钥？"
+   },
+   "desktop_installer_language": {
+      "message": "在本机桌面和移动应用程序中可免费使用 Keeper 进行本地密码管理。云存储、备份、共享、Web 应用程序、浏览器扩展和同步等高级功能可以免费使用 30 天，之后需按年付费订阅。云功能要求连接互联网。"
+   },
+   "device_approval": {
+      "message": "设备批准"
+   },
+   "did_this_fix_issue": {
+      "message": "这是否解决了您的问题？"
+   },
+   "disable_snapshot_tool": {
+      "message": "禁用快照工具"
+   },
+   "disabled_prompt": {
+      "message": "KeeperFill 已禁用提示"
+   },
+   "disabled_prompt_desc": {
+      "message": "当 Keeper 因潜在的性能问题而停止处理网页上的字段时，系统会提示您。"
+   },
+   "dismiss": {
+      "message": "取消"
+   },
+   "display_locks": {
+      "message": "显示锁图标"
+   },
+   "dna_options_title": {
+      "message": "Keeper DNA"
+   },
+   "dna_waiting_watch": {
+      "message": "等待Watch验证..."
+   },
+   "domain_matching": {
+      "message": "域匹配"
+   },
+   "domain_specific_password_title": {
+      "message": "您的 Keeper 管理员要求您的密码必须遵循以下规则:"
+   },
+   "dont_show": {
+      "message": "不再显示"
+   },
+   "duo_instructions": {
+      "message": "我们将通过推送消息、短信或者语音呼叫的方式将密码发送至XXX。"
+   },
+   "duo_push": {
+      "message": "Duo 推送消息"
+   },
+   "duo_push_description": {
+      "message": "我们将通过推送、信息或呼叫向您的设备发送密码。"
+   },
+   "duo_push_was_denied": {
+      "message": "Duo 推送被拒绝。"
+   },
+   "duo_sent": {
+      "message": "Duo 推送通知已发送，请稍候。"
+   },
+   "duo_text_desc": {
+      "message": "发送带有密码的短信"
+   },
+   "duo_text_message": {
+      "message": "短信"
+   },
+   "duo_voice_call": {
+      "message": "语音呼叫"
+   },
+   "duo_voice_desc": {
+      "message": "通过语音呼叫获取密码"
+   },
+   "edit_address": {
+      "message": "编辑地址"
+   },
+   "edit_card": {
+      "message": "编辑信用卡"
+   },
+   "edit_field_label": {
+      "message": "编辑字段标签"
+   },
+   "effortless_login": {
+      "message": "轻松登录"
+   },
+   "email_or_username": {
+      "message": "电子邮件地址或用户名"
+   },
+   "email_verification_message": {
+      "message": "一封包含相关说明的电子邮件已发送至 XXX。如果提供了验证码，您可以在下方输入。"
+   },
+   "enable_keeperfill": {
+      "message": "启用 KeeperFill"
+   },
+   "enable_snapshot_tool": {
+      "message": "显示快照工具"
+   },
+   "enable_verify_fill_mode": {
+      "message": "启用验证填充模式"
+   },
+   "encryption_error": {
+      "message": "解密您的数据库时发生问题。请联系客服。"
+   },
+   "enter_a_password": {
+      "message": "输入密码"
+   },
+   "enter_a_username": {
+      "message": "输入用户名"
+   },
+   "enter_city": {
+      "message": "请输入城市"
+   },
+   "enter_country": {
+      "message": "请输入国家"
+   },
+   "enter_cvv_number": {
+      "message": "请输入 CVV"
+   },
+   "enter_email": {
+      "message": "请输入电子邮件地址"
+   },
+   "enter_exp_date": {
+      "message": "请输入到期日期"
+   },
+   "enter_first_name": {
+      "message": "请输入您的名字"
+   },
+   "enter_last_name": {
+      "message": "请输入您的姓氏"
+   },
+   "enter_name_on_card": {
+      "message": "请输入卡上的姓名"
+   },
+   "enter_rsa_passcode": {
+      "message": "输入 RSA 密码"
+   },
+   "enter_street_address": {
+      "message": "请输入街道地址"
+   },
+   "enter_valid_phone": {
+      "message": "请输入一个有效的电话号码。"
+   },
+   "enter_verification_code": {
+      "message": "输入验证码"
+   },
+   "enter_verification_code2": {
+      "message": "输入两步验证码"
+   },
+   "enterprise_sso_connect_button": {
+      "message": "连接"
+   },
+   "enterprise_sso_login": {
+      "message": "企业 SSO 登录"
+   },
+   "enterprise_sso_login_domain_desc": {
+      "message": "具有企业域名的 SSO 用户"
+   },
+   "enterprise_sso_login_domain_title": {
+      "message": "企业域名"
+   },
+   "enterprise_sso_login_mp_desc": {
+      "message": "具有主密码的 SSO 用户"
+   },
+   "enterprise_sso_login_mp_title": {
+      "message": "主密码"
+   },
+   "every_24_hours": {
+      "message": "每 24 小时"
+   },
+   "every_30_days": {
+      "message": "每 30 天"
+   },
+   "every_login": {
+      "message": "每次登录"
+   },
+   "every_login_lowercase": {
+      "message": "每次登录"
+   },
+   "every_twelve_hours": {
+      "message": "每 12 个小时"
+   },
+   "existing_passkey_detected": {
+      "message": "检测到现有密钥。"
+   },
+   "exp": {
+      "message": "有效期限"
+   },
+   "expiration": {
+      "message": "过期"
+   },
+   "expired_master_password_description": {
+      "message": "您的主密码已过期。登录前您必须更改主密码。"
+   },
+   "expired_please_purchase": {
+      "message": "您的使用期已过，请购买。"
+   },
+   "ext_2FACopied": {
+      "message": "两步验证码已拷贝！"
+   },
+   "ext_AccessibilityDesc": {
+      "message": "在使用 Tab 键控制导览时，将焦点集中在 Keeper 表单字段图标上。"
+   },
+   "ext_AddCountry": {
+      "message": "添加国家/地区"
+   },
+   "ext_AddFolder": {
+      "message": "Add Folder"
+   },
+   "ext_AddressLineOnePlaceholder": {
+      "message": "环茅路 1234 号"
+   },
+   "ext_AddressLineTwoPlaceholder": {
+      "message": "2 号楼"
+   },
+   "ext_AddressSaved": {
+      "message": "地址已保存！"
+   },
+   "ext_AddressTitlePlaceholder": {
+      "message": "例如，我的工作地址"
+   },
+   "ext_AllowQRCodeDesc": {
+      "message": "允许其他人通过扫描二维码加入此网络。"
+   },
+   "ext_AltMPError": {
+      "message": "此登录页适用于使用备用主密码的企业 SSO 客户。请从 Keeper 浏览器扩展界面重新开始，输入电子邮件地址并点击“下一步”进行登录。"
+   },
+   "ext_AutofillEnable": {
+      "message": "自动填充启用"
+   },
+   "ext_AutofillPrefs": {
+      "message": "自动填充首选项"
+   },
+   "ext_AutofillPrefsDesc": {
+      "message": "您希望 Keeper 为该网站自动填充哪条记录？"
+   },
+   "ext_AutofillTitle": {
+      "message": "在此网站上自动填充"
+   },
+   "ext_BrowserPrompts": {
+      "message": "浏览器提示"
+   },
+   "ext_BrowserPromptsDesc": {
+      "message": "选择您希望 Keeper 在浏览器中显示的提示。"
+   },
+   "ext_CCNCopied": {
+      "message": "卡号已拷贝！"
+   },
+   "ext_CVVCopied": {
+      "message": "CVV 码已拷贝！"
+   },
+   "ext_Capitals": {
+      "message": "大写字母"
+   },
+   "ext_CardCVVExample": {
+      "message": "123"
+   },
+   "ext_CardExpDateExample": {
+      "message": "12/22"
+   },
+   "ext_CardNumber": {
+      "message": "卡号"
+   },
+   "ext_CardSaved": {
+      "message": "卡已保存！"
+   },
+   "ext_CardTitlePlaceholder": {
+      "message": "例如，我的万事达卡"
+   },
+   "ext_CharacterCount": {
+      "message": "XXX 个字符"
+   },
+   "ext_ChooseARecordType": {
+      "message": "选择记录类型："
+   },
+   "ext_ChooseRecordToChangePW": {
+      "message": "您希望 Keeper 为哪条记录更改密码？"
+   },
+   "ext_CityPlaceholder": {
+      "message": "茅台镇"
+   },
+   "ext_Copy2FACode": {
+      "message": "拷贝两步验证码"
+   },
+   "ext_CopyCCN": {
+      "message": "拷贝卡号"
+   },
+   "ext_CopyCVV": {
+      "message": "拷贝 CVV 码"
+   },
+   "ext_CopyLoginID": {
+      "message": "拷贝登录 ID"
+   },
+   "ext_CopyPIN": {
+      "message": "拷贝 PIN 码"
+   },
+   "ext_CopyPassphrase": {
+      "message": "拷贝密码短语"
+   },
+   "ext_CopyPassword": {
+      "message": "拷贝密码"
+   },
+   "ext_CopyUsername": {
+      "message": "复制用户名"
+   },
+   "ext_DarkMode": {
+      "message": "深色模式"
+   },
+   "ext_Date": {
+      "message": "日期"
+   },
+   "ext_Encryption": {
+      "message": "加密"
+   },
+   "ext_ExpiredMasterPasswordDesc": {
+      "message": "您需要先更改主密码，然后再次登录。"
+   },
+   "ext_ExpiredMasterPasswordTitle": {
+      "message": "您的主密码已过期。"
+   },
+   "ext_ExpiresMMYY": {
+      "message": "有效期 (mm/yy)"
+   },
+   "ext_FirstNamePlaceholder": {
+      "message": "三"
+   },
+   "ext_FontSize": {
+      "message": "字体大小"
+   },
+   "ext_FontSizeDescription": {
+      "message": "拖动下方滑块以更改扩展中文本的字体大小。"
+   },
+   "ext_FormFieldIcons": {
+      "message": "表单字段图标"
+   },
+   "ext_FormFieldIconsDesc": {
+      "message": "Keeper 图标将出现在可填充的表单字段中，点击即可显示相关建议和其他选项。"
+   },
+   "ext_FullNamePlaceholder": {
+      "message": "张三"
+   },
+   "ext_Hidden": {
+      "message": "隐藏"
+   },
+   "ext_HideQRCode": {
+      "message": "隐藏二维码"
+   },
+   "ext_KeeperAskLoginIntervalQuestion": {
+      "message": "以下时间后自动退出 Keeper："
+   },
+   "ext_LastNamePlaceholder": {
+      "message": "张"
+   },
+   "ext_LightMode": {
+      "message": "浅色模式"
+   },
+   "ext_LoginIDCopied": {
+      "message": "登录 ID 已拷贝！"
+   },
+   "ext_Logout": {
+      "message": "退出"
+   },
+   "ext_LogoutOfUsername": {
+      "message": "退出 XXX"
+   },
+   "ext_LogoutTimer": {
+      "message": "非活动退出计时器"
+   },
+   "ext_Lowercase": {
+      "message": "小写字母"
+   },
+   "ext_MatchingCount": {
+      "message": "XXX 个匹配项"
+   },
+   "ext_MatchingRecordCount": {
+      "message": "XXX 条匹配记录"
+   },
+   "ext_MatchingRecords": {
+      "message": "匹配记录"
+   },
+   "ext_MatchingRecordsCount": {
+      "message": "XXX 条匹配记录"
+   },
+   "ext_MatchingSites": {
+      "message": "匹配网站"
+   },
+   "ext_Matching_records_amount_plural": {
+      "message": "XXX 个匹配登录"
+   },
+   "ext_Matching_records_amount_singular": {
+      "message": "XXX 个匹配登录"
+   },
+   "ext_MyGoogleLogin": {
+      "message": "我的 Google 登录信息"
+   },
+   "ext_MyVault": {
+      "message": "我的保管库"
+   },
+   "ext_Name": {
+      "message": "名字"
+   },
+   "ext_NetworkName": {
+      "message": "网络名称"
+   },
+   "ext_NetworkVisibility": {
+      "message": "网络可见性"
+   },
+   "ext_NoMatchingAddresses": {
+      "message": "您的保管库无地址。是否要创建一个？"
+   },
+   "ext_NoMatchingPaymentCards": {
+      "message": "您的保管库无支付卡。是否要创建一个？"
+   },
+   "ext_NoMatchingRecords": {
+      "message": "您的保管库中没有与该网站匹配的记录。是否要创建一条？"
+   },
+   "ext_NoRecordsMessage": {
+      "message": "无可备份的记录。"
+   },
+   "ext_NoResultsFound": {
+      "message": "未找到结果"
+   },
+   "ext_NotesCopied": {
+      "message": "备注已拷贝！"
+   },
+   "ext_Number": {
+      "message": "号码"
+   },
+   "ext_Numbers": {
+      "message": "数字"
+   },
+   "ext_OfflineUnavailable": {
+      "message": "在您联机时至少登录一次之前，离线保管库在此设备上不可用。 请注意，只有在 Keeper 管理员批准的情况下，离线保管库才可供 Keeper Business 和 Enterprise 客户使用。"
+   },
+   "ext_OneResult": {
+      "message": "“XXX”有 1 个结果"
+   },
+   "ext_OpenInVault": {
+      "message": "在保管库中打开"
+   },
+   "ext_PINCopied": {
+      "message": "PIN 码已拷贝！"
+   },
+   "ext_PaymentCard": {
+      "message": "支付卡"
+   },
+   "ext_PhoneNumberPlaceholder": {
+      "message": "(+86) 419-843-2744"
+   },
+   "ext_PopupFinalNotice": {
+      "message": "最后通知"
+   },
+   "ext_PopupFinalNoticeMessage": {
+      "message": "您的 Keeper 试用期将在 24 小时后过期。高级功能访问权限将被禁用。请立即升级以保留完全访问权限。"
+   },
+   "ext_PromptAppearanceDesc": {
+      "message": "自定义提示在屏幕上显示的方式。"
+   },
+   "ext_RecordSaved": {
+      "message": "记录已保存"
+   },
+   "ext_RemoveAccountDescription": {
+      "message": "XXX 将从登录列表中移除。"
+   },
+   "ext_RemoveAccountTitle": {
+      "message": "从列表中移除帐户"
+   },
+   "ext_ResendCode": {
+      "message": "重新发送代码"
+   },
+   "ext_ResetPassword": {
+      "message": "重置密码"
+   },
+   "ext_ResultsCount": {
+      "message": "XXX 条结果"
+   },
+   "ext_ResultsCountFor": {
+      "message": "“YYY”有 XXX 个结果"
+   },
+   "ext_ResultsCountNone": {
+      "message": "“YYY”有 0 个结果"
+   },
+   "ext_ResultsFound": {
+      "message": "找到 XXX 个结果"
+   },
+   "ext_Revert": {
+      "message": "否，恢复"
+   },
+   "ext_SSOMessage": {
+      "message": "企业域名是由您的 Keeper 管理员提供。"
+   },
+   "ext_SaveToVault": {
+      "message": "保存到保管库"
+   },
+   "ext_SearchFavorites": {
+      "message": "搜索收藏夹"
+   },
+   "ext_SearchVault": {
+      "message": "搜索保管库"
+   },
+   "ext_ShowQRCodeScan": {
+      "message": "允许其他人通过扫描\u003Ckeepertag>二维码\u003C/keepertag>加入此网络。"
+   },
+   "ext_SortBy": {
+      "message": "排序方式"
+   },
+   "ext_StatePlaceholder": {
+      "message": "贵州省"
+   },
+   "ext_Symbols": {
+      "message": "符号"
+   },
+   "ext_TermsPrivacy": {
+      "message": "我接受 Keeper 的\u003Ckeepertag>使用条款\u003C/keepertag>和\u003Ckeepertag>隐私政策\u003C/keepertag>"
+   },
+   "ext_TimerSaved": {
+      "message": "计时器已保存！"
+   },
+   "ext_TitleRequired": {
+      "message": "标题 （必填）"
+   },
+   "ext_TwoFactorCopied": {
+      "message": "两步验证码已拷贝！"
+   },
+   "ext_Type": {
+      "message": "类型"
+   },
+   "ext_UnableToLoginTitle": {
+      "message": "无法登录 Keeper"
+   },
+   "ext_UnsavedPrompt": {
+      "message": "有未保存的更改，是否确定要取消？"
+   },
+   "ext_UpdateRecord": {
+      "message": "是否要更新此记录？"
+   },
+   "ext_Uppercase": {
+      "message": "大写"
+   },
+   "ext_Use": {
+      "message": "使用"
+   },
+   "ext_UseAsDefaultSettings": {
+      "message": "用作默认设置"
+   },
+   "ext_UsePassphrase": {
+      "message": "使用密码短语"
+   },
+   "ext_UsePassword": {
+      "message": "使用密码"
+   },
+   "ext_UsernameCopied": {
+      "message": "用户名已复制！"
+   },
+   "ext_Verify": {
+      "message": "校验"
+   },
+   "ext_Visible": {
+      "message": "可见"
+   },
+   "ext_ZipCodePlaceholder": {
+      "message": "123456"
+   },
+   "ext_accessibility": {
+      "message": "辅助功能"
+   },
+   "ext_account_number": {
+      "message": "帐户号"
+   },
+   "ext_account_type": {
+      "message": "帐户类型"
+   },
+   "ext_action_requires_authentication": {
+      "message": "操作需要身份验证"
+   },
+   "ext_add_new_record": {
+      "message": "添加新记录"
+   },
+   "ext_add_record_text": {
+      "message": "添加记录标题。"
+   },
+   "ext_add_to_keeper": {
+      "message": "添加至 Keeper"
+   },
+   "ext_autofill_desc": {
+      "message": "如果站点没有匹配记录，在输入字段时提示我采用保存的登录名和生成的高强度密码。"
+   },
+   "ext_autofill_desc_2": {
+      "message": "如果站点没有匹配记录，在输入字段时提示我采用保存的用户名和生成的高强度密码。"
+   },
+   "ext_biometric_login_canceled": {
+      "message": "操作被取消或操作超时。请重试。"
+   },
+   "ext_biometric_login_desc": {
+      "message": "使用密钥启用生物识别登录，以实现更快、安全访问。您的加密密钥安全地存储在设备的保护区中，从而取代了对密码和多因素验证的需求。Keeper 绝不会访问您的生物识别数据。"
+   },
+   "ext_biometric_login_feature_desc": {
+      "message": "使用通行密钥设置生物识别登录，以实现快速、安全访问，无需密码。 随时在设置中更新。"
+   },
+   "ext_biometric_login_restricted_desc": {
+      "message": "您的管理员限制使用通行码进行生物识别登录。"
+   },
+   "ext_biometric_login_restricted_header": {
+      "message": "生物识别登录受限制"
+   },
+   "ext_confirm_screenshot_desc": {
+      "message": "请检查您的捕获。如有需要，请重新拍摄，或继续查看检测到的信息并添加备注。"
+   },
+   "ext_create_address_restricted_message_2": {
+      "message": "您的管理员已限制创建地址。"
+   },
+   "ext_create_card_restricted_message_2": {
+      "message": "您的管理员已限制创建支付卡。"
+   },
+   "ext_create_passkey_desc": {
+      "message": "创建密钥，以启用使用生物识别扫描仪登录（如果您的设备支持此操作）。"
+   },
+   "ext_create_record_in_shared_folders_only_message": {
+      "message": "记录仅可在共享文件夹内创建。此限制是您的管理员设定。"
+   },
+   "ext_create_record_in_shared_folders_only_message_2": {
+      "message": "您的管理员设置了限制，记录仅可在共享文件夹内创建。"
+   },
+   "ext_create_record_restricted_header": {
+      "message": "创建记录受限"
+   },
+   "ext_create_record_restricted_header_2": {
+      "message": "创建受限"
+   },
+   "ext_create_record_restricted_message": {
+      "message": "您的管理员已限制创建记录。"
+   },
+   "ext_create_record_restricted_message_2": {
+      "message": "您的管理员已限制创建登录记录。"
+   },
+   "ext_date_of_birth": {
+      "message": "出生日期"
+   },
+   "ext_days_maximum": {
+      "message": "最长 XXX 天"
+   },
+   "ext_default": {
+      "message": "默认"
+   },
+   "ext_default_card": {
+      "message": "默认卡"
+   },
+   "ext_delete_passkey_desc": {
+      "message": "删除此密钥将从您的账户中移除。这可能会影响您在需要此密钥的设备上进行登录。如果继续，请确保您能够访问主密码或单点登录（SSO），以避免被锁定。"
+   },
+   "ext_dna_code_prompt": {
+      "message": "输入您的智能手表中的验证码。"
+   },
+   "ext_driver_license": {
+      "message": "驾照号码"
+   },
+   "ext_email_prompt": {
+      "message": "使用以下电子邮箱创建登录名"
+   },
+   "ext_enter_secret_key": {
+      "message": "输入机密密钥"
+   },
+   "ext_enter_text_code": {
+      "message": "输入通过短信发送的验证码。"
+   },
+   "ext_enter_totp": {
+      "message": "输入您的身份验证器/TOTP 应用中的验证码。"
+   },
+   "ext_existing_passkey_detected_desc": {
+      "message": "看起来您的设备上已经有了此账户的密钥。"
+   },
+   "ext_history": {
+      "message": "历史记录"
+   },
+   "ext_hostname": {
+      "message": "主机名或 IP 地址"
+   },
+   "ext_hours_maximum": {
+      "message": "最长 XXX 小时"
+   },
+   "ext_http_fill_warning_desc": {
+      "message": "在未采用 HTTPS 加密连接的网站上使用 KeeperFill 时发出警告。"
+   },
+   "ext_iframe_err": {
+      "message": "请点击您的浏览器的工具栏中的Keeper锁形图标进行登录。"
+   },
+   "ext_incorrect_totp_code": {
+      "message": "您的验证码无效或已过期。\\n请点击“重新发送验证码”以接收新的验证码。"
+   },
+   "ext_install_instruction_click": {
+      "message": "点击 Keeper 旁边的 XXX 和 YYY。"
+   },
+   "ext_install_instruction_header": {
+      "message": "将 Keeper 添加到工具栏以方便访问"
+   },
+   "ext_install_instructions_pin": {
+      "message": "将 Keeper 固定到工具栏以方便访问"
+   },
+   "ext_install_instructions_select": {
+      "message": "选择您的浏览器以获取说明"
+   },
+   "ext_launch_site": {
+      "message": "打开网站"
+   },
+   "ext_log_in_to_keeper": {
+      "message": "登录至 Keeper"
+   },
+   "ext_minutes_maximum": {
+      "message": "最长 XXX 分钟"
+   },
+   "ext_mob_banner_day_left_in_trial": {
+      "message": "试用还剩 1 天"
+   },
+   "ext_mob_banner_days_left_in_trial": {
+      "message": "剩余免费体验天数：XXX"
+   },
+   "ext_mob_turn_on_now": {
+      "message": "立即打开"
+   },
+   "ext_mp_reentry_modal_message": {
+      "message": "您的管理员要求您重新进行身份验证。"
+   },
+   "ext_mp_reentry_overlay_alert_message": {
+      "message": "您的管理员要求您重新进行身份验证。请在浏览器工具栏中打开 Keeper 以继续。"
+   },
+   "ext_new_login_creation_screen_description": {
+      "message": "为了提高安全性，从网站创建记录时将会在一个单独的标签页中打开。"
+   },
+   "ext_new_login_creation_screen_header": {
+      "message": "新的登录记录创建界面"
+   },
+   "ext_no_matching_addresses_create_restricted": {
+      "message": "您的保管库无地址。您的管理员已限制创建地址。"
+   },
+   "ext_no_matching_cards_create_restricted": {
+      "message": "您的保管库无支付卡。您的管理员已限制创建支付卡。"
+   },
+   "ext_no_matching_records_create_restricted": {
+      "message": "没有匹配的记录。您的管理员已限制创建记录。"
+   },
+   "ext_open_admin_console": {
+      "message": "打开管理控制台"
+   },
+   "ext_open_vault": {
+      "message": "在 Web 保管库中打开"
+   },
+   "ext_overwrite_field_content": {
+      "message": "覆盖字段内容"
+   },
+   "ext_overwrite_field_content_desc": {
+      "message": "启用此功能，允许 Keeper 使用该条记录的自定义字段覆盖现有字段内容。"
+   },
+   "ext_passport_number": {
+      "message": "护照号码"
+   },
+   "ext_password_prompt": {
+      "message": "让 Keeper 创建一个高强度密码。"
+   },
+   "ext_password_rules_unmet_warning": {
+      "message": "您的管理员要求您的密码必须遵循以下规则："
+   },
+   "ext_pin_code": {
+      "message": "PIN 码"
+   },
+   "ext_prevent_lockout_desc": {
+      "message": "确保您仍然可以通过主密码或单点登录（SSO）登录，然后禁用生物识别登录，以避免您的账户被锁定。"
+   },
+   "ext_private_key": {
+      "message": "私钥"
+   },
+   "ext_prompt_to_login_subtext": {
+      "message": "在哪里？"
+   },
+   "ext_public_key": {
+      "message": "公钥"
+   },
+   "ext_push_notif": {
+      "message": "推送通知已发送至批准的设备。"
+   },
+   "ext_quick_sync_your_data": {
+      "message": "快速同步您的数据"
+   },
+   "ext_report_autofill_prompt_desc": {
+      "message": "请快速截屏——Keeper 使用这些数据来查找问题。只需几秒钟！"
+   },
+   "ext_routing_number": {
+      "message": "汇款路线号码"
+   },
+   "ext_save_to_keeper": {
+      "message": "保存密码至 Keeper？"
+   },
+   "ext_scan_2fa_code": {
+      "message": "扫描两步验证码"
+   },
+   "ext_scan_failed": {
+      "message": "扫描失败"
+   },
+   "ext_scan_failed_warning": {
+      "message": "未检测到 TOTP 验证码。请手动输入您的机密密钥。"
+   },
+   "ext_security_code": {
+      "message": "安全码"
+   },
+   "ext_security_title": {
+      "message": "安全技术"
+   },
+   "ext_select_a_location": {
+      "message": "选择位置"
+   },
+   "ext_session_persistence_setting_desc": {
+      "message": "关闭浏览器或重启电脑时保持登录 Keeper。"
+   },
+   "ext_session_persistence_setting_prompt": {
+      "message": "我们建议您打开自动退出功能，以防您在登录 Keeper 时离开设备。"
+   },
+   "ext_session_persistence_setting_title": {
+      "message": "保持登录"
+   },
+   "ext_sharing_restricted_file_with_attachment_message": {
+      "message": "您的管理员已限制您共享包含文件附件的记录。"
+   },
+   "ext_sharing_restricted_header": {
+      "message": "共享受限"
+   },
+   "ext_sharing_restricted_indirect_sharing_message": {
+      "message": "您的管理员已限制您向共享文件夹添加记录。"
+   },
+   "ext_sharing_restricted_message": {
+      "message": "您的管理员已限制您共享记录。"
+   },
+   "ext_sharing_through_shared_folders_only_message": {
+      "message": "根据管理员的要求，您只能通过将记录添加到共享文件夹来进行共享。"
+   },
+   "ext_single_suggested": {
+      "message": "1 条建议记录"
+   },
+   "ext_social_security_number": {
+      "message": "社会保障卡号"
+   },
+   "ext_software_license_number": {
+      "message": "软件许可证密钥"
+   },
+   "ext_sso_pw": {
+      "message": "SSO 主密码登录"
+   },
+   "ext_stay_logged": {
+      "message": "在会话之间保持登录状态"
+   },
+   "ext_stay_logged_desc": {
+      "message": "关闭和重新打开应用或重启设备时无需登录，除非手动退出或使用“非活动退出”自动退出。"
+   },
+   "ext_stay_logged_desc_2": {
+      "message": "关闭和重新打开 Keeper 或重启设备时无需登录，除非手动退出或使用“非活动退出”自动退出。"
+   },
+   "ext_subsequent_fill": {
+      "message": "在后续页面上自动填充"
+   },
+   "ext_subsequent_fill_desc": {
+      "message": "关闭此功能，防止 Keeper 在多步登录流程中自动填充多个页面。"
+   },
+   "ext_sync_complete": {
+      "message": "同步完成"
+   },
+   "ext_sync_setting_desc": {
+      "message": "使用下方选项，手动确认您的保管库是最新版。"
+   },
+   "ext_totp_delete_warning_2": {
+      "message": "您可以通过恢复保管库中此记录的先前版本来找回已删除的两步验证码。"
+   },
+   "ext_totp_delete_warning_3": {
+      "message": "在此服务或网站上禁用 MFA，然后再将其从该记录中删除。这将防止失去对该服务的访问权限。"
+   },
+   "ext_totp_restricted_message": {
+      "message": "您的管理员限制了向记录添加两步验证码的功能。"
+   },
+   "ext_two_factor_channel_rsa": {
+      "message": "输入您的 RSA 密码。"
+   },
+   "ext_two_factor_field_tooltip_message": {
+      "message": "使用 Keeper 在任何设备上存储和自动填充两步验证码。"
+   },
+   "ext_two_factor_generic_code_prompt": {
+      "message": "输入两步验证方法的验证码。"
+   },
+   "ext_type_or_generate": {
+      "message": "输入或生成"
+   },
+   "ext_website": {
+      "message": "网站"
+   },
+   "ext_zip_code": {
+      "message": "邮编"
+   },
+   "extension_DetailView_itemCopied": {
+      "message": "复制到粘贴板"
+   },
+   "extension_phonetype_home": {
+      "message": "家庭"
+   },
+   "extension_phonetype_mobile": {
+      "message": "手机"
+   },
+   "extension_phonetype_work": {
+      "message": "工作"
+   },
+   "extension_prompt_to_disable": {
+      "message": "浏览器扩展可能会降低此网站的性能。请点击工具栏中的 Keeper 图标以在此网站上重新启用 Keeper。"
+   },
+   "extension_prompt_to_disable_header": {
+      "message": "Keeper 已在当前网站上禁用。"
+   },
+   "extension_prompt_to_fill": {
+      "message": "是否希望 Keeper 自动填充您的登录信息？"
+   },
+   "extension_prompt_to_login": {
+      "message": "请点按浏览器工具栏上的 Keeper 图标进行登录。"
+   },
+   "fade_in": {
+      "message": "淡入"
+   },
+   "fastfill_RecordSaved": {
+      "message": "记录已保存！"
+   },
+   "fastfill_less": {
+      "message": "收起"
+   },
+   "fastfill_more": {
+      "message": "展开"
+   },
+   "featureRestricted": {
+      "message": "受限功能"
+   },
+   "feature_restricted_by_admin": {
+      "message": "功能受 Keeper 管理员限制"
+   },
+   "ff_private_window_error": {
+      "message": "使用 Firefox 隐私窗口模式时，请使用 Web 保管库登录 Keeper。 Keeper 可自动填充网站，但工具栏将不可用。"
+   },
+   "field_icon": {
+      "message": "输入字段图标"
+   },
+   "field_icons": {
+      "message": "字段图标"
+   },
+   "field_icons_desc": {
+      "message": "选择 Keeper 图标何时以及是否出现在字段中。"
+   },
+   "field_text": {
+      "message": "文本"
+   },
+   "files_learnmorepage_description": {
+      "message": "Keeper®是一款操作简单且安全的密码管理器和电子数据库。"
+   },
+   "files_sorry_later": {
+      "message": "稍后再说"
+   },
+   "files_upload_create_new_dontask": {
+      "message": "不要再问我"
+   },
+   "fill_address": {
+      "message": "填充地址"
+   },
+   "fill_and_save_password": {
+      "message": "填充并保存密码"
+   },
+   "fill_card": {
+      "message": "填充信用卡"
+   },
+   "fill_card_number": {
+      "message": "填充信用卡号"
+   },
+   "fill_city": {
+      "message": "填充城市"
+   },
+   "fill_cvv": {
+      "message": "填充 CVV"
+   },
+   "fill_email_address": {
+      "message": "填充电子邮件地址"
+   },
+   "fill_emailusername": {
+      "message": "填充电子邮箱/用户名"
+   },
+   "fill_expiration_date": {
+      "message": "填充到期日"
+   },
+   "fill_first_name": {
+      "message": "填充名字"
+   },
+   "fill_icon_is_missing": {
+      "message": "缺少填充图标"
+   },
+   "fill_last_name": {
+      "message": "填充姓氏"
+   },
+   "fill_name_on_card": {
+      "message": "填充持卡人姓名"
+   },
+   "fill_phone_number": {
+      "message": "填充电话号码"
+   },
+   "fill_prompt": {
+      "message": "填充提示"
+   },
+   "fill_record": {
+      "message": "填充记录"
+   },
+   "fill_state": {
+      "message": "填充省份"
+   },
+   "fill_street_address_line_one": {
+      "message": "填充街道地址行 1"
+   },
+   "fill_street_address_line_two": {
+      "message": "填充街道地址行 2"
+   },
+   "fill_tool": {
+      "message": "KeeperFill 工具"
+   },
+   "fill_tool_desc": {
+      "message": "在表单字段中显示 Keeper 图标，您可以点击它们以在网站和表单上自动填充登录凭据。"
+   },
+   "fill_zip_postal_code": {
+      "message": "填充邮编"
+   },
+   "filled": {
+      "message": "已填充"
+   },
+   "filter": {
+      "message": "过滤器"
+   },
+   "fix_autofill_fields": {
+      "message": "修复自动填充字段"
+   },
+   "fix_webpage": {
+      "message": "修复网页"
+   },
+   "footer_new_security": {
+      "message": "安全技术"
+   },
+   "forgot_master_password": {
+      "message": "忘记Keeper密码了"
+   },
+   "free_trial_expired_please_purchase": {
+      "message": "您的免费试用期已过，如需要继续使用请购买。"
+   },
+   "full_name": {
+      "message": "全名"
+   },
+   "full_sync": {
+      "message": "完全同步"
+   },
+   "full_sync_desc": {
+      "message": "同步所有数据，可能需要几分钟时间。"
+   },
+   "generator_history": {
+      "message": "生成器历史记录"
+   },
+   "generic_restriction": {
+      "message": "您的 Keeper 管理员限制执行此操作。"
+   },
+   "get_help": {
+      "message": "获取帮助"
+   },
+   "got_it": {
+      "message": "明白"
+   },
+   "greater_than_zero": {
+      "message": "数值必须大于 0。"
+   },
+   "groups_invalid_code2": {
+      "message": "您输入的验证码无效"
+   },
+   "groups_invalid_validation_code": {
+      "message": "您所提供的验证码不正确。"
+   },
+   "header_admin": {
+      "message": "管理控制台"
+   },
+   "hidden_field": {
+      "message": "隐藏字段"
+   },
+   "hide_contents": {
+      "message": "隐藏内容"
+   },
+   "hide_password": {
+      "message": "隐藏密码"
+   },
+   "hover_locks": {
+      "message": "悬停显示锁"
+   },
+   "http_basic_auth_description": {
+      "message": "此网站 (XXX) 请求使用 HTTP 基本身份验证进行登录。如果您信任此网站，并且想使用您的保管库中匹配的 Keeper 记录 (YYY) 登录，请点击“好”，或者点击“取消”中止操作。"
+   },
+   "http_basic_auth_title": {
+      "message": "请求使用 HTTP 基本身份验证以进行自动填充"
+   },
+   "http_fill_warning_prompt_desc": {
+      "message": "在未使用 HTTPS 加密连接的网站上尝试进行自动填充时，系统会提示您存在安全风险。"
+   },
+   "http_fill_warning_promt": {
+      "message": "HTTP 填充警告提示"
+   },
+   "idb_storage_cleared": {
+      "message": "索引数据库存储已清除"
+   },
+   "idb_storage_visible": {
+      "message": "IDB 存储可见"
+   },
+   "in120seconds": {
+      "message": "120 秒"
+   },
+   "in30seconds": {
+      "message": "30秒"
+   },
+   "in45seconds": {
+      "message": "45 秒"
+   },
+   "in60seconds": {
+      "message": "60 秒"
+   },
+   "in90seconds": {
+      "message": "90 秒"
+   },
+   "inactivity_logout_timer_desc": {
+      "message": "设置自动退出之前可以处于非活动状态的时长。"
+   },
+   "individual_fill_cross_domain": {
+      "message": "Keeper 检测到域名为 YYY 的网站 XXX 使用了嵌入式登录表单。 如果您信任此网站，请点击“确定”以填充帐密，或点击“取消”以中止。"
+   },
+   "input_fields_desc": {
+      "message": "图标将出现在可填充的输入字段中，点击即可显示 Keeper 建议和其他选项。"
+   },
+   "insert_security_key": {
+      "message": "插入您的安全密钥"
+   },
+   "introducing_clipboard_expiration": {
+      "message": "剪贴板过期功能上线"
+   },
+   "introducing_clipboard_expiration_desc": {
+      "message": "设置复制凭证在剪贴板内的保留时长。通过设置界面启用此功能。"
+   },
+   "introducing_passkeys": {
+      "message": "介绍 Keeper 通行密钥"
+   },
+   "introducing_passkeys_content": {
+      "message": "使用 Keeper 的浏览器扩展来创建通行密钥并登录支持的网站。 使用您所有设备上的 Keeper 保管库安全地管理和共享您的通行密钥。"
+   },
+   "invalid_email_or_password": {
+      "message": "无效的电子邮件或密码"
+   },
+   "invalid_two_factor_data": {
+      "message": "两步验证数据无效"
+   },
+   "json_code_snippet": {
+      "message": "JSON 代码片段"
+   },
+   "keeper_login": {
+      "message": "登录 Keeper 以填充凭据。"
+   },
+   "keeper_passkey_created": {
+      "message": "Keeper 密钥已创建"
+   },
+   "keeper_push": {
+      "message": "Keeper 推送"
+   },
+   "keeper_push_description": {
+      "message": "Keeper 推送是一种简单的帐户安全方法，其使用一键式操作而不是验证码。当您在新设备上登录 Keeper 时，您将在其他设备上收到一键式提示。"
+   },
+   "keeper_push_description_short": {
+      "message": "Keeper Push 是可发送到您批准的设备之一的一种简单、安全的身份验证通知。"
+   },
+   "keeper_push_not_approved": {
+      "message": "推送通知尚未获得批准。"
+   },
+   "keeper_push_sent": {
+      "message": "Keeper 推送已发送"
+   },
+   "keeper_push_sent_to_device": {
+      "message": "已向经批准的设备发送 Keeper 推送通知"
+   },
+   "keeper_sso_not_permitted": {
+      "message": "您的帐户未被允许使用 SSO 登录 Keeper。请确保将此帐户分配给 Keeper 管理控制台中通过单点登录预配的节点。"
+   },
+   "keeperfill_insecure_field": {
+      "message": "Keeper 无法将密码填充到输入字段。请点击表单字段的锁图标，然后再试一次。"
+   },
+   "kfg_enter_password": {
+      "message": "输入密码"
+   },
+   "kfg_expire": {
+      "message": "有效期"
+   },
+   "kfg_password_rule_prompt": {
+      "message": "密码必须遵循这些规则："
+   },
+   "kg_fair": {
+      "message": "一般"
+   },
+   "kg_medium": {
+      "message": "一般"
+   },
+   "kg_off": {
+      "message": "关"
+   },
+   "kg_on": {
+      "message": "开"
+   },
+   "kg_strong": {
+      "message": "强"
+   },
+   "kg_two_factor_authentication": {
+      "message": "两步验证"
+   },
+   "kg_weak": {
+      "message": "弱"
+   },
+   "landscape_mode": {
+      "message": "横向模式"
+   },
+   "last_synced_phrase": {
+      "message": "上次同步时间 XXX"
+   },
+   "last_used_date": {
+      "message": "上次使用：XXX"
+   },
+   "launch_and_autofill": {
+      "message": "启动并自动填充"
+   },
+   "launch_vault": {
+      "message": "启动保管库"
+   },
+   "learnmo": {
+      "message": "了解更多"
+   },
+   "local_storage_cleared": {
+      "message": "本地存储已清除"
+   },
+   "local_storage_visible": {
+      "message": "本地存储可见"
+   },
+   "location": {
+      "message": "位置"
+   },
+   "lockout_minute": {
+      "message": "由于多次尝试，您的请求已被阻止。请 1 分钟后再试一次。"
+   },
+   "log_in": {
+      "message": "登录"
+   },
+   "log_in_successful": {
+      "message": "成功登录"
+   },
+   "log_in_with_passkey": {
+      "message": "使用密钥登录"
+   },
+   "login_button_disabled": {
+      "message": "登录按钮已禁用"
+   },
+   "login_different_account": {
+      "message": "使用其他帐户登录"
+   },
+   "login_field": {
+      "message": "登录字段"
+   },
+   "login_id": {
+      "message": "登录 ID"
+   },
+   "login_reminder": {
+      "message": "登录提醒"
+   },
+   "login_updated": {
+      "message": "登录字段已更新！"
+   },
+   "logout_of_username": {
+      "message": "退出 XXX"
+   },
+   "logout_timer_value_invalid": {
+      "message": "退出计时器设置值无效"
+   },
+   "manage_passkeys": {
+      "message": "管理密钥"
+   },
+   "master_password": {
+      "message": "主密码"
+   },
+   "match_on_subdomain": {
+      "message": "子域匹配"
+   },
+   "match_on_subdomain_desc": {
+      "message": "显示要根据严格的子域匹配自动填充的记录。"
+   },
+   "match_on_subdomain_desc2": {
+      "message": "控制是否根据严格的子域名匹配来建议记录。"
+   },
+   "match_only_subdomains": {
+      "message": "仅匹配子域名"
+   },
+   "match_system": {
+      "message": "匹配系统"
+   },
+   "max_characters_xxx": {
+      "message": "最大字符数 XXX"
+   },
+   "maybe_later": {
+      "message": "稍后再说"
+   },
+   "mob_banner_days_left_desc": {
+      "message": "立即开启 Keeper Unlimited 以获得全面保护。"
+   },
+   "multi_line_text": {
+      "message": "多行文本"
+   },
+   "multiple_folders": {
+      "message": "多个文件夹"
+   },
+   "multiple_folders_prompt_desc": {
+      "message": "此记录位于多个文件夹中，无法在此处编辑。 请前往 Web 保管库或桌面应用进行更改。"
+   },
+   "multiple_folders_prompt_title": {
+      "message": "记录位于多个文件夹"
+   },
+   "name_on_card": {
+      "message": "信用卡上的姓名"
+   },
+   "need_help_question": {
+      "message": "需要帮助吗？"
+   },
+   "need_vault_settings_update": {
+      "message": "请登录至 Web 保管库以更新您的帐户设置。"
+   },
+   "network_encryption_none": {
+      "message": "无加密"
+   },
+   "network_encryption_wep": {
+      "message": "WEP"
+   },
+   "network_encryption_wpa": {
+      "message": "WPA"
+   },
+   "network_hidden": {
+      "message": "隐藏"
+   },
+   "network_visible": {
+      "message": "可见"
+   },
+   "never_show": {
+      "message": "永不显示"
+   },
+   "new_password": {
+      "message": "新密码"
+   },
+   "new_password_alert": {
+      "message": "请填充新密码字段然后再继续。"
+   },
+   "new_password_view": {
+      "message": "现在，点击要求输入新密码的每个表单字段中的锁图标。然后点击“下一步”。"
+   },
+   "new_password_view2": {
+      "message": "然后在新密码表单字段中选择 Keeper 图标以填充您的新密码。"
+   },
+   "newfreetrial_popup_buy": {
+      "message": "Upgrade Now"
+   },
+   "next_button_disabled": {
+      "message": "“下一步”按钮已禁用"
+   },
+   "next_step_colon_preview": {
+      "message": "下一步：预览"
+   },
+   "no_animation": {
+      "message": "无动画"
+   },
+   "no_edit_permissions2": {
+      "message": "您没有编辑该记录的权限。"
+   },
+   "no_email_entered": {
+      "message": "由于未输入有效的电子邮箱，“下一步”按钮已禁用"
+   },
+   "no_hist": {
+      "message": "无密码历史记录"
+   },
+   "no_records": {
+      "message": "保管库无记录"
+   },
+   "no_records_match_domain": {
+      "message": "您的保管库中没有任何记录与此站点的网址匹配。 请检查您的保管库或创建一条新记录。"
+   },
+   "no_suggest_recs": {
+      "message": "无建议记录"
+   },
+   "no_thanks": {
+      "message": "不，谢谢"
+   },
+   "non_login_field_does_not_autofill": {
+      "message": "非登录字段（例如，付款或账单）不自动填充"
+   },
+   "not_approved_by_account_owner": {
+      "message": "此设备未经帐户所有者批准。请联系帐户所有者或 Keeper 支持团队。"
+   },
+   "not_yet_used": {
+      "message": "尚未使用"
+   },
+   "note": {
+      "message": "备注"
+   },
+   "notes_header": {
+      "message": "注释"
+   },
+   "notifications_enabled_reminder": {
+      "message": "请确保您的设备已启用通知以接收 Keeper 推送通知，或者在已批准的设备上打开应用。"
+   },
+   "ob2020_getstarted_1": {
+      "message": "Keeper 是存储和保护您的密码和私人信息免受网络犯罪分子攻击的最安全方式。"
+   },
+   "ob2020_getstarted_2": {
+      "message": "Keeper 可以在所有移动和台式设备上保护并自动填充密码。"
+   },
+   "ob2020_getstarted_3": {
+      "message": "Keeper 使用端到端加密和专有的零知识安全体系结构，因此您可以完全控制对信息的访问。"
+   },
+   "ob2020_welcome": {
+      "message": "欢迎使用 Keeper 保管库！"
+   },
+   "old_password_view": {
+      "message": "请点击表单“旧”密码或“当前”密码（若有）字段中的锁图标。然后点击“下一步”继续。"
+   },
+   "old_password_view2": {
+      "message": "在当前密码或旧密码表单字段中选择 Keeper 图标以填充您的当前密码。"
+   },
+   "once_snapshot_shared_message": {
+      "message": "共享后，我们将查看您的快照，并在更新时通知您。"
+   },
+   "one_time_passcode": {
+      "message": "一次性密码"
+   },
+   "open_extension": {
+      "message": "打开扩展"
+   },
+   "open_my_vault": {
+      "message": "打开我的 Web 保管库"
+   },
+   "open_safari_settings": {
+      "message": "退出并打开 Safari 设置..."
+   },
+   "other_accounts": {
+      "message": "其他帐户"
+   },
+   "other_login_methods": {
+      "message": "其他登录方法"
+   },
+   "other_please_describe": {
+      "message": "其他（请描述）"
+   },
+   "page_info": {
+      "message": "页面信息"
+   },
+   "pass_gen_history": {
+      "message": "密码生成器历史记录"
+   },
+   "passkey": {
+      "message": "密钥"
+   },
+   "passkey_already_registered": {
+      "message": "密钥已注册"
+   },
+   "passkey_already_registered_desc": {
+      "message": "此帐户的密钥已在 Keeper 中注册。"
+   },
+   "passkey_count_plural": {
+      "message": "XXX 个密钥"
+   },
+   "passkey_count_single": {
+      "message": "1 个密钥"
+   },
+   "passphrase_cannot_meet_criteria": {
+      "message": "密码短语不符合记录中指定域设置的标准。"
+   },
+   "passphrase_copied": {
+      "message": "密码短语已拷贝"
+   },
+   "passphrase_must_caps": {
+      "message": "每个词语的首字母必须大写"
+   },
+   "passphrase_must_contain": {
+      "message": "您的密码短语必须包含："
+   },
+   "passphrase_must_number": {
+      "message": "1 个数字"
+   },
+   "passphrase_must_separator": {
+      "message": "1 个分隔符：XXX"
+   },
+   "passphrase_must_words": {
+      "message": "至少 XXX 个词语"
+   },
+   "password_alert": {
+      "message": "密码提醒"
+   },
+   "password_cannot_meet_criteria": {
+      "message": "密码不符合记录中指定域设置的标准。"
+   },
+   "password_cannot_meet_criteria__gen": {
+      "message": "无法生成符合记录中指定域设置标准的密码。"
+   },
+   "password_does_not_autofill": {
+      "message": "密码未自动填充"
+   },
+   "password_generator": {
+      "message": "密码生成器"
+   },
+   "password_must_caps": {
+      "message": "每个词语的首字母必须大写"
+   },
+   "password_must_char": {
+      "message": "至少 XXX 个字符"
+   },
+   "password_must_char__solo": {
+      "message": "您的密码必须包含至少 XXX 个字符。"
+   },
+   "password_must_contain": {
+      "message": "您的密码必须包含："
+   },
+   "password_must_lowercase": {
+      "message": "至少 XXX 个小写字母"
+   },
+   "password_must_lowercase__solo": {
+      "message": "您的密码必须包含至少 XXX 个小写字母。"
+   },
+   "password_must_lowercase_p": {
+      "message": "至少 XXX 个小写字母"
+   },
+   "password_must_lowercase_p__solo": {
+      "message": "您的密码必须包含至少 XXX 个小写字母。"
+   },
+   "password_must_not_contain_these_symbols": {
+      "message": "您的密码不能包含：XXX"
+   },
+   "password_must_number": {
+      "message": "至少 XXX 个数字"
+   },
+   "password_must_number__solo": {
+      "message": "您的密码必须包含至少 XXX 个数字。"
+   },
+   "password_must_number_p": {
+      "message": "至少 XXX 个数字"
+   },
+   "password_must_number_p__solo": {
+      "message": "您的密码必须包含至少 XXX 个数字。"
+   },
+   "password_must_number_singluar": {
+      "message": "至少 1 个数字"
+   },
+   "password_must_separator": {
+      "message": "1 个分隔符："
+   },
+   "password_must_symbol": {
+      "message": "至少 XXX 个符号：YYY"
+   },
+   "password_must_symbol__solo": {
+      "message": "您的密码必须包含至少 XXX 个符号：YYY"
+   },
+   "password_must_symbol_p": {
+      "message": "至少 XXX 个符号：YYY"
+   },
+   "password_must_symbol_p__solo": {
+      "message": "您的密码必须包含至少 XXX 个符号：YYY"
+   },
+   "password_must_uppercase": {
+      "message": "至少 XXX 个大写字母"
+   },
+   "password_must_uppercase__solo": {
+      "message": "您的密码必须包含至少 XXX 个大写字母。"
+   },
+   "password_must_uppercase_p": {
+      "message": "至少 XXX 个大写字母"
+   },
+   "password_must_uppercase_p__solo": {
+      "message": "您的密码必须包含至少 XXX 个大写字母。"
+   },
+   "password_passphrase_alert": {
+      "message": "密码和密码短语提醒"
+   },
+   "password_reset_email_tip": {
+      "message": "请输入您的电子邮件地址，以开始帐户恢复流程。您可能需要检查垃圾邮件文件夹或解除阻止来自 keepersecurity.com 的电子邮件。"
+   },
+   "password_strength": {
+      "message": "密码强度"
+   },
+   "password_suggestions": {
+      "message": "密码建议"
+   },
+   "password_suggestions_desc": {
+      "message": "控制在点击注册页面上的密码字段时是否建议使用生成的高强度密码。"
+   },
+   "password_updated": {
+      "message": "密码已更新！"
+   },
+   "payment_card": {
+      "message": "支付卡"
+   },
+   "payment_card_saved": {
+      "message": "支付卡已保存！"
+   },
+   "payment_cards": {
+      "message": "支付卡"
+   },
+   "payment_field": {
+      "message": "支付字段"
+   },
+   "payment_updated": {
+      "message": "支付字段已更新！"
+   },
+   "phone_call": {
+      "message": "电话联络"
+   },
+   "phone_number": {
+      "message": "电话号码"
+   },
+   "phone_type": {
+      "message": "电话类型"
+   },
+   "pin_generator": {
+      "message": "PIN 码生成器"
+   },
+   "port": {
+      "message": "端口"
+   },
+   "portrait_mode": {
+      "message": "纵向模式"
+   },
+   "prevent_lockout": {
+      "message": "防止锁定"
+   },
+   "preview": {
+      "message": "预览"
+   },
+   "preview_snapshot_desc": {
+      "message": "预览完整快照，再将其下载并与 Keeper 共享。"
+   },
+   "primary_website_address": {
+      "message": "主网站地址"
+   },
+   "privacy": {
+      "message": "Privacy Policy"
+   },
+   "privacy_reminder": {
+      "message": "出于隐私原因，我们未显示您使用两步验证方法。请查看短信、电子邮件、安全密钥或 TOTP 身份验证器应用获取您的验证码。"
+   },
+   "privacy_screen_is_enabled_by_admin": {
+      "message": "管理员已启用隐私屏幕"
+   },
+   "privacy_screen_prevents_hint": {
+      "message": "隐私屏幕可防止在保存记录后查看密码和修改网站 URL。"
+   },
+   "prompt_appearance": {
+      "message": "提示外观"
+   },
+   "prompt_appearance_desc": {
+      "message": "自定义提示在屏幕上显示的方式"
+   },
+   "prompt_appearance_desc_2": {
+      "message": "自定义您希望提示在浏览器窗口中的显示方式。"
+   },
+   "prompt_location": {
+      "message": "提示位置"
+   },
+   "prompt_to_autofill_desc": {
+      "message": "访问网站登录页面时自动填写表单字段。可在“自动填充首选项”页面控制针对各个网站的行为。"
+   },
+   "prompt_to_change_desc": {
+      "message": "在“更改密码”网页，Keeper 将自动生成一个新密码，并填充旧密码和新密码字段。"
+   },
+   "prompt_to_create": {
+      "message": "提示创建"
+   },
+   "prompt_to_create_desc": {
+      "message": "在输入密码时，如果发现网站不存在记录，Keeper 将询问您是否要将密码保存到您的保管库。"
+   },
+   "prompt_to_disable": {
+      "message": "提示禁用"
+   },
+   "prompt_to_disable_desc": {
+      "message": "这将提醒您 KeeperFill 已被禁用，因为其可能会减慢该页面的速度。"
+   },
+   "prompt_to_fill": {
+      "message": "提示填充"
+   },
+   "prompt_to_fill_desc": {
+      "message": "在访问网站登录页面时，Keeper 将询问您使用您保存的密码自动登录。"
+   },
+   "prompt_to_hover_locks_desc": {
+      "message": "仅在将鼠标悬停在字段上时显示 Keeper 图标。"
+   },
+   "prompt_to_login": {
+      "message": "提示登录"
+   },
+   "prompt_to_login_desc": {
+      "message": "如果您退出了 Keeper，则在访问网站登录页面时您将被提醒登录 Keeper。"
+   },
+   "prompt_to_save": {
+      "message": "提示保存"
+   },
+   "prompt_to_save_desc": {
+      "message": "在登录到没有匹配记录的网站后，Keeper 将询问您是否要将密码保存到您的保管库。"
+   },
+   "prompt_to_update": {
+      "message": "是否要更新此网站的 Keeper 记录？"
+   },
+   "promtp_to_change": {
+      "message": "提示更改"
+   },
+   "protip": {
+      "message": "专业小贴士"
+   },
+   "pull_addresses": {
+      "message": "是否要在此网站上填充地址信息？"
+   },
+   "pull_information_from_extensions": {
+      "message": "是否要让 Keeper 在 YYY 网站上填充XXX？"
+   },
+   "pull_payment_cards": {
+      "message": "是否要在此网站上填充支付卡信息？"
+   },
+   "quick_sync": {
+      "message": "快速同步"
+   },
+   "quick_sync_desc": {
+      "message": "仅同步新数据。"
+   },
+   "ready_to_share_question": {
+      "message": "准备好共享了吗？"
+   },
+   "recents_translated": {
+      "message": "最近"
+   },
+   "record_add": {
+      "message": "添加纪录"
+   },
+   "record_deleted": {
+      "message": "记录已被删除"
+   },
+   "record_details": {
+      "message": "记录详情"
+   },
+   "record_header": {
+      "message": "记录"
+   },
+   "recovery_account_recovery": {
+      "message": "账号恢复"
+   },
+   "recovery_email_verification": {
+      "message": "电子邮件验证"
+   },
+   "recovery_forgot_pass": {
+      "message": "忘记密码?"
+   },
+   "recovery_forgotpass": {
+      "message": "忘记密码"
+   },
+   "recovery_resend_code": {
+      "message": "重新发送代码"
+   },
+   "recovery_title": {
+      "message": "忘了您的主密码"
+   },
+   "referral_v4_cancel": {
+      "message": "不，谢谢"
+   },
+   "region_selector_title": {
+      "message": "数据中心位置"
+   },
+   "registration_field": {
+      "message": "注册字段"
+   },
+   "registration_updated": {
+      "message": "注册字段已更新！"
+   },
+   "relying_party": {
+      "message": "信赖方"
+   },
+   "remember_email": {
+      "message": "记住电子邮件地址"
+   },
+   "remove_from_favs": {
+      "message": "从个人收藏中移除"
+   },
+   "remove_from_login_list": {
+      "message": "XXX 将从登录列表中移除。"
+   },
+   "remove_user": {
+      "message": "移除用户？"
+   },
+   "report_an_autofill_issue": {
+      "message": "报告自动填充问题"
+   },
+   "report_autofill_issue": {
+      "message": "报告自动填写问题"
+   },
+   "report_issue": {
+      "message": "报告问题"
+   },
+   "report_sent": {
+      "message": "报告已发送！"
+   },
+   "report_to_keeper": {
+      "message": "是否要向 Keeper 报告此情况以改进扩展？"
+   },
+   "req_timeout": {
+      "message": "请求超时"
+   },
+   "request_admin_approval": {
+      "message": "请求管理员批准"
+   },
+   "require_two_factor": {
+      "message": "要求两步验证："
+   },
+   "require_two_factor_no_colon": {
+      "message": "要求两步验证"
+   },
+   "required": {
+      "message": "必填项"
+   },
+   "required_custom_field": {
+      "message": "必填自定义字段"
+   },
+   "resend_email": {
+      "message": "重新发送电子邮件"
+   },
+   "restore_defalt_settings": {
+      "message": "还原默认设置"
+   },
+   "restore_default_autofill_settings": {
+      "message": "恢复默认自动填充设置"
+   },
+   "restrictedByAdmin": {
+      "message": "您的 Keeper 管理员限制了此功能。"
+   },
+   "restricted_totp": {
+      "message": "您的 Keeper 管理员限制了向记录添加两步验证码的功能。"
+   },
+   "retake": {
+      "message": "重新截取"
+   },
+   "revert_change": {
+      "message": "还原更改"
+   },
+   "role_enf_restriction": {
+      "message": "您被限制执行此操作。请联系您的 Keeper 管理员获取帮助。"
+   },
+   "rotation_port": {
+      "message": "轮换端口"
+   },
+   "rsa_passcode": {
+      "message": "RSA 密码"
+   },
+   "rt_label_address": {
+      "message": "地址"
+   },
+   "rt_label_bankAccount": {
+      "message": "银行帐户"
+   },
+   "rt_label_bankCard": {
+      "message": "支付卡"
+   },
+   "rt_label_birthCertificate": {
+      "message": "出生证明"
+   },
+   "rt_label_contact": {
+      "message": "联系我们"
+   },
+   "rt_label_databaseCredentials": {
+      "message": "数据库"
+   },
+   "rt_label_driverLicense": {
+      "message": "驾驶证"
+   },
+   "rt_label_encryptedNotes": {
+      "message": "安全备注"
+   },
+   "rt_label_file": {
+      "message": "文件附件"
+   },
+   "rt_label_general": {
+      "message": "概述"
+   },
+   "rt_label_healthInsurance": {
+      "message": "健康保险"
+   },
+   "rt_label_login": {
+      "message": "登录"
+   },
+   "rt_label_membership": {
+      "message": "会籍"
+   },
+   "rt_label_pamAwsConfiguration": {
+      "message": "PAM AWS 配置"
+   },
+   "rt_label_pamAzureConfiguration": {
+      "message": "PAM Entra ID (Azure) 配置"
+   },
+   "rt_label_pamDatabase": {
+      "message": "PAM 数据库"
+   },
+   "rt_label_pamDirectory": {
+      "message": "PAM 目录"
+   },
+   "rt_label_pamLocalConfiguration": {
+      "message": "PAM 本地配置"
+   },
+   "rt_label_pamMachine": {
+      "message": "PAM 机器"
+   },
+   "rt_label_pamNetworkConfiguration": {
+      "message": "PAM 网络配置"
+   },
+   "rt_label_pamRemoteBrowser": {
+      "message": "PAM 远程浏览器"
+   },
+   "rt_label_pamUser": {
+      "message": "PAM 用户"
+   },
+   "rt_label_passport": {
+      "message": "护照"
+   },
+   "rt_label_photo": {
+      "message": "照片"
+   },
+   "rt_label_pl_address": {
+      "message": "地址"
+   },
+   "rt_label_pl_bankAccount": {
+      "message": "银行帐户"
+   },
+   "rt_label_pl_bankCard": {
+      "message": "支付卡"
+   },
+   "rt_label_pl_birthCertificate": {
+      "message": "出生证明"
+   },
+   "rt_label_pl_contact": {
+      "message": "联系人"
+   },
+   "rt_label_pl_databaseCredentials": {
+      "message": "数据库"
+   },
+   "rt_label_pl_encryptedNotes": {
+      "message": "安全备注"
+   },
+   "rt_label_pl_file": {
+      "message": "文件"
+   },
+   "rt_label_pl_login": {
+      "message": "登录名"
+   },
+   "rt_label_pl_membership": {
+      "message": "会籍"
+   },
+   "rt_label_pl_passport": {
+      "message": "护照"
+   },
+   "rt_label_pl_photo": {
+      "message": "照片"
+   },
+   "rt_label_pl_serverCredentials": {
+      "message": "服务器"
+   },
+   "rt_label_pl_softwareLicense": {
+      "message": "软件许可"
+   },
+   "rt_label_pl_sshKeys": {
+      "message": "SSH 密钥"
+   },
+   "rt_label_pl_ssnCard": {
+      "message": "身份证"
+   },
+   "rt_label_serverCredentials": {
+      "message": "服务器"
+   },
+   "rt_label_softwareLicense": {
+      "message": "软件许可"
+   },
+   "rt_label_sshKeys": {
+      "message": "SSH 密钥"
+   },
+   "rt_label_ssnCard": {
+      "message": "身份证"
+   },
+   "rt_label_wifi_login": {
+      "message": "WiFi 登录"
+   },
+   "rule_contains": {
+      "message": "包含至少 XXX 个字符： YYY"
+   },
+   "rule_contains_range_digit": {
+      "message": "包含至少XXX 个数字"
+   },
+   "rule_contains_range_lowercase": {
+      "message": "包含至少 XXX 个小写字母"
+   },
+   "rule_contains_range_uppercase": {
+      "message": "包含至少 XXX 个大写字母"
+   },
+   "rule_size_min": {
+      "message": "至少 XXX 个字符"
+   },
+   "safari_ext_off": {
+      "message": "Safari 的 Keeper 扩展当前已关闭。您可以在 Safari 设置的扩展页面打开它。"
+   },
+   "safari_ext_on": {
+      "message": "Safari 的 Keeper 扩展当前已打开。您可以在 Safari 设置的扩展页面关闭它。"
+   },
+   "safari_ext_unknown": {
+      "message": "您可以在 Safari 设置的扩展页面打开 Safari 的 Keeper 扩展。"
+   },
+   "safari_upgrade_13": {
+      "message": "Safari 版 KeeperFill 仅在运行 Safari 13 和更高版本的 macOS High Sierra (10.13.6) 和更高版本上可用。"
+   },
+   "save_password_not_logged_in": {
+      "message": "您当前已退出 Keeper。请使用位于您浏览器上的 Keeper 锁进行登录。"
+   },
+   "save_password_prompt": {
+      "message": "是否要保存此密码？"
+   },
+   "save_password_setting_prompt": {
+      "message": "保存密码提示"
+   },
+   "save_password_setting_prompt_desc": {
+      "message": "使用新凭据登录网站后，系统会提示您创建新记录。"
+   },
+   "save_password_view": {
+      "message": "是否要将更改保存至保管库？不用担心，您可以随时使用“记录历史”界面恢复密码。"
+   },
+   "save_password_view2": {
+      "message": "是否要将更改保存至保管库？"
+   },
+   "save_prompt": {
+      "message": "保存提示"
+   },
+   "save_prompt2": {
+      "message": "询问是否保存密码"
+   },
+   "scanning_for_key": {
+      "message": "正在扫描安全密钥..."
+   },
+   "screen_capture": {
+      "message": "截屏"
+   },
+   "secret1_header": {
+      "message": "登录名"
+   },
+   "secret2_header": {
+      "message": "密码"
+   },
+   "secret_key": {
+      "message": "密钥"
+   },
+   "secured_note": {
+      "message": "安全备注"
+   },
+   "security_key_generic_error": {
+      "message": "您的安全密钥有点问题，请再试一次。"
+   },
+   "security_key_not_associated": {
+      "message": "若要使用此安全密钥登录，您必须先将其注册到您的帐户。"
+   },
+   "security_key_timeout": {
+      "message": "我们无法找到您的安全密钥，请再试一次。"
+   },
+   "security_two_factor_title": {
+      "message": "两步验证"
+   },
+   "security_twofactor_3": {
+      "message": "验证"
+   },
+   "see_data": {
+      "message": "查看将发送哪些数据。"
+   },
+   "select_an_issue": {
+      "message": "选择一个问题"
+   },
+   "send_keeper_push": {
+      "message": "发送 Keeper 推送"
+   },
+   "sending_pause": {
+      "message": "正在发送..."
+   },
+   "server_connection_timeout_try_later": {
+      "message": "服务器连接超时。请稍后再试一次。"
+   },
+   "set_as_primary_website": {
+      "message": "设为主网站"
+   },
+   "set_to_default": {
+      "message": "设置为默认值"
+   },
+   "set_up_biometric_login": {
+      "message": "设置生物识别登录"
+   },
+   "setup": {
+      "message": "设置"
+   },
+   "setup_record_url": {
+      "message": "输入网址"
+   },
+   "sf_records": {
+      "message": "记录"
+   },
+   "share_snapshot": {
+      "message": "共享快照"
+   },
+   "share_snapshot_desc": {
+      "message": "在确保快照中不含任何机密信息后，请使用“共享快照”按钮，将该信息发送至 Keeper 自动填充改进团队。"
+   },
+   "short_record_removed_ressage": {
+      "message": "这条记录将从您的保险库中删除。"
+   },
+   "short_shared_record_removed_message": {
+      "message": "这条记录将从共享文件夹中删除。这些共享文件夹的成员将无法再访问。"
+   },
+   "show_addresses": {
+      "message": "显示地址"
+   },
+   "show_all_passkeys": {
+      "message": "显示所有通行密钥"
+   },
+   "show_always": {
+      "message": "始终显示"
+   },
+   "show_idb_storage": {
+      "message": "显示 IDB 存储"
+   },
+   "show_less": {
+      "message": "显示更少"
+   },
+   "show_local_storage": {
+      "message": "显示本地存储"
+   },
+   "show_locks": {
+      "message": "始终显示锁"
+   },
+   "show_more": {
+      "message": "显示更多"
+   },
+   "show_on_hover": {
+      "message": "仅在悬停时显示"
+   },
+   "show_payment_cards": {
+      "message": "显示支付卡"
+   },
+   "show_snapshot_tool": {
+      "message": "显示快照工具"
+   },
+   "showhide": {
+      "message": "显示/隐藏"
+   },
+   "sidebar_shortcut_favorites": {
+      "message": "收藏夹"
+   },
+   "sign_in": {
+      "message": "登录"
+   },
+   "single_click_filling_no_iframe": {
+      "message": "出于安全原因，此站点（跨域 iFrame）不支持单击填充。 请联系 Keeper 支持团队以获取帮助。"
+   },
+   "slide_in": {
+      "message": "滑入"
+   },
+   "snapshot_shared": {
+      "message": "快照已共享"
+   },
+   "snapshot_tool": {
+      "message": "快照工具"
+   },
+   "snapshot_tool_disabled": {
+      "message": "快照工具已禁用"
+   },
+   "snapshot_tool_enabled": {
+      "message": "快照工具已启用"
+   },
+   "something_went_wrong": {
+      "message": "出错了"
+   },
+   "something_went_wrong_caps": {
+      "message": "出错了"
+   },
+   "sso_enterprise_domain": {
+      "message": "企业域名"
+   },
+   "state": {
+      "message": "州/省"
+   },
+   "state_province": {
+      "message": "州/省"
+   },
+   "stay_logged_in": {
+      "message": "保持登录"
+   },
+   "stay_logged_in_desc2": {
+      "message": "开启此功能可在关闭并重新打开 Keeper 或重启设备时保持登录状态。不包括手动退出或非活动退出计时器完成的退出。"
+   },
+   "stf_SSID": {
+      "message": "网络名称 (SSID)"
+   },
+   "stf_alternativeIPs": {
+      "message": "备用 IP"
+   },
+   "stf_cardholderName": {
+      "message": "持卡人姓名"
+   },
+   "stf_company": {
+      "message": "公司"
+   },
+   "stf_databaseId": {
+      "message": "数据库 ID"
+   },
+   "stf_dateActive": {
+      "message": "生效日期"
+   },
+   "stf_dateIssued": {
+      "message": "颁发日期"
+   },
+   "stf_directoryId": {
+      "message": "目录 ID"
+   },
+   "stf_dlNumber": {
+      "message": "驾照号码"
+   },
+   "stf_domainName": {
+      "message": "域名"
+   },
+   "stf_identificationNumber": {
+      "message": "身份证号码"
+   },
+   "stf_identityNumber": {
+      "message": "身份证号"
+   },
+   "stf_insuredsName": {
+      "message": "受保人姓名"
+   },
+   "stf_passphrase": {
+      "message": "密码短语"
+   },
+   "stf_passportNumber": {
+      "message": "护照号码"
+   },
+   "stf_ssnNumber": {
+      "message": "社会保障卡号"
+   },
+   "stf_type": {
+      "message": "类型"
+   },
+   "street_address_one": {
+      "message": "居住街道详细地址"
+   },
+   "street_address_two": {
+      "message": "区/县"
+   },
+   "submit_button": {
+      "message": "提交按钮"
+   },
+   "suggest_recs_count": {
+      "message": "XXX 个建议记录"
+   },
+   "sync_data": {
+      "message": "同步数据"
+   },
+   "take_a_screenshot": {
+      "message": "截屏"
+   },
+   "take_snapshot": {
+      "message": "截取快照"
+   },
+   "take_snapshot_desc": {
+      "message": "截取该网页的快照，与 Keeper 自动填充改进团队共享。"
+   },
+   "tap_to_fill": {
+      "message": "点按以填充"
+   },
+   "tell_us_what_went_wrong": {
+      "message": "请告诉我们哪里出了问题"
+   },
+   "terms": {
+      "message": "条款与条件"
+   },
+   "text_sent": {
+      "message": "短信已发送，请稍候。"
+   },
+   "time_ago_1_month": {
+      "message": "1 个月前"
+   },
+   "time_ago_1_week": {
+      "message": "1 周前"
+   },
+   "time_ago_1_year": {
+      "message": "1 年前"
+   },
+   "time_ago_months": {
+      "message": "XXX 个月前"
+   },
+   "time_ago_weeks": {
+      "message": "XXX 周前"
+   },
+   "time_ago_years": {
+      "message": "XXX 年前"
+   },
+   "title_address_title_placeholder": {
+      "message": "标题（例如家庭、工作）"
+   },
+   "title_header": {
+      "message": "标题"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "top_left": {
+      "message": "左上方"
+   },
+   "top_right": {
+      "message": "右上方"
+   },
+   "totp_code_does_not_autofill": {
+      "message": "TOTP 代码无法自动填充"
+   },
+   "tour_continue": {
+      "message": "继续"
+   },
+   "try_again": {
+      "message": "再试一次"
+   },
+   "try_another_method": {
+      "message": "尝试其他方法"
+   },
+   "tunnel_port": {
+      "message": "隧道端口"
+   },
+   "turn_off_verify_fill_mode": {
+      "message": "关闭验证填充模式"
+   },
+   "turn_on_anyway": {
+      "message": "仍然启用"
+   },
+   "turn_on_verify_fill_mode": {
+      "message": "打开验证填充模式"
+   },
+   "two_fac_req": {
+      "message": "两步验证要求"
+   },
+   "two_fact_rsa_success": {
+      "message": "认证成功"
+   },
+   "two_factor_channel_google": {
+      "message": "请输入您的 Authenticator 中所显示的验证代码。"
+   },
+   "two_factor_channel_push": {
+      "message": "请输入显示在您的DNA设备上的验证码。"
+   },
+   "two_factor_channel_rsa": {
+      "message": "请输入您的RSA密码。"
+   },
+   "two_factor_channel_sms": {
+      "message": "您的验证代码已通过短信发送。"
+   },
+   "two_factor_code": {
+      "message": "两步验证码"
+   },
+   "two_factor_code_duration": {
+      "message": "两步验证码有效时间"
+   },
+   "two_factor_frequency_explanation": {
+      "message": "选择提醒您使用两步验证方法登录此设备的频率。"
+   },
+   "two_factor_generic_code_prompt": {
+      "message": "输入两步验证方法的验证码。"
+   },
+   "two_factor_invalid_totp": {
+      "message": "所提供的两步验证码无效或已过期。"
+   },
+   "two_factor_method_title": {
+      "message": "两步验证码方法"
+   },
+   "two_factor_need_totp": {
+      "message": "请输入您的代码"
+   },
+   "two_factor_required": {
+      "message": "您的Keeper管理员要求您使用两步验证。"
+   },
+   "two_factor_send_new_code": {
+      "message": "发送一个新的代码"
+   },
+   "type_title": {
+      "message": "类型"
+   },
+   "u2f_login_instruction": {
+      "message": "请将您的安全密钥插入到 USB 端口。若您的安全密钥上有一个按钮或金色圆盘，请点按一下它。"
+   },
+   "unable_to_generate": {
+      "message": "无法生成"
+   },
+   "unable_to_save": {
+      "message": "无法保存"
+   },
+   "unexpected_error": {
+      "message": "发生了一个意外的错误。请重启您的设备，如果问题仍然存在，请访问 keepersecurity.com/support 获取帮助。"
+   },
+   "unexpected_error_with_code": {
+      "message": "发生了一个意外的错误。请重启您的设备，如果问题仍然存在，请访问 keepersecurity.com/support 获取帮助。（错误代码 XXX）。"
+   },
+   "update_existing_passkey": {
+      "message": "更新现有密钥"
+   },
+   "update_passkey": {
+      "message": "更新密钥"
+   },
+   "update_xxx": {
+      "message": "更新XXX"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "use_another_method": {
+      "message": "使用其他方法"
+   },
+   "use_as_default_settings": {
+      "message": "用作默认设置"
+   },
+   "use_backup_2fa": {
+      "message": "使用备用的两步验证方法"
+   },
+   "use_passkey": {
+      "message": "使用密钥"
+   },
+   "use_passphrase": {
+      "message": "使用密码短语"
+   },
+   "use_password": {
+      "message": "使用密码"
+   },
+   "use_pin_code": {
+      "message": "使用 PIN 码"
+   },
+   "use_two_factor_method": {
+      "message": "使用两步验证方法"
+   },
+   "username_and_password_do_not_autofill": {
+      "message": "用户名和密码未自动填充"
+   },
+   "username_does_not_autofill": {
+      "message": "用户名未自动填充"
+   },
+   "vault_login": {
+      "message": "保管库登录"
+   },
+   "verification_code": {
+      "message": "验证码"
+   },
+   "verification_code_text": {
+      "message": "验证码"
+   },
+   "verified_fill_mode_off": {
+      "message": "验证填充模式关闭"
+   },
+   "verified_fill_mode_on": {
+      "message": "验证填充模式开启"
+   },
+   "verify": {
+      "message": "校验"
+   },
+   "verify_fill_mode_warning": {
+      "message": "验证填充模式将在每次自动填充前提示您进行确认。这项额外保护可能会打断您的操作流，在常用网站上易产生干扰感。"
+   },
+   "view_all_methods": {
+      "message": "查看全部方法"
+   },
+   "view_contents": {
+      "message": "查看内容"
+   },
+   "view_gen_history": {
+      "message": "查看生成器历史记录"
+   },
+   "view_password": {
+      "message": "查看密码"
+   },
+   "view_password_restriction": {
+      "message": "您的 Keeper 管理员限制查看此密码"
+   },
+   "view_qr_code": {
+      "message": "查看二维码"
+   },
+   "view_record_in_vault": {
+      "message": "记录已保存。是否要进行查看？"
+   },
+   "waiting": {
+      "message": "请稍候..."
+   },
+   "warning_alert": {
+      "message": "警告"
+   },
+   "was_change_successful": {
+      "message": "此更改成功吗？"
+   },
+   "website_days": {
+      "message": "天"
+   },
+   "website_hours": {
+      "message": "小时"
+   },
+   "website_partners_64": {
+      "message": "国家/地区代码"
+   },
+   "website_success": {
+      "message": "成功！"
+   },
+   "website_support_22": {
+      "message": "Web 保管库"
+   },
+   "website_support_rev_02": {
+      "message": "需要帮助吗？"
+   },
+   "website_support_rev_32": {
+      "message": "两步验证码"
+   },
+   "word_count": {
+      "message": "XXX 个单词"
+   },
+   "xxx_numbers": {
+      "message": "XXX 个数字"
+   },
+   "year": {
+      "message": "年"
+   },
+   "yesterday": {
+      "message": "昨天"
+   },
+   "your_request_timed_out": {
+      "message": "您的请求已超时"
+   },
+   "zip_postal_code": {
+      "message": "邮编"
+   }
+}
