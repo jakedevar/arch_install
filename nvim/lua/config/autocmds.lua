@@ -6,3 +6,28 @@
 --
 -- Or remove existing autocmds by their group name (which is prefixed with `lazyvim_` for the defaults)
 -- e.g. vim.api.nvim_del_augroup_by_name("lazyvim_wrap_spell")
+function AutoSaveWhenLeavingInsert()
+  local group = vim.api.nvim_create_augroup("AutoSave", { clear = true })
+  vim.api.nvim_create_autocmd({ "InsertLeave" }, {
+    group = group,
+    callback = function()
+      if vim.bo.modified then
+        vim.cmd("write")
+      end
+    end,
+  })
+end
+
+AutoSaveWhenLeavingInsert()
+
+-- function FormatOnSave()
+--   local group = vim.api.nvim_create_augroup("formatOnSave", { clear = true })
+--   vim.api.nvim_create_autocmd({ "BufWritePre" }, {
+--     group = group,
+--     callback = function()
+--       vim.lsp.buf.format()
+--     end,
+--   })
+-- end
+--
+-- FormatOnSave()

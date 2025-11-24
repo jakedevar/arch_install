@@ -24,7 +24,12 @@ if status is-interactive
 
     alias lf='nvim ~/.config/fish/config.fish'
 
+    alias c="claude --dangerously-skip-permissions"
+
     xset r rate 200 40
+
+    export MCP_CONFIG_PATH="~/healthy_mind/config.json"
+    export KEEP_SERVER_OPEN="1"
 
     export GEMINI_API_KEY='AIzaSyA7TD0621_2_OM1tJLTp_MgFJn9djAi1WE'
     export EDITOR="nvim"
@@ -33,7 +38,17 @@ if status is-interactive
     alias lr="nvim README.md"
     alias g="gemini --yolo"
     alias gc="nvim ~/.config/ghostty/config"
-    alias sd="~/healthy_mind/web/serve.sh"
+    alias sd="cdh && ~/healthy_mind/web/serve.sh"
+
+    alias crt="cursor-rust-tools --no-ui"
+
+    alias dcu="sudo docker-compose up -d"
+    alias dcd="sudo docker-compose down"
+
+    alias dx="~/healthy_mind/nuke_db.sh"
+
+    alias csl="xrandr --output eDP-1 --auto --primary --output HDMI-1-0 --off"
+    alias csm="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --off"
 
     set -x GOPATH $HOME/go
     set -x PATH $PATH $GOPATH/bin
@@ -41,3 +56,4 @@ if status is-interactive
     set -x CGO_ENABLED 1
     fish_vi_key_bindings
 end
+export PATH="$HOME/.local/bin:$PATH"

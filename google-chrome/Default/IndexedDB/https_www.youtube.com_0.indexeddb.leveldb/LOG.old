@@ -1,0 +1,6 @@
+2025/11/24-08:19:07.173 50a Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/24-08:19:07.175 50a Recovering log #16
+2025/11/24-08:19:07.179 50a Reusing old log /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000016.log 
+2025/11/24-09:46:56.091 50b Level-0 table #21: started
+2025/11/24-09:46:56.103 50b Level-0 table #21: 1748369 bytes OK
+2025/11/24-09:46:56.106 50b Delete type=0 #16

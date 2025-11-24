@@ -1,2 +1,3 @@
-2025/11/20-18:56:48.765 6bb Creating DB /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb since it was missing.
-2025/11/20-18:56:48.769 6bb Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/21-15:07:33.721 514 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/21-15:07:33.722 514 Recovering log #3
+2025/11/21-15:07:33.722 514 Reusing old log /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/000003.log 
