@@ -1,3 +1,9 @@
-2025/11/22-20:53:10.057 67a Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/22-20:53:10.057 67a Recovering log #4
-2025/11/22-20:53:10.057 67a Reusing old log /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/11/24-20:53:54.275 802 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/24-20:53:54.276 802 Recovering log #4
+2025/11/24-20:53:54.278 802 Reusing old log /home/jakedevar/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/11/24-20:54:11.338 803 Level-0 table #8: started
+2025/11/24-20:54:11.355 803 Level-0 table #8: 3133556 bytes OK
+2025/11/24-20:54:11.357 803 Delete type=0 #4
+2025/11/24-20:54:11.676 803 Level-0 table #10: started
+2025/11/24-20:54:11.692 803 Level-0 table #10: 3230520 bytes OK
+2025/11/24-20:54:11.694 803 Delete type=0 #7

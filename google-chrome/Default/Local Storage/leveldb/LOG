@@ -1,3 +1,9 @@
-2025/11/24-09:48:58.168 5 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2025/11/24-09:48:58.171 5 Recovering log #76
-2025/11/24-09:48:58.171 5 Reusing old log /home/jakedevar/.config/google-chrome/Default/Local Storage/leveldb/000076.log 
+2025/11/24-20:39:00.020 5 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/24-20:39:00.029 5 Recovering log #81
+2025/11/24-20:39:00.031 5 Reusing old log /home/jakedevar/.config/google-chrome/Default/Local Storage/leveldb/000081.log 
+2025/11/24-21:08:47.842 7 Level-0 table #86: started
+2025/11/24-21:08:47.848 7 Level-0 table #86: 27678 bytes OK
+2025/11/24-21:08:47.850 7 Delete type=0 #81
+2025/11/24-21:17:47.842 7 Level-0 table #88: started
+2025/11/24-21:17:47.848 7 Level-0 table #88: 15715 bytes OK
+2025/11/24-21:17:47.851 7 Delete type=0 #85

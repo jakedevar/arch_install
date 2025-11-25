@@ -1,3 +1,21 @@
-2025/11/24-08:18:49.635 512 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/11/24-08:18:49.657 512 Recovering log #51
-2025/11/24-08:18:49.658 512 Reusing old log /home/jakedevar/.config/google-chrome/Default/Sync Data/LevelDB/000051.log 
+2025/11/24-09:48:58.162 4d90 Reusing MANIFEST /home/jakedevar/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/11/24-09:48:58.162 4d90 Recovering log #51
+2025/11/24-09:48:58.163 4d90 Reusing old log /home/jakedevar/.config/google-chrome/Default/Sync Data/LevelDB/000051.log 
+2025/11/24-09:48:58.310 4d9b Level-0 table #55: started
+2025/11/24-09:48:58.313 4d9b Level-0 table #55: 116383 bytes OK
+2025/11/24-09:48:58.316 4d9b Delete type=0 #51
+2025/11/24-09:48:58.316 4d9b Compacting 4@0 + 1@1 files
+2025/11/24-09:48:58.322 4d9b Generated table #56@0: 111 keys, 16619 bytes
+2025/11/24-09:48:58.323 4d9b Compacted 4@0 + 1@1 files => 16619 bytes
+2025/11/24-09:48:58.324 4d9b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/24-09:48:58.325 4d9b Delete type=2 #45
+2025/11/24-09:48:58.325 4d9b Delete type=2 #47
+2025/11/24-09:48:58.325 4d9b Delete type=2 #49
+2025/11/24-09:48:58.325 4d9b Delete type=2 #55
+2025/11/24-09:48:58.325 4d9b Delete type=2 #52
+2025/11/24-12:25:21.333 4d98 Level-0 table #58: started
+2025/11/24-12:25:21.338 4d98 Level-0 table #58: 115906 bytes OK
+2025/11/24-12:25:21.340 4d98 Delete type=0 #54
+2025/11/24-15:25:48.691 4d98 Level-0 table #60: started
+2025/11/24-15:25:48.697 4d98 Level-0 table #60: 127843 bytes OK
+2025/11/24-15:25:48.701 4d98 Delete type=0 #57

@@ -38,7 +38,7 @@ if status is-interactive
     alias lr="nvim README.md"
     alias g="gemini --yolo"
     alias gc="nvim ~/.config/ghostty/config"
-    alias sd="cdh && ~/healthy_mind/web/serve.sh"
+    alias sx="cdh && ~/healthy_mind/web/serve.sh"
 
     alias crt="cursor-rust-tools --no-ui"
 
@@ -49,6 +49,7 @@ if status is-interactive
 
     alias csl="xrandr --output eDP-1 --auto --primary --output HDMI-1-0 --off"
     alias csm="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --off"
+    alias csb="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --auto --secondary"
 
     set -x GOPATH $HOME/go
     set -x PATH $PATH $GOPATH/bin
