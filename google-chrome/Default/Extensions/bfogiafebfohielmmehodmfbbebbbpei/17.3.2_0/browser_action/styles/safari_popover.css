@@ -1,7 +1,0 @@
-body.safari {
-  background-color: #fff;
-  position: relative;
-}
-body.safari #container *:focus:not(.safari-focus-visible) {
-  outline: none !important;
-}

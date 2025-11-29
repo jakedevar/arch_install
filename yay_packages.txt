@@ -1,0 +1,6 @@
+google-chrome
+safeeyes
+spotify
+voxd-bin
+yay
+yay-debug

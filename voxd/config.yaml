@@ -1,0 +1,86 @@
+aipp_active_prompt: default
+aipp_enabled: false
+aipp_models:
+  anthropic:
+  - claude-3-opus-20240229
+  - claude-3-haiku
+  llamacpp_server:
+  - qwen2.5-3b-instruct-q4_k_m
+  ollama:
+  - llama3.2:latest
+  - mistral:latest
+  - gemma3:latest
+  - qwen2.5-coder:1.5b
+  openai:
+  - gpt-4o-mini-2024-07-18
+  xai:
+  - grok-3-latest
+aipp_prompts:
+  default: Rewrite the following input so that it is clean and concise. Do not add
+    any additional text or commentary. Just the rewritten text.
+  prompt1: Interpret the following text to the best of your ability as a C programming
+    language code and output it as such. Do not add any additional text or commentary.
+    Just the corresponding C code.
+  prompt2: Interpret the following text to the best of your ability as a Python programming
+    language code and output it as such. Do not add any additional text or commentary.
+    Just the corresponding Python code.
+  prompt3: Rewrite the following text as a three-verse poem.
+aipp_provider: llamacpp_server
+aipp_selected_models:
+  anthropic: claude-3-opus-20240229
+  llamacpp_server: qwen2.5-3b-instruct-q4_k_m
+  ollama: llama3.2:latest
+  openai: gpt-4o-mini-2024-07-18
+  xai: grok-3-latest
+append_trailing_space: true
+audio_clip_warn_threshold: 0.01
+audio_input_device: ''
+audio_peak_dbfs: -3.0
+audio_prefer_pulse: true
+audio_preproc_enabled: true
+autostart: true
+ctrl_v_paste: false
+flux_calibration_sec: 5
+flux_cooldown_ms: 250
+flux_end_threshold: 0.4
+flux_energy_abs_keep_db: -37.0
+flux_energy_abs_start_db: -33.0
+flux_energy_keep_margin_db: 3.0
+flux_energy_keep_p: 0.5
+flux_energy_start_margin_db: 6.0
+flux_energy_start_p: 0.55
+flux_energy_use_absolute: false
+flux_min_rms_dbfs: -45.0
+flux_min_segment_ms: 600
+flux_min_silence_ms: 500
+flux_min_speech_ms: 200
+flux_monitor_enabled: true
+flux_monitor_energy_window_s: 10
+flux_monitor_spectrum_floor_db: -85.0
+flux_noise_ema: 0.05
+flux_noise_spec_ema: 0.02
+flux_noise_subtract_enabled: true
+flux_post_roll_ms: 150
+flux_pre_roll_ms: 180
+flux_start_threshold: 0.6
+language: en
+llamacpp_cli_path: llama.cpp/build/bin/llama-cli
+llamacpp_default_model: /home/jakedevar/.local/share/voxd/llamacpp_models/qwen2.5-3b-instruct-q4_k_m.gguf
+llamacpp_server_path: /home/jakedevar/.local/share/voxd/bin/llama-server
+llamacpp_server_timeout: 30
+llamacpp_server_url: http://localhost:8080
+log_enabled: true
+log_location: ''
+mic_autoset_enabled: true
+mic_autoset_level: 0.45
+perf_accuracy_rating_collect: true
+perf_collect: false
+record_chunk_seconds: 300
+record_chunked: true
+save_recordings: false
+typing: true
+typing_delay: 1
+typing_start_delay: 0.15
+verbosity: false
+whisper_binary: /home/jakedevar/.local/share/voxd/bin/whisper-cli
+whisper_model_path: /home/jakedevar/.local/share/voxd/models/ggml-base.en.bin

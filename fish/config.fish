@@ -1,4 +1,6 @@
 if status is-interactive
+    fish_vi_key_bindings
+
     # Commands to run in interactive sessions can go here
     alias lg='lazygit'
     # alias slp='sudo systemctl suspend'
@@ -10,6 +12,10 @@ if status is-interactive
     alias cdh='cd ~/healthy_mind'
     alias cdw='cd ~/healthy_mind/web'
     alias cdc="cd ~/.config"
+    alias cdhl="cd ~/humanlayer/"
+
+    # startx
+    alias sx="startx"
 
     # alias for sudo pacman -S
     alias p='sudo pacman -S'
@@ -38,23 +44,27 @@ if status is-interactive
     alias lr="nvim README.md"
     alias g="gemini --yolo"
     alias gc="nvim ~/.config/ghostty/config"
-    alias sx="cdh && ~/healthy_mind/web/serve.sh"
+    alias sw="cdh && ~/healthy_mind/web/serve.sh"
 
     alias crt="cursor-rust-tools --no-ui"
 
     alias dcu="sudo docker-compose up -d"
     alias dcd="sudo docker-compose down"
 
-    alias dx="~/healthy_mind/nuke_db.sh"
+    alias xdb="~/healthy_mind/nuke_db.sh"
 
     alias csl="xrandr --output eDP-1 --auto --primary --output HDMI-1-0 --off"
     alias csm="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --off"
     alias csb="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --auto --secondary"
+    alias hl="/home/jakedevar/humanlayer/humanlayer-wui/src-tauri/target/release/humanlayer-wui &"
 
     set -x GOPATH $HOME/go
     set -x PATH $PATH $GOPATH/bin
     set -x GOBIN $GOPATH/bin
     set -x CGO_ENABLED 1
-    fish_vi_key_bindings
+    set -x PATH $PATH $HOME/.local/bin:$PATH
+
+    set --export BUN_INSTALL "$HOME/.bun"
+    set --export PATH $BUN_INSTALL/bin $PATH
+
 end
-export PATH="$HOME/.local/bin:$PATH"
