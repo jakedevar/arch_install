@@ -200,7 +200,7 @@ bindsym $mod+Shift+9 move container to workspace number $ws9
 # flameshot keybinds
 bindsym $mod+Shift+0 exec --no-startup-id flameshot gui
 # for claude code and gemini cli file paths
-bindsym $mod+Shift+- exec --no-startup-id sh /home/jakedevar/bin/flameshot_path_copy.sh
+bindsym $mod+Shift+- exec --no-startup-id /home/jakedevar/bin/flameshot_path_copy.sh
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -233,6 +233,12 @@ mode "resize" {
         bindsym Escape mode "default"
         bindsym $mod+r mode "default"
 }
+
+# quick resizing
+bindsym $mod+Control+h resize shrink width 10 px or 10 ppt
+bindsym $mod+Control+l resize grow width 10 px or 10 ppt
+bindsym $mod+Control+k resize shrink height 10 px or 10 ppt
+bindsym $mod+Control+j resize grow height 10 px or 10 ppt
 
 bindsym $mod+r mode "resize"
 
