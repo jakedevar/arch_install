@@ -53,10 +53,14 @@ if status is-interactive
 
     alias xdb="~/healthy_mind/nuke_db.sh"
 
+    # screens 
     alias csl="xrandr --output eDP-1 --auto --primary --output HDMI-1-0 --off"
     alias csm="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --off"
     alias csb="xrandr --output HDMI-1-0 --auto --primary --output eDP-1 --auto --secondary"
+
     alias hl="/home/jakedevar/humanlayer/humanlayer-wui/src-tauri/target/release/humanlayer-wui &"
+
+    alias rm="rm -f"
 
     set -x GOPATH $HOME/go
     set -x PATH $PATH $GOPATH/bin
